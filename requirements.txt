@@ -1,0 +1,11 @@
+pandas
+feedparser
+gunicorn
+psycopg2-binary
+sqlalchemy
+uvicorn
+asyncio
+aiohttp
+python-dotenv
+fastapi
+pytz
