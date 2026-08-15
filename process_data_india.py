@@ -1,17 +1,13 @@
 import os
-import sys
-import pandas as pd
-from sqlalchemy import create_engine
-from dotenv import load_dotenv
 import json
+import pandas as pd
 from datetime import datetime, timezone
 import pytz
-
-load_dotenv()
 
 def process_and_push_to_db(news_data):
     BASE_DIR = os.path.dirname(os.path.abspath(__file__))
     locations_path = os.path.join(BASE_DIR, "india_locations_cities.csv")
+    output_path = os.path.join(BASE_DIR, "data.json")
 
     if not os.path.exists(locations_path):
         print(f"❌ Error: Could not find '{locations_path}'.")
@@ -23,7 +19,6 @@ def process_and_push_to_db(news_data):
         print(f"❌ Error reading locations CSV: {e}")
         return
 
-    # ACCEPT DATA FROM RAM DIRECTLY
     articles = news_data.get('articles', [])
     print(f"Loaded {len(articles)} articles into memory. Processing...")
 
@@ -39,26 +34,21 @@ def process_and_push_to_db(news_data):
     def get_state_stats(row):
         state_name = str(row['State']).lower()
         valid_names = [state_name]
-        cities_str = str(row['cities']) 
+        cities_str = str(row['cities'])
         if cities_str and cities_str != "nan":
             city_list = [c.strip().lower() for c in cities_str.split(',')]
             valid_names.extend([c for c in city_list if c])
-            
+
         found_headlines = []
         for search_text, display_headline in processed_articles:
             for term in valid_names:
                 if f" {term} " in f" {search_text} ":
                     if display_headline not in found_headlines:
                         found_headlines.append(display_headline)
-                    break 
-        
+                    break
+
         count = len(found_headlines)
-        # hover_text = "<br>".join([f"➤ {h}" for h in found_headlines]) if count > 0 else "No active news."
-        if count > 0:
-            hover_text = json.dumps(found_headlines) 
-        else:
-            hover_text = json.dumps([])
-        return pd.Series([count, hover_text])
+        return pd.Series([count, found_headlines])
 
     print("Scanning headlines against States & Cities...")
     df_locations[['news_count', 'headlines']] = df_locations.apply(get_state_stats, axis=1)
@@ -68,19 +58,16 @@ def process_and_push_to_db(news_data):
 
     if "cities" in df_final.columns:
         df_final.drop("cities", axis=1, inplace=True)
-    
-    current_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
-    df_final['last_updated'] = pytz.utc.localize(datetime.strptime(current_time,'%Y-%m-%d %H:%M:%S')).astimezone(pytz.timezone("Asia/Kolkata")).strftime('%Y-%m-%d %I:%M:%S %p')
 
-    db_url = os.environ.get("DATABASE_URL")
-    if not db_url:
-        print("❌ CRITICAL: DATABASE_URL environment variable is missing.")
-        return
+    current_time = datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')
+    last_updated = pytz.utc.localize(datetime.strptime(current_time, '%Y-%m-%d %H:%M:%S')).astimezone(pytz.timezone("Asia/Kolkata")).strftime('%Y-%m-%d %I:%M:%S %p')
+    df_final['last_updated'] = last_updated
+
+    records = df_final.to_dict(orient='records')
 
     try:
-        print("Connecting to Neon Database...")
-        engine = create_engine(db_url)
-        df_final.to_sql("heatmap_data", engine, if_exists="replace", index=False)
-        print(f"✅ DONE. Successfully pushed {len(df_final)} active regions to Neon.")
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(records, f, ensure_ascii=False, indent=2)
+        print(f"✅ DONE. Wrote {len(records)} active regions to {output_path}")
     except Exception as e:
-        print(f"❌ Database Error: {e}")
+        print(f"❌ File Write Error: {e}")
