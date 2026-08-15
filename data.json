@@ -4,19 +4,46 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 96,
+    "news_count": 111,
     "headlines": [
       "30 Tests, 30 venues: Yashavi Jaiswal follows Sachin Tendulkar's footsteps",
-      "Google Doodle celebrates Independence Day 2026 with 22 diverse textiles",
+      "The ghost bus of West London: Phantom No 7 linked to 1934 fatal crash",
       "Antarctica once had a rainforest just 900 km from the South Pole",
       "MPD 2047 proposes high-density development along UER-II: What it means for Delhi",
       "‘Some people gain joy in keeping nation terrified’: PM on Covid, West Asia crisis",
-      "Delhi school cancels JNU professor's talk on pluralism at Independence Day event",
-      "'Begin discussions': South Korea's Lee Jae Myung calls for talks with North Korea",
+      "Spider-Man: Brand New Day Box Office Day 16 Holds Strong In India, Sets Global Record",
+      "Short On Attendance? BCI Allows Eligible Law Graduates To Enrol As Advocates",
+      "South Korea's Lee Calls For Peace Talks With North Korea",
       "In 2047, 'Vikshit Bharat' dreams will be realised through 'Viksit Bengal': Suvendu",
       "Security guard held for alleged terror plot targeting Pakistan Army, TTP links in Bengaluru",
       "Man from West Bengal with terror links held for planning attacks in India, Pakistan; He was upset over…",
       "From Shaheen Bagh to Palestine: Who is Zoya Hasan, the JNU professor whose Independence Day lecture was cancelled at a Delhi school",
+      "From Nepal to Latvia, global wishes pour in as India celebrates 80th Independence Day, hailing friendship, progress, shared future",
+      "Pakistan skipper Babar Azam suffers hand blow ahead of England Test series",
+      "Voltz Mobility Accelerates India's Green Mobility Revolution with Japanese Technology Collaboration",
+      "Chief Ministers across states hoist Tricolour as India celebrates 80th Independence Day",
+      "Traditional Teej delicacies you can recreate at home",
+      "Sachin, Rohit, Mithali, Kumble extend wishes on 80th Independence Day",
+      "India's internet economy set for sustained growth; E-commerce logistics, food delivery to see strong expansion: Morgan Stanley",
+      "PM Modi gives clarion call for 'Sapt Shakti' promoting atmanirbharta across sectors for being future-proof",
+      "\"Inspired by his vision\": PM Modi pays homage to Father of the Nation at Rajghat on 80th Independence Day",
+      "PM Modi extends Navroz greetings, praises Parsi community's contribution to nation",
+      "80th Independence Day: PM Modi announces nationwide sports talent hunt for 5-15 age group as India eyes 2036 Olympics",
+      "Govt cuts export levies on petrol, diesel, ATF; petrol duty scrapped",
+      "\"Handloom Haat will create greater market for weavers\": Union Minister Giriraj Singh",
+      "Breaking the Silence: First-of-Its-Kind Surgery in Eastern India Saves 55-Year-Old Woman with complex Endometrial Sarcoma",
+      "Early closure of RBI's FCNR window to have limited impact as inflows boost bank liquidity, ease funding costs: Report",
+      "India must lead in hypersonic, next-gen defence technologies: PM Modi names 'Defence' fifth 'Shakti' of 'Saptadhara' vision",
+      "\"India is unstoppable\": Global embassies and missions send heartfelt greetings on 80th Independence Day",
+      "From ashes to ambition: How partition survivors forged modern India's resilient core",
+      "\"Freedom not merely gift, but also responsibility\": Rahul Gandhi extends Independence Day wishes to citizens",
+      "As India celebrates 80th Independence Day, Singapore, Israel send warm wishes; celebrate deepening bonds, shared future",
+      "PM Modi urges MSMEs to leverage FTAs, take Indian products to global markets",
+      "PM Modi interacts with schoolchildren after Independence Day address at Red Fort",
+      "PM Modi unveils 'Shakti Ki Saptadhara', defines seven streams to power Viksit Bharat",
+      "PM Modi's big announcement on Independence Day: AI training for 1 crore youth, free online coaching for competitive exams",
+      "Anupam Kher extends Independence Day wishes, says \"India and I have grown up together\"",
+      "\"Hathiyari Naxals gone but need to be wary of 'Dimagi Naxals': PM Modi hails Naxal-free India on Independence Day",
       "WPI inflation to stay elevated in FY27 despite easing in July; CPI pass-through likely limited: Report",
       "\"33% reservation for women is call of the hour\": PM Modi urges parties to support women's reservation",
       "Foreign Envoys extend greetings to India on 80th Independence Day, celebrate ties, remarkable journey",
@@ -53,29 +80,13 @@
       "\"Long live India-Russia friendship\": Russian envoy extends greetings on 80th Independence Day",
       "PM Modi to lead 80th I-Day celebrations, address nation for 13th consecutive time from Red Fort",
       "80th Independence Day: Tricolour hoisted at Indian High Commission in Canberra under Suryapath Tiranga initiative",
-      "UGC-NET, CSIR-NET provisional answer keys to be released on August 16",
-      "Electronics Hardware Technology Park units increase to 79 in two years, exports cross over Rs 11,150 crore",
-      "IYC passes 'Nirmaan aur Pratirodh' resolution, adopts five-point political framework for youth's issues",
-      "Security tightened in Delhi, Gurugram after bomb threats ahead of 80th Independence Day celebrations",
-      "'Vande Mataram' to be rendered for first time during Independence Day celebrations at Red Fort",
-      "17th NCPEDP-Mphasis Universal Design Awards honour 14 accessibility champions",
-      "PM Internship Scheme helped youth gain skills, secure full-time jobs at big brands: Beneficiaries",
-      "National Symposium on Water in Delhi Calls for Collective Action to Secure India's Water Future",
-      "India's modern infrastructure expansion creating jobs, boosting investor confidence: President Murmu",
-      "\"No change\": India reaffirms Indus Waters stance, slams Pakistan after Sharif's \"red-line\"warning",
-      "Op Sindoor sent firm message to terrorists and their backers of consequences, Indus Waters Treaty suspension in country's interest: President Murmu",
-      "China-linked work-from-home task fraud syndicate busted in Delhi, four arrested",
-      "Globe Civil Projects Limited Announces Q1 FY27 Results",
-      "Beyond Beauty: How Subset's Dual Repair Formula Is Redefining Cellular Health and Healthy Aging",
-      "Prez Murmu stresses 'Viksit Bharat' goal by 2047, lauds youth and women empowerment in 80th Independence Day Eve address: Top Quotes",
-      "2026 Southwest monsoon: Amit Shah approves Rs 2,117.85 cr to support flood-affected states",
-      "\"Rahul Gandhi has no intention of insulting anyone\": Congress' Adhir Ranjan Chowdhury defends Lok Sabha LoP over recent remarks",
-      "Court grants 3-day transit remand of Virender Singh Basoya to NCB to produce him before Pune court",
-      "\"Lakhs of people had to endure horrors, yet did not give up their identity\": President Murmu pays tribute to Partition victims on Vibhajan Vibheeshika Smriti Divas",
+      "Delhi Police hoists Tricolour to mark 80th Independence Day",
+      "Iran war: USS George Washington to replace USS Abraham Lincoln amid crew welfare concerns",
       "Bengaluru Police Arrest West Bengal Man Over Alleged TTP Links, Afghanistan Travel Plan",
       "Independence Day 2026: 18 Life Convicts Released From Jabalpur Central Jail Under Remission Policy",
       "Meet Nupur Prasad, CBI officer who led Sushant Singh Rajput probe, awarded President’s medal, she is married to…, currently working as…",
       "Why CRPF suicides are at a five-year high",
+      "Magnitude 7.7 quake kills 38 on Indonesia’s Flores island",
       "Juniper Hotels to invest ₹850 cr to build luxury hotel in Delhi",
       "India’s exports diversify towards Asian, emerging markets in Q1",
       "Why Does My Street Flood After Just One Hour of Rain?",
@@ -90,42 +101,41 @@
       "Explained: Why a Mumbai Street Floods After Just One Hour of Heavy Rain",
       "Why a Child With 100°F Can Worry a Paediatrician More Than One With 102°F — as H1N1 Rises in Delhi",
       "The Better India’s Story of a 23-YO’s Terrace Forest Led to a Los Angeles Documentary Invite",
+      "Four trains to halt at hitech city railway station during Dasara",
+      "Telangana MLAs to study Philippines model for Gulf workers",
       "BJP workers hoist party flag instead of national flag on I-Day",
       "Palestinians trapped as Israeli settlers besiege West Bank village",
       "Independence Day 2026: 17 Delhi Police Personnel Named For Service Medals, Check Full List And Key Achievement",
       "Health Minister JP Nadda Admitted To AIIMS After Complaining Of Uneasiness",
+      "Independence Day 2026: AIMIM leader Waris Pathan refuses to sing Vande Mataram while hoisting tricolour in Mumbai",
+      "Independence Day 2026 | Everyone should pledge to protect the nation’s unity, integrity: RSS Sarkaryavah Dattatreya ji",
+      "Independence Day 2026 celebrated at RSS Delhi karyalaya; Dr Krishna Gopal says united Bharat can inspire the world",
+      "Independence Day 2026: India’s Space leap includes from carrying rockets on bicycles to building space stations",
+      "Bharat’s rising global stature wins worldwide goodwill, Pew Research Centre’s 2026 survey reveals",
       "Passenger stuck: एअर इंडिया की फ्लाइट में खराबी के कारण, बैंकॉक एयरपोर्ट पर 200 भारतीय यात्री 28 घंटे अटके , जिम्मेदार कौन",
-      "In 1968, two Soviet tortoises circled the Moon and returned alive, completing the journey three months before Apollo 8",
-      "30 Tests, 30 venues: Yashavi Jaiswal follows Sachin Tendulkar's footsteps with rare feat",
+      "The ghost bus of West London: The chilling story of the phantom No 7 that appeared without a driver and became linked to a fatal 1934 crash",
       "'Some people gain joy in keeping nation terrified': PM Modi on narrative during Covid, Middle East crisis",
       "Israeli Settlers Divert Palestinian Water To Fill West Bank Tourist Pool",
-      "US Envoy Calls West Bank Settler Siege 'Act Of Terror' As Israel Moves In",
-      "US State Leaders Extend Greetings On Eve Of India's 80th Independence Day",
-      "Will Indian Officials Attend Taliban's 'Victory Day' Event In Delhi? What Centre Said"
+      "US Envoy Calls West Bank Settler Siege 'Act Of Terror' As Israel Moves In"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 30,
+    "news_count": 28,
     "headlines": [
       "‘School thik karo’: Dipke’s 1st audit flags gaps in Hingoli school - watch",
       "Mumbai slum redevelopment: SRA targets 5.1 lakh rehabilitation homes by 2030",
-      "Burger King, Iconic Eatery In Pune's Camp Sealed Amid Maharashtra FDA Crackdown",
       "Maharashtra government to set a task force for drone policy implementation",
-      "NHRC issues notice after three girls die of snakebite at Gadchiroli residential school",
       "\"Pride of sacrifice is in our hearts\": Mohan Bhagwat hoists Tricolour at RSS headquarters on Independence Day",
-      "Maharashtra: Man accused of attacking Sukhbir Badal sent to police custody till Aug 24",
-      "Maharashtra: FDA inspects 86 online food establishments, suspends 14 licenses",
-      "2026 Southwest monsoon: Amit Shah approves Rs 2,117.85 cr to support flood-affected states",
-      "Fractal's Vaidya.ai Powers BMC Health AI Chatbot on WhatsApp for Mumbai",
-      "Court grants 3-day transit remand of Virender Singh Basoya to NCB to produce him before Pune court",
       "Maharashtra ATS Arrests Padgha Truck Driver For Sharing Videos Of Wanted Terrorists On Social Media",
+      "Emraan Hashmi hints at ‘Awarapan 3’ during Mumbai theatre visit with Disha Patani",
+      "Watch: Mumbai Mayor Ritu Tawde Opens Mayor’s Bungalow Premises For Morning Walkers On 80th Independence Day",
+      "Maharashtra FDA Moves To Push Healthy Food In School Canteens, Trains 300 Institutions On Nutrition",
       "‘Must Keep Love For Country In Our Hearts’: Mumbai Mayor Ritu Tawde Extends Wishes On 80th Independence Day - VIDEO",
-      "'Twirling Tri-Colours': Navi Mumbai Airport’s Independence Day Decor Wins Internet - VIDEO",
       "‘I will not sing Vande Mataram’: AIMIM leader Waris Pathan hoists Tricolour in Mumbai",
       "Saif Ali Khan stabbing case: Mumbai court frames charges against Shariful Fakir, trial set to begin",
       "Why Does My Street Flood After Just One Hour of Rain?",
@@ -137,13 +147,16 @@
       "Your Child Played in Dirty Rainwater & Got Fever Days Later? Mumbai Doctor Shares What to Do",
       "The Engineer Who Built His Dream | Navi Mumbai International Airport",
       "Mumbai Brothers’ Bike ‘Umbrella’ Helps 20000 Riders Reach Work Dry in the Monsoon",
-      "CJP to launch ‘School Thik Karo’ campaign for govt schools",
+      "Telangana man trapped in Saudi desert finally returns home",
       "Blinkit, Zepto, Instamart Face FDA Action In Maharashtra Over Cockroaches, Expired Food And Hygiene Issues",
-      "Hariharan attempts to understand Gen Z language and slang like 'slay', 'no cap' and 'GOAT' in fun video, netizens praise his efforts : 'I may have spent a little too much time, slowly getting there' - WATCH",
+      "Independence Day 2026: AIMIM leader Waris Pathan refuses to sing Vande Mataram while hoisting tricolour in Mumbai",
+      "Youth are Bharat’s demographic dividend, must be properly guided today to build responsible next generation: Dr Bhagwat",
+      "Independence Day 2026 | Everyone should pledge to protect the nation’s unity, integrity: RSS Sarkaryavah Dattatreya ji",
+      "Nagpur wants to recover Rs 1,279 crore in property-tax dues: Why the civic body's big collection drive matters to property owners",
       "Will Maharashtra Bureaucrat Tukaram Mundhe Enter Politics? What He Told NDTV",
       "Man Accused Of Attacking Sukhbir Badal Sent To Police Custody Till August 24"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "TG",
@@ -152,13 +165,18 @@
     "State": "Telangana",
     "news_count": 21,
     "headlines": [
-      "Blinkit Delivery Worker Killed After Fight With Colleague In Telangana",
       "Telangana govt is developing ‘Bharat Future City’ as country’s first net-zero smart city: CM Revanth",
       "Telangana Govt to credit fee reimbursement amounts in advance to avoid hardship to students: CM",
       "Notices to 43 medical shops in Telangana over sale of Mounjaro, Ozempic without prescription",
-      "Telangana CM Revanth Reddy boasts that Muslims are biggest beneficiaries of free electricity: Congress continues to justify appeasement as ‘secularism’",
-      "Rs 2,400 crore fee reimbursement to be deposited in advance from this academic year: Telangana CM Revanth Reddy",
+      "Hyderabad Drone Startup AkinAnalytics Launches Indigenous NIKA2 Kisan Medium Drone for Farmers",
+      "Telangana BJP leaders participate in Independence Day celebrations at the state headquarters in Hyderabad",
       "Investments, infrastructure development, job creation top priorities: Telangana CM Revanth Reddy",
+      "Hyderabad’s forgotten year between two independence days",
+      "Telangana man trapped in Saudi desert finally returns home",
+      "Hyderabad YouTuber arrested jail under POCSO Act",
+      "Bhatti launches smart ration cards in Khammam",
+      "Telangana MLAs to study Philippines model for Gulf workers",
+      "Awarapan 2 show in Hyderabad ends in an hour, audience furious",
       "Telangana HC dismisses BRS, BJP’s pleas on crop loss payouts",
       "Telangana bars pvt medical colleges from taking internship fee",
       "Telangana opposition parties mark Independence Day in Hyderabad",
@@ -166,50 +184,47 @@
       "Take a trip around the world and shop without leaving Hyderabad",
       "Telangana HC shields biodiversity body from Income Tax notice",
       "Owaisi seeks X-Ray machine at Osmania Hospital in Hyderabad",
-      "Two held for posing as reporters, extorting money in Kamareddy",
-      "DCA cracks down on weight loss drugs across Telangana",
-      "Photos: Hyderabad lit up in tricolour for Independence Day",
-      "HYC founder attempts suicide in Hyderabad over police harassment",
-      "Hyderabad assets of ex-AP minister attached in liquor case",
-      "Telangana HC disposes 88.56% of cases in a year, CJ calls for renewed commitment to constitutional ideals",
+      "Blinkit Delivery Worker Killed After Fight With Colleague In Telangana",
       "Telangana Inter Admissions 2026: Last Date Extended To August 31, Check Guidelines"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 13,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 16,
     "headlines": [
-      "'What kind of freedom is this?': Mahto stopped from attending Tiranga Yatra",
-      "Fasting student activist Mahto clashes with cops at Ranchi hospital, claims injury",
-      "Jharkhand job exam protesters take out 'Tiranga Yatra' in Ranchi; Devendra Mahta ‘not allowed’ to leave hospital",
-      "WebQoof Recap: Of Misinformation Around Jharkhand Protests, Deepfakes & More",
-      "Jharkhand: Will not put forth any demands today, says student leader Ravinder Paswan on 80th Independence Day",
-      "Jharkhand CID raids multiple locations in JPSC exam irregularities case",
-      "'Freedom From Corruption, Injustice': Jharkhand Job Aspirants Hold Tiranga Yatra On 80th I-Day Over Exam Irregularities | Video",
-      "Ranchi student protest: Watch Jharkhand’s ‘Sonam Wangchuk’ Devendra Mahto stopped from attending Tiranga Yatra",
-      "Shah agrees to reply on student protests, but the Opposition holds out for a second debate",
-      "This Independence Day, We're Celebrating a Different Kind of Hero",
-      "Jharkhand Police stops Devendra Mahto from joining Tiranga Rally",
-      "Rekha gives Pankaj Tripathi English lessons on stage at IFFM Melbourne, 'Mirzapur' actor jokes, 'Main Hindi medium ka chatra hu galat bol dunga'",
-      "'Transparent examination will be ensured': CM Hemant Soren to protesting Jharkhand students"
+      "Karnataka Rolls Out Rs 2,500 Monthly Job Incentive For Entrepreneurs",
+      "Karnataka targets one lakh new jobs, AI hubs, and a $3 trillion economy by 2047",
+      "Youth protests find echo in Minister’s I-Day speech in Shivamogga",
+      "B.Z. Zameer Ahmed Khan's patriotism unquestionable, says Karnataka Minister on refusal to hoist national flag",
+      "Tension in Hanur after three suspected poachers killed in shoot-out in Karnataka forest",
+      "Officer hoists national flag twice in Belagavi district due to glitch",
+      "Karnataka CM DK Shivakumar announces 'Vidyarthi Sahayahasta' scheme for rural students",
+      "Karnataka CM DK Shivakumar announces AI education from Class 6, India's first public AI university in Bengaluru",
+      "Karnataka Cabinet clears public property bill amid RSS registration row",
+      "Expelled BJP MLA Yatnal demands action against Karnataka Minister Zameer Ahmed over Independence Day flag row",
+      "Karnataka to reorganise Bengaluru police into five commissionerates, announces CM Shivakumar",
+      "'Anti-National' Row: BJP Slams Karnataka Minister Zameer Ahmed Khan After He Seeks Exemption From Vijayapura Tricolour Hoisting",
+      "Karnataka Gutka Ban Row Deepens As Health Minister U T Khader Refuses To Withdraw Order Despite CM Shivakumar’s Directive",
+      "He Restored 18 Lakes & Planted 1.5 Lakh Trees in Karnataka 🌱",
+      "3 suspected poachers killed in exchange of fire in Karnataka",
+      "DK Shivakumar hoists Tricolour for first time as Karnataka CM"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 13,
+    "news_count": 15,
     "headlines": [
-      "Why Chennai journalists went on a fast on Independence Day 25 years ago",
-      "Supreme Court stays Madras HC order striking down compassionate appointments for Karur stampede victims’ kin",
       "Chennai Open WTA event to be held from Nov 2-8",
       "Vijay's First I-Day Speech As Tamil Nadu CM: 'Real Freedom' Means Breaking Caste, Religious Barriers",
+      "30-second viral video: WATCH Chennai shopkeeper hires dancer to attract customers – potato, onion marketing goes viral on internet",
       "Gold Ring: CM Vijay’s new gift for newborns, Rs 755.83 crore project will be launched in Tamil Nadu by… – All you need to know",
       "Tamil Nadu Chief Minister Vijay vows corruption-free State, sets $1.5 trillion economy target by 2036",
       "Southern Railways’ Chennai division crosses ₹5,000 crore earnings milestone in FY26",
@@ -218,143 +233,173 @@
       "When Elephants Cross Railway Tracks, ‘Gajraj AI’ Alerts Drivers to Slow Trains in Time",
       "4 Chennai Engineers Are Helping 70000 Homes Save Water By Hunting Down Hidden Leaks",
       "Karur Stampede: SC Puts HC Order On Hold Over Vijay Govt’s Decision To Give Jobs To Victims’ Kin",
-      "SC Stays Order of Madras HC on Govt Jobs to Relatives of Karur Stampede Victims"
+      "SC Stays Order of Madras HC on Govt Jobs to Relatives of Karur Stampede Victims",
+      "Decolonising Bharat: From the mass movements that won Independence to the challenge of breaking colonial legacies",
+      "Independence Day 2026: India’s Space leap includes from carrying rockets on bicycles to building space stations",
+      "Chennai property tax shock and reversal: Why some homeowners were suddenly slapped with huge bills and what happens next"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 11,
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 14,
     "headlines": [
-      "B.Z. Zameer Ahmed Khan's patriotism unquestionable, says Karnataka Minister on refusal to hoist national flag",
-      "Tension in Hanur after three suspected poachers killed in shoot-out in Karnataka forest",
-      "Officer hoists national flag twice in Belagavi district due to glitch",
-      "Karnataka High Court flags growing expired food menace, calls for constant vigil",
-      "\"Zameer Ahmed showed disrespect by deciding not to hoist tricolour, CM should take action\": Karnataka LoP R Ashoka",
-      "Karnataka Cabinet clears public property bill amid RSS registration row",
-      "Karnataka Gutka Ban Row Deepens As Health Minister U T Khader Refuses To Withdraw Order Despite CM Shivakumar’s Directive",
-      "He Restored 18 Lakes & Planted 1.5 Lakh Trees in Karnataka 🌱",
-      "3 suspected poachers killed in exchange of fire in Karnataka",
-      "DK Shivakumar hoists Tricolour for first time as Karnataka CM",
-      "Two interstate thieves from Irani gang arrested in Karnataka"
+      "'What kind of freedom is this?': Mahto stopped from attending Tiranga Yatra",
+      "Video: Jharkhand Protest Leader Stopped From Joining Tiranga Yatra By Cops",
+      "Fasting student activist Mahto clashes with cops at Ranchi hospital, claims injury",
+      "Jharkhand job exam protesters take out 'Tiranga Yatra' in Ranchi; Devendra Mahto ‘not allowed’ to leave hospital",
+      "WebQoof Recap: Of Misinformation Around Jharkhand Protests, Deepfakes & More",
+      "Jharkhand: On hunger-strike, Devendra Mahto stopped from attending Tiranga Yatra in Ranchi",
+      "Jharkhand: Will not put forth any demands today, says student leader Ravinder Paswan on 80th Independence Day",
+      "Jharkhand CID raids multiple locations in JPSC exam irregularities case",
+      "Ranchi students protest: Watch Jharkhand’s ‘Sonam Wangchuk’ Devendra Mahto stopped from attending Tiranga Yatra",
+      "Shah agrees to reply on student protests, but the Opposition holds out for a second debate",
+      "This Independence Day, We're Celebrating a Different Kind of Hero",
+      "Jharkhand Police stops Devendra Mahto from joining Tiranga Rally",
+      "'Transparent examination will be ensured': CM Hemant Soren to protesting Jharkhand students",
+      "Video: Drama At Hospital As Jharkhand Protest Leader Stopped From Joining Tiranga Yatra"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 11,
-    "headlines": [
-      "Uttarakhand tunnel tragedy toll at 8 as one more body recovered, aid announced",
-      "After Gen-Z, its Gen Alpha's turn to seek accountability: Kejriwal",
-      "Economist vs Economist: The British media house opposes UCC and backs Muslim Personal Law in India, while defending secular law in the UK",
-      "Uttarakhand CM Pushkar Singh Dhami hoists Tricolour at residence on 80th Independence Day",
-      "\"Resolve to build self-reliant India\": Uttarakhand CM Dhami extends 80th Independence Day greetings",
-      "U'khand CM Dhami meets family of Army soldier Amit Kumar Anathwal; assures unwavering support to bravehearts' kin",
-      "Uttarakhand: Race against time to find 3 missing in Chamoli tunnel tragedy",
-      "From Dehradun to Bollywood | Archana Puran Singh’s Journey",
-      "Uttarakhand Woman Builds ‘Gaadi Ghar’ With Mud, Old Car Doors & Real Grass on the Roof",
-      "No Engineering Degree, Yet He Built a Flying Car !",
-      "Chamoli: 7 Killed, 14 Injured After Landslide, Water Seepage In Tunnel"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 10,
-    "headlines": [
-      "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram",
-      "In Independence Day speech, Kerala CM warns against communalism, calls for open-minded democracy",
-      "Freedom means living without fear and with dignity, says Kerala Minister Bindhu Krishna in Independence Day address",
-      "Kerala govt announces bonus, festival allowance for employees ahead of Onam",
-      "Ahead of Onam, Kerala Police seize 3,030 litres of illicit spirit in Thrissur",
-      "When a Kerala Facebook collective brought Rajinikanth’s iconic Baashha roaring back in a throwback to analogue cinema",
-      "Kerala Vigilance arrests Assistant Labour Officer in Kottayam for accepting bribe",
-      "Women unite in Kerala’s Thiruvananthapuram for ‘Resurge’ celebrating safety and empowerment in public spaces",
-      "Our MPs Spent 33 of 120 Allotted Hours Debating In Parliament. Here's What Changed This August",
-      "How Alappuzha’s Residents Cut Mosquito Breeding By 87%"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "WB",
     "Lat": 22.9868,
     "Long": 87.855,
     "State": "West Bengal",
-    "news_count": 9,
+    "news_count": 12,
     "headlines": [
       "In 2047, 'Vikshit Bharat' dreams will be realised through 'Viksit Bengal': Suvendu",
       "Mahua Moitra alleges she was asked to vacate Circuit House late at night",
       "Security guard held for alleged terror plot targeting Pakistan Army, TTP links in Bengaluru",
       "Man from West Bengal with terror links held for planning attacks in India, Pakistan; He was upset over…",
+      "Breaking the Silence: First-of-Its-Kind Surgery in Eastern India Saves 55-Year-Old Woman with complex Endometrial Sarcoma",
+      "\"Everyone should pledge to protect nation's unity, integrity, security\": RSS Gen Secretary Dattatreya Hosabale marks Independence Day",
       "After 'bullets and eggs' SC remark, Mahua claims midnight eviction in Nadia",
       "Bengaluru Police Arrest West Bengal Man Over Alleged TTP Links, Afghanistan Travel Plan",
       "BJP workers hoist party flag instead of national flag on I-Day",
+      "Independence Day 2026 | Everyone should pledge to protect the nation’s unity, integrity: RSS Sarkaryavah Dattatreya ji",
       "TMC MP Mahua Moitra claims Nadia administration ordered her to vacate circuit house",
       "Minister Agnimitra Paul, celebrities take part in women's ‘Freedom Beyond Midnight’ march in Kolkata"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 12,
+    "headlines": [
+      "Death Count In Uttarakhand Tunnel Collapse Rises To 8, Search On For 2 Others",
+      "Uttarakhand tunnel tragedy toll at 8 as one more body recovered, aid announced",
+      "After Gen-Z, its Gen Alpha's turn to seek accountability: Kejriwal",
+      "Economist vs Economist: The British media house opposes UCC and backs Muslim Personal Law in India, while defending secular law in the UK",
+      "\"Safety must be our top priority\": Uttarakhand CM Dhami on Pipalkoti tunnel accident; rescue ops on for 3 missing workers",
+      "Uttarakhand CM Pushkar Singh Dhami hoists Tricolour at residence on 80th Independence Day",
+      "\"Resolve to build self-reliant India\": Uttarakhand CM Dhami extends 80th Independence Day greetings",
+      "Uttarakhand DGP Deepam Seth hoists national flag at police headquarters on Independence Day",
+      "Uttarakhand: Race against time to find 3 missing in Chamoli tunnel tragedy",
+      "From Dehradun to Bollywood | Archana Puran Singh’s Journey",
+      "Uttarakhand Woman Builds ‘Gaadi Ghar’ With Mud, Old Car Doors & Real Grass on the Roof",
+      "No Engineering Degree, Yet He Built a Flying Car !"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 9,
+    "news_count": 10,
     "headlines": [
+      "Working on comprehensive rehab plan for flood-hit families: Assam CM",
       "Avoid blame game on Assam floods, says Nagaland coal miners’ body",
       "The forgotten Northeast of Partition: How Sylhet, Chittagong and the Radcliffe Line changed Assam forever",
-      "Assam: Missing BJP leader found dead in Sribhumi; accused injured in police encounter, apprehended",
       "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
+      "Assam announces 30-day crackdown on child marriage from November 1",
       "Assam to invest ₹1.5 lakh crore in infrastructure in 5 years: Himanta",
       "Everyone’s Debating Kaziranga’s 10-Km Zone. A Rhino Doesn’t Know Where the Park Ends",
       "22-YO Creator Uses His Content Earnings to Help 1000 Families in Flood-Hit Assam",
       "When Elephants Cross Railway Tracks, ‘Gajraj AI’ Alerts Drivers to Slow Trains in Time",
       "How Kaziranga Went From 27 Rhino Poachings to ZERO 🦏"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 7,
+    "news_count": 10,
     "headlines": [
+      "No Body, No DNA Match: Gujarat Cop Live-In Partner's Murder",
+      "Chief Ministers across states hoist Tricolour as India celebrates 80th Independence Day",
       "J-K: Ahmedabad tourist paints body in tricolour, celebrates Independence Day at Srinagar's Lal Chowk",
       "Greater participation of women in law-making will strengthen their contribution to country: Gujarat CM",
       "Gujarat CM Bhupendra Patel calls for collective efforts to build 'Viksit Gujarat for Viksit Bharat'",
       "This Independence Day, We're Celebrating a Different Kind of Hero",
       "Meet the 24-YO Singer Who Created ‘G-Pop’ to Take Gujarati Music Beyond Garba Nights",
       "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals",
+      "Why Ahmedabad’s Bopal-Ghuma continues to flood: The drainage issue behind a waterlogging crisis in a city that is growing",
       "Ahmedabad Cyber Police Bust Online Stalkers Targeting Women; 8 Arrested"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 8,
+    "headlines": [
+      "Freedom means living without fear and with dignity, says Kerala Minister Bindhu Krishna in Independence Day address",
+      "Independence Day 2026: Akshay Kumar, Ram Charan, and others from film fraternity celebrate India's spirit",
+      "Jagan Mohan Reddy calls for renewed commitment to democratic principles on Independence Day",
+      "Navy chief begins four-day Mauritius visit to boost maritime cooperation",
+      "Why a Child With 100°F Can Worry a Paediatrician More Than One With 102°F — as H1N1 Rises in Delhi",
+      "Independence Day 2026 | Everyone should pledge to protect the nation’s unity, integrity: RSS Sarkaryavah Dattatreya ji",
+      "Independence Day 2026 celebrated at RSS Delhi karyalaya; Dr Krishna Gopal says united Bharat can inspire the world",
+      "Andhra Pradesh Police Sub-Inspector Scales Mount Elbrus, Unfurls 100-Metre Tricolour"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 8,
+    "headlines": [
+      "Kerala announces Rs 4,500 Onam bonus, allowances for govt employees",
+      "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram",
+      "In Independence Day speech, Kerala CM warns against communalism, calls for open-minded democracy",
+      "Freedom means living without fear and with dignity, says Kerala Minister Bindhu Krishna in Independence Day address",
+      "Kerala govt announces bonus, festival allowance for employees ahead of Onam",
+      "Ahead of Onam, Kerala Police seize 3,030 litres of illicit spirit in Thrissur",
+      "Our MPs Spent 33 of 120 Allotted Hours Debating In Parliament. Here's What Changed This August",
+      "How Alappuzha’s Residents Cut Mosquito Breeding By 87%"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 7,
     "headlines": [
-      "Maharashtra: Man accused of attacking Sukhbir Badal sent to police custody till Aug 24",
-      "Naveen Jindal Unfurls 108-Foot Monumental Flags at Mohali and Kurukshetra, Calls on Youth to Put Nation First",
-      "Court grants 3-day transit remand of Virender Singh Basoya to NCB to produce him before Pune court",
-      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
-      "Watch | Goosebumps At Attari Border As Grand Beating Retreat Ceremony Sets The Stage For I-Day",
-      "India’s tallest 418-ft flag towers over the India-Pakistan border, telling the story of 80 years of Independence; why travellers should visit Attari in Punjab",
-      "Jailed Extremist's Video Surfaces Ahead Of 'Bandi Sikh' March In Chandigarh"
+      "PoK would be protesting to join J&amp;K if Article 370 hadn't been revoked: CM Abdullah",
+      "Committed to goal of J&K’s State restoration, its constitutional guarantees: Omar",
+      "J-K: Security heightened across Kashmir on Independence Day to maintain strong vigil for peaceful celebrations",
+      "Independence Day: Security tightened across Delhi, Haryana, J-K",
+      "Poonch District Court hoists flag, honours staff on Independence Day",
+      "Rajouri district marks 80th Independence Day with celebrations",
+      "PoK would be protesting today to join J&amp;K if Article 370 hadn't been revoked: Omar Abdullah"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "RJ",
@@ -370,154 +415,148 @@
       "Rajasthan: Alwar School Roof Collapse Sparks Gen Alpha Protest, Students Demand Teachers And Safe Buildings",
       "Rajasthan Boy Murders Grandfather Over Fight, Searched Methods To Kill Online"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "Freedom means living without fear and with dignity, says Kerala Minister Bindhu Krishna in Independence Day address",
-      "Jagan Mohan Reddy calls for renewed commitment to democratic principles on Independence Day",
-      "Navy chief begins four-day Mauritius visit to boost maritime cooperation",
-      "Why a Child With 100°F Can Worry a Paediatrician More Than One With 102°F — as H1N1 Rises in Delhi",
-      "Hyderabad assets of ex-AP minister attached in liquor case",
-      "Andhra Pradesh Police Sub-Inspector Scales Mount Elbrus, Unfurls 100-Metre Tricolour"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 5,
-    "headlines": [
-      "Independence Day: Security tightened across Delhi, Haryana, J-K",
-      "Security tightened in Delhi, Gurugram after bomb threats ahead of 80th Independence Day celebrations",
-      "Naveen Jindal Unfurls 108-Foot Monumental Flags at Mohali and Kurukshetra, Calls on Youth to Put Nation First",
-      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
-      "Jailed Extremist's Video Surfaces Ahead Of 'Bandi Sikh' March In Chandigarh"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
-    "headlines": [
-      "Bihar witnesses decline in number of major criminal cases of murder, dacoity, riots",
-      "\"Rahul Gandhi's conduct as Lok Sabha LoP shames democratic discourse\": Bihar CM seeks apology from Congress leader over remarks on PM Modi",
-      "What the Law Promises a Government School Student in India",
-      "4 Die After Inhaling Toxic Gas Inside Well In Bihar"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 4,
-    "headlines": [
-      "Committed to goal of J&K’s State restoration, its constitutional guarantees: Omar",
-      "Independence Day: Security tightened across Delhi, Haryana, J-K",
-      "Kashmiri diaspora protests outside Pakistani Consulate in Bradford, demand withdrawal of forces from PoJK",
-      "J&K: Union Minister Jitendra Singh leads Tiranga Rally in Kathua on eve of Independence Day"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 4,
-    "headlines": [
-      "'Begin discussions': South Korea's Lee Jae Myung calls for talks with North Korea",
-      "Chhattisgarh: Tricolour hoisted at erstwhile Naxal stronghold Karreguttalu Hills for first time since Independence",
-      "\"It was a moment of pride\": Chhattisgarh Minister Gajendra Yadav on surrendered women Naxals ramp walk on National Handlooms Day",
-      "BJP workers hoist party flag instead of national flag on I-Day"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 3,
-    "headlines": [
-      "Naveen Jindal Unfurls 108-Foot Monumental Flags at Mohali and Kurukshetra, Calls on Youth to Put Nation First",
-      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
-      "Jailed Extremist's Video Surfaces Ahead Of 'Bandi Sikh' March In Chandigarh"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
-      "Independence Day 2026: 18 Life Convicts Released From Jabalpur Central Jail Under Remission Policy",
-      "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Shimla Police intensifies anti-drug drive, registers 2000 NDPS cases and arrests 440 people",
-      "Himachal CM Sukhu announces Science College, AIIMS-Level Ayurvedic Institute in Hamirpur",
-      "In A First, India Post Delivers National Flag By Drone In Himachal Pradesh"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 2,
+    "news_count": 6,
     "headlines": [
+      "Traditional Teej delicacies you can recreate at home",
+      "Tricolour hoisted at Shri Ram Janmabhoomi police station in Ayodhya on Independence Day",
+      "\"All 140 crore people must contribute equally...\": Yogi Adityanth urges citizens to fulfill duties toward nation on 80th Independence Day",
       "₹40 Lakh Stolen Daily | IPS Kiran Yadav's Cybercrime Crackdown 🚨",
-      "One Woman Got 900 Villages to Honour Newborn Girls at Panchayat Halls"
+      "One Woman Got 900 Villages to Honour Newborn Girls at Panchayat Halls",
+      "Decolonising Bharat: From the mass movements that won Independence to the challenge of breaking colonial legacies"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 4,
     "headlines": [
-      "External forces behind Gen-Z protest, Odisha CM Mohan Majhi",
-      "Odisha: Sudarsan Pattnaik creates \"Happy Independence Day, unity in diversity\" sand art at Puri beach on 80th Independence Day"
+      "MP: Mohan Yadav hoists Tricolour at CM House in Bhopal on Independence Day",
+      "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
+      "Independence Day 2026: 18 Life Convicts Released From Jabalpur Central Jail Under Remission Policy",
+      "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "AR",
     "Lat": 28.218,
     "Long": 94.7278,
     "State": "Arunachal Pradesh",
-    "news_count": 1,
+    "news_count": 3,
     "headlines": [
+      "Five killed in Arunachal landslide, road mishap, 3 missing",
+      "The Monpa Buddhists of Arunachal Pradesh cut their dead into 108 pieces before a water burial:  The profound buddhist belief behind this ancient ritual",
       "Arunachal Pradesh flash floods: Four killed, five Army personnel missing after landslide"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bihar witnesses decline in number of major criminal cases of murder, dacoity, riots",
+      "What the Law Promises a Government School Student in India",
+      "4 Die After Inhaling Toxic Gas Inside Well In Bihar"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 3,
+    "headlines": [
+      "South Korea's Lee Calls For Peace Talks With North Korea",
+      "Chhattisgarh marks first Independence Day after Maoist-free status",
+      "BJP workers hoist party flag instead of national flag on I-Day"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
+      "Watch | Goosebumps At Attari Border As Grand Beating Retreat Ceremony Sets The Stage For I-Day",
+      "Decolonising Bharat: From the mass movements that won Independence to the challenge of breaking colonial legacies"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "External forces behind Gen-Z protest, Odisha CM Mohan Majhi",
+      "Odisha: Sudarsan Pattnaik creates \"Happy Independence Day, unity in diversity\" sand art at Puri beach on 80th Independence Day",
+      "Odisha government expands free education support; Classes 9, 10 students to get textbooks and mid-day meals"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "Independence Day: Security tightened across Delhi, Haryana, J-K",
+      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Operation Safed Sagar review: an honest, moving portrait of the IAF’s Kargil war",
+      "Nana Patekar recalls Kargil War experience after George Fernandes granted special permission, referencing his 'Prahaar' training: ‘I was 76 kg, came back at 56 kg’"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "Goa CM Pramod Sawant hoists Tricolour at official residence on 80th Independence Day"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 1,
+    "headlines": [
+      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh"
+    ],
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "NL",
@@ -528,7 +567,7 @@
     "headlines": [
       "Avoid blame game on Assam floods, says Nagaland coal miners’ body"
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   },
   {
     "Code": "TR",
@@ -539,17 +578,6 @@
     "headlines": [
       "CM Manik Saha hoists Tricolour in Tripura; hails PM Modi's \"Har Ghar Tiranga\" for creating wave of \"patriotism\""
     ],
-    "last_updated": "2026-08-15 02:30:13 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Operation Safed Sagar review: an honest, moving portrait of the IAF’s Kargil war"
-    ],
-    "last_updated": "2026-08-15 02:30:13 PM"
+    "last_updated": "2026-08-15 03:22:57 PM"
   }
 ]
