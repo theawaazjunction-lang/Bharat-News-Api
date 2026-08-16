@@ -4,17 +4,35 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 88,
+    "news_count": 90,
     "headlines": [
+      "PMAY-U 2.0: Kerala's 30,000 beneficiaries may get Rs 4 lakh housing assistance",
       "Former Bengal deputy speaker Asish Banerjee found hanging at TMC office",
       "‘Always proud’: Kim Jong Un hails Russia ties in message to Putin",
-      "Asish Banerjee, Former Bengal Deputy Speaker, Found Dead At Trinamool Office",
-      "Kim Jong Un Says He's \"Proud\" Of North Korea-Russia Ties In Letter To Putin",
+      "'We Get Along Great': Trump Shares 'Unfriendly' Photo With Kim Jong Un",
+      "What do the latest White House allegations mean for India? | Explained",
+      "West Bengal STF arrests three in Coochbehar over suspected Pakistan-ISI links",
       "Patriotic celebrations marked the 80th Independence Day in South Coastal Andhra",
       "Moon Base | India’s lunar future",
-      "CM Suvendu promises to restore old glory of West Bengal in his maiden Independence Day speech",
-      "Avenues of professional reward opening up for artistes from tribal communities in Kerala",
+      "Chinese Manjha Menace: Delhi man’s throat slit, third such incident in 10 days",
       "From Shaheen Bagh to Palestine: Who is Zoya Hasan, the JNU professor whose Independence Day lecture was cancelled at a Delhi school",
+      "\"Atal Ji made good governance fundamental mantra of politics\": BJP President Nitin Nabin pays tribute on death anniversary",
+      "\"India deeply values its friendship with Israel\": PM Modi thanks Israeli President for Independence Day wishes",
+      "\"You saw how uncomfortable Sonia Gandhi, Mallikarjun Kharge became\": BJP's Manoj Tiwari over alleged disrespect to 'Vande Mataram'",
+      "Arvind Kejriwal pays tribute to former PM Atal Bihari Vajpayee on his 8th death anniversary",
+      "Former hockey captain Sardar Singh pays tribute to Atal Bihari Vajpayee on his death anniversary",
+      "414 protected monuments and areas witnessed encroachments; government says appropriate action taken in such cases",
+      "\"Statesman, poet and visionary\": VP Radhakrishnan remembers Atal Bihari Vajpayee's extraordinary contribution to nation on his death anniversary",
+      "\"Fiery parliamentarian, powerful orator, accomplished journalist, sensitive poet:\" Om Birla pays homage to Atal Bihari Vajpayee on his death anniversary",
+      "Rajnath Singh pays floral tributes to Atal Bihari Vajpayee at 'Sadaiv Atal' on death anniversary",
+      "India has around 440 space technology startups",
+      "PM Modi pays floral tribute to Atal Bihari Vajpayee at 'Sadaiv Atal' on death anniversary",
+      "\"Proud to be Dimagi Naxal\": P Chidambaram hits back at PM Modi's Red Fort remark",
+      "President Murmu pays tribute to Atal Bihari Vajpayee on death anniversary at \"Sadaiv Atal\"",
+      "Special I-Day edition of Fit India Sundays on Cycle held at JLN Stadium",
+      "\"Extraordinary statesman blessed with remarkable vision\": PM Modi pays tribute to Atal Bihari Vajpayee on his death anniversary",
+      "AI could cut doctors' paperwork burden as global health worker shortage looms: Report",
+      "DPL: Tejasvi Dahiya smashes 60 in 29 balls as South Delhi Superstarz beat New Delhi Tigers",
       "\"Mindless Naxalite Congress\": BJP's Pradeep Bhandari slams Oppn party over Vande Mataram recital row",
       "\"Utter disrespect\": Sudhanshu Trivedi alleges Congress leaders \"casually talking\" during Vande Mataram recital at party office",
       "\"Never imagined I would meet President Murmu, PM Modi\": Para-cricketer Aamir Hussain Lone on attending 'At Home' reception",
@@ -42,31 +60,16 @@
       "Echoes of freedom: From nostalgic laddoos to podcasts, how schools celebrate Independence today",
       "Delhi Police HQ hoists Tricolour on 80th Independence Day",
       "\"There is no controversy\": Ashok Gehlot on Vande Mataram row at Independence Day celebrations",
-      "Kejriwal takes aim at PM Modi's I-Day speech, calls him \"under-confident, nervous and shaky\"",
-      "\"India doesn't stand anywhere...\": Akhilesh Yadav challenges Govt's economic claims on 80th Independence Day",
-      "\"May Tricolour inspire us to serve Bharat with commitment\": Vice President extends greetings on I-Day",
-      "CBDT's foreign asset disclosure scheme opens August 16, deadline December 31",
-      "UKPNP establishes US national chapter at Texas convention, calls for probe into alleged rights violations in PoJK",
-      "Bhutan PM extends I-Day greetings to 'elder brother' PM Modi; FMs of Australia, Singapore, Nepal, Sri Lanka also send wishes",
-      "India's semiconductor, manufacturing push to drive global value-chain ambitions: Industry leaders",
-      "5-8 more semiconductor plants likely to begin operations in next 7-8 years: PM Modi",
-      "\"Delhi will play greater role in India's journey towards Viksit Bharat\": CM Rekha Gupta on Independence Day",
-      "\"Once again used 'Naxalism' to deceive people...\": Congress Leader Manoj Pande hits at PM Modi over Red Fort remarks",
-      "Talent gaps put India GCC mandates at risk as firms weigh competing geographies: PwC India-FICCI study",
-      "MEA Secy Sripriya Ranganathan to embark on six-day visit to Egypt, Palestine and Lebanon",
       "Delhi SIR: 30% Voters At Risk Of Missing Draft Roll? Check What You Must Do By August 17",
+      "Farmers’ Delhi March Begins Today: Haryana-Punjab Khanauri Border Sealed Ahead Of 228-Km Protest",
       "Former West Bengal Assembly Deputy Speaker Found Dead At TMC Office",
       "Delhi Weather: Rain, Thunderstorms Likely Today; IMD Forecasts More Showers Over Next 7 Days",
       "Asish Banerjee found dead in Rampurhat, Mamata Banerjee aide’s death shocks TMC",
-      "Former West Bengal MLA Asish Banerjee found dead in TMC office",
-      "BJP leaders accuse Congress of disrespecting Vande Mataram in Delhi",
-      "West Bengal Shocker: Former Bengal Deputy Speaker Asish Banerjee Found Hanging At TMC Office In Birbhum; Suicide Note Recovered",
-      "Delhi Traffic advisory today: Bawana Chowk, Bawana village to remain affected till 7PM; Check roads to avoid, diversion points, alternate routes",
-      "Trump-Kim Jong Un throwback photo goes viral; US President says ‘We get along Great’",
-      "Air India Bangkok to Delhi flight halted via emergency brakes due to sudden technical glitch",
-      "Planning to travel to Delhi? Several trains have been cancelled on THESE dates; Here’s what you need to know",
+      "Haryana police block Khanauri crossing to halt farmers’ march to Delhi",
+      "BWF World Championships Return To India After 17 Years; New Delhi Set For Badminton's Biggest Stage",
       "A Partition Memoir:  The Story of a Family Forced to Leave Everything Behind",
       "Independence Day: Remembering South India’s Unsung Freedom Warriors",
+      "Cement companies face margin pressure on fuel, input costs despite healthy volume growth",
       "Delhi weather update: Light rain likely in city",
       "AIIMS Delhi debars two medical suppliers over defective syringes, suction sets",
       "Why Does My Street Flood After Just One Hour of Rain?",
@@ -80,40 +83,42 @@
       "Birds, Fish, Frogs & Dragonflies: The Hidden Life Inside India’s Familiar Ponds",
       "Explained: Why a Mumbai Street Floods After Just One Hour of Heavy Rain",
       "Why a Child With 100°F Can Worry a Paediatrician More Than One With 102°F — as H1N1 Rises in Delhi",
-      "The Better India’s Story of a 23-YO’s Terrace Forest Led to a Los Angeles Documentary Invite",
+      "Man fined Rs 4 lakh for ‘waking up’ polar bear near North Pole",
       "Former Bengal deputy speaker found hanging at TMC office",
       "7.99 lakh Waqf properties listed on UMEED Central Portal-2025",
-      "Free Umar Khalid, Sharjeel Imam: Open letter to CJI Surya Kant",
-      "Hyderabad: Man held for duping people with promise of bank loan",
+      "‘I Had Never Taken Money For Any Work’: What Asish Banerjee Allegedly Wrote In Suicide Note",
       "Former West Bengal Deputy Speaker Ashis Banerjee Found Hanging, Police Suspect Suicide",
       "Independence Day 2026: 17 Delhi Police Personnel Named For Service Medals, Check Full List And Key Achievement",
-      "PMAY-U 2.0: Kerala's 30,000 beneficiaries may get Rs 4 lakh housing assistance",
-      "‘TMC not functioning properly’: Resignation, poll defeat cast shadow before Asish Banerjee’s death",
-      "India’s engineering exports surge to $13.77 billion, Niti Aayog calls for regulation",
-      "From Himalayas to Bay of Bengal: IMD forecasts widespread rain and intense downpours across India, what travellers need to know",
-      "Asish Banerjee, former Bengal deputy speaker, found hanging at TMC party office",
+      "BWF World Championships 2026 in India: PV Sindhu, Lakshya Sen lead India’s medal hopes; Check schedule, squad and live streaming",
+      "Nag Panchami 2026: Date, time, puja rituals and significance",
+      "Weather tomorrow: IMD warns of extremely heavy rain in West Bengal, Odisha; heavy showers likely in several states",
+      "Rs 2.92 Crore Compensation For Man Disabled In 2020 Delhi Road Accident",
+      "Kim Jong Un Says He's \"Proud\" Of North Korea-Russia Ties In Letter To Putin",
       "\"We Get Along Great\": Trump Shares Old \"Unfriendly Look\" Pic With Kim Jong Un",
       "Anthropic CEO's Wife Asked Epstein To Invest In Her \"Luxury Porn\" Company"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 23,
+    "news_count": 29,
     "headlines": [
-      "Tukaram Mundhe's FDA Sends Notices To SRK, Ajay Devgn, Tiger Shroff Over Vimal Elaichi Ad",
+      "Navy Sailor, Family Found Dead At Mumbai Home, Cops Suspect Murder-Suicide",
+      "Fadnavis backs Modi’s ‘intellectual Naxals’ remark",
       "Nihang Sikhs | The warrior tradition",
       "Taken by one of the big four: Snakebite at Maharashtra tribal school",
-      "Maharashtra Weather Update: Mumbai, Pune, Thane, Nagpur, Satara, Sangli, Nashik likely to witness heavy rains, IMD issues alert",
+      "Bad news for Shah Rukh Khan, Ajay Devgn, Tiger Shroff: Actors get notice from…",
       "\"Shubh din badhai ka...\": Amitabh Bachchan celebrates 80th Independence Day with heartfelt blog post",
       "'Awarapan 3' on the way? Emraan Hashmi drops hint during theatre visit with co-star Disha Patani",
       "Shah Rukh Khan, Ajay Devgn, Tiger Shroff Face Maharashtra FDA Notices Over Vimal Elaichi Ad",
-      "Hydroponic Cannabis Lab Being Operated From Home Busted In Mumbai",
-      "Deepika Padukone Skips Baby Bump-Revealing Trend, Makes A Chic Statement In Crisp Blue Shirt At Mumbai Airport",
-      "Maharashtra SSC, HSC Registration 2027 Underway: Check Details Here",
+      "Maharashtra FDA issues notices to Shah Rukh Khan, Ajay Devgn, Tiger Shroff over pan masala brand ad",
+      "Abhijeet Dipke Warns Of Protest In Hingoli Over School Principal's Alleged Alcoholism, Teacher Shortage | VIDEO",
+      "Maharashtra Forms High-Level Committee To Tackle Chakan Traffic & Road Woes; Pune Collector Jitendra Dudi To Lead",
+      "Mumbai Court Rejects Rape Accused's Plea To Open Pan Shop Near Victim's Residence",
+      "Maharashtra Weather Update: Mumbai, Pune, Thane, Nagpur, Satara, Sangli, Nashik likely to witness heavy rains, IMD issues alert",
       "Why Does My Street Flood After Just One Hour of Rain?",
       "This Independence Day, We're Celebrating a Different Kind of Hero",
       "An Airport That's A Digital Art Gallery | Navi Mumbai International Airport",
@@ -123,54 +128,28 @@
       "Your Child Played in Dirty Rainwater & Got Fever Days Later? Mumbai Doctor Shares What to Do",
       "The Engineer Who Built His Dream | Navi Mumbai International Airport",
       "Mumbai Brothers’ Bike ‘Umbrella’ Helps 20000 Riders Reach Work Dry in the Monsoon",
-      "Who is Komal Rani Swarnkar, woman Sunita Ahuja links to Govinda?",
+      "FDA notice to SRK, Ajay Devgn, Tiger Shroff over Vimal Elaichi ad",
+      "Gun Fire At Varanasi Airport: Passenger's Gun Goes Down During Weapon Check, 2 Staffers Injured",
       "Blinkit, Zepto, Instamart Face FDA Action In Maharashtra Over Cockroaches, Expired Food And Hygiene Issues",
-      "11, including 7 children, fall ill; 3 in ICU after 'dead lizard' found in cake near Mumbai",
+      "Expired Frooti and Appy Fizz seized in Mumbai warehouse raid: Tukaram Mundhe-led FDA suspends company licence",
+      "Navy sailor, wife and 2 children found dead at Mumbai home",
+      "Shah Rukh Khan, Ajay Devgn, and Tiger Shroff under Maharashtra FDA's scanner over pan masala brand ad; agency issues show-cause notices to actors",
       "Maharashtra SSC, HSC Registration 2027 Begins: Check Fees And Dates Here"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 20,
-    "headlines": [
-      "Won't live much longer: Fasting Jharkhand student slams govt ahead of stir 2.0",
-      "Jharkhand protesters to burn Hemant Soren's effigy today, gherao CM house on Aug 20",
-      "Devendra Nath Mahto | The making of an agitator",
-      "Jharkhand students demand CM Soren’s resignation, ask Congress to ‘withdraw support’ from JMM coalition",
-      "Devendra Mahto alleges assault by Ranchi police after being stopped from joining Tiranga Yatra",
-      "\"My voice can't be suppressed\": Devendra Mahto after police stopped him from joining Tiranga Yatra",
-      "\"Sodium level at 124, ketone bodies present in urine indicating starvation\": Doctor flags concern over Devendra Mahto's health",
-      "Jharkhand: Ranchi immersed in tri-colour as student protesters carry out Tiranaga Yatra",
-      "Jharkhand CID raids multiple locations in JPSC exam irregularities case",
-      "BJP MP holds Rahul Gandhi responsible for Jharkhand exam irregularities with Hemant Soren government",
-      "Jharkhand student leader alleges police manhandling during Independence Day march",
-      "Jharkhand student protest enters 23rd day with plans to gherao Chief Minister’s residence",
-      "Jharkhand exam stir intensifies as students announce CM residence gherao",
-      "BMW Industries Q1 Net Profit Jumps 26% To ₹9.04 Crore, Revenue Rises 15% As Bokaro Expansion Gathers Pace",
-      "Jharkhand Students Protest: Protesters to burn effigies of CM Soren, Rahul Gandhi on August 16, CM’s residence Gherao on August 20",
-      "This Independence Day, We're Celebrating a Different Kind of Hero",
-      "Jharkhand Students To Gherao CM Hemant Soren’s Residence On 20 August Over JPSC, JSSC Exam Row",
-      "Watch: Jharkhand Leader Devendra Nath Mahto Dragged Into Hospital While Trying To Join Tiranga Yatra",
-      "\"Withdraw Coalition Support\": Jharkhand Protesters' Demand From Rahul Gandhi",
-      "Video: Jharkhand Activist Stopped From Joining Tiranga Yatra, Dragged Into Hospital"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 17,
+    "news_count": 19,
     "headlines": [
+      "Finger-Lickin' Foul: Mangaluru KFC Sealed Amid Karnataka Food Safety Crackdown",
       "Expired meat seized from Mysuru hotels, KFC outlet also raided amid crackdown",
       "Separate Industrial Security Force battalion sought for Kalyana Karnataka",
       "I-Day: CM announces new schemes to boost job creation, AI push in education",
-      "Ballari remembers its rich legacy in freedom struggle on Independence Day",
+      "BK Hariprasad, Rizwan Arshad flag off 'Run for Rajiv 2026' in Bengaluru",
       "\"Will take action in Hanur shootout case after magisterial inquiry completed\": Karnataka Minister Ramalinga Reddy",
       "Karnataka: FIR filed against forest officials after three killed in firing in Hanur",
       "\"His Patriotism cannot be questioned\": Karnataka Minister UT Khader amid row over Zameer Ahmed's I-Day absence",
@@ -178,169 +157,135 @@
       "\"They have Priyank-phobia, not me\": Karnataka Home Minister rejects BJP's charge of targeting RSS over Public Property Bill",
       "Karnataka: Expelled BJP MLA Yatnal seeks action against Zameer Ahmed over alleged I-Day flag-hoisting row",
       "Karnataka govt to reorganise Bengaluru police into five commissionerates: CM Shivakumar",
-      "Karnataka food safety raids Mangaluru KFC over spoiled chicken",
-      "Three suspected poachers killed in Karnataka Forest firing; inquiry ordered",
+      "Karnataka CM vows legal action on Kumaraswamy’s NICE project call",
+      "Meet Bhawana Kanth, 1st Woman to Clear the Toughest Fighter Course in the Indian Air Force",
       "He Restored 18 Lakes & Planted 1.5 Lakh Trees in Karnataka 🌱",
+      "Conflicting accounts emerge in Chamarajanagar forest firing",
       "Four held in Kolar over alleged Rs 50 crore work-from-home fraud",
       "‘Name martyrs’: Priyank questions RSS role in freedom struggle",
       "KFC Outlet Sealed Over \"Stale Chicken\" Complaint In Karnataka"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 16,
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 19,
     "headlines": [
-      "Former Bengal deputy speaker Asish Banerjee found hanging at TMC office",
-      "Asish Banerjee, Former Bengal Deputy Speaker, Found Dead At Trinamool Office",
-      "CM Suvendu promises to restore old glory of West Bengal in his maiden Independence Day speech",
-      "Former deputy speaker of Bengal Assembly, Asish Banerjee, found hanging at TMC office in Birbhum",
-      "Former West Bengal Assembly Deputy Speaker Found Dead At TMC Office",
-      "Asish Banerjee found dead in Rampurhat, Mamata Banerjee aide’s death shocks TMC",
-      "Former West Bengal MLA Asish Banerjee found dead in TMC office",
-      "West Bengal Shocker: Former Bengal Deputy Speaker Asish Banerjee Found Hanging At TMC Office In Birbhum; Suicide Note Recovered",
-      "Gold, Silver Rate Today, August 16: Gold costlier or trading down? Check 18, 22, 24 carat gold rates in Chennai, Mumbai, Delhi, Kolkata",
-      "Former Bengal deputy speaker found hanging at TMC office",
-      "Former West Bengal Deputy Speaker Ashis Banerjee Found Hanging, Police Suspect Suicide",
-      "‘TMC not functioning properly’: Resignation, poll defeat cast shadow before Asish Banerjee’s death",
-      "From Himalayas to Bay of Bengal: IMD forecasts widespread rain and intense downpours across India, what travellers need to know",
-      "Asish Banerjee, former Bengal deputy speaker, found hanging at TMC party office",
-      "TMC MP Mahua Moitra claims Nadia administration ordered her to vacate circuit house",
-      "Minister Agnimitra Paul, celebrities take part in women's ‘Freedom Beyond Midnight’ march in Kolkata"
+      "Jharkhand protests: Students to gherao CM residence on August 20 if demands not met",
+      "Won't live much longer: Fasting Jharkhand student slams govt ahead of stir 2.0",
+      "Jharkhand protesters to burn Hemant Soren's effigy today, gherao CM house on Aug 20",
+      "Jharkhand job exam stir: protesters announce CM residence gherao on August 20 to seek Hemant Soren’s resignation",
+      "Devendra Nath Mahto | The making of an agitator",
+      "Devendra Mahto alleges assault by Ranchi police after being stopped from joining Tiranga Yatra",
+      "Jharkhand student protest: \"Don't think I will survive much longer,\" Prem Nayak on hunger strike alleges Govt apathy",
+      "\"My voice can't be suppressed\": Devendra Mahto after police stopped him from joining Tiranga Yatra",
+      "\"Sodium level at 124, ketone bodies present in urine indicating starvation\": Doctor flags concern over Devendra Mahto's health",
+      "Jharkhand: Ranchi immersed in tri-colour as student protesters carry out Tiranaga Yatra",
+      "Jharkhand CID raids multiple locations in JPSC exam irregularities case",
+      "Jharkhand exam stir intensifies as students announce CM residence gherao",
+      "This Independence Day, We're Celebrating a Different Kind of Hero",
+      "Jharkhand protesting students to gherao CM’s residence on Aug 20",
+      "Jharkhand Students To Gherao CM Hemant Soren’s Residence On 20 August Over JPSC, JSSC Exam Row",
+      "Watch: Jharkhand Leader Devendra Nath Mahto Dragged Into Hospital While Trying To Join Tiranga Yatra",
+      "Jharkhand protests continue: Students to gherao CM residence on August 20 if demands not met",
+      "\"Withdraw Coalition Support\": Jharkhand Protesters' Demand From Rahul Gandhi",
+      "Video: Jharkhand Activist Stopped From Joining Tiranga Yatra, Dragged Into Hospital"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 14,
+    "news_count": 16,
     "headlines": [
+      "G.K. Vasan condemns two Chennai students’ death; calls for crackdown on illegal drugs",
+      "Why Chennai journalists went on a fast on Independence Day 25 years ago",
       "Retrofitting Tamil Nadu to strike at drug menace",
-      "No outsiders attended T.N. Cabinet meetings, says Social Justice Minister",
-      "Liquor ban revoked! This state removes temporary ban on 11 liquor brands in just three days",
       "Six arrested over Class 12 student’s murder in Chennai",
       "TN BJP Chief sparks row with uncivilised remarks against Vijay and his mother",
       "VP CPR to arrive tomorrow on 2-day visit to TN",
       "Chennai Open WTA event to be held from Nov 2-8",
       "\"Women not pawns in game of politics\": BJP's Khushbu Sundar lambasts Nainar Nagenthran's remark on Vijay's mother",
-      "Ramanathapuram Collector hoists Tricolour, honours freedom fighters' heirs on I-Day",
-      "Vice-President CP Radhakrishnan to attend two-day Tamil Nadu events",
+      "Six fire engines deployed to control fire at Tamil Nadu two-wheeler showroom",
+      "Liquor ban revoked! This state removes temporary ban on 11 liquor brands in just three days",
       "A Tamil Nadu Teacher Turned His Govt School’s Classrooms Into Bright Train Coaches & Enrolment Tripled",
       "When Elephants Cross Railway Tracks, ‘Gajraj AI’ Alerts Drivers to Slow Trains in Time",
       "4 Chennai Engineers Are Helping 70000 Homes Save Water By Hunting Down Hidden Leaks",
-      "Karur Stampede: SC Puts HC Order On Hold Over Vijay Govt’s Decision To Give Jobs To Victims’ Kin"
+      "Karur Stampede: SC Puts HC Order On Hold Over Vijay Govt’s Decision To Give Jobs To Victims’ Kin",
+      "Myanmar couple from Bangkok held with Rs 2.65 cr worth smuggled gold at Chennai airport",
+      "Making Tamil Nadu corruption-free is like achieving freedom, says CM Vijay"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 12,
+    "headlines": [
+      "Cabbie throws passengers out for ‘casteist remarks’, app removes him for 100 years",
+      "Ram temple in Ayodhya rolls out new dress code for priests",
+      "\"A state with 25 crore population has no dearth of talent; UPT20 League creating history\": CM Yogi Adityanath & BCCI Vice President Rajeev Shukla inaugurate season 4",
+      "Gaur Gorakhpur Lions beat Lucknow Falcons in rain-hit UP T20 League",
+      "NGT orders probe into alleged illegal burning of medical waste in Aligarh",
+      "Ayodhya Ram Temple Priests get new dress code: Light-yellow silk dhoti, and matching Uttariya; Ramanandi tilak mandatory",
+      "A Partition Memoir:  The Story of a Family Forced to Leave Everything Behind",
+      "₹40 Lakh Stolen Daily | IPS Kiran Yadav's Cybercrime Crackdown 🚨",
+      "Lucknow Rapido cab driver suspended for 99 years, 11 months",
+      "7.99 lakh Waqf properties listed on UMEED Central Portal-2025",
+      "Weather tomorrow: IMD warns of extremely heavy rain in West Bengal, Odisha; heavy showers likely in several states",
+      "Yellow Silk Dhotis: New Dress Code For Ayodhya Ram Temple Priests"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 12,
+    "headlines": [
+      "Former Bengal deputy speaker Asish Banerjee found hanging at TMC office",
+      "Congress Leader, Son Shot Dead In Bengal. They Were Returning Home In Car",
+      "West Bengal STF arrests three in Coochbehar over suspected Pakistan-ISI links",
+      "Former West Bengal Assembly Deputy Speaker Found Dead At TMC Office",
+      "Asish Banerjee found dead in Rampurhat, Mamata Banerjee aide’s death shocks TMC",
+      "Former deputy speaker of Bengal Assembly, Asish Banerjee, found hanging at TMC office in Birbhum",
+      "Former Bengal deputy speaker found hanging at TMC office",
+      "‘I Had Never Taken Money For Any Work’: What Asish Banerjee Allegedly Wrote In Suicide Note",
+      "Former West Bengal Deputy Speaker Ashis Banerjee Found Hanging, Police Suspect Suicide",
+      "Weather tomorrow: IMD warns of extremely heavy rain in West Bengal, Odisha; heavy showers likely in several states",
+      "TMC MP Mahua Moitra claims Nadia administration ordered her to vacate circuit house",
+      "Minister Agnimitra Paul, celebrities take part in women's ‘Freedom Beyond Midnight’ march in Kolkata"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 13,
+    "news_count": 11,
     "headlines": [
-      "TiHAN-IIT Hyderabad Launches 6-Month AI Course; Check Details",
       "Telangana CM accuses BRS leaders of using black magic to discredit Congress govt",
+      "The day Hyderabad celebrated two Independence Days on August 15, 1947",
       "Drugs Control Administration issues notices to 43 medical shops in Telangana over sale of weight loss drugs without prescription",
       "BRS working president KTR condemns Revanth Reddy's \"skilled labourers\" remark",
+      "Meet Bhawana Kanth, 1st Woman to Clear the Toughest Fighter Course in the Indian Air Force",
+      "Several injured in Vijayawada-Hyderabad bus accident",
       "US Consulate visa applications flag passport fraud in Hyderabad",
       "Quarrel over funeral expenses leads to murder in Hyderabad",
       "‘Why CM photo on Telangana smart ration cards?’ asks Bandi",
       "Most Telangana SC farmers landless, few have insurance: Study",
-      "Hyderabad to face 24-hour water disruption from August 17",
-      "16-year-old girl dies after lorry hits bike on Hyderabad highway",
-      "KTR: Congress MLAs themselves exposing corruption is serious",
-      "Hyderabad: Man held for duping people with promise of bank loan",
-      "Blinkit Delivery Worker Killed After Fight With Colleague In Telangana"
+      "TiHAN-IIT Hyderabad Launches 6-Month AI Course; Check Details"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 12,
-    "headlines": [
-      "Economist vs Economist: The British media house opposes UCC and backs Muslim Personal Law in India, while defending secular law in the UK",
-      "\"Safety audits should have been conducted\": Uttarakhand Congress leader on Chamoli tunnel accident",
-      "Collective responsibility of everyone to protect the integrity of nation: Uttarakhand DGP Deepam Seth",
-      "Uttarakhand DGP Deepam Seth hoists National Flag at police headquarters on I-Day",
-      "Pipalkoti tunnel accident: Death toll rises to 8 as one more body recovered; search on for 2 others",
-      "‘Warped mentality of protecting criminals’: Rahul targets BJP over Ankita Bhandari case",
-      "Eighth body recovered from flooded Uttarakhand tunnel; two workers still missing",
-      "From Dehradun to Bollywood | Archana Puran Singh’s Journey",
-      "Uttarakhand Woman Builds ‘Gaadi Ghar’ With Mud, Old Car Doors & Real Grass on the Roof",
-      "'How was leak overlooked?' Uttarakhand Congress chief demands probe into Pipalkoti tunnel tragedy",
-      "Uttarakhand Tunnel Workers Say They Flagged Water Leak, Got No Reply",
-      "Death Count In Uttarakhand Tunnel Collapse Rises To 8, Search On For 2 Others"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 11,
-    "headlines": [
-      "Those opposing Vande Mataram don't know who their mother is: Kerala University VC",
-      "Why Kerala Government mulls a multi-agency probe into the failed bid to bring Messi and company to Kochi? | Explained",
-      "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram",
-      "Avenues of professional reward opening up for artistes from tribal communities in Kerala",
-      "BJP's protest in Thrissur \"insult to sanctity of Independence Day\": Keralam Minister OJ Janeesh amid 'Vande Mataram' row",
-      "Modi government allocates additional coaches for Bengaluru-Ernakulam Vande Bharat, BJP calls it…",
-      "Our MPs Spent 33 of 120 Allotted Hours Debating In Parliament. Here's What Changed This August",
-      "How Alappuzha’s Residents Cut Mosquito Breeding By 87%",
-      "Kerala varsity VC: Vande Mataram critics don’t know who’s mom",
-      "Indian worker returns from Saudi Arabia after serious site fall",
-      "BJP's \"Anti-India Forces\" Charge On Kerala For Skipping 'Vande Mataram'"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 10,
-    "headlines": [
-      "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
-      "Amritsar Airport committed to safe, seamless and world-class travel experience: Director Anirudh Kumar",
-      "Sukhbir Singh Badal: The Man Punjab Can’t Ignore. A Second Brush With Death",
-      "Movers & Shakers: Stocks that will see action this week",
-      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
-      "Watch | Goosebumps At Attari Border As Grand Beating Retreat Ceremony Sets The Stage For I-Day",
-      "Bigg Boss 7 fame Sofia Hayat backs responsible ownership after Patiala Pitbull attack, opposes breed ban",
-      "3 injured in NIS Patiala ceiling collapse",
-      "As Sukhbir Badal Recovers, Harsimrat Steps Up: Woman Leading Akalis' Fight",
-      "In Congress vs Congress, Punjab Chief's Ticket Stance Publicly Contradicted"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 9,
-    "headlines": [
-      "Assam CM urges settlers to list Assamese as mother tongue in ongoing Census",
-      "Assam CM Himanta Biswa Sarma announces 30-day child marriage crackdown from November 1",
-      "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
-      "Assam plans ₹1.5 lakh crore infrastructure investment over next five years: Himanta",
-      "Everyone’s Debating Kaziranga’s 10-Km Zone. A Rhino Doesn’t Know Where the Park Ends",
-      "22-YO Creator Uses His Content Earnings to Help 1000 Families in Flood-Hit Assam",
-      "When Elephants Cross Railway Tracks, ‘Gajraj AI’ Alerts Drivers to Slow Trains in Time",
-      "How Kaziranga Went From 27 Rhino Poachings to ZERO 🦏",
-      "Himanta Sarma Urges Assam Settlers To List Assamese As Mother Tongue During Census"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "RJ",
@@ -351,7 +296,7 @@
     "headlines": [
       "Miss Universe India Finalists Shreya Bediya Brings Madhya Pradesh into the Spotlight as a Strong Contender for the Crown",
       "\"There is no controversy\": Ashok Gehlot on Vande Mataram row at Independence Day celebrations",
-      "Rajasthan Civil Code 2026 to provide uniform legal framework, says Bhajanlal Sharma",
+      "WATCH: Alwar Driver Climbs Onto Moving Truck, Dances On Roof In Shocking Viral Video",
       "Inside a Camel Herder’s Award-Winning Fight to Protect 10000 Hectares of Thar Grassland",
       "He Spends ₹6,000 a Month Cleaning Garbage ❤️",
       "Rajasthan Sarpanch Used Her Salary to Turn Village Girls Into District-Level Hockey Players",
@@ -359,122 +304,199 @@
       "Rajasthan: Alwar School Roof Collapse Sparks Gen Alpha Protest, Students Demand Teachers And Safe Buildings",
       "Rajasthan Safai Karmchari Recruitment 2026: Apply Online For 24,752 Vacancies, Check Fee Details"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 9,
     "headlines": [
-      "Cabbie throws passengers out for ‘casteist remarks’, app removes him for 100 years",
-      "Ram temple in Ayodhya rolls out new dress code for priests",
-      "Ayodhya Ram Temple Priests get new dress code: Light-yellow silk dhoti, and matching Uttariya; Ramanandi tilak mandatory",
-      "\"A state with 25 crore population has no dearth of talent; UPT20 League creating history\": CM Yogi Adityanath & BCCI Vice President Rajeev Shukla inaugurate season 4",
-      "A Partition Memoir:  The Story of a Family Forced to Leave Everything Behind",
-      "₹40 Lakh Stolen Daily | IPS Kiran Yadav's Cybercrime Crackdown 🚨",
-      "Lucknow Rapido cab driver suspended for 99 years, 11 months",
-      "7.99 lakh Waqf properties listed on UMEED Central Portal-2025",
-      "Yellow Silk Dhotis: New Dress Code For Ayodhya Ram Temple Priests"
+      "20-year-old engineering student from Arunachal found dead at rented home in Kerala",
+      "Why Kerala Government mulls a multi-agency probe into the failed bid to bring Messi and company to Kochi? | Explained",
+      "Chaos at Kozhikode Corporation’s I-Day flag-hoisting as councillors simultaneously sing national anthem, Vande Mataram",
+      "Our MPs Spent 33 of 120 Allotted Hours Debating In Parliament. Here's What Changed This August",
+      "How Alappuzha’s Residents Cut Mosquito Breeding By 87%",
+      "Arunachal Pradesh engineering student found dead in Kerala",
+      "Kerala varsity VC: Vande Mataram critics don’t know who’s mom",
+      "BJP's \"Anti-India Forces\" Charge On Kerala For Skipping 'Vande Mataram'",
+      "Kerala Man Wins Rs 26 Lakh UAE Lottery: 'Keep Hoping, Your Day Will Come'"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 9,
+    "headlines": [
+      "Assam CM Himanta Biswa Sarma announces 30-day child marriage crackdown from November 1",
+      "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
+      "Lovlina Borgohain: How defeats shaped an Assam boxing star’s journey",
+      "Everyone’s Debating Kaziranga’s 10-Km Zone. A Rhino Doesn’t Know Where the Park Ends",
+      "22-YO Creator Uses His Content Earnings to Help 1000 Families in Flood-Hit Assam",
+      "When Elephants Cross Railway Tracks, ‘Gajraj AI’ Alerts Drivers to Slow Trains in Time",
+      "How Kaziranga Went From 27 Rhino Poachings to ZERO 🦏",
+      "Assam Man Arrested For Threatening To Kill Himanta Biswa Sarma For Rs 1 Crore",
+      "Himanta Sarma Urges Assam Settlers To List Assamese As Mother Tongue During Census"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 9,
+    "headlines": [
+      "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
+      "Sukhbir Singh Badal: The Man Punjab Can’t Ignore. A Second Brush With Death",
+      "Movers & Shakers: Stocks that will see action this week",
+      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
+      "Watch | Goosebumps At Attari Border As Grand Beating Retreat Ceremony Sets The Stage For I-Day",
+      "3 injured in NIS Patiala ceiling collapse",
+      "'She Fell From Roof': Border Force Jawan Tells Family After Killing Wife In Punjab",
+      "As Sukhbir Badal Recovers, Harsimrat Steps Up: Woman Leading Akalis' Fight",
+      "In Congress vs Congress, Punjab Chief's Ticket Stance Publicly Contradicted"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 8,
     "headlines": [
-      "Teenager electrocuted while fixing Tricolour at Madhya Pradesh school",
-      "Miss Universe India Finalists Shreya Bediya Brings Madhya Pradesh into the Spotlight as a Strong Contender for the Crown",
-      "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
-      "Madhya Pradesh school children stop minister’s convoy over poor road, school facilities",
-      "Madhya Pradesh August 16, 2026, Weather Update: Heavy Rain Alert In Eastern MP For Next 3 Days; 43 Districts Record Below-Normal Rainfall",
-      "He Spends ₹6,000 a Month Cleaning Garbage ❤️",
-      "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals",
-      "MP CM Yadav claims Sonia, Rahul disrespected Vande Mataram"
+      "Economist vs Economist: The British media house opposes UCC and backs Muslim Personal Law in India, while defending secular law in the UK",
+      "\"Safety audits should have been conducted\": Uttarakhand Congress leader on Chamoli tunnel accident",
+      "Collective responsibility of everyone to protect the integrity of nation: Uttarakhand DGP Deepam Seth",
+      "Uttarakhand DGP Deepam Seth hoists National Flag at police headquarters on I-Day",
+      "‘Warped mentality of protecting criminals’: Rahul targets BJP over Ankita Bhandari case",
+      "From Dehradun to Bollywood | Archana Puran Singh’s Journey",
+      "Uttarakhand Woman Builds ‘Gaadi Ghar’ With Mud, Old Car Doors & Real Grass on the Roof",
+      "Uttarakhand Tunnel Workers Say They Flagged Water Leak, Got No Reply"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
-      "Andhra Pradesh sends 29 best teachers to Finland for global education training",
-      "Andhra Pradesh Stree Shakti scheme records 87 crore women’s journeys in one year",
       "Why a Child With 100°F Can Worry a Paediatrician More Than One With 102°F — as H1N1 Rises in Delhi",
+      "Several injured in Vijayawada-Hyderabad bus accident",
       "Hyderabad-based pharma firms donate to charity of Tirupati temple",
-      "Hyderabad: Man held for duping people with promise of bank loan",
+      "Andhra Pradesh To Send 29 Government School Teachers To Finland For Training",
       "Andhra Minister Faints During Independence Day Event In Tirupati",
       "Temple For Bapu: How An Andhra City Has Kept Mahatma Gandhi's Memory Alive"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 7,
-    "headlines": [
-      "\"27 hardcore Maoists eliminated, 78 surrendered in Odisha before March 31\": ADG Anti-Naxal Ops Sanjeeb Panda",
-      "Odisha floods: Over 95,000 evacuated as six districts remain grim",
-      "Flood situation in Odisha remains grim; over 2.7 lakh people affected, more than 95 thousand evacuated",
-      "At This Nagaland School, Kids Grow Vegetables That Go Straight to Their Lunch Plates",
-      "Heavy rains batter Odisha, 95k people moved to safer locations",
-      "From Himalayas to Bay of Bengal: IMD forecasts widespread rain and intense downpours across India, what travellers need to know",
-      "OJEE NEET rank list 2026 released for MBBS and BDS admission in Odisha; check seat matrix details here"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 6,
-    "headlines": [
-      "Ghee, Oils Worth Rs 35 Lakh Seized After Food Authority Raids In Gujarat",
-      "Gujarat: NSUI protests in Ahmedabad over alleged 'purification' ritual after Kharge's rally, several detained",
-      "Polo Forest blends monsoon beauty, heritage and community-led tourism in Gujarat",
-      "This Independence Day, We're Celebrating a Different Kind of Hero",
-      "Meet the 24-YO Singer Who Created ‘G-Pop’ to Take Gujarati Music Beyond Garba Nights",
-      "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "CT",
     "Lat": 21.2787,
     "Long": 81.8661,
     "State": "Chhattisgarh",
-    "news_count": 4,
+    "news_count": 6,
     "headlines": [
       "‘Always proud’: Kim Jong Un hails Russia ties in message to Putin",
-      "Kim Jong Un Says He's \"Proud\" Of North Korea-Russia Ties In Letter To Putin",
+      "'We Get Along Great': Trump Shares 'Unfriendly' Photo With Kim Jong Un",
       "\"Armed Naxalism eliminated, dimaagi Naxals remain\": Chhattisgarh CM echoes PM Modi's I-Day speech",
+      "JSW Mahanadi Power settles Raigarh Champa Rail dispute; NCLAT disposes of appeal",
+      "Bizman climbs car bonnet to stop girlfriend leaving with friend, falls to death",
       "\"We Get Along Great\": Trump Shares Old \"Unfriendly Look\" Pic With Kim Jong Un"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "Miss Universe India Finalists Shreya Bediya Brings Madhya Pradesh into the Spotlight as a Strong Contender for the Crown",
+      "Assam BJP leader Bikash Dhar found dead, 5 arrested for murder",
+      "He Spends ₹6,000 a Month Cleaning Garbage ❤️",
+      "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals",
+      "MP CM Yadav claims Sonia, Rahul disrespected Vande Mataram"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
+    "headlines": [
+      "Gujarat rewilds 20 blackbucks in Kutch’s Banni grasslands on 80th Independence Day",
+      "This Independence Day, We're Celebrating a Different Kind of Hero",
+      "Meet the 24-YO Singer Who Created ‘G-Pop’ to Take Gujarati Music Beyond Garba Nights",
+      "Ahmedabad Is Teaching People to Sort Household Waste While They Wait at Traffic Signals",
+      "Ghee, Oils Worth Rs 35 Lakh Seized After Food Authority Raids In Gujarat"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 4,
+    "headlines": [
+      "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
+      "Haryana police block Khanauri crossing to halt farmers’ march to Delhi",
+      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
+      "Action By Haryana Cops In Plainclothes Raises Questions Over Court Order"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Himachal CM Sukhu announces 'Apna Parivar Sukhi Parivar', 'Indira Gandhi Matri Shishu Sankalp' schemes",
+      "Himachal: CM Sukhu disburses over Rs 20 Crore to 4,967 beneficiaries on Independence Day",
+      "Himachal LoP Thakur hails PM Modi's Independence Day address; targets Sukhu govt over \"disregard for rules\"",
+      "Himachal Pradesh To Get First Science College, AIIMS-Level Ayurved Institute"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 4,
+    "headlines": [
+      "\"27 hardcore Maoists eliminated, 78 surrendered in Odisha before March 31\": ADG Anti-Naxal Ops Sanjeeb Panda",
+      "Odisha floods: Over 95,000 evacuated as six districts remain grim",
+      "At This Nagaland School, Kids Grow Vegetables That Go Straight to Their Lunch Plates",
+      "Heavy rains batter Odisha, 95k people moved to safer locations"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "JK",
     "Lat": 33.7782,
     "Long": 76.5762,
     "State": "Jammu and Kashmir",
-    "news_count": 4,
+    "news_count": 3,
     "headlines": [
       "J-K: Kupwara celebrates 80th Independence Day with patriotic fervour",
       "PoK would’ve joined India pre-2019: Omar for J-K special status",
-      "Army dog Tsyon shot in leg by terrorists in Kishtwar gets President I-Day honour",
       "\"PoK Would Have Joined Jammu And Kashmir If...\": Omar Abdullah On Special Status"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "BR",
@@ -484,36 +506,22 @@
     "news_count": 3,
     "headlines": [
       "\"Our duty to make country developed\": Bihar CM",
-      "Planning to travel to Delhi? Several trains have been cancelled on THESE dates; Here’s what you need to know",
+      "Meet Bhawana Kanth, 1st Woman to Clear the Toughest Fighter Course in the Indian Air Force",
       "What the Law Promises a Government School Student in India"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 3,
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 2,
     "headlines": [
-      "Himachal CM Sukhu announces 'Apna Parivar Sukhi Parivar', 'Indira Gandhi Matri Shishu Sankalp' schemes",
-      "Himachal: CM Sukhu disburses over Rs 20 Crore to 4,967 beneficiaries on Independence Day",
-      "Himachal LoP Thakur hails PM Modi's Independence Day address; targets Sukhu govt over \"disregard for rules\""
+      "Five Army Personnel Missing After Flash Flood Sweeps Away Camp Shelters in Arunachal Pradesh",
+      "Arunachal Pradesh engineering student found dead in Kerala"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
-      "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh",
-      "Action By Haryana Cops In Plainclothes Raises Questions Over Court Order"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "CH",
@@ -525,7 +533,7 @@
       "Tear gas, water cannons used against Qaumi Insaf morcha protesters, Punjab Bandh call on August 21",
       "‘They Cannot Speak, But They Have A Voice’: Deaf Students Protest For Basic Facilities In Chandigarh"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "GA",
@@ -536,18 +544,7 @@
     "headlines": [
       "Goa Government To Create Up To 8,000 Jobs In Next Six Months: Pramod Sawant"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
-  },
-  {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "Five Army Personnel Missing After Flash Flood Sweeps Away Camp Shelters in Arunachal Pradesh"
-    ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "NL",
@@ -558,7 +555,7 @@
     "headlines": [
       "At This Nagaland School, Kids Grow Vegetables That Go Straight to Their Lunch Plates"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
   },
   {
     "Code": "SK",
@@ -569,6 +566,17 @@
     "headlines": [
       "Why Gangtok is India’s most walkable city"
     ],
-    "last_updated": "2026-08-16 10:35:57 AM"
+    "last_updated": "2026-08-16 12:51:10 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 1,
+    "headlines": [
+      "Meet Bhawana Kanth, 1st Woman to Clear the Toughest Fighter Course in the Indian Air Force"
+    ],
+    "last_updated": "2026-08-16 12:51:10 PM"
   }
 ]
