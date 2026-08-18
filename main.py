@@ -1,23 +1,15 @@
-from fastapi import FastAPI, HTTPException, Header
-from fastapi.middleware.cors import CORSMiddleware
-import os
-import json
-from fetch_news import get_all_news
-from process_data_india import process_and_push_to_db
-from fastapi.responses import FileResponse
+CATEGORY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "categories.json")
 
-app = FastAPI(title="Bharat News API")
-
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
-
-DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
-
+@app.get("/api/news/category/{category}")
+async def get_news_by_category(category: str):
+    if not os.path.exists(CATEGORY_FILE):
+        raise HTTPException(status_code=404, detail="No category data yet.")
+    with open(CATEGORY_FILE, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    key = category.lower()
+    if key not in data:
+        raise HTTPException(status_code=404, detail=f"Unknown category: {category}")
+    return {"category": key, "last_updated": data.get("last_updated"), "articles": data[key]}
 @app.get("/favicon.ico", include_in_schema=False)
 async def favicon():
     return FileResponse("favicon.ico")
