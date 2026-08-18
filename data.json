@@ -4,23 +4,18 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 41,
+    "news_count": 38,
     "headlines": [
       "Barcelona sign Rodri from Man City: Spain captain joins star-studded squad",
       "Hockey World Cup: Dominant India crush South Africa 6-1 to go top of Group D",
       "Ex-AAP minister Satyendar Jain arrested in Delhi Jal Board corruption case",
       "Delhi Police explains why cops wore civil clothes during Jantar Mantar protest",
-      "'Will form high-powered panel': SC on Delhi Police 'excesses' against students",
+      "US Envoy Sergio Gor To Meet Omar Abdullah During 2-Day J&K, Ladakh Visit",
       "Team Settled, On Nitin Nabin's To-Do List - Parliamentary Board, Poll Panel",
-      "Satyendar Jain Arrest: Case Will Be Proven Fake, Says Arvind Kejriwal",
-      "AAP Leader Satyendar Jain Arrested In Corruption Case Linked To Delhi Jal Board",
+      "H1N1 cases on the rise, experts say no cause for alarm",
+      "80% of Delhi is unplanned, fire preparedness ‘average’: Chief Fire Officer",
       "Student protests: Delhi Police affidavit in Supreme Court is rich with numbers, but quiet on fixing accountability",
       "India's economic growth to slow to 6.8% FY27 amid West Asia crisis, El Nino impact",
-      "Government to allocate additional 200 SCM gas in latest push for domestic PNG",
-      "H1N1 cases spike across the country",
-      "India’s crude import bill surges 41% in July amid West Asia crisis; volumes up 13%",
-      "Former Delhi Minister Satyendar Jain, ex-DJB CEO among six arrested in STP projects tender case",
-      "SC to examine ‘proportionality’ of the use of facial recognition at NEET protests",
       "Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'",
       "Delhi court slams Gujarat cops for 'hanging' minor boy as 'bait' to make father surrender",
       "Hindu Sena chief files complaint against Sonia Gandhi over 'Vande Mataram' row",
@@ -36,9 +31,11 @@
       "Vehere Appoints Avientek as Official Distributor for the Middle East",
       "Delhi’s education and health budgets rise, but spending trails allocations",
       "SC ready to drop NEET protest charges against students; petitioners say Delhi Police yet to disclose FIR list",
+      "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Egypt boss Hossam Hassan ‘collapses’ as two wives clash in ugly hotel brawl",
       "After 1,800 km dash, reserves Surya-Pramuthesh endure golden point heartbreak",
       "Amitabh Bachchan leases three Andheri floors to TruNativ for Rs 33 lakhs monthly rent: Report",
       "EXCLUSIVE: Kartik Aaryan joined by Qarib Qarib Single actress Parvathy Thiruvothu in Captain India; shooting begins next month",
@@ -48,7 +45,7 @@
       "In 1986, a 29-year-old teacher became the first woman to reach the North Pole",
       "Insecticide killed 97.91% of dengue mosquitoes; the tiny fraction that survived worries Delhi scientists"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "MH",
@@ -74,37 +71,36 @@
       "Shah Rukh Khan, Ajay Devgn, Tiger Shroff get Maharashtra FDA notice over Vimal Elaichi ad: Report",
       "Ranveer Singh starrer end-of-the-world action thriller Pralay, directed by Jai Mehta, goes on floors in Mumbai"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 10,
+    "news_count": 11,
     "headlines": [
+      "Karnataka forms sub-committee to vet revised minimum wages",
       "Karnataka Public Service Commission case: President orders inquiry against chairperson; Karnataka High Court quashes his suspension by Governor",
       "Mysuru Gram Panchayat employees protest, seek immediate implementation of minimum wages",
       "Nagalakshmi Chowdhary flags prolonged detention of foreign women inmates at Parappana Agrahara prison",
-      "ED raids KPSC in veterinary officer recruitment case in Karnataka",
       "Karnataka BJP forms fact-finding team after 3 suspected poachers killed in forest firing",
       "‘No  difference between Jaish-e-Mohammed, Taliban, RSS’: Karnataka Congress chief",
       "‘Italian blood’: Kumaraswamy’s fresh attack on Sonia Gandhi escalates Vande Mataram row",
       "EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana",
       "Moong arrivals pick up in Karnataka as prices rule firm on lower crop",
+      "Egypt boss Hossam Hassan ‘collapses’ as two wives clash in ugly hotel brawl",
       "After 1,800 km dash, reserves Surya-Pramuthesh endure golden point heartbreak"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 9,
+    "news_count": 7,
     "headlines": [
-      "'Boss Scam', Handled Via China And Pakistan, Busted In Gujarat",
-      "ED raids KPSC in veterinary officer recruitment case in Karnataka",
       "Ahmedabad Police busts 'Boss Scam' cyber ring; Pakistan-China links found",
       "Delhi court slams Gujarat cops for 'hanging' minor boy as 'bait' to make father surrender",
       "3 Gujarat villagers playing cards flee mistaking visitors for police, drown in well",
@@ -113,54 +109,39 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 7,
-    "headlines": [
-      "T.N. govt. to set up Talent Research Wing to groom future Olympic champions",
-      "CM’s Road Safety Mission to be launched at ₹500 crore per annum",
-      "Micro job fair in Kallakurichi on August 21",
-      "Legacy vs ‘not for luxury’: War of words in Tamil Nadu assembly over ' ₹5.54-crore' tender to shift CM Vijay's office",
-      "CM Vijay's Tamil Nadu govt to expand maternity leave from 12 weeks to 365 days for third child",
-      "Tamil Nadu CM Vijay makes online registration mandatory for first sale of plots, flats: What it means",
-      "'Could not be tolerated': DMK mouthpiece attacks Tamil Nadu CM Vijay, Trisha over I-day event"
-    ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "BJP puts Vinod Tawde, who played role in Bihar win, in charge of UP",
       "‘Detergent mistaken for salt’: 2 dozen students fall ill after mid-day meal in Bihar",
       "Who is Vinod Tawde? BJP's Bihar strategist who cracked caste conundrum now in-charge of UP",
       "Bihar teacher job aspirants seek TRE notification in 24 hours, threaten ‘gherao’ protest against education minister",
       "AK-47 use during protest did not result in injury, Bihar govt tells Supreme Court",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 5,
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 6,
     "headlines": [
-      "Commercial films, serials cannot be shot in wildlife sanctuaries: Kerala High Court",
-      "Kerala HC asks ACS to appear before it over delay in action on complaint against DGP S. Sreejith",
-      "Assembly ruckus case: Kerala High Court quashes complaint against former Congress MLA A.T. George",
-      "‘They removed it themselves’: Kerala Home Minister on Meta news removal row",
-      "13-year-old hires 3 friends to kill grandfather in Kerala, wanted iPhone, bike for boyfriend"
+      "T.N. govt. to set up Talent Research Wing to groom future Olympic champions",
+      "CM’s Road Safety Mission to be launched at ₹500 crore per annum",
+      "Legacy vs ‘not for luxury’: War of words in Tamil Nadu assembly over ' ₹5.54-crore' tender to shift CM Vijay's office",
+      "CM Vijay's Tamil Nadu govt to expand maternity leave from 12 weeks to 365 days for third child",
+      "Tamil Nadu CM Vijay makes online registration mandatory for first sale of plots, flats: What it means",
+      "'Could not be tolerated': DMK mouthpiece attacks Tamil Nadu CM Vijay, Trisha over I-day event"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "JH",
@@ -170,38 +151,80 @@
     "news_count": 5,
     "headlines": [
       "Jharkhand exam scam: CID arrests key accused's wife, brother who cleared JSSC-CGL",
+      "Jharkhand Government releases list of 44 recruitment exams cancelled due to irregularities",
       "Jharkhand exam irregularities: CID arrests Abhay Tiwari's wife, brother",
-      "Jharkhand protest updates: Will launch second phase stir for corruption-free job examinations, says Devendra Mahto",
       "‘I have a blueprint’: What’s next for Jharkhand student leader Devendra Nath Mahto after ‘historic win’?",
       "Jharkhand exam irregularities protest likely to continue over CBI probe demand"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 4,
     "headlines": [
-      "Stolen Thirumangai Alwar bronze idol returns to Kumbakonam temple after nearly 70 years",
-      "More than 50% Cong tickets for Rajasthan local body polls should be given to Gen-Z: Ashok Gehlot",
-      "Rajasthan woman lodges false case of rape of seven-year-old daughter by neighbour over land dispute, fined"
+      "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
+      "Goa moves Supreme Court to enhance sentence of Tarun Tejpal in 2013 rape case",
+      "Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case",
+      "Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Widening of road linking Uttarahalli-Mysuru Road to be completed soon: Krishna Byre Gowda",
       "Visakhapatnam Collector directs officials to expedite SIR notice, hearing process",
       "Visakhapatnam Collector inspects venues for BRICS Sports Ministers’ Meeting",
       "Exclusive building sought for BC Study Circle in Vizianagaram"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Kerala HC asks ACS to appear before it over delay in action on complaint against DGP S. Sreejith",
+      "Commercial films, serials cannot be shot in wildlife sanctuaries: Kerala High Court",
+      "‘They removed it themselves’: Kerala Home Minister on Meta news removal row",
+      "13-year-old hires 3 friends to kill grandfather in Kerala, wanted iPhone, bike for boyfriend"
+    ],
+    "last_updated": "2026-08-19 02:23:58 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "5 Injured After Ferris Wheel Cabin Crashes At Lucknow Fair, 2 Critical",
+      "Madhya Pradesh: Investigators say NGO helped poach leopards to raise funds",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-08-19 02:23:58 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "2 MBBS Interns Sexually Harassed At Haryana Medical College, Accused Arrested",
+      "After Lathicharge Backlash, Haryana Government Reaches Understanding With Sikh Representatives",
+      "57-year-old patient dies 2 days after rape in Haryana hospital"
+    ],
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "WB",
@@ -214,20 +237,7 @@
       "CJP's Ashutosh Ranka alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP leaders",
       "Mahua Moitra vs Bengal officials intensifies, TMC MP moves privilege notice over late-night eviction bid"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "2 Critical, Several Injured After Ferris Wheel Crashes At Lucknow Fair",
-      "Madhya Pradesh: Investigators say NGO helped poach leopards to raise funds",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "TG",
@@ -240,19 +250,20 @@
       "EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana",
       "Ensure smooth cotton buy, Telangana tells CCI"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
     "headlines": [
-      "Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case",
-      "Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner"
+      "Odisha announces ₹1,000-crore aid for flood-hit areas",
+      "Odisha court acquits Maoist leader Azad in 2008 Swami Laxmanananda murder case",
+      "Odisha floods: Death toll rises to 13; schools shut across districts"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "UT",
@@ -264,19 +275,19 @@
       "Bodies of 2 missing workers recovered from Chamoli tunnel, toll rises to 10: Official",
       "Uttarakhand inundated tunnel toll rises to 9 as rescue operations continue"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
     "news_count": 2,
     "headlines": [
-      "Odisha court acquits Maoist leader Azad in 2008 Swami Laxmanananda murder case",
-      "Odisha floods: Death toll rises to 13; schools shut across districts"
+      "More than 50% Cong tickets for Rajasthan local body polls should be given to Gen-Z: Ashok Gehlot",
+      "Rajasthan woman lodges false case of rape of seven-year-old daughter by neighbour over land dispute, fined"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "MN",
@@ -288,7 +299,19 @@
       "Manipur government team to rush to Delhi amid bandh against Census without NRC",
       "Manipur: Chief of banned outfit, 46 cadres surrender with arms before CM"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Raja Warring In Spotlight After Another Congress Leader Questions Leadership",
+      "To Beat AAP, Three Musketeers to Sail BJP's Boat In Punjab"
+    ],
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "AS",
@@ -299,7 +322,7 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "CT",
@@ -310,7 +333,7 @@
     "headlines": [
       "Chhattisgarh couple found hacked to death at home; son is prime suspect: Police"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "MP",
@@ -321,7 +344,7 @@
     "headlines": [
       "₹1.20 crore for testicles: How an Instagram reel led to teen boy's murder in Bhopal"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "TR",
@@ -332,7 +355,7 @@
     "headlines": [
       "Former Tripura CM Manik Sarkar threatens ‘militant protest’; booked: Officials"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
   },
   {
     "Code": "JK",
@@ -341,8 +364,19 @@
     "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "Non-Bailable Warrant Issued Against Pakistan-Based Terrorist In Jammu"
+      "US Envoy Sergio Gor To Meet Omar Abdullah During 2-Day J&K, Ladakh Visit"
     ],
-    "last_updated": "2026-08-19 12:48:29 AM"
+    "last_updated": "2026-08-19 02:23:58 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 1,
+    "headlines": [
+      "US Envoy Sergio Gor To Meet Omar Abdullah During 2-Day J&K, Ladakh Visit"
+    ],
+    "last_updated": "2026-08-19 02:23:58 AM"
   }
 ]
