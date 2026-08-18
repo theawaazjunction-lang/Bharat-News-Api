@@ -4,18 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 37,
     "headlines": [
       "Barcelona sign Rodri from Man City: Spain captain joins star-studded squad",
       "Hockey World Cup: Dominant India crush South Africa 6-1 to go top of Group D",
       "Ex-AAP minister Satyendar Jain arrested in Delhi Jal Board corruption case",
-      "Delhi Police explains why cops wore civil clothes during Jantar Mantar protest",
       "30 Killed As Gold Mine Collapses In Central African Republic",
       "US Envoy Sergio Gor To Meet Omar Abdullah During 2-Day J&K, Ladakh Visit",
       "H1N1 cases on the rise, experts say no cause for alarm",
       "80% of Delhi is unplanned, fire preparedness ‘average’: Chief Fire Officer",
       "Student protests: Delhi Police affidavit in Supreme Court is rich with numbers, but quiet on fixing accountability",
-      "India's economic growth to slow to 6.8% FY27 amid West Asia crisis, El Nino impact",
       "Arvind Kejriwal says Satyendar Jain arrested at BJP's 'behest': 'Lies will be exposed again'",
       "Delhi court slams Gujarat cops for 'hanging' minor boy as 'bait' to make father surrender",
       "Hindu Sena chief files complaint against Sonia Gandhi over 'Vande Mataram' row",
@@ -46,7 +44,7 @@
       "In 1986, a 29-year-old teacher became the first woman to reach the North Pole",
       "Insecticide killed 97.91% of dengue mosquitoes; the tiny fraction that survived worries Delhi scientists"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "MH",
@@ -72,7 +70,7 @@
       "Shah Rukh Khan, Ajay Devgn, Tiger Shroff get Maharashtra FDA notice over Vimal Elaichi ad: Report",
       "Ranveer Singh starrer end-of-the-world action thriller Pralay, directed by Jai Mehta, goes on floors in Mumbai"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "KA",
@@ -93,7 +91,7 @@
       "Egypt boss Hossam Hassan ‘collapses’ as two wives clash in ugly hotel brawl",
       "After 1,800 km dash, reserves Surya-Pramuthesh endure golden point heartbreak"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "GJ",
@@ -110,23 +108,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 6,
-    "headlines": [
-      "BJP puts Vinod Tawde, who played role in Bihar win, in charge of UP",
-      "‘Detergent mistaken for salt’: 2 dozen students fall ill after mid-day meal in Bihar",
-      "Who is Vinod Tawde? BJP's Bihar strategist who cracked caste conundrum now in-charge of UP",
-      "Bihar teacher job aspirants seek TRE notification in 24 hours, threaten ‘gherao’ protest against education minister",
-      "AK-47 use during protest did not result in injury, Bihar govt tells Supreme Court",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "TN",
@@ -142,7 +124,22 @@
       "Tamil Nadu CM Vijay makes online registration mandatory for first sale of plots, flats: What it means",
       "'Could not be tolerated': DMK mouthpiece attacks Tamil Nadu CM Vijay, Trisha over I-day event"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
+    "headlines": [
+      "Pressers, meetings cancelled in Kolkata due to BJP pressure: CJP",
+      "Bengal hotel fire: Two owners held, death toll rises to nine",
+      "Woman, 53, dies as 200-yr-old Kolkata building portion collapses; 18 rescued",
+      "CJP's Ashutosh Ranka alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP leaders",
+      "Mahua Moitra vs Bengal officials intensifies, TMC MP moves privilege notice over late-night eviction bid"
+    ],
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "JH",
@@ -157,21 +154,22 @@
       "‘I have a blueprint’: What’s next for Jharkhand student leader Devendra Nath Mahto after ‘historic win’?",
       "Jharkhand exam irregularities protest likely to continue over CBI probe demand"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 4,
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 5,
     "headlines": [
-      "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
-      "Goa moves Supreme Court to enhance sentence of Tarun Tejpal in 2013 rape case",
-      "Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case",
-      "Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner"
+      "BJP puts Vinod Tawde, who played role in Bihar win, in charge of UP",
+      "Who is Vinod Tawde? BJP's Bihar strategist who cracked caste conundrum now in-charge of UP",
+      "Bihar teacher job aspirants seek TRE notification in 24 hours, threaten ‘gherao’ protest against education minister",
+      "AK-47 use during protest did not result in injury, Bihar govt tells Supreme Court",
+      "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "AP",
@@ -185,21 +183,7 @@
       "Visakhapatnam Collector inspects venues for BRICS Sports Ministers’ Meeting",
       "Exclusive building sought for BC Study Circle in Vizianagaram"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Bengal hotel fire: Two owners held, death toll rises to nine",
-      "Woman, 53, dies as 200-yr-old Kolkata building portion collapses; 18 rescued",
-      "CJP's Ashutosh Ranka alleges Kolkata meet cancelled after venue owners ‘threatened’ by BJP leaders",
-      "Mahua Moitra vs Bengal officials intensifies, TMC MP moves privilege notice over late-night eviction bid"
-    ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "KL",
@@ -213,7 +197,21 @@
       "‘They removed it themselves’: Kerala Home Minister on Meta news removal row",
       "13-year-old hires 3 friends to kill grandfather in Kerala, wanted iPhone, bike for boyfriend"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 4,
+    "headlines": [
+      "Goa moves SC, seeks life imprisonment for Tejpal for sex assault",
+      "Goa moves Supreme Court to enhance sentence of Tarun Tejpal in 2013 rape case",
+      "Goa govt moves Supreme Court, seeks life imprisonment for Tarun Tejpal in 2013 rape case",
+      "Goa nightclub fire: HC cancels bail granted to Luthra brothers, business partner"
+    ],
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "HR",
@@ -226,7 +224,7 @@
       "After Lathicharge Backlash, Haryana Government Reaches Understanding With Sikh Representatives",
       "57-year-old patient dies 2 days after rape in Haryana hospital"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "UP",
@@ -239,7 +237,7 @@
       "Madhya Pradesh: Investigators say NGO helped poach leopards to raise funds",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "TG",
@@ -252,7 +250,7 @@
       "EV ecosystem rapidly expanding in Uttar Pradesh, Karnataka & Telangana",
       "Ensure smooth cotton buy, Telangana tells CCI"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "OD",
@@ -265,7 +263,7 @@
       "Odisha court acquits Maoist leader Azad in 2008 Swami Laxmanananda murder case",
       "Odisha floods: Death toll rises to 13; schools shut across districts"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "UT",
@@ -277,7 +275,7 @@
       "Bodies of 2 missing workers recovered from Chamoli tunnel, toll rises to 10: Official",
       "Uttarakhand inundated tunnel toll rises to 9 as rescue operations continue"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "RJ",
@@ -289,7 +287,7 @@
       "More than 50% Cong tickets for Rajasthan local body polls should be given to Gen-Z: Ashok Gehlot",
       "Rajasthan woman lodges false case of rape of seven-year-old daughter by neighbour over land dispute, fined"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "JK",
@@ -301,7 +299,7 @@
       "US Envoy Sergio Gor To Meet Omar Abdullah During 2-Day J&K, Ladakh Visit",
       "Lawyers boycott work in J&K’s Poonch after ‘police search judge’s vehicle’"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "PB",
@@ -313,7 +311,7 @@
       "Raja Warring In Spotlight After Another Congress Leader Questions Leadership",
       "To Beat AAP, Three Musketeers to Sail BJP's Boat In Punjab"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "MN",
@@ -325,7 +323,7 @@
       "Manipur government team to rush to Delhi amid bandh against Census without NRC",
       "Manipur: Chief of banned outfit, 46 cadres surrender with arms before CM"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "CT",
@@ -336,7 +334,7 @@
     "headlines": [
       "Chhattisgarh couple found hacked to death at home; son is prime suspect: Police"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "AS",
@@ -347,7 +345,7 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "MP",
@@ -358,7 +356,7 @@
     "headlines": [
       "₹1.20 crore for testicles: How an Instagram reel led to teen boy's murder in Bhopal"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "TR",
@@ -369,7 +367,7 @@
     "headlines": [
       "Former Tripura CM Manik Sarkar threatens ‘militant protest’; booked: Officials"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   },
   {
     "Code": "LA",
@@ -380,6 +378,6 @@
     "headlines": [
       "US Envoy Sergio Gor To Meet Omar Abdullah During 2-Day J&K, Ladakh Visit"
     ],
-    "last_updated": "2026-08-19 04:25:20 AM"
+    "last_updated": "2026-08-19 05:17:47 AM"
   }
 ]
