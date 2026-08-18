@@ -1,92 +1,129 @@
 import asyncio
 import aiohttp
 import feedparser
-import json
-import os
-import sys
+import re
+from urllib.parse import urlparse
 
-# List of Reliable RSS Feeds (India Specific)
-RSS_FEEDS = [
-    "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",       
-    "https://feeds.feedburner.com/NDTV-LatestNews",
-    "https://www.ndtv.com/rss/top-stories",                             
-    "https://www.indiatoday.in/rss/1206584",                            
-    "https://www.indiatoday.in/rss/1206578",
-    "https://indianexpress.com/section/india/feed/",                    
-    "https://www.thehindu.com/news/national/feeder/default.rss",         
-    "https://indianexpress.com/feed/",
-    "https://www.firstpost.com/commonfeeds/v1/mfp/rss/web-stories.xml",
-    "https://www.business-standard.com/rss/latest.rss",
-    "https://www.thetimesofbengal.com/feed/",
-    "https://www.headlinesoftoday.com/feed/",
-    "https://prod-qt-images.s3.amazonaws.com/production/thequint/feed.xml",
-    "https://crowdwisdom.live/feed/",
-    "https://newstodaynet.com/feed/",
-    "https://www.opindia.com/feed/",
-    "https://feeds.indiasnews.net/rss/701ee96610c884a6",
-    "https://techgenyz.com/feed/",
-    "https://news.abplive.com/home/feed",
-    "https://apnlive.com/feed/",
-    "https://thenewsmill.com/feed/",
-    "https://prod-qt-images.s3.amazonaws.com/production/nationalherald/feed.xml",
-    "https://prod-qt-images.s3.amazonaws.com/production/freepressjournal/feed.xml",
-    "https://www.india.com/feed/",
-    "https://tfipost.com/feed/",
-    "https://www.thehindubusinessline.com/?service=rss",
-    "https://thebetterindia.com/rss",
-    "https://www.siasat.com/feed/",
-    "https://www.oneindia.com/rss/news-india-fb.xml",
-    "https://organiser.org/feed/",
-    "https://news1india.in/feed/",
-    "https://timesofindia.indiatimes.com/rssfeedmostrecent.cms",
-    "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
-    "https://feeds.feedburner.com/ndtvnews-top-stories",
-    "https://feeds.feedburner.com/ndtvnews-latest",
-    "https://feeds.feedburner.com/ndtvnews-india-news",
-    "https://www.hindustantimes.com/feeds/rss/cities/kolkata-news/rssfeed.xml",
-    "https://indianexpress.com/feed/",
-    "https://www.thehindu.com/news/national/feeder/default.rss"
-]
+RSS_FEEDS = {
+    "general": [
+        "https://timesofindia.indiatimes.com/rssfeedstopstories.cms",
+        "https://feeds.feedburner.com/ndtvnews-top-stories",
+        "https://www.ndtv.com/rss/top-stories",
+        "https://indianexpress.com/section/india/feed/",
+        "https://www.thehindu.com/news/national/feeder/default.rss",
+        "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
+    ],
+    "business": [
+        "https://www.business-standard.com/rss/latest.rss",
+        "https://www.thehindubusinessline.com/?service=rss",
+        "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
+    ],
+    "sports": [
+        "https://sports.ndtv.com/rss/all",
+        "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
+    ],
+    "technology": [
+        "https://www.gadgets360.com/rss/news",
+        "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+    ],
+    "entertainment": [
+        "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+        "https://www.bollywoodhungama.com/rss/news.xml",
+    ],
+    "health": [
+        "https://timesofindia.indiatimes.com/rssfeeds/3908999.cms",
+        "https://www.ndtv.com/health/rss",
+    ],
+    "science": [
+        "https://timesofindia.indiatimes.com/rssfeeds/-2128672765.cms",
+    ],
+}
 
-async def fetch_feed(session, url):
-    """Fetches a single feed asynchronously and parses the text."""
+def clean_html(raw):
+    if not raw:
+        return ""
+    return re.sub('<[^<]+?>', '', raw).strip()
+
+def get_image(entry):
     try:
-        # A 10-second timeout ensures one dead server doesn't hang your pipeline
+        if hasattr(entry, 'media_content') and entry.media_content:
+            url = entry.media_content[0].get('url')
+            if url:
+                return url
+    except Exception:
+        pass
+    try:
+        if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+            url = entry.media_thumbnail[0].get('url')
+            if url:
+                return url
+    except Exception:
+        pass
+    try:
+        if hasattr(entry, 'enclosures') and entry.enclosures:
+            for enc in entry.enclosures:
+                href = enc.get('href') or enc.get('url')
+                if href and 'image' in enc.get('type', ''):
+                    return href
+            href = entry.enclosures[0].get('href') or entry.enclosures[0].get('url')
+            if href:
+                return href
+    except Exception:
+        pass
+    return None
+
+async def fetch_feed(session, url, category):
+    try:
         async with session.get(url, timeout=10) as response:
-            if response.status == 200:
-                text = await response.text()
-                
-                # Parse the raw XML string asynchronously
-                feed = feedparser.parse(text)
-                
-                if feed.bozo:
-                    return []
-                
-                articles = []
-                for entry in feed.entries:
-                    title = entry.title if 'title' in entry else ""
-                    description = entry.summary if 'summary' in entry else ""
-                    articles.append({"title": title, "description": description})
-                
-                print(f"  -> Found {len(articles)} articles from {url}")
-                return articles
-            else:
+            if response.status != 200:
                 print(f"  Warning: {response.status} from {url}")
                 return []
+            text = await response.text()
+            feed = feedparser.parse(text)
+            if feed.bozo and not feed.entries:
+                return []
+            source_name = ""
+            try:
+                source_name = feed.feed.get('title', '')
+            except Exception:
+                pass
+            if not source_name:
+                source_name = urlparse(url).netloc
+
+            articles = []
+            for entry in feed.entries:
+                title = entry.title if 'title' in entry else ""
+                if not title:
+                    continue
+                description = clean_html(entry.summary) if 'summary' in entry else ""
+                articles.append({
+                    "title": title.strip(),
+                    "description": description[:300],
+                    "url": entry.link if 'link' in entry else "",
+                    "urlToImage": get_image(entry),
+                    "publishedAt": entry.get('published', entry.get('updated', '')),
+                    "source": source_name,
+                    "category": category,
+                })
+            print(f"  -> Found {len(articles)} articles from {url}")
+            return articles
     except Exception as e:
         print(f"  Error connecting to {url}: {e}")
         return []
 
 async def get_all_news():
-    print(f"🚀 Concurrently fetching {len(RSS_FEEDS)} news feeds...")
-    articles_list = []
-    
-    async with aiohttp.ClientSession() as session:
-        tasks = [fetch_feed(session, url) for url in RSS_FEEDS]
-        results = await asyncio.gather(*tasks)
-        for result in results:
-            articles_list.extend(result)
+    tasks_meta = [(url, cat) for cat, urls in RSS_FEEDS.items() for url in urls]
+    print(f"🚀 Fetching {len(tasks_meta)} feeds across {len(RSS_FEEDS)} categories...")
 
-    # Return the data directly to RAM, do not save to disk
-    print(f"✅ Fetched {len(articles_list)} articles.")
-    return {"articles": articles_list}
+    articles_list = []
+    articles_by_category = {cat: [] for cat in RSS_FEEDS.keys()}
+
+    async with aiohttp.ClientSession() as session:
+        tasks = [fetch_feed(session, url, cat) for url, cat in tasks_meta]
+        results = await asyncio.gather(*tasks)
+        for (url, cat), result in zip(tasks_meta, results):
+            articles_list.extend(result)
+            articles_by_category[cat].extend(result)
+
+    print(f"✅ Fetched {len(articles_list)} articles total.")
+    return {"articles": articles_list, "by_category": articles_by_category}
