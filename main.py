@@ -1,15 +1,22 @@
+from fastapi import FastAPI, HTTPException, Header
+from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+import os
+import json
+
+app = FastAPI(title="Bharat News API")
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+DATA_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
 CATEGORY_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "categories.json")
 
-@app.get("/api/news/category/{category}")
-async def get_news_by_category(category: str):
-    if not os.path.exists(CATEGORY_FILE):
-        raise HTTPException(status_code=404, detail="No category data yet.")
-    with open(CATEGORY_FILE, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    key = category.lower()
-    if key not in data:
-        raise HTTPException(status_code=404, detail=f"Unknown category: {category}")
-    return {"category": key, "last_updated": data.get("last_updated"), "articles": data[key]}
 @app.get("/favicon.ico", include_in_schema=False)
 async def favicon():
     return FileResponse("favicon.ico")
@@ -24,6 +31,17 @@ async def get_news():
         raise HTTPException(status_code=404, detail="No data yet.")
     with open(DATA_FILE, 'r', encoding='utf-8') as f:
         return json.load(f)
+
+@app.get("/api/news/category/{category}")
+async def get_news_by_category(category: str):
+    if not os.path.exists(CATEGORY_FILE):
+        raise HTTPException(status_code=404, detail="No category data yet.")
+    with open(CATEGORY_FILE, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    key = category.lower()
+    if key not in data:
+        raise HTTPException(status_code=404, detail=f"Unknown category: {category}")
+    return {"category": key, "last_updated": data.get("last_updated"), "articles": data[key]}
 
 @app.get("/api/news/{state_code}")
 async def get_news_by_state(state_code: str):
