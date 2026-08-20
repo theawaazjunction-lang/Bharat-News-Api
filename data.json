@@ -4,17 +4,20 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 37,
+    "news_count": 34,
     "headlines": [
-      "Delhi: Authorities removed security cordon outside Pak High Commission in Delhi",
+      "Delhi removes Pak high commission's barricades after similar gesture by Islamabad",
+      "South Korea rejects Trump's claim; estimates Kim Jong Un has 80-120 nuclear weapons",
       "Oil price today: Crude remains above $90 as Hormuz operations remain disrupted",
       "CBI insignia, fake IDs: How Delhi bizman’s wife foiled ‘Special 26’-style raid",
       "At least 100 killed after illegal gold mine collapses in Central African Republic",
-      "Former wrestler arrested in Delhi opium case; claims drug use in ‘akhadas’",
-      "Ecuador Intel Chief, Wife, 5 Americans Killed In Kenya Helicopter Crash",
-      "23-Year-Old Arrested For Smuggling Illicit Liquor In Delhi",
-      "Jharkhand BJP leaders meet Amit Shah in New Delhi",
+      "Ecuador Intel Chief, Wife, 5 Americans Killed In Kenya Tourist Helicopter Crash",
+      "Bill passed to bridge organ demand-supply gap and curb trafficking in Andhra Pradesh",
       "India to build hospital in West Bank; seeks to deploy field hospital in Gaza",
+      "Jharkhand BJP leaders meet Amit Shah in New Delhi",
+      "‘Manan, it’s done bro’: Under one month of ending Delhi protest, why CJP is seeking another resignation",
+      "Kolkata hotel fire: B’deshi journalist, kin had come for treatment",
+      "Nabin to meet new teams; rejigs likely in apex bodies",
       "India removes safety barricades, bollards outside Pakistan High Commission in Delhi",
       "Amit Shah meets Tamil Nadu's Vijay ahead of meeting with other chief ministers of South states",
       "Study maps 60,000 sq km high-density corridor in India for endangered Lesser Florican",
@@ -27,32 +30,27 @@
       "3 killed in mysterious gas tank blast at CNG station in Delhi's Tikri Kalan",
       "Cabinet approves 4 multitracking railway projects covering 8 districts",
       "Rocket launchers linked to terrorists being destroyed in Delhi: Report",
-      "Delhi HC to hear on Sep 2 India Kanoon's pleas against single judge's 'right to be forgotten' order",
-      "Delhi govt withdraws order barring Class 10 board exam on R3 paper failure",
-      "SC to examine probe records of Abhishek Banerjee’s PA days after staying arrest",
+      "Crude oil price: Futures rise as UAE suspends economic ties with Iran",
       "Depression defies forecasts, keeps monsoon pipeline flowing in north and east",
-      "Maritime disruptions in West Asia, drone attacks on Russian ports pushing up premium on crude oil",
-      "West Bengal govt enforcing \"zero tolerance\" for unsafe construction, says Urban Development Minister Agnimitra Paul",
-      "India deepens Taliban engagement, but formal recognition still on hold",
-      "Rupee falls to a 3-week low of 95.71, raising financial concerns",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "'Speechless' Garret Tan silences Lakshya Sen and Delhi crowd at BWF World C'ships",
-      "South Indian movies arriving on OTT and theatre this week",
+      "Former wrestler arrested in Delhi opium case; claims drug use in ‘akhadas’",
       "Kala Hiran producer Amit Jani challenges Delhi HC order on Salman Khan’s personality rights in Supreme Court",
       "Amitabh Bachchan leases three Andheri floors to TruNativ for Rs 33 lakhs monthly rent: Report",
       "EXCLUSIVE: Kartik Aaryan joined by Qarib Qarib Single actress Parvathy Thiruvothu in Captain India; shooting begins next month"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 18,
+    "news_count": 19,
     "headlines": [
+      "Deaths caused by snakebites a ‘notifiable disease’ says Maharashtra Health Minister Prakash Abitkar",
       "Mumbai Cybercrime police arrest two from Bihar, Jharkhand in ₹48.60 lakh Boss scam",
       "FDA suspends license of Mumbai's Otters Club over analogue paneer; Crackdown on several other establishments across Maharashtra",
       "Maharashtra FDA suspends licences of two online food delivery facilities",
@@ -72,44 +70,63 @@
       "Shah Rukh Khan, Ajay Devgn, Tiger Shroff get Maharashtra FDA notice over Vimal Elaichi ad: Report",
       "Ranveer Singh starrer end-of-the-world action thriller Pralay, directed by Jai Mehta, goes on floors in Mumbai"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 9,
-    "headlines": [
-      "Southern Zonal Council to meet near Mamallapuram on August 20",
-      "Chennai is the symbol of religious harmony, says T.N. Assembly Speaker J.C.D. Prabhakar",
-      "Vijay announces cars,  ₹1 lakh allowance for all Tamil Nadu MLAs",
-      "'Good sense prevails': CJP after Tamil Nadu CM Vijay's govt withdraws order against student protest",
-      "‘Will reveal corruption files… don’t force me': Tamil Nadu CM Vijay warns DMK over claims of irregularities",
-      "No caste-based discrimination of devotees at places of worship: Madras High Court",
-      "Tamil Nadu CM Vijay announces  ₹3 per litre hike in procurement price of Aavin milk",
-      "Cabinet approves 4 multitracking railway projects covering 8 districts",
-      "₹75,000 monthly vehicle allowance,  ₹25,000 for office work: TM CM Vijay announces new ‘support measures’ for MLAs"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 8,
+    "news_count": 11,
     "headlines": [
+      "Love Crosses Borders: Meet Scottish MP, Indian Woman Who Married At Kerala Temple",
+      "Kerala HC grants State govt 6 weeks to report on filling vacancies in Waqf Board",
       "One more arrested in Payyannur gold robbery case",
       "91 local bodies to compete in Pookalam contest in Keralam’s Kozhikode",
       "Synthetic drug trafficking case: Excise arrests seven more in Keralam’s Kozhikode",
       "‘Beyond Words’ photo exhibition begins in Keralam’s Kozhikode",
       "From an Odisha labourer to engineering graduate; Rinku Uthan Singh achieves his goal",
       "Carrying capacity study of hill stations in Keralam remains incomplete",
-      "₹6 crore allotted for parking lot near Mangalavanam, Kerala High Court told",
-      "Man falls unconscious near Kerala Lok Bhavan, Governor Arlekar rushes to his aid"
+      "Will fight allegations legally and politically: Riyas after ED raids",
+      "Man falls unconscious near Kerala Lok Bhavan, Governor Arlekar rushes to his aid",
+      "The Sanju Samson void and search for Kerala’s next T20 star"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 8,
+    "headlines": [
+      "Southern Zonal Council to meet near Mamallapuram on August 20",
+      "Vijay announces cars,  ₹1 lakh allowance for all Tamil Nadu MLAs",
+      "'Good sense prevails': CJP after Tamil Nadu CM Vijay's govt withdraws order against student protest",
+      "‘Will reveal corruption files… don’t force me': Tamil Nadu CM Vijay warns DMK over claims of irregularities",
+      "No caste-based discrimination of devotees at places of worship: Madras High Court",
+      "Tamil Nadu CM Vijay announces  ₹3 per litre hike in procurement price of Aavin milk",
+      "Cabinet approves 4 multitracking railway projects covering 8 districts",
+      "Amit Shah to chair 31st Southern Zonal Council meeting in Tamil Nadu today"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 7,
+    "headlines": [
+      "Dharwad bans PoP Ganesh idols, announces ₹1 lakh fine for excessive DJ sound",
+      "Three men held for possessing and transporting explosives in Belagavi district",
+      "Karnataka State Human Rights Commission team visits Hanur to probe death of three suspected poachers",
+      "Karnataka govt. defends Nagendra’s inclusion in Ministry, as Opposition continues to disrupt House proceedings",
+      "‘He will not resign’: Cong backs min Nagendra over fund fraud",
+      "Govt to constitute SIT to probe fake medicine network: Min",
+      "Karnataka extends social security pensions to eligible beneficiaries earning up to ₹1.20 lakh"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "TG",
@@ -118,46 +135,29 @@
     "State": "Telangana",
     "news_count": 6,
     "headlines": [
-      "Hyderabad principal stabbed 27 times: How last ‘Babu’ call exposed Class 10 killers",
+      "Hyderabad principal stabbed 27 times: How last ‘babu’ call exposed Class 10 killers",
       "Bandi Sanjay Announces Free Power For Telangana's Karimnagar Ganesh Pandals",
       "ACB finds irregularities in Karimnagar civic body town planning section",
       "Class 10 student stabs principal 27 times after getting caught stealing money in Telangana",
-      "AWS announces new Builder Loft in Hyderabad to boost developer community",
-      "QualityKiosk Establishes Hyderabad Engineering Hub to Advance AI Reliability, Agentic Engineering and AI Assurance for Global Enterprises"
+      "TN CM calls on Amit Shah, meeting of southern CMs to deliberate key issues",
+      "AWS announces new Builder Loft in Hyderabad to boost developer community"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 6,
-    "headlines": [
-      "35 Bihar students hospitalised after detergent allegedly mistaken for salt in mid-day meal",
-      "Union cabinet clears  ₹3,591 crore project to widen Bihar’s NH-22 to four lanes",
-      "AAP attacks govt after detergent fed to students in Bihar mid-day meal: ‘What could be more shameful?’",
-      "Bihar cops use water cannons on march led by Tejashwi Yadav over paper leak, unemployment",
-      "Cook adds detergent, not salt, in Bihar mid-day meal; many students hospitalised",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "JH",
     "Lat": 23.6102,
     "Long": 85.2799,
     "State": "Jharkhand",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "Mumbai Cybercrime police arrest two from Bihar, Jharkhand in ₹48.60 lakh Boss scam",
       "JPSC-JSSC Reform Manch calls off stir after Jharkhand govt scraps 22 recruitment exams",
       "Jharkhand BJP leaders meet Amit Shah in New Delhi",
       "Jharkhand students pause stir for 60 days after exams cancelled",
-      "At least 44 recruitment exams, including JSSC, JPSC cancelled in Jharkhand amid student protests | Full list",
       "Depression defies forecasts, keeps monsoon pipeline flowing in north and east"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "WB",
@@ -166,107 +166,54 @@
     "State": "West Bengal",
     "news_count": 5,
     "headlines": [
+      "Kolkata hotel fire: Leaseholder of Hotel Shikha Inn Abu Zafar arrested",
       "9 suffocate to death in sleep in Kolkata lodge fire, 5 Bangladeshis among them",
+      "Kolkata hotel fire: B’deshi journalist, kin had come for treatment",
       "Night of smoke, darkness, desperate escape: Survivors recount Kolkata hotel fire ordeal",
-      "5 Bangladeshis among 9 dead in Kolkata hotel fire on Mirza Ghalib St: Officials",
-      "SC to examine probe records of Abhishek Banerjee’s PA days after staying arrest",
-      "West Bengal govt enforcing \"zero tolerance\" for unsafe construction, says Urban Development Minister Agnimitra Paul"
+      "5 Bangladeshis among 9 dead in Kolkata hotel fire on Mirza Ghalib St: Officials"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 4,
-    "headlines": [
-      "Spurious liquor kills 4 in ‘dry’ Gujarat; 4 bootleggers caught",
-      "Four dead, 19 hospitalised after consuming spurious liquor in Gujarat: Police",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 4,
-    "headlines": [
-      "Pakistan whines, summons top diplomat over US envoy Gor's J&amp;K remark in Srinagar",
-      "US ambassador calls J&K ‘important part of India’, Pak summons top diplomat to register protest",
-      "Srinagar mayor Aarti Bhandari, 10 councillors join BJP in Uttarakhand",
-      "US envoy Sergio Gor calls J&K ‘important part of India’, says travel advisories will be reconsidered"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "Wedding photography drones near Bareilly Air Force station raise safety concerns",
-      "‘Carry Jantar Mantar momentum forward’: AISA announces Gen-Z yatra in Uttar Pradesh over education, jobs",
-      "Amazon fined  ₹1 lakh over misleading ‘Ram Mandir Prasad’ sweets listing",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "Manipur shuts all educational institutions from Aug 20 to 23 amid unrest",
-      "Protest over census escalates in Manipur amid call to boycott govt institutions",
-      "Rocket launchers linked to terrorists being destroyed in Delhi: Report"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 3,
-    "headlines": [
-      "Ladakh representatives draw the hard line: Give us an assembly, drop cases",
-      "Ladakh civil society groups submit list of non-negotiable points to MHA officials, Chief Secretary in Leh",
-      "‘We are Gen Z’ is the new ‘jaante nahi mera baap kaun hai’: Omar Abdullah on viral Kargil video of woman"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 3,
-    "headlines": [
-      "Srinagar mayor Aarti Bhandari, 10 councillors join BJP in Uttarakhand",
-      "Mud, slush accumulate in Uttarkashi tunnel due to seepage, raise safety concerns",
-      "Chamoli tunnel incident toll rises to 11 as rescue operations end"
-    ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "OD",
     "Lat": 20.9517,
     "Long": 85.0985,
     "State": "Odisha",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
       "BJD demands extension of claims and objections period under SIR by 30 days in Odisha",
       "From an Odisha labourer to engineering graduate; Rinku Uthan Singh achieves his goal",
+      "Supreme Court tells Odisha government to take a call on Graham Staines murder convict’s remission plea",
       "248 students rescued from flood-hit school in Odisha after 4 days: Official"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "35 Bihar students hospitalised after detergent allegedly mistaken for salt in mid-day meal",
+      "Union cabinet clears  ₹3,591 crore project to widen Bihar’s NH-22 to four lanes",
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 3,
+    "headlines": [
+      "US ambassador calls J&K ‘important part of India’, Pak summons top diplomat to register protest",
+      "Srinagar mayor Aarti Bhandari, 10 councillors join BJP in Uttarakhand",
+      "US envoy Sergio Gor calls J&K ‘important part of India’, says travel advisories will be reconsidered"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "HR",
@@ -279,32 +226,59 @@
       "National-level wrestler arrested in drug smuggling case after 3-year manhunt",
       "Fuel coupons worth  ₹1,000, rain and chaos: Why a ‘petrol langar’ in Chandigarh left people fuming"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 3,
     "headlines": [
-      "Karnataka State Human Rights Commission team visits Hanur to probe death of three suspected poachers",
-      "Karnataka govt. defends Nagendra’s inclusion in Ministry, as Opposition continues to disrupt House proceedings",
-      "Karnataka extends social security pensions to eligible beneficiaries earning up to ₹1.20 lakh"
+      "Bill passed to bridge organ demand-supply gap and curb trafficking in Andhra Pradesh",
+      "Cabinet approves 4 multitracking railway projects covering 8 districts",
+      "TN CM calls on Amit Shah, meeting of southern CMs to deliberate key issues"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 3,
     "headlines": [
-      "Boy makes female classmates drink water mixed with urine in MP; principal tells them to ‘eat chocolate’",
-      "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
+      "Srinagar mayor Aarti Bhandari, 10 councillors join BJP in Uttarakhand",
+      "Mud, slush accumulate in Uttarkashi tunnel due to seepage, raise safety concerns",
+      "Chamoli tunnel incident toll rises to 11 as rescue operations end"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "Ladakh civil society groups submit list of non-negotiable points to MHA officials, Chief Secretary in Leh",
+      "Leh and Kargil bodies submit non-negotiable points to MHA officials",
+      "‘We are Gen Z’ is the new ‘jaante nahi mera baap kaun hai’: Omar Abdullah on viral Kargil video of woman"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 3,
+    "headlines": [
+      "Manipur shuts all educational institutions from Aug 20 to 23 amid unrest",
+      "Protest over census escalates in Manipur amid call to boycott govt institutions",
+      "Rocket launchers linked to terrorists being destroyed in Delhi: Report"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "PB",
@@ -316,29 +290,55 @@
       "Congress backs two-stanza Vande Mataram; launches campaign against Ram temple funds row",
       "Fuel coupons worth  ₹1,000, rain and chaos: Why a ‘petrol langar’ in Chandigarh left people fuming"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 2,
     "headlines": [
-      "‘Ignored safety, fled to Phuket’: Why HC cancelled bail to Goa nightclub owners"
+      "Wedding photography drones near Bareilly Air Force station raise safety concerns",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 2,
+    "headlines": [
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "CT",
     "Lat": 21.2787,
     "Long": 81.8661,
     "State": "Chhattisgarh",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "South Korea rejects Trump's claim; estimates Kim Jong Un has 80-120 nuclear weapons",
       "Chhattisgarh man rapes 16-yr-old daughter, sells her son for  ₹1.5 lakh: Cop"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 2,
+    "headlines": [
+      "Statues vandalised, vehicles torched after students rally turns violent in Meghalaya",
+      "Meghalaya student rally degenerates into violence; vehicles set ablaze"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "CH",
@@ -349,18 +349,18 @@
     "headlines": [
       "Fuel coupons worth  ₹1,000, rain and chaos: Why a ‘petrol langar’ in Chandigarh left people fuming"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 1,
     "headlines": [
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "‘Ignored safety, fled to Phuket’: Why HC cancelled bail to Goa nightclub owners"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "AR",
@@ -371,29 +371,51 @@
     "headlines": [
       "Confusion at Arunachal Pradesh arises as border with China not demarcated: Kiren Rijiju"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 1,
     "headlines": [
-      "Cabinet approves 4 multitracking railway projects covering 8 districts"
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
+    "Code": "AN",
+    "Lat": 11.7401,
+    "Long": 92.6586,
+    "State": "Andaman and Nicobar Islands",
     "news_count": 1,
     "headlines": [
-      "Statues vandalised, vehicles torched after students rally turns violent in Meghalaya"
+      "Amit Shah to chair 31st Southern Zonal Council meeting in Tamil Nadu today"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
+  },
+  {
+    "Code": "LD",
+    "Lat": 10.0,
+    "Long": 73.0,
+    "State": "Lakshadweep",
+    "news_count": 1,
+    "headlines": [
+      "Amit Shah to chair 31st Southern Zonal Council meeting in Tamil Nadu today"
+    ],
+    "last_updated": "2026-08-20 10:48:22 AM"
   },
   {
     "Code": "RJ",
@@ -404,6 +426,6 @@
     "headlines": [
       "Cancer drugs provided under Rajasthan govt scheme sold in black market; probe ordered"
     ],
-    "last_updated": "2026-08-20 08:42:58 AM"
+    "last_updated": "2026-08-20 10:48:22 AM"
   }
 ]
