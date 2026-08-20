@@ -13,7 +13,6 @@
       "Wider engagement with universities and youth can bring new, unconventional ideas: PM Modi after high-level meeting",
       "Only two districts have received normal southwest monsoon in Karnataka",
       "Home Minister calls for early resolution of pending water-related issues in south India",
-      "Sajjan Kumar, former Congress MP convicted in anti-Sikh riots case, is dead",
       "Sajjan Kumar: From Congress veteran to convict",
       "Mirza Fakhrul Islam Alamgir to be next Bangladesh President: Good or bad news for India, Sheikh Hasina?",
       "Himanta Biswa Sarma meets PM Modi in Delhi; discusses Assam floods, rehabilitation",
@@ -26,6 +25,7 @@
       "Ex-Congress MP Sajjan Kumar, jailed in 1984 anti-Sikh riots case, dies",
       "Clothes with CBI badge, fake IDs: ‘Special 26’ style raid busted in Delhi",
       "‘Manan, it’s done bro’: Within a month of ending Delhi protest, why CJP is seeking another resignation",
+      "Welspun Corp wins record ₹17,200-crore US pipe supply order",
       "Former ISRO Chairman Panicker appointed Director on RBI’s Central Board; Anand Mahindra re-appointed",
       "India permits import of 1 million tonne raw sugar duty-free",
       "Levi’s bets on India beyond jeans as women’s wear, premium products drive growth",
@@ -40,7 +40,7 @@
       "Amitabh Bachchan leases three Andheri floors to TruNativ for Rs 33 lakhs monthly rent: Report",
       "EXCLUSIVE: Kartik Aaryan joined by Qarib Qarib Single actress Parvathy Thiruvothu in Captain India; shooting begins next month"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "MH",
@@ -65,14 +65,14 @@
       "Vimal Elaichi ad row explained: Why Shah Rukh Khan, Ajay Devgn and Tiger Shroff got FDA notices?",
       "Shah Rukh Khan, Ajay Devgn, Tiger Shroff get Maharashtra FDA notice over Vimal Elaichi ad: Report"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 9,
+    "news_count": 8,
     "headlines": [
       "Fungus In Vegetables, Expired Products Found At 36 Train Stations In Karnataka",
       "Barracuda Networks opens five cybersecurity COEs in Karnataka",
@@ -81,42 +81,9 @@
       "Mekedatu will help farmers of TN, says Karnataka CM",
       "Only two districts have received normal southwest monsoon in Karnataka",
       "Karnataka Assembly adopts BDA Bill to reduce regularisation charges for 1.11 lakh houses",
-      "SC’s 5:4 verdict refines 48-yr-old ‘industry’ test but protects pending disputes",
-      "Dubai Chambers signs two MoUs in Bengaluru to boost agentic AI, India ties"
+      "SC’s 5:4 verdict refines 48-yr-old ‘industry’ test but protects pending disputes"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 6,
-    "headlines": [
-      "Death Count Rises To 8 In Gujarat Toxic Liquor Case, 39 Being Treated",
-      "Gujarat SMC arrests 13, detains MP-based key suspect for toxic liquor that killed 7",
-      "Gujarat spurious liquor case: Toll rises to 6; over 25 hospitalised in Bhavnagar",
-      "Former ISRO Chairman Panicker appointed Director on RBI’s Central Board; Anand Mahindra re-appointed",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-08-21 04:30:13 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
-      "Leopard, caught in wild boar trap, dies in Keralam’s Kannur",
-      "3 American tourists lose bags in Kerala auto, get them back 3 days later",
-      "Scottish politician Martyn Day marries India-born wife Nidhin Chand again in Kerala temple ceremony",
-      "HealthEdge® Expands India Footprint with New Thiruvananthapuram Campus, Deepening Commitment to Technology Innovation and Growth in Kerala",
-      "'Jailer 2' first song 'Ala Bolelo' promo sparks debate over Malayalam pronunciation"
-    ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "UP",
@@ -132,7 +99,23 @@
       "Sugar stocks Bajaj Hindusthan Sugar, Balrampur Chini, others rally up to 8% after govt tightens stock limits",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 6,
+    "headlines": [
+      "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
+      "Leopard, caught in wild boar trap, dies in Keralam’s Kannur",
+      "3 American tourists lose bags in Kerala auto, get them back 3 days later",
+      "Scottish politician Martyn Day marries India-born wife Nidhin Chand again in Kerala temple ceremony",
+      "HealthEdge® Expands India Footprint with New Thiruvananthapuram Campus, Deepening Commitment to Technology Innovation and Growth in Kerala",
+      "'Jailer 2' first song 'Ala Bolelo' promo sparks debate over Malayalam pronunciation"
+    ],
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "JH",
@@ -147,7 +130,22 @@
       "Jharkhand high court stays govt notification cancelling appointments from 11th, 13th JPSC exam",
       "Jharkhand to roll out action plan to prevent disaster losses"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
+    "headlines": [
+      "Gujarat SMC arrests 13, detains MP-based key suspect for toxic liquor that killed 7",
+      "Gujarat spurious liquor case: Toll rises to 6; over 25 hospitalised in Bhavnagar",
+      "Former ISRO Chairman Panicker appointed Director on RBI’s Central Board; Anand Mahindra re-appointed",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "TN",
@@ -162,7 +160,7 @@
       "TVK's Vijay hits 100 as Tamil Nadu CM, then goes on a hard-hitting spree with bills",
       "Sri Lanka emerges as alternative manufacturing base for Tamil Nadu apparel makers"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "AS",
@@ -176,7 +174,7 @@
       "Hundreds stranded as Assam cab drivers block highway to protest Shillong violence",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "LA",
@@ -190,7 +188,7 @@
       "'Gen Z' woman in viral Ladakh video breaks silence, says clip not correct",
       "Ladakh to get J&K High Court bench, easing access to justice"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "PB",
@@ -204,7 +202,7 @@
       "BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'",
       "Gill’s eye for talent: How a Mohali youngster’s life changed after one net session"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "ML",
@@ -218,7 +216,7 @@
       "Hundreds stranded as Assam cab drivers block highway to protest Shillong violence",
       "Meghalaya student rally degenerates into violence; vehicles set ablaze"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "MN",
@@ -232,7 +230,7 @@
       "10 injured as security forces stop Manipur protest over killing of 6 Nagas",
       "Manipur schools, colleges shut amid tensions over demands for NRC before Census"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "TG",
@@ -246,33 +244,7 @@
       "Son of Jana Sena MP booked after his Aston Martin kills woman in Hyderabad",
       "Telangana minister's daughter challenges CM Revanth Reddy: ‘Who is he to decide my ticket?’"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "FIR Against Meesho As Gurugram Teen Dead After Consuming Chemical He Bought Online",
-      "Faridabad Couple Pours Boiling Water On Woman, Locks Her In Room For Days",
-      "Euler Motors expands Palwal facility to manufacture commercial four-wheelers"
-    ],
-    "last_updated": "2026-08-21 04:30:13 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 3,
-    "headlines": [
-      "Odisha plans to scrap revenue clearance for urban land-use conversion",
-      "Back-to-back floods: How a relentless monsoon is testing Odisha",
-      "Odisha floods: ASHA worker carries elderly woman to safety on back"
-    ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "CT",
@@ -285,7 +257,46 @@
       "ED searches Congress leader Ram Gopal Agrawal’s Dhamtari home in liquor case",
       "Chhattisgarh forest dept seeks CBI probe into tiger poaching involving Maha cops"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Over 11.18 lakh permanent houses to be built in Bihar under PMAY-G, says Shivraj Singh Chouhan",
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
+    ],
+    "last_updated": "2026-08-21 05:24:52 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "FIR Against Meesho As Gurugram Teen Dead After Consuming Chemical He Bought Online",
+      "Faridabad Couple Pours Boiling Water On Woman, Locks Her In Room For Days",
+      "Euler Motors expands Palwal facility to manufacture commercial four-wheelers"
+    ],
+    "last_updated": "2026-08-21 05:24:52 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Odisha plans to scrap revenue clearance for urban land-use conversion",
+      "Back-to-back floods: How a relentless monsoon is testing Odisha",
+      "Odisha floods: ASHA worker carries elderly woman to safety on back"
+    ],
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "JK",
@@ -298,7 +309,7 @@
       "Need for phones with 8 GB RAM raises concern among Census enumerators in J&K",
       "No last-minute call and 2800 km dash: Qamran Iqbal ready for Duleep Trophy challenge"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "WB",
@@ -310,19 +321,7 @@
       "Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged",
       "Brazil officials inspect Kolkata stadium ahead of historic India clash"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
-    ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "AP",
@@ -333,7 +332,7 @@
     "headlines": [
       "UKG student dies after alleged assault by teacher at Visakhapatnam school"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "GA",
@@ -344,7 +343,7 @@
     "headlines": [
       "BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "MP",
@@ -355,7 +354,7 @@
     "headlines": [
       "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "MZ",
@@ -366,7 +365,7 @@
     "headlines": [
       "Once a rebel, ex-Mizoram CM Zoramthanga finally collects his degree 60 yrs later"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   },
   {
     "Code": "UT",
@@ -377,6 +376,6 @@
     "headlines": [
       "Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing"
     ],
-    "last_updated": "2026-08-21 04:30:13 AM"
+    "last_updated": "2026-08-21 05:24:52 AM"
   }
 ]
