@@ -6,8 +6,8 @@
     "State": "Delhi",
     "news_count": 33,
     "headlines": [
-      "6.6-magnitude earthquake strikes central Peru",
       "8-0 becomes 8-1: 'Impatient' PV Sindhu falls to cramping Wang Zhi Yi in epic duel",
+      "6.6-magnitude earthquake strikes central Peru",
       "Canadian wildfires cut solar power by 6.38 TWh, caused $1.9bn loss in 2023",
       "Amit Shah hails South's development in CMs meet, cites 3 pillars of progress",
       "East Bengal break 40-year-old record, register India’s biggest-ever win in Asia",
@@ -40,7 +40,7 @@
       "Amitabh Bachchan leases three Andheri floors to TruNativ for Rs 33 lakhs monthly rent: Report",
       "EXCLUSIVE: Kartik Aaryan joined by Qarib Qarib Single actress Parvathy Thiruvothu in Captain India; shooting begins next month"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "MH",
@@ -65,14 +65,14 @@
       "Vimal Elaichi ad row explained: Why Shah Rukh Khan, Ajay Devgn and Tiger Shroff got FDA notices?",
       "Shah Rukh Khan, Ajay Devgn, Tiger Shroff get Maharashtra FDA notice over Vimal Elaichi ad: Report"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 11,
+    "news_count": 10,
     "headlines": [
       "Fungus In Vegetables, Expired Products Found At 36 Train Stations In Karnataka",
       "Barracuda Networks opens five cybersecurity COEs in Karnataka",
@@ -82,28 +82,10 @@
       "Only two districts have received normal southwest monsoon in Karnataka",
       "Karnataka Assembly adopts BDA Bill to reduce regularisation charges for 1.11 lakh houses",
       "Karnataka SIR: Over 43.80 lakh voters to get notice; over 20 lakh flagged for ‘logical discrepancy’",
-      "Karnataka to reject Centre’s fresh draft notification on Eco-Sensitive Area in Western Ghats",
       "SC’s 5:4 verdict refines 48-yr-old ‘industry’ test but protects pending disputes",
       "Dubai Chambers signs two MoUs in Bengaluru to boost agentic AI, India ties"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 7,
-    "headlines": [
-      "Delimitation, NEET &amp; Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
-      "Congress will return to power at Centre in 2029, says K.C. Venugopal",
-      "Southern Zonal Council meet: Tamil Nadu CM Vijay seeks fair, equitable treatment of southern States from Centre",
-      "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and…",
-      "Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together",
-      "TVK's Vijay hits 100 as Tamil Nadu CM, then goes on a hard-hitting spree with bills",
-      "Sri Lanka emerges as alternative manufacturing base for Tamil Nadu apparel makers"
-    ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "GJ",
@@ -119,23 +101,39 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 6,
     "headlines": [
-      "Govt announces panchayat poll process in Ladakh to fill ‘democratic vacuum'",
-      "Centre gives nod to set up a bench of J&amp;K HC in Ladakh",
-      "'We are Gen Z' row: Army veteran's crowdfund offer for woman to serve in Siachen",
-      "High Court Bench for Ladakh approved; Centre reaffirms commitment to constitutional safeguards",
-      "'Gen Z' woman in viral Ladakh video breaks silence, says clip not correct",
-      "Ladakh to get J&K High Court bench, easing access to justice"
+      "Deliveries at Keralam’s Kozhikode Government Women and Children’s Hospital decline",
+      "Leopard, caught in wild boar trap, dies in Keralam’s Kannur",
+      "3 American tourists lose bags in Kerala auto, get them back 3 days later",
+      "Scottish politician Martyn Day marries India-born wife Nidhin Chand again in Kerala temple ceremony",
+      "HealthEdge® Expands India Footprint with New Thiruvananthapuram Campus, Deepening Commitment to Technology Innovation and Growth in Kerala",
+      "'Jailer 2' first song 'Ala Bolelo' promo sparks debate over Malayalam pronunciation"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 6,
+    "headlines": [
+      "Delimitation, NEET &amp; Cauvery: What Tamil Nadu CM Vijay discussed with Amit Shah",
+      "Congress will return to power at Centre in 2029, says K.C. Venugopal",
+      "Tamil Nadu CM Vijay makes three requests to home minister Amit Shah – delimitation, NEET and…",
+      "Vijay, Shivakumar, Chandrababu Naidu on stage: Amit Shah's meeting brings Southern CMs together",
+      "TVK's Vijay hits 100 as Tamil Nadu CM, then goes on a hard-hitting spree with bills",
+      "Sri Lanka emerges as alternative manufacturing base for Tamil Nadu apparel makers"
+    ],
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "UP",
@@ -151,22 +149,7 @@
       "Sugar stocks Bajaj Hindusthan Sugar, Balrampur Chini, others rally up to 8% after govt tightens stock limits",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 5,
-    "headlines": [
-      "Leopard, caught in wild boar trap, dies in Keralam’s Kannur",
-      "3 American tourists lose bags in Kerala auto, get them back 3 days later",
-      "Scottish politician Martyn Day marries India-born wife Nidhin Chand again in Kerala temple ceremony",
-      "HealthEdge® Expands India Footprint with New Thiruvananthapuram Campus, Deepening Commitment to Technology Innovation and Growth in Kerala",
-      "'Jailer 2' first song 'Ala Bolelo' promo sparks debate over Malayalam pronunciation"
-    ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "JH",
@@ -181,21 +164,7 @@
       "Jharkhand high court stays govt notification cancelling appointments from 11th, 13th JPSC exam",
       "Jharkhand to roll out action plan to prevent disaster losses"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
-    "headlines": [
-      "AP Rajya Sabha MP’s son booked after Aston Martin fatally hits woman near Inorbit Mall in Hyderabad",
-      "SC Bench sets aside SLP against Telangana High Court judgment on Margadarsi Financiers",
-      "Son of Jana Sena MP booked after his Aston Martin kills woman in Hyderabad",
-      "Telangana minister's daughter challenges CM Revanth Reddy: ‘Who is he to decide my ticket?’"
-    ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "AS",
@@ -209,7 +178,21 @@
       "Hundreds stranded as Assam cab drivers block highway to protest Shillong violence",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 4,
+    "headlines": [
+      "Govt announces panchayat poll process in Ladakh to fill ‘democratic vacuum'",
+      "High Court Bench for Ladakh approved; Centre reaffirms commitment to constitutional safeguards",
+      "'Gen Z' woman in viral Ladakh video breaks silence, says clip not correct",
+      "Ladakh to get J&K High Court bench, easing access to justice"
+    ],
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "PB",
@@ -223,7 +206,21 @@
       "BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'",
       "Gill’s eye for talent: How a Mohali youngster’s life changed after one net session"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 4,
+    "headlines": [
+      "Assam, Meghalaya CMs call for peace after rioting in Shillong",
+      "Assam transporters blockade Meghalaya vehicles after violence at Shillong students’ rally",
+      "Hundreds stranded as Assam cab drivers block highway to protest Shillong violence",
+      "Meghalaya student rally degenerates into violence; vehicles set ablaze"
+    ],
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "MN",
@@ -237,7 +234,21 @@
       "10 injured as security forces stop Manipur protest over killing of 6 Nagas",
       "Manipur schools, colleges shut amid tensions over demands for NRC before Census"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 4,
+    "headlines": [
+      "AP Rajya Sabha MP’s son booked after Aston Martin fatally hits woman near Inorbit Mall in Hyderabad",
+      "SC Bench sets aside SLP against Telangana High Court judgment on Margadarsi Financiers",
+      "Son of Jana Sena MP booked after his Aston Martin kills woman in Hyderabad",
+      "Telangana minister's daughter challenges CM Revanth Reddy: ‘Who is he to decide my ticket?’"
+    ],
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "HR",
@@ -250,7 +261,7 @@
       "Faridabad Couple Pours Boiling Water On Woman, Locks Her In Room For Days",
       "Euler Motors expands Palwal facility to manufacture commercial four-wheelers"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "OD",
@@ -263,20 +274,7 @@
       "Back-to-back floods: How a relentless monsoon is testing Odisha",
       "Odisha floods: ASHA worker carries elderly woman to safety on back"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 3,
-    "headlines": [
-      "Assam transporters blockade Meghalaya vehicles after violence at Shillong students’ rally",
-      "Hundreds stranded as Assam cab drivers block highway to protest Shillong violence",
-      "Meghalaya student rally degenerates into violence; vehicles set ablaze"
-    ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "CT",
@@ -289,19 +287,19 @@
       "ED searches Congress leader Ram Gopal Agrawal’s Dhamtari home in liquor case",
       "Chhattisgarh forest dept seeks CBI probe into tiger poaching involving Maha cops"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 2,
     "headlines": [
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
+      "Bengal: ABVP, Left student wings clash at Jadavpur University; gate logo damaged",
+      "Brazil officials inspect Kolkata stadium ahead of historic India clash"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "JK",
@@ -313,18 +311,19 @@
       "Houses damaged in Jammu village subsidence; families take shelter in tents",
       "No last-minute call and 2800 km dash: Qamran Iqbal ready for Duleep Trophy challenge"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
     "headlines": [
-      "BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'"
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "AP",
@@ -335,18 +334,18 @@
     "headlines": [
       "UKG student dies after alleged assault by teacher at Visakhapatnam school"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 1,
     "headlines": [
-      "Once a rebel, ex-Mizoram CM Zoramthanga finally collects his degree 60 yrs later"
+      "BJP hits back after Dipke's PM Cares fund appeal for schools: ‘Kejriwal didn’t teach him basic facts'"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "MP",
@@ -357,7 +356,18 @@
     "headlines": [
       "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
+  },
+  {
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
+    "news_count": 1,
+    "headlines": [
+      "Once a rebel, ex-Mizoram CM Zoramthanga finally collects his degree 60 yrs later"
+    ],
+    "last_updated": "2026-08-21 02:33:19 AM"
   },
   {
     "Code": "UT",
@@ -368,17 +378,6 @@
     "headlines": [
       "Uttarakhand HC relocation row: Bench reserves verdict after detailed hearing"
     ],
-    "last_updated": "2026-08-21 01:29:48 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 1,
-    "headlines": [
-      "Brazil officials inspect Kolkata stadium ahead of historic India clash"
-    ],
-    "last_updated": "2026-08-21 01:29:48 AM"
+    "last_updated": "2026-08-21 02:33:19 AM"
   }
 ]
