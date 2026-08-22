@@ -4,19 +4,29 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 33,
+    "news_count": 42,
     "headlines": [
+      "31-year-old Adobe techie beaten to death by wife’s family in Delhi",
+      "‘Say no to captaincy’: Ex-India cricketer’s big warning for Rishabh Pant",
+      "Duleep Trophy: Sanat Sangwan, a Kohli &amp; Lewis Hamilton fan, ready for next challenge",
+      "GCCs keep India’s office market buzzing, Bengaluru takes the lead",
       "J&amp;K: NIA raids residential houses in Anantnag as part of terror probe",
-      "Pellet injuries: FIR filed after Rahul Gandhi sits on dharna",
-      "Over 50 detained at Jantar Mantar; protesters demand reservation for poor, not castes",
-      "Jantar Mantar sees large anti-reservation protest despite Delhi Police warning",
       "19-Year-Old Nursing Student Dies By Suicide At Delhi Hostel: Cops",
       "Lured By Offline Booking, Killed For Car: Murder Of Delhi Taxi Driver",
       "Delhi Police Detain Anti-Reservation Protesters At Jantar Mantar",
+      "Karnataka IAS officer goes missing, police trace his travel to Delhi",
+      "Keralam to write to PM on Railways’ ‘unilateral decision’ of detaching Mangaluru from Palakkad division: CM Satheesan",
+      "Special NIA court rejects bail plea of Pulwama terror attack accused Insha Jan",
+      "India’s crude import bill surges 41% in July amid West Asia crisis; volumes up 13%",
+      "Bengal Minister Dilip Ghosh threatens ‘surgical strikes’ on Jadavpur University amid ABVP-SFI face-off",
+      "Supreme Court dismisses PIL petition that challenged death by hanging | Explained",
+      "J.P. Nadda reviews H1N1 situation, healthcare preparedness in Delhi",
       "NIA raids two locations in J&K's Anantnag in terror case",
       "After Rahul’s dharna, police register FIR on pellet gun use at Delhi protest",
       "Cannot live like this, says West Bengal man detained again in ‘illegal immigrants’ drive",
-      "Rahul Gandhi protest in Delhi highlights: Rahul ends over-6-hour dharna after FIR registered on pellet victim’s complaint",
+      "Delhi techie dies after assault by in-laws following dispute with wife",
+      "‘Assist the poor, irrespective of caste’: 5 demands at Reservation Hatao Andolan in Delhi",
+      "Bihar: 5 killed, 2 injured as speeding bus ploughs into crowd watching orchestra",
       "105-year-old murder convict granted relief after Supreme Court closes 1988 case",
       "Mother-son duo among three held in Delhi for gunpoint robbery at elderly man's home",
       "AAP says H1N1 cases in Delhi ‘alarmingly high’, ‘spreading like corona’, blames govt for not taking measures",
@@ -26,21 +36,42 @@
       "Delhi University announces rollout of first Four Year Undergraduate Programme batch for direct PhD pathway",
       "Jantar Mantar protest highlights: Massive crowd, RAF at Jantar Mantar for 'Reservation Hatao' protest; several detained",
       "Why H1N1 cases are rising in Delhi and how to protect yourself?",
-      "‘No Name Given Kamal’ on FBI’s Most Wanted list over alleged Lawrence Bishnoi gang links",
-      "JP Nadda to review Delhi’s H1N1 situation today amid rise in swine flu cases",
-      "Rahul Gandhi sits on dharna outside Delhi police station over pellet gun row",
+      "Rain deficit inches up even as monsoon eyes East and North-East India",
       "China’s Chang’e-7 lunar mission to search for water at Moon’s south pole",
-      "RBI Board reviews economic situation, risks to outlook at Chennai meeting",
-      "5 world market themes for the week ahead",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Kuldeep Yadav or Saransh Jain? India face selection dilemma ahead of Colombo Test",
       "India officially bids for 2028 Thomas &amp; Uber Cup Finals, Delhi in contention",
+      "Madras Day 2026: 5 Tamil movies that portrayed the many shades of Chennai",
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa",
       "24 Years of Bend It Like Beckham: Gurinder Chadha’s film is the ONLY movie to have been distributed in every country, including North Korea; TV premiere was CENSORED by nearly 50 minutes",
       "Kala Hiran producer Amit Jani challenges Delhi HC order on Salman Khan’s personality rights in Supreme Court",
       "Scientists discover nearly 400 fossils in France revealing life near the South Pole"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 12,
+    "headlines": [
+      "1 fall, 3 deaths at Maharashtra hill: How teen's iPhone demand ended in tragedy",
+      "Pune tribal students’ hunger stir continues on ninth day; two hospitalised",
+      "Argument over phone leads to Hilltop tragedy in Maharashtra",
+      "A father, mother and son: Three lives lost on Maharashtra hilltop over mobile phone row",
+      "Maharashtra boy threatens to jump over 'iPhone', parents chase to save. All 3 fall to death",
+      "Who were 2 Mumbai doctors who kept Jinnah's health secret, set to receive Pakistan’s highest civilian awards?",
+      "Uttar Pradesh remains India’s largest crypto market in Q2 2026: Report",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Haiwaan: Akshay and Saif’s song filmed at Mumbai college",
+      "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai",
+      "Sunita Ahuja withdraws divorce case against Govinda, visits Mumbai family court with son Yashvardhan",
+      "Kangana Ranaut visits Siddhivinayak and Mumba Devi temples in Mumbai, shares pictures"
+    ],
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "TG",
@@ -53,7 +84,7 @@
       "Hyderabad crash: Police defend no-arrest call; Rs 6 crore Aston Martin seized",
       "\"He Took Woman To Hospital\": MP On Son Involved In Aston Martin Crash In Hyderabad",
       "Two workers killed in pharma unit blast near Hyderabad",
-      "Centre denies permission for Telangana CM Revanth Reddy’s U.S. visit",
+      "‘My son rushed woman to hospital’: Andhra MP Lingamaneni Ramesh on Hyderabad Aston Martin crash",
       "Protests, agitations alone cannot solve issues like graft: RSS",
       "TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills",
       "Drug, alcohol tests of accused in Hyderabad Aston Martin crash return negative",
@@ -61,26 +92,26 @@
       "MEA on no permit for Telangana CM Revanth Reddy's US trip: Event wasn't appropriate to CM’s office",
       "Two killed, 9 injured in a blast at Hazelo Pharma Unit in Telangana"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 9,
     "headlines": [
-      "1 fall, 3 deaths at Maharashtra hill: How teen's iPhone demand ended in tragedy",
-      "Argument over phone leads to Hilltop tragedy in Maharashtra",
-      "A father, mother and son: Three lives lost on Maharashtra hilltop over mobile phone row",
-      "Maharashtra boy threatens to jump over 'iPhone', parents chase to save. All 3 fall to death",
-      "Who were 2 Mumbai doctors who kept Jinnah's health secret, set to receive Pakistan’s highest civilian awards?",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai",
-      "Sunita Ahuja withdraws divorce case against Govinda, visits Mumbai family court with son Yashvardhan",
-      "Kangana Ranaut visits Siddhivinayak and Mumba Devi temples in Mumbai, shares pictures"
+      "Gold fraud: Traders in Kozhikode flay continued delay in arrest of suspect",
+      "Keralam to write to PM on Railways’ ‘unilateral decision’ of detaching Mangaluru from Palakkad division: CM Satheesan",
+      "Kerala driving test wait stretches beyond 2 months despite MVD directive",
+      "PSC exam scam: Governor summons Kerala Public Service Commission Secretary",
+      "Kerala varsity VC alleges foreign forces try to turn youngsters into 'cockroaches'",
+      "Why Criticise VCs for Attending RSS Events?: Guv",
+      "Kerala HC allows conditional suspension of jail sentence of 4 convicts in 2003 Muthanga land agitation cases",
+      "Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns",
+      "Nayanthara serves pure Onam elegance in Kerala saree"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "UP",
@@ -91,104 +122,75 @@
     "headlines": [
       "Lucknow double murder-suicide twist: Wife's Rs 1.5cr demand may have led to killings",
       "Uttar Pradesh, Japan’s Yamanashi sign four MoUs; ₹600-crore fund for MSMEs",
-      "Uttar Pradesh holds dairy conclaves to boost rural economy, women’s empowerment",
       "Allahabad HC restores jobs of 26 general-category engineers: 'Employees can't bear admin lapses'",
       "Misra chose Ram Temple panel, one member visited Ayodhya twice in 6 years: Champat Rai",
       "Mother-son duo among three held in Delhi for gunpoint robbery at elderly man's home",
       "‘Rotten tomato’ beatings, wedding-night conditions: YouTuber Pragya Mishra makes shocking claims about Lucknow husband",
+      "Uttar Pradesh remains India’s largest crypto market in Q2 2026: Report",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
-    "headlines": [
-      "PSC exam scam: Governor summons Kerala Public Service Commission Secretary",
-      "Alappuzha murder allegedly involving four minors raises troubling questions",
-      "Why Criticise VCs for Attending RSS Events?: Guv",
-      "Kerala HC allows conditional suspension of jail sentence of 4 convicts in 2003 Muthanga land agitation cases",
-      "Joyalukkas, Kalyan bag TN govt order to gift gold rings to 4.41 lakh newborns",
-      "Nayanthara serves pure Onam elegance in Kerala saree",
-      "'Bethlehem Kudumba Unit' BO day 1"
-    ],
-    "last_updated": "2026-08-22 10:34:22 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 6,
     "headlines": [
-      "BJP government in Odisha moves to give grand tribute to VHP leader",
-      "5 arrested over alleged human sacrifice killing in Odisha",
-      "Odisha to develop Laxmanananda Saraswati’s birthplace as heritage village: Majhi",
-      "Elderly man's body remains on rooftop for 18 hours amid Jajpur floods in Odisha",
-      "Odisha flood situation eases as water level falls in major rivers, no heavy rains for 48 hours",
-      "Anil Balaji Steel plans to acquire steel manufacturing facilities in UP, Odisha"
+      "J&amp;K: Kishtwar girl dies after ‘forced abortion’ bid, teacher held",
+      "J&amp;K: NIA raids residential houses in Anantnag as part of terror probe",
+      "‘Sergio Gor’s J&K and Ladakh visit highlights growing U.S.-India partnership through meaningful dialogue’",
+      "Special NIA court rejects bail plea of Pulwama terror attack accused Insha Jan",
+      "NIA raids two locations in J&K's Anantnag in terror case",
+      "‘Biased, lacks credibility': India on USCIRF seeking ban on RSS"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 5,
-    "headlines": [
-      "The coast that made Chennai",
-      "From heritage to high-rises, how Chennai grew taller",
-      "Chennai’s remarkable quality is the willingness of people to help others: V.P. Jeyaseelan",
-      "RBI Board reviews economic situation, risks to outlook at Chennai meeting",
-      "Sivakarthikeyan reacts to ‘Future CM’ call during Chennai event"
-    ],
-    "last_updated": "2026-08-22 10:34:22 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 4,
-    "headlines": [
-      "'Toxic' movie's advance booking nears Rs 20 crore presales",
-      "Karnataka police have identified 771 illegal Bangladeshi immigrants in three years: Home Department",
-      "Karnataka: Amid din, Assembly passes apartment Bill and two other Bills",
-      "'Toxic' advance booking nears Rs 20 crore presales"
-    ],
-    "last_updated": "2026-08-22 10:34:22 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Assam citizens’ forum calls for scientific solution to flood problem",
-      "Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks",
-      "Meghalaya HC steps in after KSU rally violence, seeks action against culprits",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
-      "Cochin Shipyard delivers INS Mangrol to Indian Navy",
+      "Bhavnagar spurious liquor case: death toll rises to 9; three critical",
       "Bhavnagar spurious liquor tragedy: 61 affected; 25 still in hospital; 10 critical",
+      "India-Finland cooperation takes centre stage at circular economy forum",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 5,
+    "headlines": [
+      "BJP government in Odisha moves to give grand tribute to VHP leader",
+      "5 arrested over alleged human sacrifice killing in Odisha",
+      "Odisha to develop Laxmanananda Saraswati’s birthplace as heritage village: Majhi",
+      "Elderly man's body remains on rooftop for 18 hours amid Jajpur floods in Odisha",
+      "Anil Balaji Steel plans to acquire steel manufacturing facilities in UP, Odisha"
+    ],
+    "last_updated": "2026-08-22 01:15:35 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 5,
+    "headlines": [
+      "Assam elephant habitat recovery hope rides on biochar from invasive plants",
+      "Assam citizens’ forum calls for scientific solution to flood problem",
+      "Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks",
+      "Meghalaya HC steps in after KSU rally violence, seeks action against culprits",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "BR",
@@ -197,52 +199,66 @@
     "State": "Bihar",
     "news_count": 4,
     "headlines": [
-      "Freedom of religion can’t override public order, societal norms: Patna HC",
       "Bihar minister Shrawon Kumar faces backlash after 'diabetes' take on sugar price rise, sparks reactions online",
+      "FM directs early completion of Detailed Project Report for high-level dam on Kosi river",
       "Rare 'intensive' revision in Bihar four months before polls",
       "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 4,
-    "headlines": [
-      "J&amp;K: NIA raids residential houses in Anantnag as part of terror probe",
-      "NIA raids two locations in J&K's Anantnag in terror case",
-      "‘Sergio Gor’s J&K and Ladakh visit highlights growing U.S.-India partnership through meaningful dialogue’",
-      "‘Biased, lacks credibility': India on USCIRF seeking ban on RSS"
-    ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
-      "International RBSM concludes with 88 MoUs in Visakhapatnam",
+      "Palle Nidra enabling police to have informal interaction with common people, says Vizianagaram SP Damodar",
       "TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills",
-      "Three-member panel starts probe into 6-year-old Vizag student’s death"
+      "Three-member panel starts probe into 6-year-old Vizag student’s death",
+      "Uttar Pradesh remains India’s largest crypto market in Q2 2026: Report"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "Why is Jadavpur University in Kolkata on the boil? | Explained",
+      "Bengal Minister Dilip Ghosh threatens ‘surgical strikes’ on Jadavpur University amid ABVP-SFI face-off",
+      "Cannot live like this, says West Bengal man detained again in ‘illegal immigrants’ drive",
+      "105-year-old murder convict granted relief after Supreme Court closes 1988 case"
+    ],
+    "last_updated": "2026-08-22 01:15:35 PM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
     "news_count": 3,
     "headlines": [
-      "US envoy wraps up Ladakh visit, skips meeting Dalai Lama",
-      "Ahead of MHA-Ladakh talks in September, Centre’s outreach sees withdrawal of cases against Leh protestors",
-      "‘Sergio Gor’s J&K and Ladakh visit highlights growing U.S.-India partnership through meaningful dialogue’"
+      "3 killed in fire at steel plant in Jharkhand's Ramgarh",
+      "Jharkhand protesters attempt to burn effigies of CM Hemant Soren, Rahul Gandhi; scuffle with police in Ranchi",
+      "At least three workers die in steel factory fire in Ramgarh, Jharkhand"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 3,
+    "headlines": [
+      "What’s going on in Chennai for Madras Day",
+      "The coast that made Chennai",
+      "Madras Day 2026: 5 Tamil movies that portrayed the many shades of Chennai"
+    ],
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "RJ",
@@ -255,7 +271,7 @@
       "4 of family killed after being hit by speeding SUV on Jaipur highway",
       "‘You have 48 hours’: CJP gives ultimatum to Rajasthan education minister Madan Dilawar over Jaipur 'goon' attack"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "ML",
@@ -268,42 +284,44 @@
       "Arson, petrol bomb attacks on govt property reported across Meghalaya",
       "Meghalaya HC steps in after KSU rally violence, seeks action against culprits"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "MP",
     "Lat": 22.9734,
     "Long": 78.6569,
     "State": "Madhya Pradesh",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
       "Madhya Pradesh cop suspended for land deal to help murder accused walk free",
+      "Rajkumar Santoshi REACTS to Dhurandhar comparisons with Batwara",
       "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 2,
     "headlines": [
-      "Cannot live like this, says West Bengal man detained again in ‘illegal immigrants’ drive",
-      "105-year-old murder convict granted relief after Supreme Court closes 1988 case"
+      "‘Sergio Gor’s J&K and Ladakh visit highlights growing U.S.-India partnership through meaningful dialogue’",
+      "Ahead of MHA-Ladakh talks in September, Centre’s outreach sees withdrawal of cases against Leh protestors"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 2,
     "headlines": [
-      "Jharkhand High Court stays cancellation of JSSC CGL, CDPO exams ordered by Hemant Soren govt"
+      "Karnataka IAS officer goes missing, police trace his travel to Delhi",
+      "Karnataka seventh in HPV vaccination coverage in country, reports just one adverse event following immunisation"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "CT",
@@ -314,7 +332,18 @@
     "headlines": [
       "Chhattisgarh signs two key MoUs to boost PM GatiShakti implementation"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
+    ],
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "HR",
@@ -325,7 +354,7 @@
     "headlines": [
       "2 killed, 1 injured in clash between student groups in Haryana's Rewari"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "PB",
@@ -334,20 +363,9 @@
     "State": "Punjab",
     "news_count": 1,
     "headlines": [
-      "Punjab bandh over release of Sikh prisoners evokes mixed response"
+      "NHRC issues notice on allegations against Punjab CM’s wife for asking for money to suppress a rape case"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
-  },
-  {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
-    "news_count": 1,
-    "headlines": [
-      "Nagaland inks deal for first private-sector solar plant"
-    ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "TR",
@@ -358,7 +376,7 @@
     "headlines": [
       "Tripura: Surrendered militants call shutdown over ‘unfulfilled’ rehab promises"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   },
   {
     "Code": "UT",
@@ -369,6 +387,6 @@
     "headlines": [
       "Uttarakhand: 4 arrested after two groups clash, open fire in Dehradun"
     ],
-    "last_updated": "2026-08-22 10:34:22 AM"
+    "last_updated": "2026-08-22 01:15:35 PM"
   }
 ]
