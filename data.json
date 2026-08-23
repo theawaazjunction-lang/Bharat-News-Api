@@ -35,7 +35,7 @@
       "Kala Hiran producer Amit Jani challenges Delhi HC order on Salman Khan’s personality rights in Supreme Court",
       "A cactus-eating moth released on Caribbean islands as biological control later reached Florida"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "MH",
@@ -58,16 +58,15 @@
       "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai",
       "Sunita Ahuja withdraws divorce case against Govinda, visits Mumbai family court with son Yashvardhan"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 10,
+    "news_count": 9,
     "headlines": [
-      "28-year-old Punjab man shot dead in New York while delivering pizza",
       "'Tax Money For Religion?' AAP vs Congress Over Hindu Outreach In Punjab",
       "Military Bases In Amritsar On Pak Gang Radar, Intel Puts Punjab On Alert",
       "Amid Bathinda Road Row, Opposition Alleges Police Crackdown, AAP Hits Back",
@@ -78,7 +77,7 @@
       "Sajjan Kumar row: Punjab Congress distances itself from Hooda’s ‘irreparable loss’ remark",
       "Wanted accused fleeing STF allegedly runs over pedestrian with Thar in Punjab's Ludhiana"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "UP",
@@ -95,37 +94,23 @@
       "Uttar Pradesh tops in mopping up through taxes",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "RJ",
     "Lat": 27.0238,
     "Long": 74.2179,
     "State": "Rajasthan",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "After CJP’s drive, Rajasthan unveils Rs 12,500 crore school revamp plan",
       "Rajasthan High Court questions police as probe into attack on Dalit family changes hands six times",
       "CJP's Saurav Das rejects Mohandas Pai's suggestion on inspecting schools: ‘Boring, unconnected from reality'",
       "Alwar school principal suspended over video of him bathing with girl students",
       "Rajasthan government orders new building for Rampura school after CJP visit turns violent",
       "NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "BJP chief holds strategy meet for next round of Assembly polls",
-      "Gujarat spurious liquor case death toll rises to 13; three remain hospitalised",
-      "Death toll rises to 11 in Gujarat spurious liquor case: Police",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "KL",
@@ -140,7 +125,22 @@
       "Vigilance seeks sanction to register cases over alleged school record manipulation in Kannur",
       "Political parties unite against bifurcation of Palakkad railway division"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
+    "headlines": [
+      "BJP old timers &amp; new entrants clash over Kolkata mutton feast, 4 injured",
+      "Golden opportunity for India in shipbuilding, repairs: Rajnath Singh in Kolkata",
+      "TMC rebels await official status after breaking off from Mamata Banerjee's leadership",
+      "West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’",
+      "Defence ministry backs major shipbuilding, manufacturing expansion in West Bengal"
+    ],
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "TN",
@@ -155,21 +155,22 @@
       "CM Vijay's govt orders quality checks on alcohol level at all Tamil Nadu distilleries after Enrica liquor ban row",
       "Tamil Nadu official seeks clarification on government directive to curb student protests"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
     "headlines": [
-      "Golden opportunity for India in shipbuilding, repairs: Rajnath Singh in Kolkata",
-      "TMC rebels await official status after breaking off from Mamata Banerjee's leadership",
-      "West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’",
-      "Defence ministry backs major shipbuilding, manufacturing expansion in West Bengal"
+      "BJP chief holds strategy meet for next round of Assembly polls",
+      "Gujarat spurious liquor case death toll rises to 13; three remain hospitalised",
+      "Death toll rises to 11 in Gujarat spurious liquor case: Police",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "OD",
@@ -183,7 +184,7 @@
       "2 rescued, 22 missing after China-bound iron ore vessel sinks off Odisha coast",
       "'Misused official position': Odisha cop booked for promising marriage, threatening woman with service pistol"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "HR",
@@ -197,7 +198,7 @@
       "Deepender Hooda makes U-turn after backlash over Sajjan Kumar 'role model' remark",
       "Haryana Cong leader seeks Deepender’s removal from CWC over Sajjan Kumar praise"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "JH",
@@ -211,7 +212,7 @@
       "Ranchi police files FIR against JPSC-JSSC protest leaders over Aug 21 police-students clash",
       "Jharkhand's Dhanbad turned a barren coal-belt hillock green; CISF is now trying the same experiment on 6 acres along Delhi’s Yamuna"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "TG",
@@ -225,7 +226,7 @@
       "Denied US tour permission, Telangana CM Revanth Reddy to return to Hyderabad",
       "Telangana calls for private parties to step in to revive 11 historic forts under PPP model"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "MP",
@@ -237,7 +238,7 @@
       "Assam, Meghalaya cab operators agree to truce, resume movement till September 10",
       "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "ML",
@@ -249,7 +250,7 @@
       "Assam, Meghalaya cab operators agree to truce, resume movement till September 10",
       "Jaiñtia Hills to the G7: Can Meghalaya turn ‘Lakadong’ into a global brand?"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "CT",
@@ -261,7 +262,7 @@
       "Speeding SUV Rams Chhattisgarh Minister's Convoy, 6 Injured",
       "BWF Championships : France makes history with first golds; An Se-young defends title"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "AP",
@@ -273,7 +274,7 @@
       "Two drown in sea, two rescued at Kakinada",
       "Andhra Pradesh weather alert: Heavy rain, winds forecast for northern Andhra"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "AS",
@@ -285,7 +286,7 @@
       "Assam in final stage of partner selection to build satellite, says CM",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "BR",
@@ -297,7 +298,7 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "KA",
@@ -309,7 +310,7 @@
       "Yellappa Reddy urges Karnataka Chief Secretary to drop proposed 5% park land provision",
       "KPSC ‘scam’ case: ED raids IAS officer Gangwar's premises in Karnataka"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "HP",
@@ -320,7 +321,7 @@
     "headlines": [
       "BJP chief holds strategy meet for next round of Assembly polls"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "GA",
@@ -331,7 +332,7 @@
     "headlines": [
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "AR",
@@ -342,7 +343,7 @@
     "headlines": [
       "‘Mai yahan ka khiladi hun’: Kiren Rijiju hits back at comparison with Rahul Gandhi over fitness"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "NL",
@@ -353,7 +354,7 @@
     "headlines": [
       "Nagaland discoveries push known human habitation in Northeast India back by around 3,500 years"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "TR",
@@ -364,7 +365,7 @@
     "headlines": [
       "Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "SK",
@@ -375,7 +376,7 @@
     "headlines": [
       "Sikkim bags Award of Excellence at TTF Mumbai for rural, sustainable tourism"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "JK",
@@ -386,7 +387,7 @@
     "headlines": [
       "NIA raids 10 places in J-K in cross-border terror conspiracy case"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   },
   {
     "Code": "UT",
@@ -397,6 +398,6 @@
     "headlines": [
       "Rains trigger landslides across Uttarakhand, over 80 roads blocked"
     ],
-    "last_updated": "2026-08-24 02:22:07 AM"
+    "last_updated": "2026-08-24 03:13:14 AM"
   }
 ]
