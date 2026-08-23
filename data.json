@@ -4,17 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 26,
+    "news_count": 31,
     "headlines": [
-      "Dhols, chants and belief: How Delhi turned a World Championships semi-final into a homecoming",
-      "Army Jawan Found Dead In Delhi Hotel Room, Suicide Note Recovered",
+      "‘Who would apply medicine to child’s blisters?’ Delhi techie killed over chore; wife, in-laws held",
+      "Delhi Wakes Up To Showers, Light Rain Recorded In Several Areas",
+      "3 Minutes, 6 Stanzas, Century-Old Debate: The Many Turns In Vande Mataram's Journey",
+      "Low pressure area forms, North Andhra on alert",
+      "Clash erupts between Andhra, North East region students in nursing college, one girl hurt in Kakinada",
       "FIR registered against Abhijeet Dipke for 'entering government school without permission, threatening teachers'",
       "East Division holds peace meeting ahead of Eid Milad, St. Mary’s Feast and Ganesha festival",
       "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
       "Kodungaiyur waste facility, coastal bridge among GCC’s ₹4,000-crore worth proposals",
       "Annapurna Bhandar protests reach the doorsteps of BJP leaders in West Bengal",
-      "Engineering graduates should turn India into AI creator rather than mere consumer market, says Delhi CM",
-      "Delhi CM watches son, kin receive engineering degrees at VIT in Vellore",
+      "TMC rebels await official status after breaking off from Mamata Banerjee's leadership",
+      "West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’",
+      "'Your angry face is their content': Delhi Police told how not to respond to new-gen protesters",
       "PM Modi meets BJP’s newly formed team at party headquarters in Delhi",
       "Delhi man kills passenger over  ₹1,000 fare dispute, calls wife, son to hide body; all 3 held",
       "Kolkata shuts 13 hotels, issues notices to 50 over fire safety violations",
@@ -28,12 +32,13 @@
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Dhols, chants and belief: How Delhi turned a World Championships semi-final into a homecoming",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa",
       "24 Years of Bend It Like Beckham: Gurinder Chadha’s film is the ONLY movie to have been distributed in every country, including North Korea; TV premiere was CENSORED by nearly 50 minutes",
       "Kala Hiran producer Amit Jani challenges Delhi HC order on Salman Khan’s personality rights in Supreme Court",
       "Scientists discover nearly 400 fossils in France revealing life near the South Pole"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "MH",
@@ -43,67 +48,101 @@
     "news_count": 11,
     "headlines": [
       "2 Killed, 5 Injured As 22-Foot Ganesh Idol Falls On Them In Mumbai",
+      "Two killed, five injured as Ganesh idol falls during arrival ceremony in Mumbai",
       "FIR registered against Abhijeet Dipke for 'entering government school without permission, threatening teachers'",
       "FIR against Abhijeet Dipke for entering Maharashtra govt school; what are the charges against him",
       "‘iPhone is not your identity’: Shehzad Poonawalla’s advice to youth after Maharashtra teen, family die in hill fall",
       "Argument over phone leads to Hilltop tragedy in Maharashtra",
-      "A father, mother and son: Three lives lost on Maharashtra hilltop over mobile phone row",
       "India sugar tender rates drop by ₹500 a quintal, but retail rates soar to a new high",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis",
       "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai",
       "Sunita Ahuja withdraws divorce case against Govinda, visits Mumbai family court with son Yashvardhan"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 8,
+    "headlines": [
+      "Tamil Nadu life convict Selvam’s book Oru Thooku Kaithiyin Vaakumoolam wins Iyal Award of Canada",
+      "A hark back to ‘collection king’ Udhayam Theatre in Chennai",
+      "Beach: this third place in Chennai makes room for everyone",
+      "While Madras went to bed early, Chennai stays up",
+      "Fishes of Chennai explores city’s native freshwater fish, explores its cultural connection",
+      "Vijay treating Assembly like ‘cinema set, delivering punch dialogues’: Stalin attacks Tamil Nadu CM",
+      "BRICS Science Ministerial Meet adopts declaration to build resilient science technology and innovation framework",
+      "'My film journey began in Chennai in the mid-90s’: Ravi Teja"
+    ],
+    "last_updated": "2026-08-23 10:46:19 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 7,
+    "headlines": [
+      "Hotel Owner Arrested In Kolkata Fire That Killed 9, Including 7 Bangladeshis",
+      "Annapurna Bhandar protests reach the doorsteps of BJP leaders in West Bengal",
+      "TMC rebels await official status after breaking off from Mamata Banerjee's leadership",
+      "West Bengal CM Suvendu Adhikari sets Vande Mataram mandate to ‘stay in state’",
+      "Kolkata shuts 13 hotels, issues notices to 50 over fire safety violations",
+      "105-year-old murder convict granted relief after Supreme Court closes 1988 case",
+      "West Bengal govt mulls paying outstanding incentives to industry in tranches"
+    ],
+    "last_updated": "2026-08-23 10:46:19 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 6,
+    "headlines": [
+      "Gone Yesterday, Here Today: 'Missing' Karnataka IAS Officer Went Home",
+      "Park Bill: Move aimed at facilitating takeover of Lalbagh land for Tunnel Road, say environmentalists, city BJP MPs",
+      "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
+      "Play by Praveen Godkhindi in Belagavi on August 30",
+      "Karnataka IAS officer goes missing after Bengaluru flight; govt clarifies his whereabouts",
+      "Karnataka bans manufacture and sale of analogue ‘paneer’ for one year"
+    ],
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
+      "Clash erupts between Andhra, North East region students in nursing college, one girl hurt in Kakinada",
       "Minister Bindhu Krishna promises top priority for children’s welfare",
       "Cultural diversity takes centre stage at BRICS gala dinner",
       "Six booked for ‘threatening’ man over ₹65 lakh investment dispute in Guntur",
-      "Naidu pitches Visakhapatnam as hub for BRICS sports network",
       "TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills",
-      "Three-member panel starts probe into 6-year-old Vizag student’s death",
       "Andhra approves green AI data centre in Visakhapatnam with investment of over ₹30,000 cr"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
     "news_count": 6,
     "headlines": [
-      "Congress says bulk applications to delete voter names are being processed in Uttarakhand",
-      "Village students shifted to vacant house after attack on CJP activists in Rajasthan",
-      "NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur",
-      "‘611 schools without buildings’: Rajasthan govt admits lapses amid CJP ‘checks’, blames Congress, Gehlot",
-      "Power cut at AIAPGET exam center in Jaipur, NTA to hold re-exam for 49 candidates on September 1",
-      "4 of family killed after being hit by speeding SUV on Jaipur highway"
+      "Reddy denied US visit, Gujarat CM cleared: Overseas Congress alleges ‘double standard’",
+      "Gujarat store owner shot dead in US in front of 19-year-old daughter",
+      "Death toll rises to 11 in Gujarat spurious liquor case: Police",
+      "As smart glasses go mainstream, privacy concerns follow",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "Big milestone: India’s 1st 100% indigenous AK-203 ‘Sher’ made, test-fired in Amethi",
-      "Lucknow locals upset as iconic coffee house remains shut amid concern for social spaces",
-      "Content creator who reported on Ram Temple donations theft, corruption in Uttar Pradesh alleges harassment",
-      "Allahabad HC restores jobs of 26 general-category engineers: 'Employees can't bear admin lapses'",
-      "Misra chose Ram Temple panel, one member visited Ayodhya twice in 6 years: Champat Rai",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "KL",
@@ -119,111 +158,79 @@
       "Why Criticise VCs for Attending RSS Events?: Guv",
       "Kerala HC allows conditional suspension of jail sentence of 4 convicts in 2003 Muthanga land agitation cases"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 6,
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 5,
     "headlines": [
-      "K'taka assembly passes apartment Bill: From ownership to redevelopment, rules defined",
-      "Park Bill: Move aimed at facilitating takeover of Lalbagh land for Tunnel Road, say environmentalists, city BJP MPs",
-      "Shivamogga school teacher wins National Teachers’ Award, to receive award from President in Delhi",
-      "Play by Praveen Godkhindi in Belagavi on August 30",
-      "Karnataka IAS officer goes missing after Bengaluru flight; govt clarifies his whereabouts",
-      "Karnataka bans manufacture and sale of analogue ‘paneer’ for one year"
+      "Congress says bulk applications to delete voter names are being processed in Uttarakhand",
+      "NTA suspends private agency after power failure disrupts AIAPGET exam in Jaipur",
+      "‘611 schools without buildings’: Rajasthan govt admits lapses amid CJP ‘checks’, blames Congress, Gehlot",
+      "Power cut at AIAPGET exam center in Jaipur, NTA to hold re-exam for 49 candidates on September 1",
+      "4 of family killed after being hit by speeding SUV on Jaipur highway"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "Hyderabad police step up security for Milad-un-Nabi procession",
       "Telangana energy sector to complement govt. plans to achieve $3 trillion economy: Dy. CM",
       "‘My son rushed woman to hospital’: Andhra MP Lingamaneni Ramesh on Hyderabad Aston Martin crash",
       "Protests, agitations alone cannot solve issues like graft: RSS",
-      "TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills",
-      "Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity"
+      "TTD plans to deploy robotic dog to prevent human-animal conflicts on Tirumala hills"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "Gujarat store owner shot dead in US in front of 19-year-old daughter",
-      "Death toll rises to 11 in Gujarat spurious liquor case: Police",
-      "As smart glasses go mainstream, privacy concerns follow",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 5,
-    "headlines": [
-      "Annapurna Bhandar protests reach the doorsteps of BJP leaders in West Bengal",
-      "Gorkha issue: Union Government promises permanent solution; sets up committee",
-      "Kolkata shuts 13 hotels, issues notices to 50 over fire safety violations",
-      "105-year-old murder convict granted relief after Supreme Court closes 1988 case",
-      "West Bengal govt mulls paying outstanding incentives to industry in tranches"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 4,
-    "headlines": [
-      "While Madras went to bed early, Chennai stays up",
-      "Fishes of Chennai explores city’s native freshwater fish, explores its cultural connection",
-      "Vijay treating Assembly like ‘cinema set, delivering punch dialogues’: Stalin attacks Tamil Nadu CM",
-      "BRICS Science Ministerial Meet adopts declaration to build resilient science technology and innovation framework"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "OD",
     "Lat": 20.9517,
     "Long": 85.0985,
     "State": "Odisha",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
       "'Vanished from tracking system': How Panama-flagged cargo ship sank off Odisha coast",
       "Singapore-Bound Cargo Ship With 24 Crew Members Sinks Off Odisha Coast",
       "ICG deploys ships for search-and-rescue operation after Panama-flagged vessel sinks",
-      "Odisha identifies three locations for university townships"
+      "Odisha identifies three locations for university townships",
+      "Panama-flagged cargo ship sinks in Bay of Bengal, rescue ops on"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Big milestone: India’s 1st 100% indigenous AK-203 ‘Sher’ made, test-fired in Amethi",
+      "Lucknow locals upset as iconic coffee house remains shut amid concern for social spaces",
+      "Allahabad HC restores jobs of 26 general-category engineers: 'Employees can't bear admin lapses'",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "JH",
     "Lat": 23.6102,
     "Long": 85.2799,
     "State": "Jharkhand",
-    "news_count": 4,
+    "news_count": 3,
     "headlines": [
-      "FIRs Against 14 Named, 200 Unnamed Persons Over Ranchi Students-Cops Clash",
       "Sanjay Seth asks Rahul Gandhi to visit Ranchi, meet injured students",
       "Ranchi police files FIR against JPSC-JSSC protest leaders over Aug 21 police-students clash",
       "Jharkhand's Dhanbad turned a barren coal-belt hillock green; CISF is now trying the same experiment on 6 acres along Delhi’s Yamuna"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "PB",
@@ -232,11 +239,11 @@
     "State": "Punjab",
     "news_count": 3,
     "headlines": [
+      "Sajjan Kumar row: Punjab Congress distances itself from Hooda’s ‘irreparable loss’ remark",
       "Wanted accused fleeing STF allegedly runs over pedestrian with Thar in Punjab's Ludhiana",
-      "NHRC directs Punjab govt to probe allegation against CM's wife of demanding  ₹5 cr to suppress rape case",
-      "Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture"
+      "NHRC directs Punjab govt to probe allegation against CM's wife of demanding  ₹5 cr to suppress rape case"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "MP",
@@ -249,44 +256,19 @@
       "Infant dead, two injured in fire at NICU in Madhya Pradesh’s Chhindwara",
       "Amazon MGM Studios and Colour Yellow announce Nayyi Navelli starring Yami Gautam Dhar"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 3,
+    "news_count": 2,
     "headlines": [
-      "Why Assam wants to shrink Kaziranga National Park's eco-sensitive zone - explained",
-      "Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks",
+      "Why Assam wants to shrink Kaziranga National Park's eco-sensitive zone",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
-    "headlines": [
-      "Goa Chief Minister calls on youth to drive India’s development by 2047",
-      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "UT",
@@ -298,41 +280,55 @@
       "U'khand disaster aid for damaged houses: Check eligibility, benefits &amp; more",
       "Congress says bulk applications to delete voter names are being processed in Uttarakhand"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 2,
     "headlines": [
-      "Meghalaya Police Form 5-Member Team To Probe August 19 Shillong Violence",
-      "Assam cab operators continue highway blockade over Shillong violence despite CMs’ talks"
+      "Goa Chief Minister calls on youth to drive India’s development by 2047",
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
     "headlines": [
-      "Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture"
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "CT",
     "Lat": 21.2787,
     "Long": 81.8661,
     "State": "Chhattisgarh",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
-      "Endoscopic cam used to copy paper in sealed packet in Chhattisgarh university"
+      "Endoscopic cam used to copy paper in sealed packet in Chhattisgarh university",
+      "Endoscopic camera,  ₹11,000 deal: How Chhattisgarh agriculture exam paper was leaked; professor, 5 students held"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 2,
+    "headlines": [
+      "Clash erupts between Andhra, North East region students in nursing college, one girl hurt in Kakinada",
+      "Imphal-Dimapur-Guwahati bus service resumes after 3 years in violence-hit Manipur"
+    ],
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "HR",
@@ -341,20 +337,20 @@
     "State": "Haryana",
     "news_count": 1,
     "headlines": [
-      "Chandigarh University Hosts Global Architectural Voices to Deliberate on Technology, Heritage and Future of Architecture"
+      "Gurugram founder turns salon hair waste into mats that clean polluted water"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
     "news_count": 1,
     "headlines": [
-      "Imphal-Dimapur-Guwahati bus service resumes after 3 years in violence-hit Manipur"
+      "Clash erupts between Andhra, North East region students in nursing college, one girl hurt in Kakinada"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   },
   {
     "Code": "PY",
@@ -365,17 +361,6 @@
     "headlines": [
       "TVK MLA booked in trespass, assault case in Puducherry"
     ],
-    "last_updated": "2026-08-23 09:01:00 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 1,
-    "headlines": [
-      "Raids Across J&K's 5 Districts In Cross-Border Terror Conspiracy Case"
-    ],
-    "last_updated": "2026-08-23 09:01:00 AM"
+    "last_updated": "2026-08-23 10:46:19 AM"
   }
 ]
