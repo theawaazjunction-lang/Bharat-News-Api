@@ -4,22 +4,17 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 38,
+    "news_count": 29,
     "headlines": [
+      "Delhi-NCR rain chaos: Capital under orange alert; WFH advisory issued for Gurgaon",
       "‘Free water parks for kids’: AAP takes dig at Rekha Gupta govt over Delhi waterlogging",
       "Red, orange alerts in Delhi: 15 flights diverted amidst heavy rain, thunderstorms",
-      "Bollywood icon who wanted his house with no windows",
-      "No chemistry teacher in this Delhi govt school for over three years",
+      "Special 26 In Delhi: Woman Mastermind Behind Fake CBI Raid, Gang Busted",
+      "Air India Flight From Delhi Suffers Bird Hit While Landing At Patna Airport",
       "Middle East War Disrupts India's Aviation Sector. This Airport Stands Out",
-      "Opinion: Opinion | A 'Snub' Gone Too Far? The Story Of Bangladesh PM's Stalled India Visit",
-      "15 Flights Diverted From Delhi Airport Amid Heavy Rain, Traffic Jam On Roads",
-      "Delhi airport sees 15 flight diversions due to bad weather",
-      "BJP member Somu Veerraju demands probe by central agencies into alleged Kakinada ‘love jihad‘ case",
-      "Over 8.23 lakh posts lie vacant in Central govt. departments, shows RTI response",
-      "India, Gulf bloc discuss next steps on free trade agreement",
-      "Air India flight from Delhi suffers bird hit at Patna airport, passengers safe",
-      "SC to hear Delhi Race Club plea against eviction on August 25",
-      "Waterlogged roads or a stream? Kids swim on streets, traffic snarls as heavy rain pounds Delhi-NCR",
+      "Tarique Rahman's cancelled Delhi visit says a lot about Bangladesh and its tragic short-sightedness",
+      "CJP announces march from India Gate to Delhi Police HQ on Sept 5 over ‘failed’ govt promises: ‘Good faith can’t…'",
+      "'Made Delhi like Venice': AAP jibes at CM Rekhta Gupta as kids swim waterlogged roads amid heavy rain",
       "Delhi student protests: SC says no to separate probe into sexual assault charges",
       "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm",
       "Delhi HC notice to Abhijit Mitra, X, Google over Saurav Das’ privacy plea",
@@ -28,44 +23,81 @@
       "Delhi health minister to hold meeting today as H1N1 cases rise to almost 1,800",
       "BJP, AAP MLAs among several injured after car crashes into SUV in Delhi",
       "Two MLAs among six injured in car crash near PWD office in Delhi",
+      "MRPL says no single geography, supplier or route decisive for crude sourcing",
       "15 flights diverted at Delhi airport due to bad weather",
       "Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra",
-      "GRSE bags ₹45-crore electric ferry contract from West Bengal Tourism Development Corporation",
-      "Chennai’s Congruence Holdings to expand to 300 outlets across South India",
-      "L&T wins over ₹15,000 crore gas compression project in West Asia",
-      "MSM Unify appoints Rishi Kapoor as CFO, plans for IPO across India and global markets",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "Duleep Trophy Live: West Zone struggle with bat after bowling out North for 251",
-      "Duleep Trophy Live: Gharami, Shahbaz centuries power East Zone to 467 in first innings",
+      "The unseen challenge behind every BWF World Championships match schedule",
+      "Bollywood icon who wanted his house with no windows",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa",
       "24 Years of Bend It Like Beckham: Gurinder Chadha’s film is the ONLY movie to have been distributed in every country, including North Korea; TV premiere was CENSORED by nearly 50 minutes",
-      "Kala Hiran producer Amit Jani challenges Delhi HC order on Salman Khan’s personality rights in Supreme Court",
       "Henderson Island rats survived a 75-tonne poison campaign and rebounded within two years",
       "A cactus-eating moth released on Caribbean islands as biological control later reached Florida"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 17,
+    "headlines": [
+      "Railway Division Row Opens A New Front Between Kerala And Karnataka",
+      "Work on Lokayukta office building in Haveri to be completed in nine months",
+      "Sugar price surge puts Mysuru hotel industry under strain",
+      "Karnataka strengthens preparedness as seasonal influenza cases cross 4,200",
+      "Karnataka High Court stays investigation against Bidadi farmers who protested with brooms opposing survey",
+      "Shivamogga police return stolen valuables recovered in theft cases",
+      "1,250 bags of urea seized from dal mill in Kalaburagi",
+      "Karnataka Assembly clears Bill to enable remote property registration",
+      "Karnataka: BJP accuses Congress of ‘double standards’ over Adani",
+      "Agamya Tech Summit 2026 in Belagavi from August 29",
+      "SIR: Draft electoral roll published, 1.88 lakh ASDD voters and 48,668 to get notices in Shivamogga",
+      "Hassan Deputy Commissioner takes exception to JD(S) leader Revanna’s remaks",
+      "Mysuru voters drop by 5.57 lakh after SIR draft roll",
+      "Bangalore Water Supply test leaves 9 judge bench in awkward posture",
+      "Adani meet with Karnataka CM DK Shivakumar sparks buzz as tunnel project awaits nod",
+      "Paradeep Phosphates launches nutrient for sugarcane in Karnataka",
+      "TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 14,
+    "headlines": [
+      "Mumbai Marathi rule protest: Auto driver beaten, passengers dragged out amid outcry",
+      "‘We'd be in office if educated’: Mumbai auto drivers block road over Marathi rule",
+      "0.1% Of Kumbh Budget Could Save 125 Schools: Reality Check By Top Court Judge",
+      "FDA suspends licenses of restaurants in Mumbai Cricket Association premises over 'hygiene' issues",
+      "Maharashtra govt orders probe into Amravati hospital fire that killed 3 newborns",
+      "Chlorine gas leak in Nagpur leaves several hospitalised, area cordoned off",
+      "3 newborns killed in Maharashtra hospital fire after ventilator explodes",
+      "Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Kriti Sanon steps out in a look worth Rs 5.5 lakh for casual dinner outing",
+      "'Toxic' advance booking surges as Mumbai adds 6 AM, 11.45 PM shows",
+      "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
+      "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis",
+      "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 26,
+    "news_count": 13,
     "headlines": [
       "Tamil Nadu CM Vijay announces 3 LPG cylinders, free bus travel for women, transgenders",
       "Explained: Why Tamil Nadu Dropped Second Airport Near Chennai",
-      "Parandur airport project to be dropped by Tamil Nadu government, announces CM Vijay",
-      "Parandur airport in Chennai scrapped by CM Vijay: What was the project?",
-      "How Chennai city went from tiffin carriers to food apps",
-      "Tamil Nadu government yet to request Centre to shift airport site from Parandur: Union Minister of State",
-      "When National Theatre brought cinema to the western suburbs of Chennai",
-      "While Madras went to bed early, Chennai stays up",
-      "Beach: this third place in Chennai makes room for everyone",
-      "A hark back to ‘collection king’ Udhayam Theatre in Chennai",
-      "ECI not to conduct bypolls to five constituencies in Tamil Nadu until disposal of election petitions, Madras High Court told",
-      "Tamil Nadu Speaker bans prior publication of issues to be raised under Rule 55 and 56 of Assembly",
       "Madras high court extends stay on 5 Tamil Nadu assembly bypolls. One was won by CM Vijay",
       "Vijay's TVK can join INDIA bloc once they have own MPs, says Tamil Nadu Congress leader B Manickam Tagore",
       "'Irreversible setback': Stalin slams CM Vijay over dropping plan to build 2nd Chennai airport at Parandur",
@@ -74,57 +106,32 @@
       "3 free LPG cylinders, bus travel scheme amped: TVK chief Vijay's big announcements for women",
       "CM Vijay says plan for 2nd airport for Chennai at Parandur to be dropped, new location to be proposed",
       "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
+      "Ramco Cements no longer to pay tax on mineral-bearing land",
       "TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA",
-      "Tamil Nadu govt abandons Parandur airport plan, looks for alternative site",
-      "Parandur airport: Stalin slams CM Vijay, says TN's interests can't be 'mortgaged for petty political considerations'",
-      "Cauvery Water Dispute: SC asks Tamil Nadu to approach CWMA over Karnataka's water release",
-      "Chennai’s Congruence Holdings to expand to 300 outlets across South India",
-      "Suchitra reveals she learned about 'Dies Irae' late"
+      "Tamil Nadu govt abandons Parandur airport plan, looks for alternative site"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 12,
-    "headlines": [
-      "‘We'd be in office if educated’: Mumbai auto drivers block road over Marathi rule",
-      "\"Injustice\": Auto-Rickshaw Drivers Protest In Mumbai Over Marathi Mandate",
-      "\"Cops Found OFF Button\": German-Italian DJ's Mumbai Gig Stopped Over Licence",
-      "Chlorine gas leak in Nagpur leaves several hospitalised, area cordoned off",
-      "3 newborns killed in Maharashtra hospital fire after ventilator explodes",
-      "Maharashtra teen who died over iPhone attempted suicide from same cliff in 2025 too",
-      "Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Kriti Sanon steps out in a look worth Rs 5.5 lakh for casual dinner outing",
-      "'Toxic' advance booking surges as Mumbai adds 6 AM, 11.45 PM shows",
-      "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis",
-      "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
     "news_count": 11,
     "headlines": [
-      "Rashmika Mandanna makes 1st public appearance post hip injury with Vijay",
-      "Thunderstorm forecast in 24 Telangana districts on August 25",
-      "Harish Rao flays notification for supply of liquor, instead of jobs for Telangana youth",
-      "Telangana Govt to utilise advanced tech in employees health scheme implementation",
-      "Indiramma Housing towers locations in Hyderabad (CURE) available online",
-      "Rain in parts of Hyderabad on August 24",
-      "Vijay's TVK can join INDIA bloc once they have own MPs, says Tamil Nadu Congress leader B Manickam Tagore",
-      "Telangana CM Revanth Reddy returns from UK after Centre denies permission for US visit",
-      "Indian cities should embrace skyscrapers",
-      "Denied US tour permission, Telangana CM Revanth Reddy to return to Hyderabad",
-      "Rashmika Mandanna steps out after injury; Vijay holds her hand"
+      "WFH Advisory For Offices, Online Classes For Schools In Rain-Hit Gurugram",
+      "Poor Drainage, Short-Term Fixes: Why Gurugram Submerges Every Monsoon",
+      "From Haryana To Punjab: Why The BJP Is Betting On Satish Poonia",
+      "One Hour Of Rain Exposes Gurugram's Civic Infrastructure Again",
+      "3 Babbar Khalsa Operatives Arrested With 5 Kg Explosives, Guns In Chandigarh",
+      "Gurugram offices, schools advised to 'work from home' amid heavy rain, waterlogging",
+      "Orange alert as rain leaves Gurugram waterlogged; disrupts traffic",
+      "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm",
+      "1984 anti-Sikh riots: Hooda regrets Sajjan remarks after massive political uproar",
+      "Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs",
+      "15 flights diverted at Delhi airport due to bad weather"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "PB",
@@ -133,6 +140,7 @@
     "State": "Punjab",
     "news_count": 10,
     "headlines": [
+      "From Haryana To Punjab: Why The BJP Is Betting On Satish Poonia",
       "3 Babbar Khalsa Operatives Arrested With 5 Kg Explosives, Guns In Chandigarh",
       "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm",
       "Harbhajan Singh bowls political ‘doosra’ as cops confirm viral Punjab drugs video",
@@ -140,108 +148,64 @@
       "1984 anti-Sikh riots: Hooda regrets Sajjan remarks after massive political uproar",
       "'Trouble proving citizenship after representing India in 3 countries': Ex-envoy to ECI over Punjab SIR",
       "‘Entire village is in shock’: Punjab youth shot dead while delivering pizza in New York",
-      "‘Represented India in 3 nations’: Ex envoy Navdeep Suri shares ordeal as Punjab SIR details ‘do not match’",
       "Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs",
       "15 flights diverted at Delhi airport due to bad weather"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 10,
-    "headlines": [
-      "One Hour Of Rain Exposes Gurugram's Civic Infrastructure Again",
-      "3 Babbar Khalsa Operatives Arrested With 5 Kg Explosives, Guns In Chandigarh",
-      "Gurugram offices, schools advised to 'work from home' amid heavy rain, waterlogging",
-      "Orange alert as rain leaves Gurugram waterlogged; disrupts traffic",
-      "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm",
-      "1984 anti-Sikh riots: Hooda regrets Sajjan remarks after massive political uproar",
-      "Deepender Hooda makes U-turn after backlash over Sajjan Kumar 'role model' remark",
-      "Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs",
-      "15 flights diverted at Delhi airport due to bad weather",
-      "Godrej Industries group signs pact to invest ₹20,000 crore in Haryana state"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 7,
-    "headlines": [
-      "‘Voice of AMU’ page under scanner over abusive posts targeting teacher from northeast",
-      "‘Ram-Ram’ inside, ‘maach-bhaat’ outside: Why BJP and Congress are at odds over fish in Ayodhya",
-      "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
-      "India's first 100% indigenised AK-203 ‘Sher’ rifle made, test-fired at factory in UP's Amethi",
-      "15 flights diverted at Delhi airport due to bad weather",
-      "Sugar stocks Balrampur Chini, Dhampur Sugar, Uttam Sugar Mills rally up to 11%. Here are 2 triggers",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 6,
-    "headlines": [
-      "Karnataka Beggar Dies, Rs 8.40 Lakh Found Stuffed Inside 30 Sacks At Home",
-      "Karnataka: Tiger sighted in forest area in Kishkindha hills of Koppal after nearly five decades",
-      "Karnataka Legislative Assembly passes 8 Bills in an hour without debate amid BJP protest",
-      "Bangalore Water Supply test leaves 9 judge bench in awkward posture",
-      "Adani meet with Karnataka CM DK Shivakumar sparks buzz as tunnel project awaits nod",
-      "TN seeks ‘proportionate’ Cauvery water, SC advises State to take it up with CWMA"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 5,
-    "headlines": [
-      "SC to hear on August 24 plea for CBI probe into Jharkhand public service exams 'irregularities'",
-      "Ranchi Police asks ‘X’ to provide user data of account linked to JPSC-JSSC Reform Manch",
-      "SC notice on plea for CBI probe into Jharkhand exam irregularities",
-      "‘Does JPSC conduct judicial exam too?’ Worried SC asks on CBI probe plea",
-      "Jharkhand's Dhanbad turned a barren coal-belt hillock green; CISF is now trying the same experiment on 6 acres along Delhi’s Yamuna"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 5,
+    "news_count": 10,
     "headlines": [
-      "Meet India’s AI Kid: Kerala teenager builds AI tools while studying Commerce",
-      "IUML calls for district reorganisation in Keralam based on population to ensure equal resource distribution",
+      "After Teen's Death In Bike Crash, Kerala Parents Donate His Organs",
+      "Railway Division Row Opens A New Front Between Kerala And Karnataka",
+      "Malappuram should get priority in discussions on district reorganisation, says Minister",
+      "Keralam CM Satheesan urges Modi to halt transfer of Mangaluru from Palakkad railway division",
+      "Malappuram set for Onam celebrations from August 26",
+      "Traffic restrictions on Chittur bridge in Kerala’s Palakkad",
+      "IUML in Keralam throws its weight behind Malappuram bifurcation demand",
+      "Mullappally flays Centre’s decision to shift Mangaluru from Palakkad railway division",
       "Kerala man held for uploading intimate videos of wife, performing sex acts before minor daughter",
-      "UDF announces one-day hunger strike over Centre's railway bifurcation move in Kerala",
-      "Kerala monsoon rainfall 23% below normal till August 24: IMD"
+      "UDF announces one-day hunger strike over Centre's railway bifurcation move in Kerala"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 8,
     "headlines": [
-      "Air India flight from Delhi suffers bird hit at Patna airport, passengers safe",
-      "Air India flight from Delhi carrying 164 passengers suffers bird hit in Patna",
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "Sonu Nigam reacts to impersonator case settlement; says, “Saste mein chhoot gaya bahut”"
+      "Malappuram set for Onam celebrations from August 26",
+      "Prioritize raw rice processing: Telangana Civil Supplies Commissioner",
+      "Vijay's TVK can join INDIA bloc once they have own MPs, says Tamil Nadu Congress leader B Manickam Tagore",
+      "Telangana CM Revanth Reddy returns from UK after Centre denies permission for US visit",
+      "Indian cities should embrace skyscrapers",
+      "Centre’s attitude hurting Telangana’s development: CM Revanth Reddy",
+      "Farmers’ leader Malla Reddy passes away",
+      "Rashmika Mandanna steps out after injury; Vijay holds her hand"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 6,
+    "headlines": [
+      "Vice-President Radhakrishnan launches India’s first indigenous non-GMO popcorn maize hybrid in Andhra Pradesh",
+      "‘Legal action shouldn’t depend on religious identity’: A.P. BJP on Kakinada tragedy",
+      "Mega job mela in Chittoor, Annamayya to offer over 1,000 openings",
+      "GST relief sought for Subabul, Eucalyptus farmers in Andhra Pradesh",
+      "‘Political parties suppressing Kakinada ‘Love Jihad’ incident,’ laments former MP Vijaysai Reddy",
+      "Gourmet Popcornica launches 2 non-GMO hybrid popcorn maize seeds"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "CH",
@@ -255,73 +219,97 @@
       "Chandigarh University Provides In-House Training for Civil Services, Defence, Management, Banking & PSUs",
       "15 flights diverted at Delhi airport due to bad weather"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
     "news_count": 4,
     "headlines": [
-      "Over 8.23 lakh posts lie vacant in Central govt. departments, shows RTI response",
-      "2 teachers, 15-year-old student drown in waterfall pool in Madhya Pradesh",
-      "Assam, Meghalaya cab operators agree to truce, resume movement till September 10",
-      "Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra"
+      "Bihar Exam Officer's 'Dogs Bark' Remark For Protesters Triggers Row",
+      "Air India Flight From Delhi Suffers Bird Hit While Landing At Patna Airport",
+      "Air India flight from Delhi carrying 164 passengers suffers bird hit in Patna",
+      "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "BJP old timers &amp; new entrants clash over Kolkata mutton feast",
-      "TMC MP Mahua Moitra moves Supreme Court alleging eviction from Nadia Circuit House in Bengal",
-      "GRSE bags ₹45-crore electric ferry contract from West Bengal Tourism Development Corporation"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "BJP member Somu Veerraju demands probe by central agencies into alleged Kakinada ‘love jihad‘ case",
-      "‘Political parties suppressing Kakinada ‘Love Jihad’ incident,’ laments former MP Vijaysai Reddy",
-      "Suzlon targets 5 GW renewable capacity in Andhra Pradesh by 2030"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 3,
-    "headlines": [
-      "Search continues for 22 from vessel that sunk off Odisha",
-      "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
-      "22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Gujarat HC refuses to stay AAP legislator Chaitar Vasava’s 7-year sentence",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "'Shah Rukh Khan's 'Mannat' to have few new floors,' reveals Anand Pandit"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "‘Ram-Ram’ inside, ‘maach-bhaat’ outside: Why BJP and Congress are at odds over fish in Ayodhya",
+      "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
+      "15 flights diverted at Delhi airport due to bad weather",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
+      "22 missing, 2 rescued after China-bound cargo ship sinks off Odisha coast; rescue ops underway"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "Meghalaya govt invites KSU for talks as Assam border tensions ease",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 2,
+    "headlines": [
+      "Tarun Tejpal must surrender, seek exemption before appeal is heard: Goa tells SC",
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "2 teachers, 15-year-old student drown in waterfall pool in Madhya Pradesh",
+      "Monsoon Update: Rainfall over North East India, South India and MP & Maharashtra"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "MN",
@@ -330,44 +318,10 @@
     "State": "Manipur",
     "news_count": 2,
     "headlines": [
-      "Manipur violence: Houses burnt, CRPF jawan injured in gunfight in Senapati",
-      "Paramilitary Soldier Injured In Manipur Firing, Several Houses Set On Fire"
+      "Suspect In Manipur Ambush That Killed Colonel, Wife And Son In 2021 Arrested",
+      "CRPF jawan injured in gunfight, houses torched in Manipur's Senapati district"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
-    "headlines": [
-      "Supreme Court bans construction within 100 metres of Jojari River in Rajasthan",
-      "CJP's Saurav Das rejects Mohandas Pai's suggestion on inspecting schools: ‘Boring, unconnected from reality'"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 1,
-    "headlines": [
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "CT",
@@ -378,7 +332,29 @@
     "headlines": [
       "Through forests and across streams, Census set to reach Bastar’s former Red strongholds"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "‘Does JPSC conduct judicial exam too?’ Worried SC asks on CBI probe plea"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "Meghalaya govt invites KSU for talks as Assam border tensions ease"
+    ],
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "NL",
@@ -389,18 +365,7 @@
     "headlines": [
       "Nagaland discoveries push known human habitation in Northeast India back by around 3,500 years"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 1,
-    "headlines": [
-      "Assam, Meghalaya cab operators agree to truce, resume movement till September 10"
-    ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
     "Code": "JK",
@@ -409,19 +374,19 @@
     "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "In Pulwama, one man’s big bet on cricket and all eyes are on it across J&amp;K"
+      "Special 26 In Delhi: Woman Mastermind Behind Fake CBI Raid, Gang Busted"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 1,
     "headlines": [
-      "Tripura floods: CM Saha orders relief as heavy rain leaves 974 people homeless"
+      "Uttarakhand temple where Shiva-Parvati wedding fire still burns draws couples"
     ],
-    "last_updated": "2026-08-24 05:28:57 PM"
+    "last_updated": "2026-08-24 07:56:32 PM"
   }
 ]
