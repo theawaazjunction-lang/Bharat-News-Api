@@ -4,11 +4,13 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 24,
+    "news_count": 25,
     "headlines": [
       "The Oval Obese: Trump's junk food habit crashes into MAHA crusade",
       "The unseen challenge behind every BWF World C'ships match schedule",
       "2 UN Peacekeepers Killed, 7 Injured In South Sudan Ambush",
+      "Suvendu, Mamata spar over Annapurna Bhandar benefits in West Bengal",
+      "CJP calls for September 5 march from India Gate, accuses Centre of reneging on promises",
       "Manipur awaits Delhi decision on Census as Meitei, Naga groups demand NRC first",
       "Putin assures India of fuel, fertilisers amid disruptions over West Asia crisis",
       "Tarique Rahman's cancelled Delhi visit says a lot about Bangladesh and its tragic short-sightedness",
@@ -28,22 +30,20 @@
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa",
       "24 Years of Bend It Like Beckham: Gurinder Chadha’s film is the ONLY movie to have been distributed in every country, including North Korea; TV premiere was CENSORED by nearly 50 minutes",
       "Nasa maps Moon's south pole regions where Earth microbes could survive for more than a day",
-      "Henderson Island rats survived a 75-tonne poison campaign and rebounded within two years",
-      "A cactus-eating moth released on Caribbean islands as biological control later reached Florida"
+      "Henderson Island rats survived a 75-tonne poison campaign and rebounded within two years"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 18,
+    "news_count": 17,
     "headlines": [
       "Nagpur chlorine leak horror: 56 hospitalised, 8 fighting for life in ICU",
       "Adani Foundation Contributes Rs 15 Crore For 100 New Mumbai Police Cars",
       "Three newborns die in fire at government hospital in Amravati, Maharashtra",
-      "Rules at tribal hostels undermining dignity of students: Rahul Gandhi",
       "Nagpur gas leak: 56 hospitalised, 8 in ICU after Chlorine leak at Godhni Water Treatment Plant",
       "‘You know nothing’: Maharashtra hill tragedy victims' relative refutes iPhone EMI claims",
       "ED arrests 2 from Mumbai in cyber-fraud cases exceeding  ₹27,850 crore",
@@ -59,14 +59,14 @@
       "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis",
       "EXCLUSIVE: Shahid Kapoor gets straight back to work after Italy holiday, resumes Farzi 2 shoot in Mumbai"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 15,
+    "news_count": 14,
     "headlines": [
       "From property registration to parking: What Karnataka’s 8 new Bills mean for you",
       "Amazon, Instamart, BigBasket Lose Food Licences Over 'Datura' Sales In Karnataka",
@@ -77,25 +77,23 @@
       "Karnataka suspends food licences of Amazon, Swiggy Instamart, BigBasket over Datura sale",
       "Chikkamagaluru police arrest man for attempting to disturb communal harmony",
       "4.46 crore voters in Karnataka draft rolls; 1.07 crore names deleted",
-      "Experts from field take classes for students of Sahyadri Arts College in Shivamogga",
       "Karnataka beggar dies,  ₹8.4 lakh savings found as she leaves behind currency notes at home",
       "Bangalore Water Supply test leaves 9 judge bench in awkward posture",
       "Adani meet with Karnataka CM DK Shivakumar sparks buzz as tunnel project awaits nod",
       "Karnataka clears 5% park-land use, putting green spaces in focus",
       "Paradeep Phosphates launches nutrient for sugarcane in Karnataka"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
       "When National Theatre brought cinema to the western suburbs of Chennai",
       "Supreme Court asks Centre to respond to plea to reduce percentile for NEET-SS in-service candidates",
-      "Madras High Court dismisses petitions for CBI  investigation into fraudulent registration of Palani Math land",
       "Madras high court extends stay on 5 Tamil Nadu assembly bypolls. One was won by CM Vijay",
       "Vijay's TVK can join INDIA bloc once they have own MPs, says Tamil Nadu Congress leader B Manickam Tagore",
       "'Irreversible setback': Stalin slams CM Vijay over dropping plan to build 2nd Chennai airport at Parandur",
@@ -106,7 +104,7 @@
       "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
       "Chennai’s second airport search back on the agenda after Parandur setback"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "KL",
@@ -125,7 +123,7 @@
       "Kerala man held for uploading intimate videos of wife, performing sex acts before minor daughter",
       "UDF announces one-day hunger strike over Centre's railway bifurcation move in Kerala"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "TG",
@@ -143,7 +141,7 @@
       "US ambassador Sergio Gor visits Tata Lockheed Martin Aerostructures in Hyderabad",
       "Rashmika Mandanna steps out after injury; Vijay holds her hand"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "HR",
@@ -159,22 +157,7 @@
       "Orange alert as rain leaves Gurugram waterlogged; disrupts traffic",
       "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "Gujarat HC refuses to stay AAP legislator Chaitar Vasava’s 7-year sentence",
-      "Centre appoints JK Sinha, Syed Akbaruddin and Annie George Mathew as Directors on RBI Central Board",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "'Shah Rukh Khan's 'Mannat' to have few new floors,' reveals Anand Pandit"
-    ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "UP",
@@ -189,7 +172,21 @@
       "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 4,
+    "headlines": [
+      "Gujarat HC refuses to stay AAP legislator Chaitar Vasava’s 7-year sentence",
+      "Centre appoints JK Sinha, Syed Akbaruddin and Annie George Mathew as Directors on RBI Central Board",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "GA",
@@ -203,7 +200,7 @@
       "Tarun Tejpal must surrender, seek exemption before appeal is heard: Goa tells SC",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "CT",
@@ -217,7 +214,7 @@
       "Pangolin rescued from govt building in Odisha’s Nuapada, 3 arrested",
       "Through forests and across streams, Census set to reach Bastar’s former Red strongholds"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "PB",
@@ -231,7 +228,7 @@
       "Harbhajan Singh bowls political ‘doosra’ as cops confirm viral Punjab drugs video",
       "Ex-diplomat raises concerns over SIR in Punjab over 'mismatch' notice"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "JH",
@@ -244,7 +241,7 @@
       "‘Does JPSC conduct judicial exam too?’ Worried SC asks on CBI probe plea",
       "SC notice on plea for CBI probe into Jharkhand exam irregularities"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "BR",
@@ -257,19 +254,7 @@
       "Air India flight from Delhi carrying 164 passengers suffers bird hit in Patna",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "Meghalaya govt invites KSU for talks as Assam border tensions ease",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "OD",
@@ -281,18 +266,31 @@
       "Pangolin rescued from govt building in Odisha’s Nuapada, 3 arrested",
       "Chennai home reveals more horrors after woman's body found in train to Agra, probe leads police to Odisha"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
     "headlines": [
-      "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm"
+      "Class 1 Student Hospitalised After Snakebite In Kolkata Government School",
+      "Suvendu, Mamata spar over Annapurna Bhandar benefits in West Bengal"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "Meghalaya govt invites KSU for talks as Assam border tensions ease",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "AP",
@@ -303,7 +301,18 @@
     "headlines": [
       "Talks between government and striking doctors stalled again in Andhra Pradesh"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 1,
+    "headlines": [
+      "15 flights diverted from Delhi airport as city hit by heavy rain, thunderstorm"
+    ],
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "MN",
@@ -314,7 +323,7 @@
     "headlines": [
       "Manipur awaits Delhi decision on Census as Meitei, Naga groups demand NRC first"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "ML",
@@ -325,7 +334,7 @@
     "headlines": [
       "Meghalaya govt invites KSU for talks as Assam border tensions ease"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   },
   {
     "Code": "JK",
@@ -336,17 +345,6 @@
     "headlines": [
       "28 years later, J&amp;K reopens probe into Ganderbal massacre of 23 Pandits"
     ],
-    "last_updated": "2026-08-25 01:29:40 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 1,
-    "headlines": [
-      "Class 1 Student Hospitalised After Snakebite In Kolkata Government School"
-    ],
-    "last_updated": "2026-08-25 01:29:40 AM"
+    "last_updated": "2026-08-25 02:35:16 AM"
   }
 ]
