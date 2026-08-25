@@ -6,17 +6,17 @@
     "State": "Delhi",
     "news_count": 32,
     "headlines": [
+      "Of 27 lakh ‘logical discrepancy’ deletions in West Bengal, only 7 lakh appealed",
       "8 terror suspects held in Kashmir; arms-ammo, posters seized",
-      "Banker allegedly tipped friend about $8.1bn takeover; friend made $18.5m",
       "Crude awakening: As Russia, Iran face Trump heat, can Venezuela fill India’s oil gap?",
       "Two hours, 500 metres: How Gurgaon’s rain stole my train",
       "Air India seeks $1.5bn from Tata, SIA as Pak airspace ban, Middle East war hit ops",
       "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
-      "Delhi Master Plan 2047: 40L homes, land pooling to reshape NCT's real estate",
       "PM Modi Chairs PRAGATI Meet, Pushes AI Use In Farming And Cyber Fraud Fight",
       "Rusted Steel, Damaged Sensors Flagged In Delhi's Signature Bridge Audit",
       "38 Inmates Test HIV Positive At Guwahati Central Jail",
       "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in",
+      "Delhi Police register abetment to suicide case in IIT Delhi student's death",
       "IIT Delhi forms external inquiry committee to probe student's death: ‘Profound sorrow, deep shock’",
       "‘Send kids to study, not return as bodies’: Deceased IIT Delhi student’s brother alleges institutional apathy",
       "First ‘Kanda Express’ with 800 tonnes of onions to reach Delhi tomorrow, to be sold at  ₹35/kg",
@@ -39,14 +39,35 @@
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 11,
+    "headlines": [
+      "Bombay High Court to hear PIL against Marathi rule for drivers",
+      "Maharashtra government scraps age limit for tribal hostels after Rahul Gandhi’s letter to CM",
+      "'Can no longer work much': Nitin Gadkari's remark sparks retirement buzz. He clarifies",
+      "Maharashtra's cab drivers move Bombay HC over Marathi language rule; seek immediate stay on govt notice",
+      "This Indian village has no doors or locks or theft reports. The secret is a 300-year-old bleeding slab",
+      "Mumbai airport asks airlines to shift 30% of international flights to Navi Mumbai from October",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Phool Aur Kaante filmmaker Kuku Kohli dies",
+      "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
+      "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
+      "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
+    ],
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
       "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1",
       "Karnataka Food Safety Department gives food businesses 15 days to rectify violations",
@@ -54,14 +75,13 @@
       "Karnataka Chief Minister holds meeting with party legislators",
       "Will place Bidadi township land acquisition award before court before acting on it, State government tells Karnataka HC",
       "CWMA asks Karnataka to release at a rate of 9,000 cusecs a day for next 15 days",
-      "Karnataka to bar political affiliations in student polls; first phase in PU, degree colleges",
       "Karnataka minister flags proposed Bengaluru parking fee of up to  ₹25,000 to CM Shivakumar, asks to reconsider",
       "Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’",
       "Jailed Karnataka officer, undertrial, found with ‘girlfriend’ in VIP ward at hospital during surprise inspection",
       "Husband can't dictate wife’s life choices, says Karnataka high court",
       "Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "BR",
@@ -81,36 +101,17 @@
       "‘Kutte bhonke hazaar’: BPSC official's remark sparks backlash amid student protests in Bihar",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 10,
-    "headlines": [
-      "Maharashtra government scraps age limit for tribal hostels after Rahul Gandhi’s letter to CM",
-      "'Can no longer work much': Nitin Gadkari's remark sparks retirement buzz. He clarifies",
-      "Maharashtra's cab drivers move Bombay HC over Marathi language rule; seek immediate stay on govt notice",
-      "This Indian village has no doors or locks or theft reports. The secret is a 300-year-old bleeding slab",
-      "Mumbai airport asks airlines to shift 30% of international flights to Navi Mumbai from October",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Phool Aur Kaante filmmaker Kuku Kohli dies",
-      "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
-      "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
-      "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
-    ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 9,
+    "news_count": 10,
     "headlines": [
       "‘It was me, not minister Keerthana’: Malaysian woman files plaint over viral video",
+      "Tamil Nadu can lead India on revenue reform",
       "Farmer electrocuted in Ranipet",
       "Keerthana announces new industrial parks and accommodation for more than 2,500 SIPCOT  workers",
       "‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project",
@@ -120,23 +121,7 @@
       "Tamil Nadu Government to rejig key AI agencies",
       "‘Toxic’ star Rukmini Vasanth’s untold story of loss, audition and struggle"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 6,
-    "headlines": [
-      "Faridabad Woman, Lover Arrested For Husband's Murder, Body Found Buried",
-      "Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues",
-      "Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found",
-      "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted",
-      "Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas",
-      "Waterlogging, traffic jam in Gurugram amid rains, Noida fares no better"
-    ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "AP",
@@ -152,7 +137,22 @@
       "Kakinada MP calls for death penalty in family suicide case",
       "‘Badly bruised’: Morkel reveals why Pant did not keep as Jurel took gloves"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 5,
+    "headlines": [
+      "Faridabad Woman, Lover Arrested For Husband's Murder, Body Found Buried",
+      "Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues",
+      "Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found",
+      "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted",
+      "Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas"
+    ],
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "UP",
@@ -166,7 +166,7 @@
       "‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "TG",
@@ -180,7 +180,7 @@
       "Bandi Sanjay marks UPI’s 10th anniversary with digital payment in Karimnagar",
       "50-bed critical care unit inaugurated at Government General Hospital in Khammam"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "PB",
@@ -194,7 +194,7 @@
       "‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom",
       "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "MP",
@@ -208,7 +208,7 @@
       "25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks",
       "Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him  ₹5,500"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "KL",
@@ -221,7 +221,7 @@
       "P.V. Anvar blames UDF for poll defeat in Beypore after Kozhikode DCC chief admits ‘faulty candidate selection’",
       "‘A big zero’: Kerala actor Devan reveals why he left BJP, says Vijay offered top post"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "GJ",
@@ -234,7 +234,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "AS",
@@ -246,7 +246,7 @@
       "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "GA",
@@ -258,31 +258,7 @@
       "‘Toxic’: Will Yash’s big-screen comeback also be his box office blockbuster?",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 2,
-    "headlines": [
-      "Hydel project shutdown triggers power crisis in J&amp;K",
-      "8 terror suspects held in Kashmir; arms-ammo, posters seized"
-    ],
-    "last_updated": "2026-08-26 12:50:18 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
-    "headlines": [
-      "Blue-coloured foetus in ad prompts action against IVF centre in Rajasthan",
-      "Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions"
-    ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "MN",
@@ -294,7 +270,19 @@
       "Postpone Census to first hold tripartite talks on NRC, citizenship issues: Manipur civil society groups",
       "CRPF man injured as fresh gunfight, arson hit Manipur"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "Hydel project shutdown triggers power crisis in J&amp;K",
+      "8 terror suspects held in Kashmir; arms-ammo, posters seized"
+    ],
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "OD",
@@ -306,7 +294,7 @@
       "MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing",
       "Odisha woman’s body recovered from under kitchen slab; son on run"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "AR",
@@ -317,7 +305,7 @@
     "headlines": [
       "3 arrested in Arunachal for trafficking 19 children, youngest aged three: Cops"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "ML",
@@ -328,7 +316,18 @@
     "headlines": [
       "Meghalaya To Restore Vandalised Netaji, Vivekananda Statues In Shillong"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions"
+    ],
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "UT",
@@ -339,7 +338,7 @@
     "headlines": [
       "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   },
   {
     "Code": "WB",
@@ -350,6 +349,6 @@
     "headlines": [
       "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in"
     ],
-    "last_updated": "2026-08-26 12:50:18 AM"
+    "last_updated": "2026-08-26 02:29:58 AM"
   }
 ]
