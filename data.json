@@ -12,9 +12,9 @@
       "Two hours, 500 metres: How Gurgaon’s rain stole my train",
       "Air India seeks $1.5bn from Tata, SIA as Pak airspace ban, Middle East war hit ops",
       "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
+      "Amid Protest, Police File Abetment To Suicide In IIT Delhi Student Death Case",
       "PM Modi Chairs PRAGATI Meet, Pushes AI Use In Farming And Cyber Fraud Fight",
       "Rusted Steel, Damaged Sensors Flagged In Delhi's Signature Bridge Audit",
-      "38 Inmates Test HIV Positive At Guwahati Central Jail",
       "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in",
       "Delhi Police register abetment to suicide case in IIT Delhi student's death",
       "IIT Delhi forms external inquiry committee to probe student's death: ‘Profound sorrow, deep shock’",
@@ -39,7 +39,7 @@
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "MH",
@@ -60,7 +60,7 @@
       "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
       "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "KA",
@@ -81,7 +81,7 @@
       "Husband can't dictate wife’s life choices, says Karnataka high court",
       "Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "BR",
@@ -101,7 +101,7 @@
       "‘Kutte bhonke hazaar’: BPSC official's remark sparks backlash amid student protests in Bihar",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "TN",
@@ -121,7 +121,7 @@
       "Tamil Nadu Government to rejig key AI agencies",
       "‘Toxic’ star Rukmini Vasanth’s untold story of loss, audition and struggle"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "AP",
@@ -137,7 +137,7 @@
       "Kakinada MP calls for death penalty in family suicide case",
       "‘Badly bruised’: Morkel reveals why Pant did not keep as Jurel took gloves"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "HR",
@@ -152,35 +152,7 @@
       "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted",
       "Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
-      "Uttar Pradesh Cabinet approves lifelong free bus travel for women aged 60 and above",
-      "‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-08-26 02:29:58 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
-    "headlines": [
-      "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
-      "17 NEHS ‘Employee Mitra’ helpdesks to be set up at super-specialty hospitals in Hyderabad",
-      "Bandi Sanjay marks UPI’s 10th anniversary with digital payment in Karimnagar",
-      "50-bed critical care unit inaugurated at Government General Hospital in Khammam"
-    ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "PB",
@@ -194,7 +166,21 @@
       "‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom",
       "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
+      "Uttar Pradesh Cabinet approves lifelong free bus travel for women aged 60 and above",
+      "‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "MP",
@@ -208,20 +194,33 @@
       "25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks",
       "Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him  ₹5,500"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 3,
     "headlines": [
-      "Kerala Is Now Officially \"Keralam\", Centre Notifies New Name",
-      "P.V. Anvar blames UDF for poll defeat in Beypore after Kozhikode DCC chief admits ‘faulty candidate selection’",
-      "‘A big zero’: Kerala actor Devan reveals why he left BJP, says Vijay offered top post"
+      "Surrender within 3 weeks, SC tells ex-Tehelka editor Tarun Tejpal",
+      "‘Toxic’: Will Yash’s big-screen comeback also be his box office blockbuster?",
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
+    "headlines": [
+      "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
+      "17 NEHS ‘Employee Mitra’ helpdesks to be set up at super-specialty hospitals in Hyderabad",
+      "Bandi Sanjay marks UPI’s 10th anniversary with digital payment in Karimnagar"
+    ],
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "GJ",
@@ -234,31 +233,33 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "Assam Man Steals 50 Lakh From Father, Splurges On Girlfriend, iPhone: Cops",
       "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
     "headlines": [
-      "‘Toxic’: Will Yash’s big-screen comeback also be his box office blockbuster?",
-      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
+      "Kerala Is Now Officially \"Keralam\", Centre Notifies New Name",
+      "P.V. Anvar blames UDF for poll defeat in Beypore after Kozhikode DCC chief admits ‘faulty candidate selection’",
+      "‘A big zero’: Kerala actor Devan reveals why he left BJP, says Vijay offered top post"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "MN",
@@ -270,7 +271,7 @@
       "Postpone Census to first hold tripartite talks on NRC, citizenship issues: Manipur civil society groups",
       "CRPF man injured as fresh gunfight, arson hit Manipur"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "JK",
@@ -282,7 +283,7 @@
       "Hydel project shutdown triggers power crisis in J&amp;K",
       "8 terror suspects held in Kashmir; arms-ammo, posters seized"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "OD",
@@ -294,7 +295,7 @@
       "MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing",
       "Odisha woman’s body recovered from under kitchen slab; son on run"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "AR",
@@ -305,7 +306,7 @@
     "headlines": [
       "3 arrested in Arunachal for trafficking 19 children, youngest aged three: Cops"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "ML",
@@ -316,7 +317,7 @@
     "headlines": [
       "Meghalaya To Restore Vandalised Netaji, Vivekananda Statues In Shillong"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "RJ",
@@ -327,7 +328,7 @@
     "headlines": [
       "Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "UT",
@@ -338,7 +339,7 @@
     "headlines": [
       "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   },
   {
     "Code": "WB",
@@ -349,6 +350,6 @@
     "headlines": [
       "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in"
     ],
-    "last_updated": "2026-08-26 02:29:58 AM"
+    "last_updated": "2026-08-26 03:27:20 AM"
   }
 ]
