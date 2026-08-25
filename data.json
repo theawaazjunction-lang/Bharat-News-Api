@@ -4,9 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 33,
     "headlines": [
       "Of 27 lakh ‘logical discrepancy’ deletions in West Bengal, only 7 lakh appealed",
+      "‘Separatist’ OCI card holder in SC, seeks nod to visit Kashmir",
       "8 terror suspects held in Kashmir; arms-ammo, posters seized",
       "Crude awakening: As Russia, Iran face Trump heat, can Venezuela fill India’s oil gap?",
       "Two hours, 500 metres: How Gurgaon’s rain stole my train",
@@ -39,7 +40,7 @@
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "MH",
@@ -60,28 +61,7 @@
       "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
       "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 11,
-    "headlines": [
-      "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1",
-      "Karnataka Food Safety Department gives food businesses 15 days to rectify violations",
-      "Luxembourg firm iPC to invest ₹83,480 cr. in integrated green hydrogen, data centre project in Karnataka",
-      "Karnataka Chief Minister holds meeting with party legislators",
-      "Will place Bidadi township land acquisition award before court before acting on it, State government tells Karnataka HC",
-      "CWMA asks Karnataka to release at a rate of 9,000 cusecs a day for next 15 days",
-      "Karnataka minister flags proposed Bengaluru parking fee of up to  ₹25,000 to CM Shivakumar, asks to reconsider",
-      "Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’",
-      "Jailed Karnataka officer, undertrial, found with ‘girlfriend’ in VIP ward at hospital during surprise inspection",
-      "Husband can't dictate wife’s life choices, says Karnataka high court",
-      "Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA"
-    ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "BR",
@@ -101,19 +81,38 @@
       "‘Kutte bhonke hazaar’: BPSC official's remark sparks backlash amid student protests in Bihar",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 10,
+    "headlines": [
+      "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1",
+      "Karnataka Food Safety Department gives food businesses 15 days to rectify violations",
+      "Luxembourg firm iPC to invest ₹83,480 cr. in integrated green hydrogen, data centre project in Karnataka",
+      "Karnataka Chief Minister holds meeting with party legislators",
+      "Will place Bidadi township land acquisition award before court before acting on it, State government tells Karnataka HC",
+      "Karnataka minister flags proposed Bengaluru parking fee of up to  ₹25,000 to CM Shivakumar, asks to reconsider",
+      "Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’",
+      "Jailed Karnataka officer, undertrial, found with ‘girlfriend’ in VIP ward at hospital during surprise inspection",
+      "Husband can't dictate wife’s life choices, says Karnataka high court",
+      "Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA"
+    ],
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 10,
+    "news_count": 9,
     "headlines": [
       "‘It was me, not minister Keerthana’: Malaysian woman files plaint over viral video",
       "Tamil Nadu can lead India on revenue reform",
       "Farmer electrocuted in Ranipet",
-      "Keerthana announces new industrial parks and accommodation for more than 2,500 SIPCOT  workers",
       "‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project",
       "Tamil Nadu CM Vijay plans new international airport near Chennai after scrapping Parandur project",
       "Tamil Nadu CM Vijay drops Parandur airport plan, sparks political slugfest",
@@ -121,23 +120,7 @@
       "Tamil Nadu Government to rejig key AI agencies",
       "‘Toxic’ star Rukmini Vasanth’s untold story of loss, audition and struggle"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "The recruitment controversy in Andhra Pradesh",
-      "ACB detects ₹1.18 crore loss to Guntur civic body over tender irregularities",
-      "Guntur police launch anti-drug awareness ad film",
-      "A.P., U.K. sign MoU to strengthen urban infrastructure, develop Amaravati as liveable capital",
-      "Kakinada MP calls for death penalty in family suicide case",
-      "‘Badly bruised’: Morkel reveals why Pant did not keep as Jurel took gloves"
-    ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "HR",
@@ -152,35 +135,37 @@
       "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted",
       "Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 4,
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 5,
     "headlines": [
-      "Analysis: Returning Agniveers' Uncertain Future Fuels Punjab Politics Ahead Of Polls",
-      "Solo contest or ‘big brother’ role: Where does BJP-SAD ‘alliance’ stand ahead of Punjab elections?",
-      "‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom",
-      "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
+      "The recruitment controversy in Andhra Pradesh",
+      "ACB detects ₹1.18 crore loss to Guntur civic body over tender irregularities",
+      "Guntur police launch anti-drug awareness ad film",
+      "A.P., U.K. sign MoU to strengthen urban infrastructure, develop Amaravati as liveable capital",
+      "‘Badly bruised’: Morkel reveals why Pant did not keep as Jurel took gloves"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Ram Temple donation ‘scam’ whistleblower gets protection from arrest",
       "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
       "Uttar Pradesh Cabinet approves lifelong free bus travel for women aged 60 and above",
       "‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "MP",
@@ -194,46 +179,7 @@
       "25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks",
       "Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him  ₹5,500"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 3,
-    "headlines": [
-      "Surrender within 3 weeks, SC tells ex-Tehelka editor Tarun Tejpal",
-      "‘Toxic’: Will Yash’s big-screen comeback also be his box office blockbuster?",
-      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
-    ],
-    "last_updated": "2026-08-26 03:27:20 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 3,
-    "headlines": [
-      "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
-      "17 NEHS ‘Employee Mitra’ helpdesks to be set up at super-specialty hospitals in Hyderabad",
-      "Bandi Sanjay marks UPI’s 10th anniversary with digital payment in Karimnagar"
-    ],
-    "last_updated": "2026-08-26 03:27:20 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 3,
-    "headlines": [
-      "Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "AS",
@@ -246,7 +192,20 @@
       "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 3,
+    "headlines": [
+      "Surrender within 3 weeks, SC tells ex-Tehelka editor Tarun Tejpal",
+      "‘Toxic’: Will Yash’s big-screen comeback also be his box office blockbuster?",
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
+    ],
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "KL",
@@ -259,19 +218,33 @@
       "P.V. Anvar blames UDF for poll defeat in Beypore after Kozhikode DCC chief admits ‘faulty candidate selection’",
       "‘A big zero’: Kerala actor Devan reveals why he left BJP, says Vijay offered top post"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
     "headlines": [
-      "Postpone Census to first hold tripartite talks on NRC, citizenship issues: Manipur civil society groups",
-      "CRPF man injured as fresh gunfight, arson hit Manipur"
+      "Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Solo contest or ‘big brother’ role: Where does BJP-SAD ‘alliance’ stand ahead of Punjab elections?",
+      "‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom",
+      "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
+    ],
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "JK",
@@ -283,7 +256,19 @@
       "Hydel project shutdown triggers power crisis in J&amp;K",
       "8 terror suspects held in Kashmir; arms-ammo, posters seized"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 2,
+    "headlines": [
+      "Postpone Census to first hold tripartite talks on NRC, citizenship issues: Manipur civil society groups",
+      "CRPF man injured as fresh gunfight, arson hit Manipur"
+    ],
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "OD",
@@ -295,7 +280,19 @@
       "MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing",
       "Odisha woman’s body recovered from under kitchen slab; son on run"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 2,
+    "headlines": [
+      "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
+      "17 NEHS ‘Employee Mitra’ helpdesks to be set up at super-specialty hospitals in Hyderabad"
+    ],
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "AR",
@@ -306,7 +303,7 @@
     "headlines": [
       "3 arrested in Arunachal for trafficking 19 children, youngest aged three: Cops"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "ML",
@@ -317,7 +314,7 @@
     "headlines": [
       "Meghalaya To Restore Vandalised Netaji, Vivekananda Statues In Shillong"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "RJ",
@@ -328,7 +325,7 @@
     "headlines": [
       "Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "UT",
@@ -339,7 +336,7 @@
     "headlines": [
       "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   },
   {
     "Code": "WB",
@@ -350,6 +347,6 @@
     "headlines": [
       "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in"
     ],
-    "last_updated": "2026-08-26 03:27:20 AM"
+    "last_updated": "2026-08-26 04:30:38 AM"
   }
 ]
