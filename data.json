@@ -4,19 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 33,
+    "news_count": 31,
     "headlines": [
+      "Bill Belichick addresses son Steve’s UNC absence amid defensive play-calling call",
       "Of 27 lakh ‘logical discrepancy’ deletions in West Bengal, only 7 lakh appealed",
       "‘Separatist’ OCI card holder in SC, seeks nod to visit Kashmir",
-      "8 terror suspects held in Kashmir; arms-ammo, posters seized",
-      "Crude awakening: As Russia, Iran face Trump heat, can Venezuela fill India’s oil gap?",
-      "Two hours, 500 metres: How Gurgaon’s rain stole my train",
-      "Air India seeks $1.5bn from Tata, SIA as Pak airspace ban, Middle East war hit ops",
-      "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
+      "Delhi Man Dies By Suicide Over Marital Dispute: Cops",
       "Amid Protest, Police File Abetment To Suicide In IIT Delhi Student Death Case",
       "PM Modi Chairs PRAGATI Meet, Pushes AI Use In Farming And Cyber Fraud Fight",
-      "Rusted Steel, Damaged Sensors Flagged In Delhi's Signature Bridge Audit",
+      "Suvendu vows to keep Mamata off the streets, TMC chairperson says not taking political sanyas",
       "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in",
+      "SC closes plea on CBSE OSM glitches",
+      "CJP leaders under radar, intel tracking on: How Delhi Police is gearing up for Sept 5 march",
+      "A killing, heart-shaped tattoo,  ₹1,000 fare dispute: Delhi cops arrest 3 after ‘man with no name’ found dead",
+      "Amid student protests at IIT Delhi, police register abetment to suicide case over 31-year-old's death",
+      "Let July 20 probe into Delhi protest kick off: Supreme Court on plea to widen remit",
       "Delhi Police register abetment to suicide case in IIT Delhi student's death",
       "IIT Delhi forms external inquiry committee to probe student's death: ‘Profound sorrow, deep shock’",
       "‘Send kids to study, not return as bodies’: Deceased IIT Delhi student’s brother alleges institutional apathy",
@@ -25,14 +27,10 @@
       "'65 suicides in 5 years': CJP demands 'immediate' attention to structural problems amid IIT Delhi protests",
       "Body of Delhi teen who drowned in drain while chasing kite found after four days",
       "CJP announces new members, names national spokespersons, joint secretaries | Check full list",
-      "Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas",
-      "SC nudges Delhi court to conclude 2008 blasts trial in six months",
-      "‘Let panel work’: SC on plea seeking Amit Shah, Delhi Police chief’s role in protest case",
-      "How Delhi gang pulled off fake 'Special 26' raids: Target lists, forged IDs, CBI jackets and threats",
-      "Ajit Doval meets Chinese vice president Han Zheng ahead of India-China boundary talks",
-      "Delhi-NCR weather highlights: Light to moderate rainfall likely, says IMD as Delhi CM flags 'waterlogging issue'",
+      "Honda says it may not build new plant in North America without trade deal extension",
+      "L&T shares rise 0.71% as company bags two major West Asia orders",
       "Indian refiners lean on Russia, UAE, South America for August crude oil imports",
-      "L&T’s West Asia orderbook swells, wins ₹50,000 crore worth contracts in August alone",
+      "Oil Price Today (August 26): Crude oil tanks 6% in two days to hover near $85. What’s behind the decline?",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -40,7 +38,7 @@
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
       "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "MH",
@@ -49,108 +47,71 @@
     "State": "Maharashtra",
     "news_count": 11,
     "headlines": [
+      "Mumbai auto drivers learn to refuse rides... in Marathi",
       "Bombay High Court to hear PIL against Marathi rule for drivers",
       "Maharashtra government scraps age limit for tribal hostels after Rahul Gandhi’s letter to CM",
       "'Can no longer work much': Nitin Gadkari's remark sparks retirement buzz. He clarifies",
       "Maharashtra's cab drivers move Bombay HC over Marathi language rule; seek immediate stay on govt notice",
       "This Indian village has no doors or locks or theft reports. The secret is a 300-year-old bleeding slab",
-      "Mumbai airport asks airlines to shift 30% of international flights to Navi Mumbai from October",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Phool Aur Kaante filmmaker Kuku Kohli dies",
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
       "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
       "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 10,
-    "headlines": [
-      "'Clear Class 10 together': Prashant Kishor's challenge to Bihar CM &amp; Tejashwi",
-      "3-yr-old’s rape-murder near Bihar border fuels death penalty debate in Nepal",
-      "Several injured as police stop Bihar students’ protest march",
-      "RLM, JD(U) clash over Nitish’s legacy in Bihar",
-      "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
-      "Barricades broken, water cannons used: Bihar protests turn violent as protesters clash with cops",
-      "Patna student protest: Unreal scenes says CJP; BPSC protesters face water cannons in Patna, break into ‘rain dance’",
-      "Students, cops face off in Patna during march to Raj Bhavan over Bihar civil services exam",
-      "‘Kutte bhonke hazaar’: BPSC official's remark sparks backlash amid student protests in Bihar",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 10,
+    "news_count": 8,
     "headlines": [
       "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1",
       "Karnataka Food Safety Department gives food businesses 15 days to rectify violations",
       "Luxembourg firm iPC to invest ₹83,480 cr. in integrated green hydrogen, data centre project in Karnataka",
       "Karnataka Chief Minister holds meeting with party legislators",
-      "Will place Bidadi township land acquisition award before court before acting on it, State government tells Karnataka HC",
       "Karnataka minister flags proposed Bengaluru parking fee of up to  ₹25,000 to CM Shivakumar, asks to reconsider",
       "Prakash Raj announces Sept 1 march over deletions in Karnataka SIR, slams EC: ‘Why put voters in so much trouble?’",
       "Jailed Karnataka officer, undertrial, found with ‘girlfriend’ in VIP ward at hospital during surprise inspection",
-      "Husband can't dictate wife’s life choices, says Karnataka high court",
-      "Suspend food licences of e-com sites for selling poisonous datura: Karnataka FDA"
+      "Husband can't dictate wife’s life choices, says Karnataka high court"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 9,
-    "headlines": [
-      "‘It was me, not minister Keerthana’: Malaysian woman files plaint over viral video",
-      "Tamil Nadu can lead India on revenue reform",
-      "Farmer electrocuted in Ranipet",
-      "‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project",
-      "Tamil Nadu CM Vijay plans new international airport near Chennai after scrapping Parandur project",
-      "Tamil Nadu CM Vijay drops Parandur airport plan, sparks political slugfest",
-      "How Chennai’s Neurostellar is measuring the mental stamina of Chess players",
-      "Tamil Nadu Government to rejig key AI agencies",
-      "‘Toxic’ star Rukmini Vasanth’s untold story of loss, audition and struggle"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 5,
-    "headlines": [
-      "Faridabad Woman, Lover Arrested For Husband's Murder, Body Found Buried",
-      "Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues",
-      "Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found",
-      "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted",
-      "Advisory issued as waterlogging brings Delhi, Gurugram traffic to crawl; Check affected areas"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 5,
+    "news_count": 7,
     "headlines": [
+      "Six killed, 12 injured as speeding bus crashes into lorry in Telangana’s Suryapet",
       "The recruitment controversy in Andhra Pradesh",
       "ACB detects ₹1.18 crore loss to Guntur civic body over tender irregularities",
       "Guntur police launch anti-drug awareness ad film",
       "A.P., U.K. sign MoU to strengthen urban infrastructure, develop Amaravati as liveable capital",
-      "‘Badly bruised’: Morkel reveals why Pant did not keep as Jurel took gloves"
+      "5 of family found dead in Srisailam; suicide suspected",
+      "How Prasidh Krishna became Shubman Gill’s go-to man"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 7,
+    "headlines": [
+      "Several injured as police stop Bihar students’ protest march",
+      "RLM, JD(U) clash over Nitish’s legacy in Bihar",
+      "From Gandhi Maidan to chaos: Bihar students clash with police amid BPSC row",
+      "Barricades broken, water cannons used: Bihar protests turn violent as protesters clash with cops",
+      "Patna student protest: Unreal scenes says CJP; BPSC protesters face water cannons in Patna, break into ‘rain dance’",
+      "Students, cops face off in Patna during march to Raj Bhavan over Bihar civil services exam",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "UP",
@@ -160,115 +121,133 @@
     "news_count": 5,
     "headlines": [
       "Ram Temple donation ‘scam’ whistleblower gets protection from arrest",
-      "UP RERA offers 4-month extension to projects hit by Middle East disruptions",
+      "More than 9.3 lakh youth received government jobs in Uttar Pradesh in the last nine years, says CM Yogi",
       "Uttar Pradesh Cabinet approves lifelong free bus travel for women aged 60 and above",
-      "‘Pork party?’ Shehzad Poonawalla's ‘other holy month’ jab at Rahul Gandhi amid Ayodhya-fish feast row",
+      "Uttar Pradesh clears over 94% of sugarcane dues in current crushing season",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
+    "Code": "TN",
+    "Lat": 11.1271,
     "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 4,
+    "State": "Tamil Nadu",
+    "news_count": 5,
     "headlines": [
-      "Madhya Pradesh Forest Department To Launch Snake-Catcher App Soon",
-      "Gwalior car's kiss marks, tinted glass, loud silencers: Which violations can invite trouble for Delhi-NCR motorists",
-      "25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks",
-      "Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him  ₹5,500"
+      "Madras built the engine, Chennai is shifting gears",
+      "Tamil Nadu can lead India on revenue reform",
+      "Farmer electrocuted in Ranipet",
+      "‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project",
+      "How Chennai’s Neurostellar is measuring the mental stamina of Chess players"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "Assam Man Steals 50 Lakh From Father, Splurges On Girlfriend, iPhone: Cops",
-      "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 3,
-    "headlines": [
-      "Surrender within 3 weeks, SC tells ex-Tehelka editor Tarun Tejpal",
-      "‘Toxic’: Will Yash’s big-screen comeback also be his box office blockbuster?",
-      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 3,
-    "headlines": [
-      "Kerala Is Now Officially \"Keralam\", Centre Notifies New Name",
-      "P.V. Anvar blames UDF for poll defeat in Beypore after Kozhikode DCC chief admits ‘faulty candidate selection’",
-      "‘A big zero’: Kerala actor Devan reveals why he left BJP, says Vijay offered top post"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 3,
+    "news_count": 5,
     "headlines": [
+      "Gujarat Boy Murdered By Villager Amid Land Row, Witchcraft Claims",
+      "Gujarat Forest Guard, Agent Trapped For Rs 100 Bribe At Surajbari Checkpost",
       "Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 3,
+    "news_count": 5,
     "headlines": [
+      "'No Compromise, No Alliance': Mayawati Says BSP Will Contest Alone In Punjab",
+      "BJP signals solo Punjab fight, but some eye SAD tie-up",
       "Solo contest or ‘big brother’ role: Where does BJP-SAD ‘alliance’ stand ahead of Punjab elections?",
       "‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom",
       "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 2,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 4,
     "headlines": [
-      "Hydel project shutdown triggers power crisis in J&amp;K",
-      "8 terror suspects held in Kashmir; arms-ammo, posters seized"
+      "Assam Man Steals 50 Lakh From Father, Splurges On Girlfriend, iPhone: Cops",
+      "Rijiju slams Khera over ‘indecent’ remarks on his swimming video",
+      "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues",
+      "Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found",
+      "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted"
+    ],
+    "last_updated": "2026-08-26 09:04:44 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Gwalior car's kiss marks, tinted glass, loud silencers: Which violations can invite trouble for Delhi-NCR motorists",
+      "25km, 10 hours and 200 students: Protest in Madhya Pradesh after teachers' alleged use of 'casteist' remarks",
+      "Girlfriend leaves 3,400 kiss marks on car. Gwalior cops make man wipe them off, fine him  ₹5,500"
+    ],
+    "last_updated": "2026-08-26 09:04:44 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 2,
     "headlines": [
-      "Postpone Census to first hold tripartite talks on NRC, citizenship issues: Manipur civil society groups",
-      "CRPF man injured as fresh gunfight, arson hit Manipur"
+      "Man Kills Two Sisters In Uttarakhand Days Before Raksha Bandhan",
+      "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 2,
+    "headlines": [
+      "Surrender within 3 weeks, SC tells ex-Tehelka editor Tarun Tejpal",
+      "Arjun Rampal marries longtime girlfriend Gabriella Demetriades in Goa"
+    ],
+    "last_updated": "2026-08-26 09:04:44 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "'A tricky one': Dravid reveals big concern over Vaibhav Sooryavanshi's Test future",
+      "Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions"
+    ],
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "OD",
@@ -277,10 +256,22 @@
     "State": "Odisha",
     "news_count": 2,
     "headlines": [
-      "MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing",
-      "Odisha woman’s body recovered from under kitchen slab; son on run"
+      "Cost of being parentless: Odisha rights panel orders probe into wrong parents’ names in certificates",
+      "MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Suvendu vows to keep Mamata off the streets, TMC chairperson says not taking political sanyas",
+      "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in"
+    ],
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "TG",
@@ -289,10 +280,10 @@
     "State": "Telangana",
     "news_count": 2,
     "headlines": [
-      "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
-      "17 NEHS ‘Employee Mitra’ helpdesks to be set up at super-specialty hospitals in Hyderabad"
+      "6 killed, several hurt as private bus crashes into moving truck in Hyderabad",
+      "Six killed, 12 injured as speeding bus crashes into lorry in Telangana’s Suryapet"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
     "Code": "AR",
@@ -303,50 +294,17 @@
     "headlines": [
       "3 arrested in Arunachal for trafficking 19 children, youngest aged three: Cops"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "Meghalaya To Restore Vandalised Netaji, Vivekananda Statues In Shillong"
+      "Himachal rain fury: 98 killed since monsoon onset, 99 roads blocked, massive landslide hits Chamba road"
     ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 1,
-    "headlines": [
-      "Rajasthan HC takes up Gen Z, Gen Alpha concerns, asks govt's response on slew of directions"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 1,
-    "headlines": [
-      "BSP will go solo in UP, Uttarakhand and Punjab assembly elections: Mayawati"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 1,
-    "headlines": [
-      "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in"
-    ],
-    "last_updated": "2026-08-26 04:30:38 AM"
+    "last_updated": "2026-08-26 09:04:44 AM"
   }
 ]
