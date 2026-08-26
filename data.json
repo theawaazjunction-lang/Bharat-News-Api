@@ -4,16 +4,20 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 33,
+    "news_count": 40,
     "headlines": [
+      "North American crayfish introduced to Britain now threaten native species",
       "‘Be ready for cockroaches!’ CJP renews Sept 5 protest call over 3 pending demands",
       "Ek-Uttarakhand Top Cop Exits Panel Probing IIT Delhi Student's Death Amid Row",
       "\"He Said 'Mummy, I Am Hurting'\": Mother Of IIT Student Who Died By Suicide",
       "Nepal flash flood: At least 50 pilgrims from Tamil Nadu stranded as landslips disrupt route",
+      "NDMC apologises for waterlogging after ‘unexpected’ heavy rainfall in Delhi",
       "NEET-UG protests case: Petitioners seek re-constitution of high-powered enquiry committee",
       "H1N1 in India: A seasonal surge, not a new strain, says ICMR",
       "AISA backs CJP's September 5 Delhi march; seeks withdrawal of FIRs, probe into pellet firing",
-      "Kakinada Gateway Port set to be commissioned by early 2027",
+      "Bengal: 65-year-old woman killed in Howrah apartment fire, 12 rescued",
+      "‘Get this started or…': CJP warns Delhi CM Rekha Gupta over condition of govt schools",
+      "Rise in sugar prices take a toll on West Bengal’s sweet industry ahead of festive season",
       "‘No one will forget Hathras…’: Akhilesh Yadav hits out at BJP over women's safety",
       "Sukesh Chandrasekhar convicted for impersonating SC judge to get bail: ‘Didn’t just cross the line but leapt over it'",
       "Delhi court acquits two men in 2016 murder case, says suspicion cannot replace proof",
@@ -29,48 +33,31 @@
       "Let July 20 probe into Delhi protest kick off: Supreme Court on plea to widen remit",
       "Delhi Police register abetment to suicide case in IIT Delhi student's death",
       "IIT Delhi forms external inquiry committee to probe student's death: ‘Profound sorrow, deep shock’",
-      "‘Send kids to study, not return as bodies’: Deceased IIT Delhi student’s brother alleges institutional apathy",
+      "India, China can help resolve West Asia conflict: Hillary Clinton",
+      "ICAT issues first compliance certificate for 15-metre multi-axle sleeper bus",
       "Mahindra Holidays receives ₹11.34-cr GST demand notice",
       "Centre to sell onions at ₹35/kg in Delhi from Thursday amid price surge",
       "LuLu flies in Tamil Nadu, Karnataka marigolds to Gulf for Onam amid West Asia crisis",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "'Very rarely do I get chance to play red-ball cricket': Arshdeep after Duleep win",
+      "Gulf Giants strategy under Simon Helmot: Bold, aggressive cricket and 'hell of a fight'",
       "North Zone beat West Zone by 52 runs, enter Duleep Trophy semi-finals",
       "Emraan Hashmi returns to action with Gunmaaster G9, first glimpse out",
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 12,
-    "headlines": [
-      "Video: For India's 1st Bullet Train, Work In Progress Across Scenic Terrains",
-      "Tukaram Mundhe: The IAS Officer Restaurants Fear Most In Maharashtra",
-      "Did Maharashtra FDA chief Tukaram Mundhe target Shah Rukh Khan, Ajay Devgn over Vimal ad? He clarifies",
-      "Row erupts in Maharashtra as opposition slams CM Fadnavis over MPSC recruitment exam cancellation, paper leak",
-      "AES bags ₹4,700 crore green energy evacuation project in Karnataka",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Kuku Kohli funeral: Aruna Irani looks devastated, Vicky-Katrina, Rohit Shetty arrive - PICS",
-      "Tukaram Mundhe clarifies he's not targeting SRK, Ajay: 'It's their responsibility'",
-      "Phool Aur Kaante filmmaker Kuku Kohli dies",
-      "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
-      "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
-      "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
-    ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 12,
+    "news_count": 14,
     "headlines": [
+      "'Both Made Mistakes': Karnataka MLA To NDTV After Daughter Slaps Cop",
+      "Karnataka Minister B Nagendra Likely To Resign Over Corruption Allegations",
       "Deletions in Karnataka’s draft SIR rolls alarming | Data",
       "4.46 crore voters in Karnataka draft rolls; 1.07 crore names deleted",
       "H1N1 in India: A seasonal surge, not a new strain, says ICMR",
@@ -84,7 +71,28 @@
       "LuLu flies in Tamil Nadu, Karnataka marigolds to Gulf for Onam amid West Asia crisis",
       "AES bags ₹4,700 crore green energy evacuation project in Karnataka"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 11,
+    "headlines": [
+      "Builder told to pay Rs 6 cr to housing society over delay in occupation certificate",
+      "Did Maharashtra FDA chief Tukaram Mundhe target Shah Rukh Khan, Ajay Devgn over Vimal ad? He clarifies",
+      "Row erupts in Maharashtra as opposition slams CM Fadnavis over MPSC recruitment exam cancellation, paper leak",
+      "AES bags ₹4,700 crore green energy evacuation project in Karnataka",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Kuku Kohli funeral: Aruna Irani looks devastated, Vicky-Katrina, Rohit Shetty arrive - PICS",
+      "Tukaram Mundhe clarifies he's not targeting SRK, Ajay: 'It's their responsibility'",
+      "Phool Aur Kaante filmmaker Kuku Kohli dies",
+      "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
+      "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai",
+      "Poonam Dhillon hospitalised at Mumbai’s Lilavati hospital after Dengue diagnosis"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "RJ",
@@ -102,7 +110,7 @@
       "Today’s Gold Rate in India August 26: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur",
       "'A tricky one': Dravid reveals big concern over Vaibhav Sooryavanshi's Test future"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "TG",
@@ -111,114 +119,115 @@
     "State": "Telangana",
     "news_count": 7,
     "headlines": [
+      "Telangana UCBs get RBI praise for response to Saksham",
       "Hyderabad Police Commissioner wishes public on Milad-un-Nabi",
       "Six killed, 12 injured as Hyderabad-Eluru electric bus rams into container truck near Suryapet",
       "FGG urges Telangana govt to establish functional Town Planning and Building Tribunal to address unauthorised constructions",
       "U.S. Ambassador hosts business roundtable in Hyderabad to drive trade and industrial ties",
-      "Villagers in Telangana wage a war to protect 75-year-old Peepal tree",
-      "User charges at Hyderabad airport cut by 30%; sets new tariff regime",
-      "Row over private properties in Telangana prohibited list"
+      "Row over private properties in Telangana prohibited list",
+      "Octave sets up tech centre with 1,600 engineers in Hyderabad"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 6,
-    "headlines": [
-      "India’s 1st hydrogen train travels 6,000 km; cuts 36,444 kg CO2 emissions",
-      "Gurugram waterlogging sparks outrage; Residents, Opposition question government and MP",
-      "BJP MP Rao Inderjit Singh blames Congress era for Gurugram rain chaos, pitches tunnel fix",
-      "Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues",
-      "Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found",
-      "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted"
-    ],
-    "last_updated": "2026-08-26 04:25:03 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "Six killed, 12 injured as Hyderabad-Eluru electric bus rams into container truck near Suryapet",
-      "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
-      "Kakinada Gateway Port set to be commissioned by early 2027",
-      "5 of family found dead in Andhra Pradesh; suicide suspected",
-      "How Prasidh Krishna became Shubman Gill’s go-to man"
-    ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "Should CM’s remarks on corruption at DPCs be treated like film dialogues that have no value, asks Dhinakaran",
+      "Mettur dam likely to be opened by Tamil Nadu CM Vijay on August 28; Salem Collector holds inspection",
       "Nepal flash flood: At least 50 pilgrims from Tamil Nadu stranded as landslips disrupt route",
       "Madras built the engine for industrial development, Chennai is shifting gears",
       "Chennai couple accused of cheating man of  ₹1 crore arrested after 10 years",
-      "‘G Square Maapilai’, ‘lottery son-in-law’: Sparks fly in Tamil Nadu assembly as TVK, DMK clash over airport project",
       "Chennai Airport’s proposed Terminal 5 likely to be positioned between two runways"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 5,
+    "headlines": [
+      "India’s 1st hydrogen train travels 6,000 km; cuts 36,444 kg CO2 emissions",
+      "BJP MP Rao Inderjit Singh blames Congress era for Gurugram rain chaos, pitches tunnel fix",
+      "Gurugram administration takes big action for school buses amid heavy rain, waterlogging issues",
+      "Ex-consultant dies by suicide at Le Meridien hotel in Delhi, no note found",
+      "Gurugram sewer line breach causes road cave-in at IFFCO Chowk; traffic diverted"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
       "Nepal floods: Over 100 Indians missing; UP, Bihar on alert as Gandak river swells",
       "'Questions don't stop with batons': Rahul attacks Bihar govt over BPSC protests",
+      "Rahul slams Bihar govt over ‘AK-47 firing on students’ protesting over BPSC exam: ‘BJP turning police into weapon’",
       "From Gandhi Maidan to chaos: Bihar students clash with police amid BPSC row",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 4,
     "headlines": [
-      "Rijiju slams Khera over ‘indecent’ remarks on his swimming video",
-      "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "Six killed, 12 injured as Hyderabad-Eluru electric bus rams into container truck near Suryapet",
+      "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+      "5 of family found dead in Andhra Pradesh; suicide suspected",
+      "How Prasidh Krishna became Shubman Gill’s go-to man"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "BJP signals solo Punjab fight, but some eye SAD tie-up",
-      "Solo contest or ‘big brother’ role: Where does BJP-SAD ‘alliance’ stand ahead of Punjab elections?",
-      "‘Vegitables’ and ‘dear’: SAD mocks AAP over spelling errors in Punjab classroom"
-    ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Mother, 7-yr-old daughter killed as Gujarat ST bus hits them in Bhavnagar: Police",
       "Gujarat Police want to unify 80,000+ CCTV cameras into one ‘smart surveillance’ network",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 4,
+    "headlines": [
+      "In Swimming Video Spat, Kiren Rijiju Takes \"Rajya Sabha Prize\" Dig At Pawan Khera, Drags In Rahul Gandhi",
+      "Rijiju slams Khera over ‘indecent’ remarks on his swimming video",
+      "Assam man, 25, steals  ₹50 lakh, gold from house, father hands him over to cops",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Bengal: 65-year-old woman killed in Howrah apartment fire, 12 rescued",
+      "Rise in sugar prices take a toll on West Bengal’s sweet industry ahead of festive season"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "OD",
@@ -230,7 +239,19 @@
       "Raids under way to trace Odisha police ex-Inspector-in-Charge Sujit Kumar Das accused in rape case",
       "MV Ocean Winner: Empty lifeboat located in Bay of Bengal, 22 crew still missing"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 2,
+    "headlines": [
+      "Meghalaya Assembly Passes Resolution Against Uranium Mining",
+      "Meghalaya assembly passes unanimous resolution against uranium mining"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "UP",
@@ -242,19 +263,7 @@
       "Rajasthan minister Kirori Lal Meena tests positive for swine flu",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Abhijeet Dipke takes jibe at cops after Gwalior man made to clean 3,400 kiss marks from car",
-      "Gwalior car's kiss marks, tinted glass, loud silencers: Which violations can invite trouble for Delhi-NCR motorists"
-    ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "GA",
@@ -265,18 +274,7 @@
     "headlines": [
       "Goa Cabinet clears anti-conversion bill ahead of assembly monsoon session"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 1,
-    "headlines": [
-      "'We Are The Real Trinamool': Meghalaya Party Chief Amid Crisis"
-    ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "HP",
@@ -287,7 +285,29 @@
     "headlines": [
       "Himachal rain fury: 98 killed since monsoon onset, 99 roads blocked, massive landslide hits Chamba road"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Abhijeet Dipke takes jibe at cops after Gwalior man made to clean 3,400 kiss marks from car"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 1,
+    "headlines": [
+      "BJP signals solo Punjab fight, but some eye SAD tie-up"
+    ],
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "LA",
@@ -298,7 +318,7 @@
     "headlines": [
       "NCB busts cross-border heroin cartel in Jammu; mastermind among 3 arrested with 5.16 kg heroin"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   },
   {
     "Code": "UT",
@@ -309,6 +329,6 @@
     "headlines": [
       "Mahindra Holidays receives ₹11.34-cr GST demand notice"
     ],
-    "last_updated": "2026-08-26 04:25:03 PM"
+    "last_updated": "2026-08-26 05:30:44 PM"
   }
 ]

@@ -2,10 +2,19 @@
   "general": [
     {
       "title": "Nepal floods: Over 100 Indians missing; UP, Bihar on alert as Gandak river swells",
-      "description": "",
+      "description": "A massive flash flood in Nepal's Rasuwa district has caused widespread damage and claimed seventeen lives. Over one hundred Indian nationals are reported missing after the sudden surge in the Bhote Koshi River. Many missing individuals are believed to be pilgrims traveling to Tibet for the Kailash M",
       "url": "https://timesofindia.indiatimes.com/world/south-asia/over-100-indians-missing-after-flash-floods-hit-nepal-what-we-know-so-far/articleshow/133536823.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133537334,imgsize-153322.cms",
       "publishedAt": "Wed, 26 Aug 2026 15:44:43 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Stand in solidarity': PM Modi speaks to Nepal's Balen Shah, offers flood aid",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/nepal-floods-pm-modi-speaks-to-balen-shah-offers-support/articleshow/133539412.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133539486,imgsize-726356.cms",
+      "publishedAt": "Wed, 26 Aug 2026 17:03:22 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -19,15 +28,6 @@
       "category": "general"
     },
     {
-      "title": "Iranian assassination plot against Netanyahu's son Yair foiled in Florida: Report",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iranian-assassination-plot-against-netanyahus-son-yair-foiled-in-florida-report/articleshow/133537130.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133537371,imgsize-82868.cms",
-      "publishedAt": "Wed, 26 Aug 2026 15:38:37 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Starc dethrones Bumrah, becomes No. 1 Test bowler for first time in his career",
       "description": "The Australia fast bowler took 10 wickets in the match, including 6/12 in the first innings and 4/39 in the second, helping Australia register an innings and 51-run win and level the World Test Championship series.",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/mitchell-starc-dethrones-jasprit-bumrah-becomes-icc-no-1-test-bowler-for-first-time-in-his-career/articleshow/133535424.cms",
@@ -37,11 +37,11 @@
       "category": "general"
     },
     {
-      "title": "No ITR filed, then tax notice led to Rs 5.31L refund battle which taxpayer won",
-      "description": "While completing the assessment, the Income Tax Assessing Officer (AO) rejected the refund claim on the sole ground that a refund could not be claimed through an ITR filed under Section 148 when no original ITR had been filed under Section 139.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/no-itr-filed-despite-high-value-transactions-then-came-a-tax-notice-taxpayer-declared-rs-1-38-crore-business-loss-and-claimed-rs-5-31-lakh-tds-refund-department-denied-it-but-delhi-itat-ordered-refund-with-interest/articleshow/133535857.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133536282,imgsize-594950.cms",
-      "publishedAt": "Wed, 26 Aug 2026 15:00:36 +0530",
+      "title": "Iranian assassination plot against Netanyahu's son Yair foiled in Florida: Report",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/iranian-assassination-plot-against-netanyahus-son-yair-foiled-in-florida-report/articleshow/133537130.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133537371,imgsize-82868.cms",
+      "publishedAt": "Wed, 26 Aug 2026 15:38:37 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -55,20 +55,11 @@
       "category": "general"
     },
     {
-      "title": "Villages washed away as massive flash floods tear through Nepal - watch",
-      "description": "At least eight people died in massive flash floods that struck Nepal on Wednesday.  A sudden rise in the Bhotekoshi River caused widespread damage near the China border.  Vehicles and property were washed away in the Timure and Syafrubesi market areas.  Rescue operations are underway with army perso",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/massive-floods-sweep-through-nepal-several-districts-put-on-high-alert/articleshow/133534727.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133534832,imgsize-81554.cms",
-      "publishedAt": "Wed, 26 Aug 2026 13:52:29 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Questions don't stop with batons': Rahul attacks Bihar govt over BPSC protests",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/questions-dont-stop-with-batons-rahul-gandhi-attacks-bihar-govt-over-bpsc-protests/articleshow/133537210.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133537335,imgsize-1048071.cms",
-      "publishedAt": "Wed, 26 Aug 2026 15:38:42 +0530",
+      "title": "No ITR filed, then tax notice led to Rs 5.31L refund battle which taxpayer won",
+      "description": "While completing the assessment, the Income Tax Assessing Officer (AO) rejected the refund claim on the sole ground that a refund could not be claimed through an ITR filed under Section 148 when no original ITR had been filed under Section 139.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/no-itr-filed-despite-high-value-transactions-then-came-a-tax-notice-taxpayer-declared-rs-1-38-crore-business-loss-and-claimed-rs-5-31-lakh-tds-refund-department-denied-it-but-delhi-itat-ordered-refund-with-interest/articleshow/133535857.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133536282,imgsize-594950.cms",
+      "publishedAt": "Wed, 26 Aug 2026 15:00:36 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -82,38 +73,74 @@
       "category": "general"
     },
     {
+      "title": "Cash buyers dominated the US housing boom. Now financed buyers are fighting back",
+      "description": "Cash purchases in the US housing market are decreasing significantly.  This trend emerges as home sales slow and inventory levels rise.  Price growth has also moderated considerably, benefiting financed buyers.  Financed buyers are now winning competitive bidding situations more frequently.  Cash bu",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/cash-buyers-dominated-the-us-housing-boom-now-financed-buyers-are-fighting-back/articleshow/133538275.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133538377,imgsize-121299.cms",
+      "publishedAt": "Wed, 26 Aug 2026 16:23:30 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "North American crayfish introduced to Britain now threaten native species",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/uk/in-the-1970s-britain-imported-north-american-signal-crayfish-for-farms-they-escaped-bred-in-huge-numbers-and-now-infest-rivers-across-england-wales-and-scotland-carrying-a-plague-deadly-to-native-crayfish/articleshow/133515418.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133515528,imgsize-703626.cms",
+      "publishedAt": "Wed, 26 Aug 2026 16:40:30 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Rhode Island woman left family farm to become a 300-acre wildlife sanctuary",
+      "description": "Mabel Norman Cerio turned her 1908 purchase of Paradise Farm in Middletown, Rhode Island, into a lifelong connection with art, wildlife and conservation. An artist and birdwatcher, she planned a bird sanctuary during her lifetime and later left the property to the community through her trust. After ",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-rhode-island-woman-bought-her-familys-coastal-farm-in-1908-spent-decades-painting-and-birdwatching-there-then-left-the-land-to-become-a-sanctuary-that-now-protects-300-acres/articleshow/133535152.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133536041,imgsize-71261.cms",
+      "publishedAt": "Wed, 26 Aug 2026 16:30:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "A $1 million watch, only 7 of them, and 3 words Sam Altman wanted engraved inside",
+      "description": "Sam Altman has commissioned seven custom Swiss watches from Vanguart for select OpenAI staff. Based on Vanguart's titanium Orb, which starts at $180,000, each carries the phrase COMPUTE IS DESTINY on the rotor and a line of Python code on the caseback. The Sam Altman watch is part of a wider Silicon",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/americas-richest-techies-new-status-symbol-is-a-swiss-watch-and-sam-altman-ordered-seven-worth-over-1-million-with-these-words-engraved-on-them/articleshow/133538155.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133538816,imgsize-671244.cms",
+      "publishedAt": "Wed, 26 Aug 2026 16:43:24 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Villages washed away as massive flash floods tear through Nepal - watch",
+      "description": "A sudden cloudburst triggered severe flooding in the Bhotekoshi River, devastating Nepal's Rasuwa district. Tragically, at least eight people have lost their lives, and several others remain unaccounted for. The disaster has wreaked havoc on local markets, roads, and bridges. Rescue teams are in ful",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/massive-floods-sweep-through-nepal-several-districts-put-on-high-alert/articleshow/133534727.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133534832,imgsize-81554.cms",
+      "publishedAt": "Wed, 26 Aug 2026 13:52:29 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Builder told to pay Rs 6 cr to housing society over delay in occupation certificate",
+      "description": "A Mumbai builder must pay Rs 6 crore to a housing society. This payment is for failing to secure an occupation certificate for over twenty years. Members faced demolition risk and lived without essential services. The National Consumer Disputes Redressal Commission ordered the builder to rectify thi",
+      "url": "https://timesofindia.indiatimes.com/legal/news/mumbai-builder-told-to-pay-rs-6-crore-to-housing-society-over-20-year-delay-in-occupation-certificate/articleshow/133538149.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133538502,imgsize-146507.cms",
+      "publishedAt": "Wed, 26 Aug 2026 16:25:02 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Questions don't stop with batons': Rahul attacks Bihar govt over BPSC protests",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/questions-dont-stop-with-batons-rahul-gandhi-attacks-bihar-govt-over-bpsc-protests/articleshow/133537210.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133537335,imgsize-1048071.cms",
+      "publishedAt": "Wed, 26 Aug 2026 15:38:42 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "'Played competitive matches against boys': Pak skipper reveals Asia Cup prep",
       "description": "Pakistan’s women’s cricket team played full T20 matches against a men’s side during their pre-Asia Cup camp in Lahore to prepare for pressure situations. Captain Fatima Sana believes the unusual training will improve decision-making and composure. Pakistan, who have never won the Women’s Asia Cup, b",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/played-competitive-matches-against-boys-pakistan-skipper-fatima-sana-reveals-unusual-asia-cup-preparation/articleshow/133537839.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133538143,imgsize-42530.cms",
       "publishedAt": "Wed, 26 Aug 2026 16:09:25 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Les Paul's son says family got no warning before New Jersey home was demolished",
-      "description": "The New Jersey home of guitarist Les Paul was demolished shortly after its sale.  This property served as his workshop and laboratory for recording innovations.  His son expressed deep pain and questioned the lack of family notification.  Efforts were made to save historically significant materials ",
-      "url": "https://timesofindia.indiatimes.com/world/us/les-pauls-7-acre-new-jersey-home-studio-and-workshop-sold-for-990000-in-july-weeks-later-the-property-where-he-pioneered-multitrack-recording-was-demolished-and-his-son-says-the-family-got-no-warning/articleshow/133536815.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133537370,imgsize-903398.cms",
-      "publishedAt": "Wed, 26 Aug 2026 15:40:08 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "MIT class project becomes $850M plan for 8-motor hybrid aircraft factory",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/in-2017-an-mit-class-project-explored-a-new-kind-of-aircraft-it-has-now-grown-into-an-850-million-ohio-factory-plan-for-an-8-motor-hybrid-plane-that-can-take-off-from-an-area-about-the-length-of-a-soccer-field/articleshow/133536701.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133536759,imgsize-109398.cms",
-      "publishedAt": "Wed, 26 Aug 2026 15:43:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "US embassies across the world to visa applicants: Your visa application is on hold",
-      "description": "In a global move, US embassies are postponing immigrant visa interviews as new officers undergo training. This initiative seeks to standardize how applicants are evaluated based on the potential for public charge implications. This pause disrupts the plans of many applicants who have already made su",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-embassies-across-the-world-to-visa-applicants-your-visa-application-is-on-hold-as-our-consular-officers-need-to-be-/articleshow/133531260.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133531305,imgsize-808372.cms",
-      "publishedAt": "Wed, 26 Aug 2026 11:16:31 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -163,7 +190,7 @@
       "category": "general"
     },
     {
-      "title": "‘Toxic’ BO day 1 [Live]: Yash, Nayanthara, and Kiara Advani starrer gets strong start",
+      "title": "‘Toxic’ BO day 1 : Yash, Nayanthara, and Kiara Advani starrer gets strong start",
       "description": "Yash's new film 'Toxic' has achieved a significant opening day collection across India.  The action drama directed by Geetu Mohandas earned over forty-one crore rupees net.  Audience reactions are divided, praising visuals and Yash's presence but questioning the screenplay.  The Hindi version contri",
       "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-a-fairy-tale-for-grown-ups-box-office-collection-day-1-live-yash-nayanthara-and-kiara-advani-starrer-gets-strong-start-across-india/articleshow/133534665.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133534688,imgsize-242868.cms",
@@ -332,36 +359,126 @@
       "publishedAt": "Wed, 26 Aug 2026 10:22:08 +0530",
       "source": "Times of India",
       "category": "general"
-    },
-    {
-      "title": "MG Hector Tomahawk launched: Prices, range &amp; more",
-      "description": "JSW MG Motor India has launched the new Hector Tomahawk SUV.  This seven-seater vehicle offers both pure-electric and plug-in hybrid powertrains.  The electric version boasts a claimed 517 km range on a single charge.  It also features advanced connected technology and India's first Gen AI with kara",
-      "url": "https://timesofindia.indiatimes.com/auto/electric-vehicles/mg-hector-tomahawk-launched-prices-range-more/articleshow/133533593.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133533681,imgsize-214112.cms",
-      "publishedAt": "Wed, 26 Aug 2026 13:00:47 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Poor guy has been behind bars': Ex-Pakistan cricketer speaks out on Imran Khan",
-      "description": "Ramiz Raja's comments came after 21 former international captains wrote to Pakistan Prime Minister Shehbaz Sharif, renewing their appeal for proper medical treatment and better conditions for Imran. The group includes Indian cricket legends Sunil Gavaskar, Kapil Dev and Dilip Vengsarkar. The appeal ",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/poor-guy-has-been-behind-bars-for-three-years-ramiz-raja-gives-update-on-imran-khans-condition/articleshow/133529398.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133529585,imgsize-36871.cms",
-      "publishedAt": "Wed, 26 Aug 2026 10:01:27 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'3,000 raids, rats, cockroaches': How FDA chief is giving eateries a wake-up call",
-      "description": "Tukaram Mundhe leads Maharashtra's aggressive food safety crackdown, inspecting thousands of food businesses.  His teams have conducted over 3,000 raids, suspending permits and uncovering numerous violations.  The campaign now targets loose edible oil sales, enforcing regulations from 2011.  Traders",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/3000-raids-dirty-kitchens-exposed-food-giants-hit-how-tukaram-mundhe-is-giving-eateries-a-wake-up-call/articleshow/133528742.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133529181,imgsize-100404.cms",
-      "publishedAt": "Wed, 26 Aug 2026 09:57:52 +0530",
-      "source": "Times of India",
-      "category": "general"
     }
   ],
   "business": [
+    {
+      "title": "Home loan portfolio set to cross ₹10 lakh crore milestone this quarter: SBI Chairman",
+      "description": "The lender has more than 460 home loan processing centres across India with nearly 28% market share",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/home-loan-portfolio-set-to-cross-10-lakh-crore-milestone-this-quarter-sbi-chairman/article71392337.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nsgj6y/article71389622.ece/alternates/LANDSCAPE_1200/IMG_sbi_2_1_0DDO3I1G.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 17:19:30 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "India, China can help resolve West Asia conflict: Hillary Clinton",
+      "description": "Clinton stated on Monday that Trump’s potential solution lies with China and India, as they are the top buyers of oil and gas from Iran",
+      "url": "https://www.thehindubusinessline.com/news/india-china-can-help-resolve-west-asia-conflict-hillary-clinton/article71392319.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jclwbv/article71392634.ece/alternates/LANDSCAPE_1200/11908_18_2_2026_14_5_55_2_DSC_4188.JPG",
+      "publishedAt": "Wed, 26 Aug 2026 17:19:18 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "ICAT issues first compliance certificate for 15-metre multi-axle sleeper bus",
+      "description": "The certificate has been awarded to Synaty Automotive Pvt. Ltd. for its 15-metre multi-axle sleeper bus under AIS-119 and AIS-153 in accordance with the provisions of the Central Motor Vehicles Rules",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/icat-issues-first-compliance-certificate-for-15-metre-multi-axle-sleeper-bus/article71392334.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/mnflqe/article71392628.ece/alternates/LANDSCAPE_1200/DSC_7454.JPG",
+      "publishedAt": "Wed, 26 Aug 2026 17:16:16 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Medicover India's 25 hospitals to be profitable in 18 months, executive says",
+      "description": "",
+      "url": "https://www.thehindubusinessline.com/companies/medicover-indias-25-hospitals-to-be-profitable-in-18-months-executive-says/article71392304.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/6aom6b/article71360269.ece/alternates/LANDSCAPE_1200/PO21_Health_insurance.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 17:12:03 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Lumino Industries IPO: All you need to know before investing",
+      "description": "Sushil Finance Recommedation, anchor investors",
+      "url": "https://www.thehindubusinessline.com/markets/all-you-need-to-know-about-lumino-industries-ipo/article71391271.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/1pyyhw/article71391272.ece/alternates/LANDSCAPE_1200/IPO.jfif",
+      "publishedAt": "Wed, 26 Aug 2026 17:10:42 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Octave sets up tech centre with 1,600 engineers in Hyderabad",
+      "description": "The company has also set up its Experience Centre at the Hyderabad office, showcasing its connected, contextual intelligence solutions and technology capabilities",
+      "url": "https://www.thehindubusinessline.com/info-tech/octave-sets-up-tech-centre-with-1600-engineers/article71392448.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/5jym6t/article71392601.ece/alternates/LANDSCAPE_1200/_DSC7298.JPG",
+      "publishedAt": "Wed, 26 Aug 2026 17:07:38 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Egg prices crash by over 20% from peak, chicken rates ease as demand drops during Shravan period",
+      "description": "However, egg prices are ruling higher than the year-ago period and will likely rise after the austere period gets over",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/egg-and-chicken-prices-ease-as-demand-drops-during-shravan-period/article71385881.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/blsadx/article71387088.ece/alternates/LANDSCAPE_1200/Egg-price-plummG3TFPCIM2.3.jpg.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 16:56:28 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "From subsistence to enterprise: J&K’s Lakhpati Didis change rural lives",
+      "description": "According to official data, J&amp;K has identified around 2.6 lakh potential beneficiaries, of whom about 2.40 lakh have already crossed the ₹1 lakh annual income threshold",
+      "url": "https://www.thehindubusinessline.com/news/from-subsistence-to-enterprise-jks-lakhpati-didis-change-rural-lives/article71392529.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/phqomy/article71392495.ece/alternates/LANDSCAPE_1200/d97a76fb-a144-42ad-b383-f3b2875f3ca5.jpeg",
+      "publishedAt": "Wed, 26 Aug 2026 16:43:27 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "NOVVA Group and Mongolia's MDDIC sign MOU on clean-powered AI infrastructure, supporting Mongolia's \"Sovereign by Design\" green AI data centre initiative",
+      "description": "NOVVA Group and Mongolia's MDDIC sign MOU on clean-powered AI infrastructure, supporting Mongolia's \"Sovereign by Design\" green AI data centre initiative",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/novva-group-and-mongolias-mddic-sign-mou-on-clean-powered-ai-infrastructure-supporting-mongolias-sovereign-by-design-green-ai-data-centre-initiative/article71392512.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/62osm9/article71392511.ece/alternates/LANDSCAPE_1200/20260826043756EDT_image_1.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 16:30:24 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Gaja Alternative shares end with 5.4% listing gains, below ₹185 debut price",
+      "description": "The stock listed at ₹185 on the NSE, against the issue price of ₹160, while on the BSE it began trading at ₹185.20, a 15.7% premium",
+      "url": "https://www.thehindubusinessline.com/markets/gaja-alternative-asset-management-share-price-jumps-nearly-20-on-debut-day-lists-with-nearly-16-premium-on-nse-bse/article71391450.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/s925t7/article71391449.ece/alternates/LANDSCAPE_1200/Gaja%20Capital%20%20Gaja%20Alternative%20Asset%20Management%20listing.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 16:29:37 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex closes 183 points lower at 77,472; Nifty sheds 127 points",
+      "description": "Sensex, Nifty, Stock Price Highlights: Sensex closed 183.15 points, or 0.24% lower, at 77,472.94, while the Nifty 50 shed 126.80 points, or 0.52%, to close at 24,207.75",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26th-august-2026/article71389623.ece",
+      "urlToImage": null,
+      "publishedAt": "Wed, 26 Aug 2026 16:25:33 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Gold rally takes a breather ahead of US inflation data",
+      "description": "Spot gold fell 0.9% to $4,616.62 ‌per ounce by 0927 GMT, after prices climbed to their highest since May 14 on Tuesday following ‌the US",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-rally-takes-a-breather-ahead-of-us-inflation-data/article71392300.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/6duc7m/article71392467.ece/alternates/LANDSCAPE_1200/iStock-1472696526.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 16:24:22 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Skyways Air, Symbiotec Pharmalab IPOs receive 5x subscription on closing day",
+      "description": "Skyways Air Services and Symbiotec Pharmalab will list on BSE, NSE on September 1.",
+      "url": "https://www.thehindubusinessline.com/markets/ipo-day-3-skyways-air-services-symbiotec-pharmalab-ipos-cross-4-times-subscription-on-final-day/article71392196.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ewcrrj/article71383299.ece/alternates/LANDSCAPE_1200/Retail-participGPVGC8SL9.4.jpg.jpg",
+      "publishedAt": "Wed, 26 Aug 2026 16:19:31 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
     {
       "title": "Mahindra Holidays receives ₹11.34-cr GST demand notice",
       "description": "The company stated it doesn’t expect the show cause notice to materially impact finances and is pursuing legal remedies with the Additional/Joint Commissioner, Central GST Audit, Dehradun",
@@ -413,15 +530,6 @@
       "url": "https://www.thehindubusinessline.com/money-and-banking/eac-pm-paper-suggests-consolidation-of-banks-of-equal-size-without-compromising-market-competition/article71392256.ece",
       "urlToImage": null,
       "publishedAt": "Wed, 26 Aug 2026 16:00:41 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Sensex today | Stock Market Live: Sensex closes 183 points lower at 77,472; Nifty sheds 127 points",
-      "description": "Sensex, Nifty, Stock Price Live Updates: Sensex closed 183.15 points, or 0.24% lower, at 77,472.94, while the Nifty 50 shed 126.80 points, or 0.52%, to close at 24,207.75",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26th-august-2026/article71389623.ece",
-      "urlToImage": null,
-      "publishedAt": "Wed, 26 Aug 2026 15:59:12 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
@@ -512,15 +620,6 @@
       "url": "https://www.thehindubusinessline.com/companies/nclt-allows-subhash-chandra-to-pay-65-crore-against-claims-of-2200657-crore/article71392162.ece",
       "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-news/5c274g/article71330017.ece/alternates/LANDSCAPE_1200/Zee-moves-SAT-aGDOGCGSLM.4.jpg.jpg",
       "publishedAt": "Wed, 26 Aug 2026 15:06:26 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Skyways Air, Symbiotec Pharmalab IPOs Day 3: Cross 4x subscription",
-      "description": "Skyways Air Services IPO was subscribed 4.48 times and Symbiotec Pharmalab IPO was subscribed 4.45 times at the time of writing (2.42 pm)",
-      "url": "https://www.thehindubusinessline.com/markets/ipo-day-3-skyways-air-services-symbiotec-pharmalab-ipos-cross-4-times-subscription-on-final-day/article71392196.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ewcrrj/article71383299.ece/alternates/LANDSCAPE_1200/Retail-participGPVGC8SL9.4.jpg.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 14:55:06 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
@@ -622,113 +721,14 @@
       "publishedAt": "Wed, 26 Aug 2026 13:48:27 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
-    },
-    {
-      "title": "India takes growth pitch abroad as foreign money pulls back",
-      "description": "The ministers’ sojourns come just days before gross domestic product data is likely to show India’s economy accelerated at a brisk near-8% pace last quarter",
-      "url": "https://www.thehindubusinessline.com/economy/india-takes-growth-pitch-abroad-as-foreign-money-pulls-back/article71392014.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/20rmwe/article71377470.ece/alternates/LANDSCAPE_1200/PO12_PG4_ALERTSGS5FRAUT1.4.jpg.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 13:36:15 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Nestle India was highest-performing market in H1, potential to become a top-five market: Global CEO",
-      "description": "Nestle’s India business is gaining momentum, with Global CEO Philipp Navratil backing greater transparency in food labelling to help consumers make healthier, more informed choices",
-      "url": "https://www.thehindubusinessline.com/companies/nestle-india-was-highest-performing-market-in-h1-could-become-a-top-five-market-global-ceo/article71391971.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/2bvkqh/article71391937.ece/alternates/LANDSCAPE_1200/Philipp%20Navratil%20and%20Manish%20Tiwary%20with%20Narendra%20Modi.png",
-      "publishedAt": "Wed, 26 Aug 2026 13:28:29 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Why is Bill Gates spooked by AI all of a sudden?",
-      "description": "The Microsoft co-founder and billionaire philanthropist wants to meet China’s Xi Jinping to discuss policy ideas",
-      "url": "https://www.thehindubusinessline.com/info-tech/why-is-bill-gates-spooked-by-ai-all-of-a-sudden/article71391952.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/u2gkir/article71391993.ece/alternates/LANDSCAPE_1200/2026-02-25T060529Z_1204805723_RC2L5JAHVB9Q_RTRMADP_3_USA-EPSTEIN-GATES.JPG",
-      "publishedAt": "Wed, 26 Aug 2026 13:28:25 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Indiabulls signs agreement for ₹3,700-crore residential project on Dwarka Expressway",
-      "description": "The planned development is expected to strengthen the company’s launch pipeline and provide revenue visibility through potential price realisation.",
-      "url": "https://www.thehindubusinessline.com/news/real-estate/indiabulls-signs-agreement-for-3700-crore-residential-project-on-dwarka-expressway/article71392008.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/r1svfy/article71392030.ece/alternates/LANDSCAPE_1200/IMG_CCI_UDHindu_KSL_UR17_2_1_L49IBNH1.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 13:28:16 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Air India ties up with Drukair-Royal Bhutan Airlines for offering flight service on each other's network",
-      "description": "Tata group-owned Air India says it now provides connectivity to nearly all countries in the SAARC region through its own or partner networks",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/air-india-ties-up-with-drukair-royal-bhutan-airlines-for-offering-flight-service-on-each-others-network/article71392011.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/427m2i/article71392026.ece/alternates/LANDSCAPE_1200/20240315264L.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 13:26:27 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Sugar falls as weaker India prices curb import expectations",
-      "description": "Under the new measures, the government allowed 1 million tons of duty-free imports and also permitted refiners to divert some sugar to the domestic market after refining, instead of exporting it",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/sugar-falls-as-weaker-india-prices-curb-import-expectations/article71391948.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/5sp26o/article71386278.ece/alternates/LANDSCAPE_1200/Indian-retail-GNRGEJ582.4.jpg.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 13:16:33 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "OpenAI data centre executive Chris Malone departs the AI startup",
-      "description": "Malone’s exit adds to a series of executive shuffles and departures at the ChatGPT maker in recent months",
-      "url": "https://www.thehindubusinessline.com/info-tech/openai-data-centre-executive-chris-malone-departs-the-ai-startup/article71391975.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/sih868/article71367612.ece/alternates/LANDSCAPE_1200/2026-08-18T115114Z_956305570_RC2URLA2ZZCN_RTRMADP_3_OPENAI-SAFETY-TEENS.JPG",
-      "publishedAt": "Wed, 26 Aug 2026 13:13:30 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Nexon Geochem validates Indian-origin raw materials for NdFeB permanent magnets",
-      "description": "The company has technically validated the pathway to integrate domestic materials into its magnet manufacturing process, marking progress towards pilot production",
-      "url": "https://www.thehindubusinessline.com/companies/nexon-geochem-validates-indian-origin-raw-materials-for-ndfeb-permanent-magnets/article71391756.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/qz51bm/article71391972.ece/alternates/LANDSCAPE_1200/NdFeB%20magnet%20Nexon%20Geochem.png",
-      "publishedAt": "Wed, 26 Aug 2026 13:06:10 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Hyundai Motor sets 2030 sales target at 5.5 million units",
-      "description": "Hyundai Motor aims to lift its operating margin ​to more ‌than 9% by 2030 as the company outlined growth plans spanning electric vehicles, ‌manufacturing and artificial intelligence",
-      "url": "https://www.thehindubusinessline.com/companies/hyundai-motor-sets-2030-sales-target-at-55-million-units/article71391736.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/wqodj/article71387993.ece/alternates/LANDSCAPE_1200/2026-07-30T101923Z_503264266_RC2PFAA1Y2YJ_RTRMADP_3_HMIL-RESULTS.JPG",
-      "publishedAt": "Wed, 26 Aug 2026 12:54:16 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Goyal proposes India-Japan 'Shark Tank' style startup series to boost investments, business ties",
-      "description": "Addressing a roundtable on startups, Goyal said such pitching sessions could be organised virtually, leveraging digital connectivity, to facilitate greater interaction between Indian and Japanese startups",
-      "url": "https://www.thehindubusinessline.com/news/goyal-proposes-india-japan-shark-tank-style-startup-series-to-boost-investments-business-ties/article71391876.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/l2j9qb/article71337291.ece/alternates/LANDSCAPE_1200/20260812193L.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 12:46:51 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "boAt FY26 net profit rises 38% to ₹84.5 cr",
-      "description": "boAt’s revenue from operations at ₹2,931 crore",
-      "url": "https://www.thehindubusinessline.com/companies/boat-fy26-net-profit-rises-38-to-845-cr/article71391721.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/qtyd8d/article71391890.ece/alternates/LANDSCAPE_1200/PO09_Growth_arrow.jpg",
-      "publishedAt": "Wed, 26 Aug 2026 12:37:23 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
     }
   ],
   "sports": [
     {
-      "title": "IND v SL 2nd Test: Suthar removes Sooriyabandara on 92; Sri Lanka five wickets down",
+      "title": "IND v SL 2nd Test: Saransh, Jadeja strike before day 4 stumps; Hosts lead by 16",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka-live-score-2nd-test-match-day-4-today-scorecard-squad-live-streaming-records-colombo-international-stadium-weather-report-rain-forecast-prediction-highlights-latest-cricket-news/liveblog/133527365.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133527365,imgsize-40778.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133527365,imgsize-1092239.cms",
       "publishedAt": "2026-08-26T07:27:12+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
@@ -748,6 +748,33 @@
       "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/dukh-hota-hai-cwg-gold-medallist-judoka-harsh-singh-rues-asian-games-snub/articleshow/133531126.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133531963,imgsize-41971.cms",
       "publishedAt": "2026-08-26T11:40:22+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "'Very rarely do I get chance to play red-ball cricket': Arshdeep after Duleep win",
+      "description": "India pacer Arshdeep Singh used the Duleep Trophy to prove his readiness for Test cricket after a long gap from red-ball cricket. He took four wickets in North Zone’s 52-run win over West Zone and said he had specifically trained with the red ball. Arshdeep also stressed the value of patience, tacti",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/very-rarely-do-i-get-the-chance-to-play-red-ball-cricket-arshdeep-singh-after-north-zones-52-run-win-in-duleep-trophy/articleshow/133538983.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133539316,imgsize-286738.cms",
+      "publishedAt": "2026-08-26T17:11:09+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Gulf Giants strategy under Simon Helmot: Bold, aggressive cricket and 'hell of a fight'",
+      "description": "New Gulf Giants coach Simon Helmot says strengthening the middle order through David Miller and Heinrich Klaasen was central to the franchise's pre-auction strategy. He believes versatility, smart auction planning and strong team culture will be decisive in the ILT20, as the inaugural champions aim ",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/simon-helmots-blueprint-for-gulf-giants-bold-aggressive-cricket-and-a-hell-of-a-fight/articleshow/133538889.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133539330,imgsize-754211.cms",
+      "publishedAt": "2026-08-26T17:04:17+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "'Played competitive matches against boys': Pak skipper reveals Asia Cup prep",
+      "description": "Pakistan’s women’s cricket team played full T20 matches against a men’s side during their pre-Asia Cup camp in Lahore to prepare for pressure situations. Captain Fatima Sana believes the unusual training will improve decision-making and composure. Pakistan, who have never won the Women’s Asia Cup, b",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/played-competitive-matches-against-boys-pakistan-skipper-fatima-sana-reveals-unusual-asia-cup-preparation/articleshow/133537839.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133538143,imgsize-42530.cms",
+      "publishedAt": "2026-08-26T16:09:25+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     },
@@ -874,33 +901,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/incredibly-emotional-anaya-bangar-gets-cricket-australia-nod-for-elite-womens-cricket-eyes-wbbl/articleshow/133518179.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133518402,imgsize-50815.cms",
       "publishedAt": "2026-08-25T21:45:45+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "First in 48 yrs! Sonal Dinusha joins Zaheer Abbas, Everton Weekes in rare feat vs India",
-      "description": "Sonal Dinusha marked a remarkable achievement in his early Test career against India, scoring three consecutive innings of over 80 runs, a feat shared with cricket legends Everton Weekes and Zaheer Abbas. His determination visibly rattled the Indian bowlers, and his adept use of the sweep shot prove",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/first-in-48-years-sonal-dinusha-joins-zaheer-abbas-everton-weekes-in-rare-test-feat-against-india/articleshow/133512425.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133512501,imgsize-126458.cms",
-      "publishedAt": "2026-08-25T18:46:07+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Bruno Fernandes crowned PFA Player of the Year to seal stunning awards hat-trick",
-      "description": "Bruno Fernandes has completed a clean sweep of major individual awards after being named PFA Players’ Player of the Year for his outstanding 2025-26 season. The Manchester United captain broke the Premier League assist record with 21, scored nine goals and helped United finish third. He is the club’",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/bruno-fernandes-wins-it-all-man-utd-captain-crowned-pfa-player-of-the-year-to-seal-stunning-awards-hat-trick/articleshow/133524184.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133526548,imgsize-90866.cms",
-      "publishedAt": "2026-08-26T03:59:41+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Watch: Al Nassr complete INCREDIBLE 3-2 comeback with just 10 men vs Al Ettifaq",
-      "description": "Al Nassr produced a stunning comeback against Al Ettifaq despite being reduced to 10 men after goalkeeper Bento was sent off in the 12th minute. After falling 2-0 behind and losing Cristiano Ronaldo at half-time, Sadio Mané scored twice while João Félix inspired the comeback, securing a dramatic 3-2",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/watch-al-nassr-complete-unbelievable-3-2-comeback-against-al-ettifaq-after-ronaldo-and-goalkeeper-forced-off/articleshow/133526692.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133526801,imgsize-129774.cms",
-      "publishedAt": "2026-08-26T05:23:06+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     }
@@ -1089,11 +1089,47 @@
   ],
   "entertainment": [
     {
+      "title": "SRK’s Mannat renovation nearing completion, family may return by 2026 end",
+      "description": "Shah Rukh Khan's Mannat renovation is nearing completion, with the family expected to move back by end of 2026. The annexe got two extra floors, while the heritage-protected main bungalow remains unchanged. Until then, the Khans live in Pali Hill. Shah Rukh's next film, 'King' with daughter Suhana, ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khans-mannat-renovation-nearing-completion-family-may-return-by-2026-end-reports/articleshow/133539722.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133539763,imgsize-254058.cms",
+      "publishedAt": "2026-08-26T17:11:16+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Rukmini slammed for intimate bed scene in Yash's Toxic",
+      "description": "Rukmini Vasanth, playing Mellisa in Yash's 'Toxic', faced backlash over a viral scene showing her waking up wrapped only in a blanket. Fans criticised the scene and writing online, calling it unexpected and \"cheap.\" Neither Rukmini nor makers responded. The film, an A-certified release, has faced cr",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rukmini-vasanth-slammed-for-intimate-bed-scene-in-yashs-toxic-fans-say-wasnt-expecting-this-from-you/articleshow/133538714.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133538735,imgsize-330347.cms",
+      "publishedAt": "2026-08-26T16:35:50+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Vijay Deverakonda hints at reunion with director Sandeep Reddy Vanga",
+      "description": "Vijay Deverakonda's latest social media update has ignited buzz about a potential reunion with director Sandeep Reddy Vanga. The actor's message, hinting at reconnecting with fans in theaters next year, ignites speculation surrounding a possible project for the 10th anniversary of Arjun Reddy. An ex",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vijay-deverakonda-hints-at-reunion-with-arjun-reddy-director-sandeep-reddy-vanga-next-year-we-shall-meet-again/articleshow/133538454.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133538547,imgsize-119704.cms",
+      "publishedAt": "2026-08-26T16:28:12+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "Yash’s 'Toxic' beats Ranveer’s 'Dhurandhar', crosses Rs 50 crore by 3 PM",
       "description": "Yash's 'Toxic: A Fairytale For Grown-Ups' has stormed past Ranveer Singh's 'Dhurandhar's opening-day India net collection within its first few hours of release, brushing off backlash over its violent and intimate content to post a record-breaking Day 1 at the box office. Here’s the latest Sacnilk up",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/yashs-toxic-beats-ranveer-singhs-dhurandhar-opening-day-haul-as-day-1-collections-cross-rs-50-crore-by-3-pm-amid-mixed-reviews-and-online-backlash/articleshow/133537482.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133538110,imgsize-112491.cms",
       "publishedAt": "2026-08-26T16:11:24+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Toxic Movie Review and Release Live Updates",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-movie-review-release-live-update-yash-kiara-advani-tara-sutaria-nayanthara-toxic-review-and-box-office-collection/liveblog/133526850.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133526850,imgsize-164690.cms",
+      "publishedAt": "2026-08-26T05:48:00+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1112,15 +1148,6 @@
       "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/anirudh-ravichander-pays-surprise-visit-to-silambarasans-arasan-sets-joins-vetri-maaran/articleshow/133537630.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133537646,imgsize-152544.cms",
       "publishedAt": "2026-08-26T15:51:45+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Toxic Movie Review and Release Live Updates",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-movie-review-release-live-update-yash-kiara-advani-tara-sutaria-nayanthara-toxic-review-and-box-office-collection/liveblog/133526850.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133526850,imgsize-164690.cms",
-      "publishedAt": "2026-08-26T05:48:00+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1233,38 +1260,11 @@
       "category": "entertainment"
     },
     {
-      "title": "'Awarapan 2' BO Day 11 [LIVE]: Emraan Hashmi film crosses Rs 143 crore India net",
+      "title": "'Awarapan 2' BO Day 13 [LIVE]: Emraan Hashmi film crosses Rs 143 crore India net",
       "description": "Emraan Hashmi and Disha Patani's 'Awarapan 2' continues its steady theatrical run, inching closer to the Rs. 143 crore India net mark on Day 13, even as Yash's 'Toxic' opens today, setting up a direct screen-sharing battle for the two films. Emraan Hashmi's sequel now finds itself competing for scre",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-13-live-emraan-hashmi-and-disha-patani-film-eyes-rs-150-crore-india-net-amid-yash-starrer-toxic-clash-and-grossing-over-rs-200-crore-globally/articleshow/133534536.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133534585,imgsize-56112.cms",
       "publishedAt": "2026-08-26T13:37:48+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "‘Toxic’ BO day 1 [Live]: Yash, Kiara Advani starrer gets strong start",
-      "description": "Yash's new film 'Toxic' has achieved a significant opening day collection across India.  The action drama directed by Geetu Mohandas earned over forty-one crore rupees net.  Audience reactions are divided, praising visuals and Yash's presence but questioning the screenplay.  The Hindi version contri",
-      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/toxic-a-fairy-tale-for-grown-ups-box-office-collection-day-1-live-yash-nayanthara-and-kiara-advani-starrer-gets-strong-start-across-india/articleshow/133534665.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133534688,imgsize-242868.cms",
-      "publishedAt": "2026-08-26T13:44:56+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Quote of the day by Janet Jackson",
-      "description": "Recalling her childhood experiences, Janet Jackson shed light on the challenges of early fame. She indicated that working as a child deprived her of the simple pleasures of growing up, which can lead to lingering immaturity in adulthood. To combat this, Jackson actively seeks out playful interaction",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-janet-jackson-a-lot-of-people-who-start-work-at-a-very-young-age-never-grow-upthey-hold-on-to-that-and-still-do-a-lot-of-childish-silly-things-the-control-singers-inspiring-words-on-how-important-it-is-to-live-out-your-childhood/articleshow/133534099.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133534139,imgsize-236578.cms",
-      "publishedAt": "2026-08-26T13:27:17+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "All about Dolly Parton’s funeral and final wishes",
-      "description": "Dolly Parton's funeral plans include a private ceremony in Nashville. She will be laid to rest beside her husband, Carl Thomas Dean. Parton wished to be comfortable in a bed of plush cotton. Her representatives confirmed her recent battle with cancer. A secret song is stored at Dollywood for her 100",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dolly-partons-final-wish-was-to-be-laid-to-rest-with-her-heavy-rhinestones-report-reveals-plans-for-quiet-funeral/articleshow/133533282.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133533612,imgsize-67552.cms",
-      "publishedAt": "2026-08-26T12:55:31+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1633,11 +1633,38 @@
   ],
   "science": [
     {
+      "title": "Thousands of ancient brains survived for 12,000 years; scientists uncover why",
+      "description": "Recent studies shed light on how some ancient brains manage to endure over time. The availability of oxygen is pivotal in influencing the survival of brain proteins post-mortem. In moist, low-oxygen environments, decomposition favors protein cross-linking, which fortifies these proteins against degr",
+      "url": "https://timesofindia.indiatimes.com/science/the-human-brain-usually-decays-first-after-death-so-how-have-thousands-survived-for-12000-years-scientists-uncover-the-chemistry-behind-the-mystery/articleshow/133534694.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133534940,imgsize-1252433.cms",
+      "publishedAt": "2026-08-26T13:59:15+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
+      "title": "MIT class project becomes $850M plan for 8-motor hybrid aircraft factory",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/in-2017-an-mit-class-project-explored-a-new-kind-of-aircraft-it-has-now-grown-into-an-850-million-ohio-factory-plan-for-an-8-motor-hybrid-plane-that-can-take-off-from-an-area-about-the-length-of-a-soccer-field/articleshow/133536701.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133536759,imgsize-109398.cms",
+      "publishedAt": "2026-08-26T15:43:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "Quote of the day by Albert Einstein: \"If a cluttered desk is a sign of a…\"",
       "description": "Albert Einstein questioned the assumption that a cluttered desk signifies a disorganised mind.  He suggested that an empty desk does not automatically indicate clarity or productivity.  People possess diverse thinking and working styles which influence their environments.  Creative processes can app",
       "url": "https://timesofindia.indiatimes.com/science/quote-of-the-day-by-albert-einstein-if-a-cluttered-desk-is-a-sign-of-a-cluttered-mind-of-what-then/articleshow/133535869.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133535899,imgsize-724980.cms",
       "publishedAt": "2026-08-26T15:04:42+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
+      "title": "Illinois cooling film kept Houston roofs 40°F cooler without electricity",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/a-cooling-film-developed-at-the-university-of-illinois-was-tested-on-houston-infrastructure-for-fifa-treated-metal-roofs-stayed-over-40f-cooler-in-direct-sunlight-without-using-electricity/articleshow/133533514.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133533653,imgsize-1450165.cms",
+      "publishedAt": "2026-08-26T16:40:00+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
     },
@@ -1784,34 +1811,7 @@
       "publishedAt": "2026-08-25T21:40:00+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
-    },
-    {
-      "title": "A 2,500-year-old animal bone found in Sicily reveals how ancient people wrote on clay",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/a-2500-year-old-animal-bone-found-in-sicily-reveals-how-ancient-people-wrote-on-clay/articleshow/133505874.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133506246,imgsize-69986.cms",
-      "publishedAt": "2026-08-25T18:45:00+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "In 1965, a mountaineer found a dead seabird and spent 50 years saving it",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/in-1965-a-mountaineer-found-a-dead-seabird-high-in-new-zealands-mountains-then-spent-next-50-years-to-save-its-species-from-extinction/articleshow/133503061.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133503259,imgsize-1801993.cms",
-      "publishedAt": "2026-08-26T00:00:00+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "In 2014, scientists set off 23 blasts to uncover magma hidden beneath Mount St Helens",
-      "description": "In a groundbreaking study, researchers utilized controlled explosions paired with seismic technology to investigate Mount St. Helens' subterranean magma systems. They discovered a magma-reservoir located between four to fifteen kilometers deep. This extensive analysis employed numerous instruments t",
-      "url": "https://timesofindia.indiatimes.com/science/in-2014-scientists-set-off-23-explosions-and-deployed-3500-seismographs-around-mount-st-helens-the-experiment-helped-image-a-magma-reservoir-roughly-4-to-15-km-beneath-the-volcano/articleshow/133500774.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133501316,imgsize-1160873.cms",
-      "publishedAt": "2026-08-25T13:55:21+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
     }
   ],
-  "last_updated": "2026-08-26 04:25:03 PM"
+  "last_updated": "2026-08-26 05:30:44 PM"
 }
