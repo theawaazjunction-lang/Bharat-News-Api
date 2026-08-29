@@ -11,8 +11,9 @@
       "Rakshabandhan in NYC: Zohran Mamdani celebrates with South Asian seniors",
       "SIMs, WhatsApp, Dubai route: How Delhi couple aided Pakistan-linked espionage",
       "Delhi model murder: Accused Imran was booked for sexually harassing minor in 2018",
-      "CNG price hike: Compressed natural gas gets costlier; check city-wise rates",
+      "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
       "28-Year-Old Man Electrocuted After Falling Into Collapsed Delhi Road",
+      "Delhi court takes cognisance of NIA chargesheet in Red Fort blast case",
       "Sandhya Devanathan exits Meta after a decade; to join OpenAI as VP South East Asia, Australia",
       "Andhra Pradesh farmers caught between climate uncertainty and financial risk",
       "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
@@ -23,7 +24,7 @@
       "Delhi CNG price hiked by  ₹3.89 per kg as global LNG prices surge amid West Asia crisis",
       "21 Nepal flash flood survivors from Tamil Nadu safely arrive in Delhi",
       "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities",
-      "‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
+      "‘I know the disease and medicine’: CM Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
       "Delhi ‘spy couple’ sent SIM cards to Pakistan. ISI used them to enter Indian WhatsApp groups",
       "Nepal floods: TN ministers meet in Delhi to oversee rescue ops of those missing from state",
       "'Kanda Express' with 453 tonnes of onion from Nashik reaches Delhi to help cool prices",
@@ -31,7 +32,6 @@
       "Delhi couple held over Pakistan espionage links, were in touch with operatives since 2024, sent SIM cards via Dubai",
       "CNG price rise: Delhi autorickshaw bodies demand fare hike, threaten to go on strike on Sep 9",
       "FM Sitharaman in Chicago: ‘Build for the world from India’",
-      "Reliance Industries firm buys Lutyens Delhi bungalow for ₹350 crore",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -41,17 +41,16 @@
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
       "An invasive beetle wiped out black ash trees across parts of North America"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 15,
+    "news_count": 14,
     "headlines": [
       "‘Ab ghar wali chai bhi Taj Hotel ke rate wali’: Mumbai milk price jumps by Rs 9",
-      "Food Body Officer Cornered, Forced To Eat Expired Biscuits Over Bribery Allegations In Maharashtra",
       "Maratha Activist Manoj Jarange begins fast over kunbi certificates",
       "Now, Maharashtra CM says auto and taxi drivers will get 1 year to learn Marathi",
       "Mumbai milk prices set to rise by  ₹9/litre starting September 1",
@@ -66,7 +65,7 @@
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
       "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "KA",
@@ -86,7 +85,7 @@
       "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row",
       "Man shoots dog dead after it fights with his pets in Karnataka’s Shivamogga: Cops"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "TN",
@@ -95,17 +94,32 @@
     "State": "Tamil Nadu",
     "news_count": 9,
     "headlines": [
+      "Goldman Sachs exec warns against banks relying on OpenAI, Anthropic AI models",
       "‘Most prisoners there due to circumstances’: TN CM Vijay visits Puzhal jail",
       "\"Miraculous Escape\": 21 Tamil Nadu Pilgrims Return From Nepal, Recount Horror",
       "Reckless allegations against newly inducted Ministers in Tamil Nadu will affect their performance: Madras High Court",
-      "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
       "21 Nepal flash flood survivors from Tamil Nadu safely arrive in Delhi",
       "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities",
       "Nepal floods: TN ministers meet in Delhi to oversee rescue ops of those missing from state",
-      "Indian bank stocks see sharp NSE-BSE closing price gaps under new auction system",
+      "Today’s Gold Rate, Aug 29: Check gold rates in Delhi, Mumbai, Chennai",
       "Soori thanks filmmaker Vetri Maaran at 'Mandaadi' Chennai audio launch event"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "RSS chief visits Iskcon’s birthplace in New York, joins food distribution drive",
+      "Guntur neurosurgeon highlights minimally invasive brain surgery",
+      "Four of a family allegedly die by suicide at Pendurthi in Visakhapatnam",
+      "Andhra Pradesh farmers caught between climate uncertainty and financial risk",
+      "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "MN",
@@ -120,37 +134,7 @@
       "Bodies of four Naga civilians killed in Manipur ambush retrieved",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "RSS chief visits Iskcon’s birthplace in New York, joins food distribution drive",
-      "Four of a family allegedly die by suicide at Pendurthi in Visakhapatnam",
-      "Andhra Pradesh farmers caught between climate uncertainty and financial risk",
-      "Telangana Foods turns into role model for country in Take Home Ration models",
-      "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 5,
-    "headlines": [
-      "Pak drone detected in J&amp;K's Poonch, security forces put LoC sector on high alert",
-      "Delhi model murder: Accused Imran was booked for sexually harassing minor in 2018",
-      "Hand over Kishtwar rape-death case to crime branch: Mehbooba urges Jammu and Kashmir LG",
-      "Suspected Pakistan drone triggers search operation along LoC in Poonch",
-      "Suspected Pakistan drone spotted near LoC in Poonch; Jammu and Kashmir on high alert"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "GJ",
@@ -165,49 +149,52 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 5,
+    "headlines": [
+      "Pak drone detected in J&amp;K's Poonch, security forces put LoC sector on high alert",
+      "Delhi model murder: Accused Imran was booked for sexually harassing minor in 2018",
+      "Hand over Kishtwar rape-death case to crime branch: Mehbooba urges Jammu and Kashmir LG",
+      "Suspected Pakistan drone triggers search operation along LoC in Poonch",
+      "Suspected Pakistan drone spotted near LoC in Poonch; Jammu and Kashmir on high alert"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "AIMIM Expels Leader Over Viral Video Controversy, BJP Says \"Not Justice\"",
       "Unkind cuts: On the Telangana and Karnataka electoral rolls",
-      "Telangana Foods turns into role model for country in Take Home Ration models",
+      "AIMIM expels Telangana MLC Mirza Rahmath Baig; asks him to resign from post",
       "Surekha calls on Revanth for Rakhi bonhomie as Cong mulls punitive action",
       "Vikramarka reviews SCCL plans for exploring K’taka’s Devadurga"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Congress Leader Blocks Kerala Chief Minister's Convoy, Argues With Him",
+      "Congress leader Chenthi Anil arrested for waylaying Keralam CM Satheesan; expelled from party",
       "Suresh Gopi backtracks on Thrissur AIIMS remark again, says  ‘never promised’ it during poll campaign",
-      "Congress leader Chenthi Anil arrested for waylaying Keralam CM Satheesan; suspended from party",
       "Lorry driver seriously injured after boulders fall at quarry in Keralam’s Thiruvananthapuram",
       "Except for notified forest, not a foot extra should be added to ESA, demands Shivamogga MP B.Y. Raghavendra"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
-      "‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
-      "Kolkata court denies bail to 13 people arrested over clash at TMC office",
-      "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "GA",
@@ -221,20 +208,21 @@
       "‘What about 501st m’: Goa 500 m drug-free school zone directive sparks criticism",
       "Goa draws 61.38 lakh visitors in seven months; international charter bookings rise"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
     "headlines": [
-      "Tejashwi Yadav becomes more active in Bihar politics after byelection setback",
-      "Bihar Congress leaders to protest outside Delhi party HQ, seek Rahul Gandhi meeting, state chief’s removal",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
+      "‘I know the disease and medicine’: CM Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
+      "Kolkata court denies bail to 13 people arrested over clash at TMC office",
+      "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "AS",
@@ -247,7 +235,45 @@
       "Assam Police constable dies by suicide at Guwahati quarters, probe on: Police",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
+      "Opposition, netizens target BJP government over Gurugram going under yet again after rain",
+      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Tejashwi Yadav becomes more active in Bihar politics after byelection setback",
+      "Bihar Congress leaders to protest outside Delhi party HQ, seek Rahul Gandhi meeting, state chief’s removal",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 2,
+    "headlines": [
+      "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
+      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "CT",
@@ -259,19 +285,7 @@
       "Over 900 people trapped or missing across 11 hydropower sites after Nepal floods",
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 2,
-    "headlines": [
-      "Congress chief Kharge must get justice, we demand FIR: Rahul Gandhi on rally venue ‘purification’ in Uttarakhand",
-      "Uttarakhand CM Dhami announces free bus travel for women aged 60 and above"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "UP",
@@ -283,54 +297,31 @@
       "2 killed, 20 injured as Roadways bus crashes into dumper in Bulandshahr",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 2,
+    "headlines": [
+      "PM Modi must order filing of FIR, we demand justice: Rahul Gandhi on Kharge’s rally venue ‘purification’ in Uttarakhand",
+      "Uttarakhand CM Dhami announces free bus travel for women aged 60 and above"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 2,
     "headlines": [
       "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
-      "Opposition, netizens target BJP government over Gurugram going under yet again after rain"
+      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Indore Security Guard Crushed To Death By SUV After Spat With Driver, 2 Arrested",
-      "Four killed, 11 injured as speeding sleeper bus crashes into wall in MP’s Rajgarh"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "IMD: Heavy rainfall likely in Odisha as fresh low-pressure area forms over Bay of Bengal",
-      "Odisha government inks six MoUs to boost digital agriculture and farmer services"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
-  },
-  {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
-    "headlines": [
-      "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab"
-    ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
     "Code": "HP",
@@ -341,17 +332,50 @@
     "headlines": [
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
     "news_count": 1,
     "headlines": [
-      "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab"
+      "IMD: Heavy rainfall likely in Odisha as fresh low-pressure area forms over Bay of Bengal"
     ],
-    "last_updated": "2026-08-29 01:32:59 PM"
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Four killed, 11 injured as speeding sleeper bus crashes into wall in MP’s Rajgarh"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
+  },
+  {
+    "Code": "SK",
+    "Lat": 27.533,
+    "Long": 88.5122,
+    "State": "Sikkim",
+    "news_count": 1,
+    "headlines": [
+      "Nepal floods put focus on India’s glacial lakes; 200 of 7,500 at high risk"
+    ],
+    "last_updated": "2026-08-29 02:32:54 PM"
   }
 ]
