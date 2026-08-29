@@ -4,13 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 25,
+    "news_count": 27,
     "headlines": [
-      "Rs 30,000 deal, 8 SIM cards and a young couple: The spy trail from Delhi to Pakistan",
-      "CNG To Get Costlier By Rs 3.89, Says IGL. Price In Delhi Nears Rs 87/kg",
+      "£3M Bath mansion faces demolition calls from 100+ residents",
+      "SIR To Begin In Tripura's West District On September 5",
+      "CNG Gets Costlier By Rs 3.89. New Price In Delhi Nears Rs 87 Per Kg",
       "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
       "Delhi couple held for nexus with ISI espionage network",
       "DGP lays foundation stone for ‘Vihara’, ‘Vihari’ and Central police canteen at Mangalagiri",
+      "21 Nepal flash flood survivors from Tamil Nadu safely arrive in Delhi",
       "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities",
       "‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
       "Delhi ‘spy couple’ sent SIM cards to Pakistan. ISI used them to enter Indian WhatsApp groups",
@@ -32,7 +34,7 @@
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
       "An invasive beetle wiped out black ash trees across parts of North America"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "MH",
@@ -55,29 +57,7 @@
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
       "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 12,
-    "headlines": [
-      "Survivors recount Nepal Flood: TN tourists describe narrow escape",
-      "Chennai Corporation floated over 14,500 tenders last year, says Commissioner",
-      "PMCs come under scanner over quality of civic works in Chennai Corporation",
-      "Chennai Corporation Council meeting | Unlikely allies as parties unite against State govt. over lack of ward funds",
-      "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
-      "21 residents of Tamil Nadu rescued from Nepal arrive in Chennai",
-      "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities",
-      "Nepal floods: TN ministers meet in Delhi to oversee rescue ops of those missing from state",
-      "From Tamil Nadu to West Bengal, appeals for contact as Nepal floods cut off 290 Indians",
-      "Vijay leaves CM seat, sits with ministers in rare gesture in Tamil Nadu Assembly",
-      "Tamil Nadu begins discussions with stakeholders on upgradation and expansion of Chennai airport",
-      "Tamil Nadu advances MRTS plans for five cities"
-    ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "KA",
@@ -98,23 +78,28 @@
       "Karnataka techie living in Australia missing after Nepal floods, last seen at border",
       "Beyond duty: Delhi cop’s zeal, Facebook page helps reunite specially abled Karnataka man with family"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 6,
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 11,
     "headlines": [
-      "Nepal floods: Spooked by visuals, tourists cancel bookings, tour operators hit",
-      "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
-      "‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
-      "Kolkata court denies bail to 13 people arrested over clash at TMC office",
-      "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP",
-      "Chaos at Abhishek Banerjee’s office as TMC billboard put up ‘without nod’ removed"
+      "Survivors recount Nepal Flood: TN tourists describe narrow escape",
+      "Flash floods in Nepal: No contact still with 320 Indians; 400 stranded",
+      "Chennai Corporation floated over 14,500 tenders last year, says Commissioner",
+      "PMCs come under scanner over quality of civic works in Chennai Corporation",
+      "Chennai Corporation Council meeting | Unlikely allies as parties unite against State govt. over lack of ward funds",
+      "21 residents of Tamil Nadu rescued from Nepal arrive in Chennai",
+      "21 Nepal flash flood survivors from Tamil Nadu safely arrive in Delhi",
+      "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities",
+      "Nepal floods: TN ministers meet in Delhi to oversee rescue ops of those missing from state",
+      "From Tamil Nadu to West Bengal, appeals for contact as Nepal floods cut off 290 Indians",
+      "Tamil Nadu begins discussions with stakeholders on upgradation and expansion of Chennai airport"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "MN",
@@ -129,7 +114,37 @@
       "Bodies of four Naga civilians killed in Manipur ambush retrieved",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "‘Locals cautioned, driver reversed’: How warning saved Andhra pilgrims from Nepal floods",
+      "Telangana Foods turns into role model for country in Take Home Ration models",
+      "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror",
+      "7 Andhra fishermen rescued after over 3 weeks at sea",
+      "Makers plans Race reboot with Aamir, Sidharth and Tiger"
+    ],
+    "last_updated": "2026-08-29 07:33:01 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
+    "headlines": [
+      "Nepal floods: Spooked by visuals, tourists cancel bookings, tour operators hit",
+      "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
+      "‘I know the disease and medicine’: Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
+      "Kolkata court denies bail to 13 people arrested over clash at TMC office",
+      "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP"
+    ],
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "UP",
@@ -143,21 +158,7 @@
       "Sugar stocks rally continues: Balrampur Chini, Dhampur Sugar, Uttam Sugar Mills rally up to 4%. Two big triggers",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "‘Locals cautioned, driver reversed’: How warning saved Andhra pilgrims from Nepal floods",
-      "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror",
-      "7 Andhra fishermen rescued after over 3 weeks at sea",
-      "Makers plans Race reboot with Aamir, Sidharth and Tiger"
-    ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "MP",
@@ -171,7 +172,34 @@
       "Rakhi gifting gets premium, personal as smaller towns drive festive commerce",
       "Aditya Dhar marks Rakhi with heartwarming 'Dhurandhar' still"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Wider camera surveillance network on cards in Keralam’s Kozhikode to check traffic rule violations and reckless dumping of waste",
+      "Probe launched after group stops Keralam CM Satheesan’s convoy in Thiruvananthapuram",
+      "53 from Kerala stuck in Nepal safe: Official",
+      "100 days of the VD Satheesan government: Several hits, some misses"
+    ],
+    "last_updated": "2026-08-29 07:33:01 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
+    "headlines": [
+      "Telangana Foods turns into role model for country in Take Home Ration models",
+      "Unkind cuts: On the Telangana and Karnataka electoral rolls",
+      "Aster DM Quality Care subsidiary buys 14.21% stake in STS Holdings for $44.11 million"
+    ],
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "BR",
@@ -184,7 +212,7 @@
       "‘City of ponds’: residents of Bihar’s Darbhanga town wade into legal battle to save water bodies",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "AS",
@@ -197,7 +225,7 @@
       "Assam Police constable dies by suicide at Guwahati quarters, probe on: Police",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "GJ",
@@ -210,32 +238,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 3,
-    "headlines": [
-      "Probe launched after group stops Keralam CM Satheesan’s convoy in Thiruvananthapuram",
-      "53 from Kerala stuck in Nepal safe: Official",
-      "100 days of the VD Satheesan government: Several hits, some misses"
-    ],
-    "last_updated": "2026-08-29 06:33:00 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "The Dalit enigma: Why Mayawati is going solo in Punjab",
-      "US Trade Deal Takes Centre Stage At Shivraj Chouhan's Punjab Speech"
-    ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "CT",
@@ -247,7 +250,7 @@
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown",
       "Rakhi gifting gets premium, personal as smaller towns drive festive commerce"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "GA",
@@ -259,19 +262,19 @@
       "Shots fired at Goa casino director, he escapes unhurt",
       "‘What about 501st m’: Goa 500 m drug-free school zone directive sparks criticism"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 2,
     "headlines": [
-      "Electric Shock Kills Telangana Man. Sister Bids Goodbye With Rakhi",
-      "Unkind cuts: On the Telangana and Karnataka electoral rolls"
+      "The Dalit enigma: Why Mayawati is going solo in Punjab",
+      "US Trade Deal Takes Centre Stage At Shivraj Chouhan's Punjab Speech"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "HR",
@@ -282,7 +285,7 @@
     "headlines": [
       "'Frustrated' with childcare, Faridabad woman slits 2-year-old’s neck; arrested"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "ML",
@@ -293,7 +296,7 @@
     "headlines": [
       "Meghalaya lawyers boycott courts, demand Advocate General Amit Kumar’s removal"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "HP",
@@ -304,7 +307,7 @@
     "headlines": [
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "JK",
@@ -315,7 +318,7 @@
     "headlines": [
       "Day after Farooq dare, Srinagar MP Mehdi decides to quit LS, NC over Article 370"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "SK",
@@ -326,7 +329,7 @@
     "headlines": [
       "India has 7,500 Himalayan glacial lakes, 200 are high risk amid flood fears"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "LA",
@@ -337,7 +340,7 @@
     "headlines": [
       "Ladakh LG welcomes President’s nod for J&amp;K High Court bench in Ladakh"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   },
   {
     "Code": "UT",
@@ -348,6 +351,6 @@
     "headlines": [
       "Uttarakhand CM Dhami announces free bus travel for women aged 60 and above"
     ],
-    "last_updated": "2026-08-29 06:33:00 AM"
+    "last_updated": "2026-08-29 07:33:01 AM"
   }
 ]
