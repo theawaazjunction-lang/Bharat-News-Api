@@ -4,19 +4,17 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 33,
+    "news_count": 27,
     "headlines": [
       "A Pocso case. A man in coma. A murdered model: Delhi gym trainer's trail of violence",
       "‘Most prisoners there due to circumstances’: TN CM Vijay visits Puzhal jail",
-      "Rakshabandhan in NYC: Zohran Mamdani celebrates with South Asian seniors",
       "3 Delhi BJP MPs Visit Sajjan Kumar's House. Then Party Chief's Big Action",
       "Assam Man Missing In Nepal Floods, Family Seeks Government's Help",
       "28-Year-Old Man Electrocuted After Falling Into Collapsed Delhi Road",
       "Delhi court takes cognisance of NIA chargesheet in Red Fort blast case",
       "Assam youth suspected in woman’s murder in Tamil Nadu arrested in Manipur",
       "Sandhya Devanathan exits Meta after a decade; to join OpenAI as VP South East Asia, Australia",
-      "Andhra Pradesh farmers caught between climate uncertainty and financial risk",
-      "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
+      "Red Fort blast: Delhi court takes cognisance of NIA’s 7,500-page chargesheet",
       "Over 900 people trapped or missing across 11 hydropower sites after Nepal floods",
       "IIT Delhi director flags 'unsavoury, threatening' slogans amid protest over student's death",
       "Bihar Congress leaders to protest outside Delhi party HQ, seek Rahul Gandhi meeting, state chief’s removal",
@@ -28,19 +26,39 @@
       "Delhi ‘spy couple’ sent SIM cards to Pakistan. ISI used them to enter Indian WhatsApp groups",
       "Nepal floods: TN ministers meet in Delhi to oversee rescue ops of those missing from state",
       "'Kanda Express' with 453 tonnes of onion from Nashik reaches Delhi to help cool prices",
-      "After HT report, Delhi civic body begins removing illegal structures at encroached Zamrudpur monuments",
       "CNG price rise: Delhi autorickshaw bodies demand fare hike, threaten to go on strike on Sep 9",
-      "FM Sitharaman in Chicago: ‘Build for the world from India’",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "Brevis’ 75 goes in vain as Namibia stun South Africa in tri-series opener",
       "Toxic sparks CBFC debate over graphic violence after Annamalai criticism",
       "Emraan Hashmi returns to action with Gunmaaster G9, first glimpse out",
-      "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi",
-      "An invasive beetle wiped out black ash trees across parts of North America"
+      "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 14,
+    "headlines": [
+      "Nagendra resigned to avoid embarrassment to Congress: DK Shivakumar",
+      "Colleges ‘missing’ when students go for enrolment in professional courses in Karnataka",
+      "Minister B. Nagendra resigns, challenges BJP to face him in ‘people’s court’",
+      "RPF Mysuru detects railway property theft, recovers lost phone",
+      "Special SIR camps to be held on August 29, 30 and September 19, 20 to help voters verify names, file claims, objections in Karnataka",
+      "28 from Karnataka stranded or missing in Nepal, Tibet amid flash flood",
+      "Karnataka Chief Minister D.K. Shivakumar directs officials to identify five cities other than Bengaluru for industrial development",
+      "Except for notified forest, not a foot extra should be added to ESA, demands Shivamogga MP B.Y. Raghavendra",
+      "Karnataka horror: Man chased, hacked to death in broad daylight; murder caught on video",
+      "KPSC recruitment irregularity row: IAS appears before CID",
+      "‘Don’t want to embarrass Congress’: Karnataka minister B Nagendra resigns amid funds case row",
+      "'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister",
+      "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row",
+      "Man shoots dog dead after it fights with his pets in Karnataka’s Shivamogga: Cops"
+    ],
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "MH",
@@ -63,27 +81,7 @@
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry",
       "Shantanu Maheshwari inspires young creators at Arena Animation’s Perspectives 2026 in Mumbai"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 10,
-    "headlines": [
-      "Nagendra resigned to avoid embarrassment to Congress: DK Shivakumar",
-      "Karnataka Chief Minister D.K. Shivakumar directs officials to identify five cities other than Bengaluru for industrial development",
-      "Except for notified forest, not a foot extra should be added to ESA, demands Shivamogga MP B.Y. Raghavendra",
-      "Unkind cuts: On the Telangana and Karnataka electoral rolls",
-      "Karnataka horror: Man chased, hacked to death in broad daylight; murder caught on video",
-      "KPSC recruitment irregularity row: IAS appears before CID",
-      "‘Don’t want to embarrass Congress’: Karnataka minister B Nagendra resigns amid funds case row",
-      "'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister",
-      "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row",
-      "Man shoots dog dead after it fights with his pets in Karnataka’s Shivamogga: Cops"
-    ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "TN",
@@ -101,69 +99,24 @@
       "Today’s Gold Rate, Aug 29: Check gold rates in Delhi, Mumbai, Chennai",
       "Soori thanks filmmaker Vetri Maaran at 'Mandaadi' Chennai audio launch event"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 6,
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 7,
     "headlines": [
-      "2 Killed In Violent Clash Over Neem Tree Beside House In Telangana",
-      "AIMIM Expels Leader Over Viral Video Controversy, BJP Says \"Not Justice\"",
-      "Unkind cuts: On the Telangana and Karnataka electoral rolls",
-      "AIMIM expels Telangana MLC Mirza Rahmath Baig; asks him to resign from post",
-      "Surekha calls on Revanth for Rakhi bonhomie as Cong mulls punitive action",
-      "Vikramarka reviews SCCL plans for exploring K’taka’s Devadurga"
+      "‘UP no longer Bimaru state’: CM Yogi says mafia crushed; Akhilesh flags gaps",
+      "'Gang of dacoits': Yogi says Akhilesh must apologise for UP 'loot and extortion'",
+      "Education that merely provides degree without developing character has little value: Rajnath Singh",
+      "Samajwadi Party ‘gang of dacoits’, should apologise for ‘loot’ of Uttar Pradesh exchequer, says Adityanath",
+      "Assam youth suspected in woman’s murder in Tamil Nadu arrested in Manipur",
+      "2 killed, 20 injured as Roadways bus crashes into dumper in Bulandshahr",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 6,
-    "headlines": [
-      "Mobile phones, cash seized from prison cell of mastermind of American Centre attack in Kolkata",
-      "West Bengal CM flays ‘Azadi’ slogans at Jadavpur",
-      "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata",
-      "‘I know the disease and medicine’: CM Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
-      "Kolkata court denies bail to 13 people arrested over clash at TMC office",
-      "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP"
-    ],
-    "last_updated": "2026-08-29 03:33:05 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "RSS chief visits Iskcon’s birthplace in New York, joins food distribution drive",
-      "Guntur neurosurgeon highlights minimally invasive brain surgery",
-      "Four of a family allegedly die by suicide at Pendurthi in Visakhapatnam",
-      "Andhra Pradesh farmers caught between climate uncertainty and financial risk",
-      "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror"
-    ],
-    "last_updated": "2026-08-29 03:33:05 PM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 5,
-    "headlines": [
-      "Goa police hunt for suspects who fired at casino director; Cong flags law and order concerns",
-      "Unity on everyone’s lips, but can Goa oppositions unite ahead of 2027 polls?",
-      "Shots fired at Goa casino director, he escapes unhurt",
-      "‘What about 501st m’: Goa 500 m drug-free school zone directive sparks criticism",
-      "Goa draws 61.38 lakh visitors in seven months; international charter bookings rise"
-    ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "AS",
@@ -178,7 +131,7 @@
       "Assam Police constable dies by suicide at Guwahati quarters, probe on: Police",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "MN",
@@ -193,22 +146,37 @@
       "Manipur: Remains of 4 Nagas shot dead brought to Senapati hospital amid shutdown",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 5,
     "headlines": [
-      "'Gang of dacoits': Yogi says Akhilesh must apologise for UP 'loot and extortion'",
-      "Samajwadi Party ‘gang of dacoits’, should apologise for ‘loot’ of Uttar Pradesh exchequer, says Adityanath",
-      "Assam youth suspected in woman’s murder in Tamil Nadu arrested in Manipur",
-      "2 killed, 20 injured as Roadways bus crashes into dumper in Bulandshahr",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+      "Mobile phones, cash seized from prison cell of mastermind of American Centre attack in Kolkata",
+      "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata",
+      "‘I know the disease and medicine’: CM Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
+      "Kolkata court denies bail to 13 people arrested over clash at TMC office",
+      "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
+    "headlines": [
+      "2 Killed In Violent Clash Over Neem Tree Beside House In Telangana",
+      "AIMIM Expels Leader Over Viral Video Controversy, BJP Says \"Not Justice\"",
+      "AIMIM expels Telangana MLC Mirza Rahmath Baig; asks him to resign from post",
+      "Surekha calls on Revanth for Rakhi bonhomie as Cong mulls punitive action",
+      "Vikramarka reviews SCCL plans for exploring K’taka’s Devadurga"
+    ],
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "KL",
@@ -223,21 +191,35 @@
       "Lorry driver seriously injured after boulders fall at quarry in Keralam’s Thiruvananthapuram",
       "Except for notified forest, not a foot extra should be added to ESA, demands Shivamogga MP B.Y. Raghavendra"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 4,
     "headlines": [
-      "Samay Raina in soup again over remarks on people from Bihar and Kashmiri Pandits",
-      "Tejashwi Yadav becomes more active in Bihar politics after byelection setback",
-      "Bihar Congress leaders to protest outside Delhi party HQ, seek Rahul Gandhi meeting, state chief’s removal",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
+      "Nihang Singh Shot Dead At Amritsar Gurdwara Fair, Suspects On The Run",
+      "BJP chief Nitin Nabin holds meeting on youth outreach, assembly poll preparations",
+      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 4,
+    "headlines": [
+      "Goa police hunt for suspects who fired at casino director; Cong flags law and order concerns",
+      "Unity on everyone’s lips, but can Goa oppositions unite ahead of 2027 polls?",
+      "Shots fired at Goa casino director, he escapes unhurt",
+      "Goa draws 61.38 lakh visitors in seven months; international charter bookings rise"
+    ],
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "GJ",
@@ -251,7 +233,20 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Guntur neurosurgeon highlights minimally invasive brain surgery",
+      "Four of a family allegedly die by suicide at Pendurthi in Visakhapatnam",
+      "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror"
+    ],
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "JK",
@@ -264,7 +259,7 @@
       "Suspected Pakistan drone triggers search operation along LoC in Poonch",
       "Suspected Pakistan drone spotted near LoC in Poonch; Jammu and Kashmir on high alert"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "HR",
@@ -277,7 +272,20 @@
       "Opposition, netizens target BJP government over Gurugram going under yet again after rain",
       "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Tejashwi Yadav becomes more active in Bihar politics after byelection setback",
+      "Bihar Congress leaders to protest outside Delhi party HQ, seek Rahul Gandhi meeting, state chief’s removal",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "UT",
@@ -290,20 +298,7 @@
       "Uttarakhand ramps up glacier monitoring after Nepal floods kill over 600",
       "Uttarakhand CM Dhami announces free bus travel for women aged 60 and above"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
-      "BJP chief Nitin Nabin holds meeting on youth outreach, assembly poll preparations",
-      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
-    ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "CT",
@@ -315,7 +310,7 @@
       "Over 900 people trapped or missing across 11 hydropower sites after Nepal floods",
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "CH",
@@ -327,7 +322,19 @@
       "'Kidnapped, tied to tree, set on fire': Social media influencer dies in Punjab",
       "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "BJD may move SC if Odisha assembly fails to oppose MMDR amendments: Pratap Jena",
+      "IMD: Heavy rainfall likely in Odisha as fresh low-pressure area forms over Bay of Bengal"
+    ],
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "HP",
@@ -338,18 +345,7 @@
     "headlines": [
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "IMD: Heavy rainfall likely in Odisha as fresh low-pressure area forms over Bay of Bengal"
-    ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "MP",
@@ -360,7 +356,7 @@
     "headlines": [
       "Four killed, 11 injured as speeding sleeper bus crashes into wall in MP’s Rajgarh"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "RJ",
@@ -371,7 +367,7 @@
     "headlines": [
       "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   },
   {
     "Code": "SK",
@@ -382,6 +378,6 @@
     "headlines": [
       "Nepal floods put focus on India’s glacial lakes; 200 of 7,500 at high risk"
     ],
-    "last_updated": "2026-08-29 03:33:05 PM"
+    "last_updated": "2026-08-29 04:32:58 PM"
   }
 ]
