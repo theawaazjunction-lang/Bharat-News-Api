@@ -4,14 +4,13 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 27,
+    "news_count": 26,
     "headlines": [
       "BJP president pulls up 3 Delhi MPs for visiting Sajjan Kumar’s house",
       "Delhi Man Dies Of Electrocution, Government Says No Fault In Streetlight Pole",
       "Delhi Government Deploys Top Officers To Probe 139 Waterlogging Hotspots",
       "11 Indian-Origin US Citizens On Kailash Trip Missing After Nepal Floods",
       "Mamata Banerjee booked: FIR filed over TMCP event in Kolkata",
-      "Will send team to Nepal if MEA gives permission: West Bengal CM",
       "‘Not one complaint’: Tharoor praises govt’s Nepal flood rescue efforts in letter to EAM",
       "BJP president Nitin Nabin pulls up 3 Delhi MPs for condoling Sajjan Kumar’s death",
       "Red Fort blast: Delhi court takes cognisance of NIA’s 7,500-page chargesheet",
@@ -34,37 +33,35 @@
       "Emraan Hashmi returns to action with Gunmaaster G9, first glimpse out",
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "WB",
     "Lat": 22.9868,
     "Long": 87.855,
     "State": "West Bengal",
-    "news_count": 10,
+    "news_count": 9,
     "headlines": [
       "Abhishek Banerjee Summoned By Kolkata Police Over Illegal Billboards Row",
       "Assam Professor, Husband Among Indians Missing In Flood-Hit Nepal",
       "Kolkata Police file FIR against Mamata Banerjee for violating Calcutta High Court order",
       "Mamata Banerjee booked: FIR filed over TMCP event in Kolkata",
-      "Will send team to Nepal if MEA gives permission: West Bengal CM",
       "‘Trying to reach a safe location’: Missing UK couple's last message from flood-hit Nepal",
       "FIR against Mamata Banerjee over violation of high court order on TMC students' wing rally in Kolkata",
       "‘I know the disease and medicine’: CM Suvendu warns Jadavpur University students over Maoist, ‘azaadi’ slogans",
       "Kolkata court denies bail to 13 people arrested over clash at TMC office",
       "'Sing four stanzas of Vande Mataram': TMC's big challenge to Suvendu Adhikari and BJP"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 10,
+    "news_count": 9,
     "headlines": [
       "Even layman knows of SC bulldozer order, but IAS officer unaware: Bombay HC",
-      "After Bombay HC rap, FDA withdraws orders against Cipla, MCA eateries",
       "Maharashtra government in touch with 338 of the 404 stranded in Nepal",
       "17 days after protest, Maharashtra Government accepts all the demands of tribal students",
       "Why Maharashtra wants to regulate coaching centres | Explained",
@@ -74,7 +71,7 @@
       "Phool Aur Kaante filmmaker Kuku Kohli dies",
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "KA",
@@ -91,7 +88,7 @@
       "'BJP can't scare me with ED, CBI': B Nagendra slams 'manuwadis' after stepping down as Karnataka minister",
       "Teary-eyed Karnataka minister B Nagendra resigns from cabinet, as MLA amid financial irregularity row"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "TG",
@@ -108,7 +105,7 @@
       "Surekha calls on Revanth for Rakhi bonhomie as Cong mulls punitive action",
       "Vikramarka reviews SCCL plans for exploring K’taka’s Devadurga"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "AS",
@@ -124,7 +121,7 @@
       "10 people from Assam, including hydropower workers, missing after Nepal floods",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "GJ",
@@ -139,7 +136,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "BR",
@@ -153,7 +150,7 @@
       "Bihar Congress leaders to protest outside Delhi party HQ, seek Rahul Gandhi meeting, state chief’s removal",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "UP",
@@ -167,7 +164,21 @@
       "Uttar Pradesh CM Adityanath slams opposition for dividing people in name of caste, region, language",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 4,
+    "headlines": [
+      "Chennai’s second airport: grounded until take-off",
+      "At 387, city turns up the spirit at The Hindu’s Made of Chennai festival",
+      "21 Nepal flash flood survivors from Tamil Nadu safely arrive in Delhi",
+      "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities"
+    ],
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "MN",
@@ -181,20 +192,7 @@
       "Manipur: Remains of 4 Nagas shot dead brought to Senapati hospital amid shutdown",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 3,
-    "headlines": [
-      "Nepal flash floods: How a tea break saved lives of 5 Chhattisgarh friends",
-      "Over 900 people trapped or missing across 11 hydropower sites after Nepal floods",
-      "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
-    ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "JK",
@@ -207,7 +205,7 @@
       "Suspected Pakistan drone spotted near LoC in Poonch; Jammu and Kashmir on high alert",
       "Jitendra Singh lays foundation for ₹1,503-crore PMGSY roads in Jammu"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "UT",
@@ -220,20 +218,20 @@
       "Uttarakhand ramps up glacier monitoring after Nepal floods kill over 600",
       "Uttarakhand CM Dhami announces free bus travel for women aged 60 and above"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 3,
     "headlines": [
-      "At 387, city turns up the spirit at The Hindu’s Made of Chennai festival",
-      "21 Nepal flash flood survivors from Tamil Nadu safely arrive in Delhi",
-      "Tamil Nadu CM Vijay conducts inspection at Puzhal Central Prison to assess inmate welfare, amenities"
+      "Nepal flash floods: How a tea break saved lives of 5 Chhattisgarh friends",
+      "Over 900 people trapped or missing across 11 hydropower sites after Nepal floods",
+      "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "AP",
@@ -245,31 +243,7 @@
       "A.P. Speaker calls for effective implementation of sports quota for athletes",
       "'Flood was just 100m away, God helped': Rescued Indian pilgrim recalls Nepal flood horror"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "BJP-SAD alliance revival gains ground ahead of Punjab polls",
-      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
-    ],
-    "last_updated": "2026-08-30 05:33:46 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
-    "headlines": [
-      "Unity on everyone’s lips, but can Goa oppositions unite ahead of 2027 polls?",
-      "Shots fired at Goa casino director, he escapes unhurt"
-    ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "OD",
@@ -281,19 +255,31 @@
       "7 Odisha tourists evacuated after Nepal floods; search on for 5: Official",
       "Party may move SC if Odisha assembly fails to oppose MMDR amendments: BJD"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 2,
     "headlines": [
-      "Peechi Dam in Thrissur to open four spillway shutters on August 31",
-      "G. Vijaya Raghavan, P.P. Balan among four members appointed to Kerala State Planning Board"
+      "Unity on everyone’s lips, but can Goa oppositions unite ahead of 2027 polls?",
+      "Shots fired at Goa casino director, he escapes unhurt"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "BJP-SAD alliance revival gains ground ahead of Punjab polls",
+      "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
+    ],
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "CH",
@@ -304,7 +290,18 @@
     "headlines": [
       "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 1,
+    "headlines": [
+      "Peechi Dam in Thrissur to open four spillway shutters on August 31"
+    ],
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "MP",
@@ -315,7 +312,7 @@
     "headlines": [
       "Four killed, 11 injured as speeding sleeper bus crashes into wall in MP’s Rajgarh"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "HR",
@@ -326,7 +323,7 @@
     "headlines": [
       "Amid Growing Water Crisis, Chandigarh University Biotechnology Researchers Get Patent for Innovative Device to Kitchen Wastewater Reuse, Save Potable Water"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   },
   {
     "Code": "HP",
@@ -337,6 +334,6 @@
     "headlines": [
       "Landing scare at Bilaspur airport: Alliance Air flight suffers tyre burst during touchdown"
     ],
-    "last_updated": "2026-08-30 05:33:46 AM"
+    "last_updated": "2026-08-30 06:33:03 AM"
   }
 ]
