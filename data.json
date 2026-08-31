@@ -4,17 +4,17 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 26,
+    "news_count": 27,
     "headlines": [
-      "Colorado logs record 7,000+ bear sightings in 2026 as bears enter homes, towns",
       "How to avoid rental disputes: Delhi Police plans awareness session for Northeast tenants",
       "3 masked men rob Congress leader Alka Lamba's father's Delhi home; CCTV video emerges",
       "KPSC veterinary recruitment scam: CID detains political party functionary in Delhi",
+      "CJP finds in AAP an all-weather friend supporting it at every turn",
       "Melukara and Kottathoor Kaithakkodi win Aranmula Uthrittathi Boat Race",
       "‘Anti-national’ graffiti at varsity whitewashed after West Bengal CM’s ultimatum",
       "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
       "Delhi police changes IO amid family raises concerns over a hit-and-run case",
-      "3-year-old tied to chair, assaulted at Delhi playschool, attendant held: Police",
+      "Delhi toddler's bruises led parents to doctor, then CCTV exposed abuse at playschool",
       "Delhi Lakshmi Yojana RD maturity set for July 2029, year of next Lok Sabha polls",
       "Vijeta Dahiya to make a comeback in CJP? Abhijeet Dipke says ‘will think about it but…’",
       "Tripura hostel warden gets 20 years in jail for sexually assaulting minor",
@@ -26,6 +26,7 @@
       "Kashmir dig probes ancient network linking India, Gandhara and Central Asia",
       "HNGIL seeks insolvency proceedings against Bira 91 maker over payment default",
       "Economy likely grew between 7-7.5% in April-June, SBI research expects 8%",
+      "September F&amp;O Series: CDSL, Adani Power among 5 stocks offering bullish trading bets",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -33,7 +34,7 @@
       "Emraan Hashmi returns to action with Gunmaaster G9, first glimpse out",
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "MH",
@@ -44,18 +45,18 @@
     "headlines": [
       "Kabul, Kashmir, Mumbai, Pahalgam: Hafiz Saeed’s deadly four-decade terror trail",
       "Activist Manoj Jarange Sets Mumbai Protest Deadline, Devendra Fadnavis Reaches Out",
+      "Maratha quota: Maharastra Govt hints at willingness to discuss ‘legally valid’ demands",
       "Maratha protesters wave black flags at Eknath Shinde in Parbhani",
       "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra",
       "Maharashtra agrees to tribal students’ demands; 17-day hunger strike ends",
       "‘Do you feel you are a lord?’: Bombay HC rebukes Tukaram Mundhe-led FDA over crackdown on MCA eateries",
       "Air India B787 engine shutdown: GE expanded inspections after 2023 incident, DGCA tells CIC",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Raaka: Allu Arjun wraps key Mumbai schedule",
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend",
       "Phool Aur Kaante filmmaker Kuku Kohli dies",
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "KA",
@@ -66,12 +67,12 @@
     "headlines": [
       "KPSC veterinary recruitment scam: CID detains political party functionary in Delhi",
       "\"Islam Superior,\" Says Karnataka Minister. BJP Demands Apology To Hindus",
-      "Neelakurinji-like bloom adds charm to Kudremukh Hills",
       "Direct Karnataka to release backlog of 17.604 tmcft Cauvery water: T.N. to Supreme Court",
+      "Neelakurinji-like bloom adds charm to Kudremukh Hills",
       "Karnataka CID arrests IAS officer Gangwar in KPSC exam irregularities case",
       "‘Ruling party calling for mass genocide?’ CJP slams BJP over ‘Dimagi Naxals’ meme featuring KGF scene"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "TG",
@@ -87,7 +88,7 @@
       "Revanth Reddy urges ECI to extend Telangana SIR deadline by four weeks",
       "Telangana panel seeks minor irrigation act, tank protection measures"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "UP",
@@ -103,7 +104,7 @@
       "Uttar Pradesh CM Adityanath slams opposition for dividing people in name of caste, region, language",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "AS",
@@ -119,7 +120,7 @@
       "Assam fisherman found in Bangladesh, BGB alleges drug, arms smuggling",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "TN",
@@ -135,21 +136,7 @@
       "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
       "Saree turns into rescue rope on muddy slope for Tamil Nadu pilgrims amid Nepal flash floods"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "Krishna Byre Gowda directs GBA to take disciplinary action against officials over failure to address streetlight issue",
-      "Three youths killed in motorcycle crash in Sri Sathya Sai district",
-      "Tirupati NIELIT centre to stay: Collector",
-      "Man stabbed to death in suspected revenge killing in Guntur"
-    ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "GJ",
@@ -163,7 +150,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "BR",
@@ -177,7 +164,7 @@
       "1 killed, 24 injured as lightning strikes Gurupadgiri Hill in Bihar’s Gaya: Police",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "WB",
@@ -191,21 +178,7 @@
       "‘Trying to reach a safe location’: Missing UK couple's last message from flood-hit Nepal",
       "HNGIL seeks insolvency proceedings against Bira 91 maker over payment default"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "Woman’s murder: couple arrested in Manipur being brought to Chennai",
-      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
-      "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
-      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
-    ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "RJ",
@@ -219,21 +192,21 @@
       "NEET PG exam rescheduled for nearly 300 candidates over power outage in Jaipur",
       "Rajasthan to set up 172 units of 1 MW/ 4MWhr BESS"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 4,
     "headlines": [
-      "Odisha to deduct maintenance from salaries of govt employees who default: CM",
+      "Woman’s murder: couple arrested in Manipur being brought to Chennai",
       "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
-      "7 Odisha tourists evacuated after Nepal floods; search on for 5: Official",
-      "Party may move SC if Odisha assembly fails to oppose MMDR amendments: BJD"
+      "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
+      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "LA",
@@ -246,20 +219,7 @@
       "Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh",
       "Rahul says he turned vegan after having a brain stroke, stopped onion-garlic, smoking"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 3,
-    "headlines": [
-      "Keralam Islamic scholar says women’s public appearances will cause ‘great destruction’",
-      "Parent objects to daughter receiving prize from Sriram Venkitaraman at Kozhikode event",
-      "‘Reminded us of tsunami’: 36-member group from Kerala escapes Nepal floods, returns safely"
-    ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "HR",
@@ -272,7 +232,45 @@
       "Kandela Khap condemns restrictions on inspections of Haryana government schools",
       "30-year-old man arrested for allegedly raping 11-year-old relative in Haryana's Palwal"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "Two Malayali women killed in California; friend detained",
+      "Keralam Islamic scholar says women’s public appearances will cause ‘great destruction’",
+      "‘Reminded us of tsunami’: 36-member group from Kerala escapes Nepal floods, returns safely"
+    ],
+    "last_updated": "2026-08-31 08:33:17 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Odisha to deduct maintenance from salaries of govt employees who default: CM",
+      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
+      "7 Odisha tourists evacuated after Nepal floods; search on for 5: Official"
+    ],
+    "last_updated": "2026-08-31 08:33:17 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Krishna Byre Gowda directs GBA to take disciplinary action against officials over failure to address streetlight issue",
+      "Three youths killed in motorcycle crash in Sri Sathya Sai district"
+    ],
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "TR",
@@ -284,7 +282,7 @@
       "NE states have taken up withdrawal of revenue gap fund with Union FM: Tripura CM",
       "Tripura hostel warden gets 20 years in jail for sexually assaulting minor"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "PB",
@@ -296,7 +294,7 @@
       "'No Strict Action': Akal Takht Leader Tears Into AAP Over Punjab Drug Issue",
       "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "ML",
@@ -308,7 +306,7 @@
       "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
       "4 armed men killed in Meghalaya encounter, link to businessman’s murder probed"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "JH",
@@ -319,7 +317,7 @@
     "headlines": [
       "Taking reforms to the road: From Ranchi protest to a Statewide yatra"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "CT",
@@ -330,7 +328,7 @@
     "headlines": [
       "How tea break saved five Chhattisgarh friends from Nepal flash floods: ‘We were lucky'"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "MP",
@@ -341,7 +339,7 @@
     "headlines": [
       "24 people in Indore died drinking sewage-tainted water via municipal lines: Probe"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "LD",
@@ -352,7 +350,7 @@
     "headlines": [
       "Vice President to launch ornamental fisheries plan in Lakshadweep tomorrow"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "JK",
@@ -363,7 +361,7 @@
     "headlines": [
       "Jammu and Kashmir should focus on retaining talented youth: Mattoo"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   },
   {
     "Code": "UT",
@@ -374,6 +372,6 @@
     "headlines": [
       "'Congress misleading Dalit community': BJP rejects Rahul's claim of Kharge's insult in Haldwani purification ritual"
     ],
-    "last_updated": "2026-08-31 07:33:16 AM"
+    "last_updated": "2026-08-31 08:33:17 AM"
   }
 ]
