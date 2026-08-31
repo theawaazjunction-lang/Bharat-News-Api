@@ -4,50 +4,47 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 30,
+    "news_count": 29,
     "headlines": [
       "16-year-old girl gang-raped inside moving bus during 47-km ride to Delhi",
       "‘Beaten, eyes swollen, vomiting, dizzy’: Father on 3-year-old’s ordeal in school",
+      "Meet Kim Ji-on, 12, who invented a device to help people escape deadly fires",
       "Delhi cabbie sexually assaults 3-year-old nursery student, held",
       "3-year-old tied to chair, kicked and sexually assaulted at Delhi playschool",
-      "How to avoid rental disputes: Delhi Police plans awareness session for Northeast tenants",
+      "3-Year-old Boy Allegedly Tied To Chair, Slapped, Hit At Delhi Day Care",
+      "India calls for more predictable regulatory environment in Brazil to boost pharma exports",
+      "Former DMK Erode Central district secretary Thoppu Venkatachalam quits party",
       "CJP finds in AAP an all-weather friend supporting it at every turn",
       "Nirmala Sitharaman in U.S. Asheville city for G-20 finance ministerial meet",
-      "Melukara and Kottathoor Kaithakkodi win Aranmula Uthrittathi Boat Race",
+      "No mandatory ethanol labels on petrol pumps for now, SC junks plea",
+      "Conman Sukesh sentenced to 8 yrs in jail by Delhi court for impersonating SC judge",
       "3-year-old sexually abused by cab driver at Delhi private school, case filed",
-      "What Delhi can learn from TN on rental housing",
+      "Master Plan 2047: What Delhi can learn from Tamil Nadu on rental housing",
       "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
       "Delhi police changes IO amid family raises concerns over a hit-and-run case",
       "Delhi toddler's bruises led parents to doctor, then CCTV exposed abuse at playschool",
       "Delhi Lakshmi Yojana RD maturity set for July 2029, year of next Lok Sabha polls",
       "Vijeta Dahiya to make a comeback in CJP? Abhijeet Dipke says ‘will think about it but…’",
-      "Tripura hostel warden gets 20 years in jail for sexually assaulting minor",
-      "BJP prez pulls up lawmakers for condoling Sajjan Kumar’s death",
-      "Delhi man kills schizophrenic son, lured him to shipping container on pretext of doctor visit",
       "Indian rice draws global interest as 3,317 buyers from 138 countries register for BIRC 2026: IREF",
       "IMD: Heavy rainfall forecast across several northern states",
       "Crude oil futures gain after US forces attack Iranian island",
       "Kashmir dig probes ancient network linking India, Gandhara and Central Asia",
-      "HNGIL seeks insolvency proceedings against Bira 91 maker over payment default",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Duleep Trophy SF 2 Live Score: North Zone vs South Zone",
       "Naya Rivera’s son to make film debut in 'The Burning Valley'",
-      "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places",
-      "Emraan Hashmi returns to action with Gunmaaster G9, first glimpse out"
+      "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 10,
     "headlines": [
-      "Crane Catches Fire During Cargo Unloading At Mumbai Port, 2 Operators Injured",
-      "Activist Manoj Jarange Sets Mumbai Protest Deadline, Devendra Fadnavis Reaches Out",
       "Maratha quota: Maharastra Govt hints at willingness to discuss ‘legally valid’ demands",
       "Crane overturns, bursts into flames at Mumbai port; dramatic visuals show black smoke",
       "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra",
@@ -59,7 +56,46 @@
       "Phool Aur Kaante filmmaker Kuku Kohli dies",
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 10,
+    "headlines": [
+      "Milk procurement price in Tamil Nadu increased further to ₹44 per litre",
+      "Former DMK Erode Central district secretary Thoppu Venkatachalam quits party",
+      "Farmers’ associations seek lifting of toddy ban in Tamil Nadu",
+      "Woman’s murder: couple arrested in Manipur being brought to Chennai",
+      "Create a large reservoir in Parandur: Anbumani",
+      "Master Plan 2047: What Delhi can learn from Tamil Nadu on rental housing",
+      "Tamil Nadu businessman, 84, two aides held in minor sexual assault case: Police",
+      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
+      "Saree turns into rescue rope on muddy slope for Tamil Nadu pilgrims amid Nepal flash floods",
+      "Tamil Nadu CM Vijay announces further hike in milk procurement prices"
+    ],
+    "last_updated": "2026-08-31 12:33:03 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 9,
+    "headlines": [
+      "Two Malayali women killed in California; friend detained",
+      "In Kerala Cleric's Latest Shocker, A Call For Not Letting Women Leave Home",
+      "Youth attacks civil police officer with helmet during Onam celebrations in Thiruvananthapuram",
+      "1 burnt to death after moving car catches fire at Venganoor in Thiruvananthapuram",
+      "Keralam Islamic scholar says women’s public appearances will cause ‘great destruction’",
+      "Suresh Gopi assures steps to repatriate remains of two Keralam women allegedly murdered in US",
+      "Like 'gold kept safely in box', women must remain in homes: Islamic cleric in Kerala",
+      "‘Reminded us of tsunami’: 36-member group from Kerala escapes Nepal floods, returns safely",
+      "India’s coconut exports surge 62% to ₹7,038 crore in FY26"
+    ],
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "KA",
@@ -77,7 +113,7 @@
       "Karnataka CID arrests IAS officer Gangwar in KPSC exam irregularities case",
       "Yash’s mother hits back at ‘Who was Yash before 'KGF'?’"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "UP",
@@ -93,7 +129,7 @@
       "UP's Chitrakoot on high alert as Mandakini River overflows; drones deployed",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "MN",
@@ -109,55 +145,36 @@
       "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 6,
-    "headlines": [
-      "Farmers’ associations seek lifting of toddy ban in Tamil Nadu",
-      "Woman’s murder: couple arrested in Manipur being brought to Chennai",
-      "Create a large reservoir in Parandur: Anbumani",
-      "Tamil Nadu businessman, 84, two aides held in minor sexual assault case: Police",
-      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
-      "Saree turns into rescue rope on muddy slope for Tamil Nadu pilgrims amid Nepal flash floods"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "Telangana Nurse Found Dead At Home, BJP Leader Alleges Assault, Murder",
       "AIMIM Leader Stabbed To Death In Hyderabad",
-      "97.47% attendance for NEET PG in Hyderabad",
+      "AIMIM worker stabbed to death by gang near his Hyderabad home",
       "SLBC tunnel crosses dangerous ‘shear zone’ in major breakthrough",
-      "Revanth Reddy urges ECI to extend Telangana SIR deadline by four weeks",
       "Telangana panel seeks minor irrigation act, tank protection measures"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 4,
     "headlines": [
-      "Two Malayali women killed in California; friend detained",
-      "In Kerala Cleric's Latest Shocker, A Call For Not Letting Women Leave Home",
-      "1 burnt to death after moving car catches fire at Venganoor in Thiruvananthapuram",
-      "Keralam Islamic scholar says women’s public appearances will cause ‘great destruction’",
-      "Suresh Gopi assures steps to repatriate remains of two Keralam women allegedly murdered in US",
-      "‘Reminded us of tsunami’: 36-member group from Kerala escapes Nepal floods, returns safely"
+      "Over 200 HIV Cases Reported Across 31 Jails In Assam Within 4 Months",
+      "Assam govt to invest  ₹50,000 crore in developing infra over 5 yrs: Himanta",
+      "Assam approves  ₹600cr proton beam therapy unit for cancer treatment: CM Sarma",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "BR",
@@ -171,21 +188,7 @@
       "1 killed, 24 injured as lightning strikes Gurupadgiri Hill in Bihar’s Gaya: Police",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Assam Clears Rs 50,000-Crore Package For Women, Health, Roads, Schools",
-      "Assam govt to invest  ₹50,000 crore in developing infra over 5 yrs: Himanta",
-      "Assam approves  ₹600cr proton beam therapy unit for cancer treatment: CM Sarma",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "AP",
@@ -194,11 +197,24 @@
     "State": "Andhra Pradesh",
     "news_count": 3,
     "headlines": [
+      "Indian Navy commissions deep-sea diving vessel INS Nipun",
       "Krishna Byre Gowda directs GBA to take disciplinary action against officials over failure to address streetlight issue",
-      "Three youths killed in motorcycle crash in Sri Sathya Sai district",
       "PV Krishna Reddy, MD of Megha Engineering, taps $700-million private credit for Megha buyout"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Haryana water quality has deteriorated in 93 blocks since 2022: Congress MLA",
+      "30-year-old man arrested for allegedly raping 11-year-old relative in Haryana's Palwal",
+      "OIL Green Energy inks MoUs with Haryana for waste-to-clean energy projects"
+    ],
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "GJ",
@@ -211,33 +227,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Haryana water quality has deteriorated in 93 blocks since 2022: Congress MLA",
-      "Kandela Khap condemns restrictions on inspections of Haryana government schools",
-      "30-year-old man arrested for allegedly raping 11-year-old relative in Haryana's Palwal"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "JU political graffiti whitewashed after CM Adhikari’s remarks on campus politics",
-      "IMD: Heavy rainfall forecast across several northern states",
-      "HNGIL seeks insolvency proceedings against Bira 91 maker over payment default"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "JH",
@@ -250,7 +240,7 @@
       "Taking reforms to the road: From Ranchi protest to a Statewide yatra",
       "25-year Sone river rift to end as Bihar, Jharkhand set to sign water pact today"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "RJ",
@@ -263,43 +253,31 @@
       "NEET PG exam rescheduled for nearly 300 candidates over power outage in Jaipur",
       "Rajasthan to set up 172 units of 1 MW/ 4MWhr BESS"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 2,
     "headlines": [
-      "Army Cheetal carries out daring mission at 18,600ft in Ladakh",
-      "Rahul says he turned vegan after having a brain stroke, stopped onion-garlic, smoking"
+      "Meet Kim Ji-on, 12, who invented a device to help people escape deadly fires",
+      "How tea break saved five Chhattisgarh friends from Nepal flash floods: ‘We were lucky'"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 2,
     "headlines": [
-      "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
-      "4 armed men killed in Meghalaya encounter, link to businessman’s murder probed"
+      "JU political graffiti whitewashed after CM Adhikari’s remarks on campus politics",
+      "IMD: Heavy rainfall forecast across several northern states"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
-    "news_count": 2,
-    "headlines": [
-      "NE states have taken up withdrawal of revenue gap fund with Union FM: Tripura CM",
-      "Tripura hostel warden gets 20 years in jail for sexually assaulting minor"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "OD",
@@ -311,29 +289,19 @@
       "Odisha to deduct maintenance from salaries of govt employees who default: CM",
       "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 2,
     "headlines": [
-      "How tea break saved five Chhattisgarh friends from Nepal flash floods: ‘We were lucky'"
+      "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
+      "4 armed men killed in Meghalaya encounter, link to businessman’s murder probed"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 1,
-    "headlines": [
-      "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "MP",
@@ -344,7 +312,40 @@
     "headlines": [
       "24 people in Indore died drinking sewage-tainted water via municipal lines: Probe"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 1,
+    "headlines": [
+      "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive"
+    ],
+    "last_updated": "2026-08-31 12:33:03 PM"
+  },
+  {
+    "Code": "TR",
+    "Lat": 23.9408,
+    "Long": 91.9882,
+    "State": "Tripura",
+    "news_count": 1,
+    "headlines": [
+      "NE states have taken up withdrawal of revenue gap fund with Union FM: Tripura CM"
+    ],
+    "last_updated": "2026-08-31 12:33:03 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 1,
+    "headlines": [
+      "Army Cheetal carries out daring mission at 18,600ft in Ladakh"
+    ],
+    "last_updated": "2026-08-31 12:33:03 PM"
   },
   {
     "Code": "JK",
@@ -355,17 +356,6 @@
     "headlines": [
       "Jammu and Kashmir should focus on retaining talented youth: Mattoo"
     ],
-    "last_updated": "2026-08-31 11:33:53 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 1,
-    "headlines": [
-      "Case Against Rahul Gandhi Over 'Casteist' Remarks On Uttarakhand 'Purification' Row"
-    ],
-    "last_updated": "2026-08-31 11:33:53 AM"
+    "last_updated": "2026-08-31 12:33:03 PM"
   }
 ]
