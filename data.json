@@ -4,8 +4,9 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 29,
+    "news_count": 31,
     "headlines": [
+      "Family seeks Medal of Honor for 23-year-old Korean War hero, 74 years after death",
       "How to avoid rental disputes: Delhi Police plans awareness session for Northeast tenants",
       "3 masked men rob Congress leader Alka Lamba's father's Delhi home; CCTV video emerges",
       "KPSC veterinary recruitment scam: CID detains political party functionary in Delhi",
@@ -28,6 +29,7 @@
       "Economy likely grew between 7-7.5% in April-June, SBI research expects 8%",
       "Iran-UAE rift clouds BRICS summit as India races for consensus",
       "HDFC Bank weighing deputy MD Bharucha, outsider for CEO, sources say",
+      "Oil jumps more than 2% after US attack on Iran's Larak island",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -36,17 +38,16 @@
       "Emraan Hashmi returns to action with Gunmaaster G9, first glimpse out",
       "SHOCKING: Less than 24 hours to go, Toxic bookings yet to open in Andhra Pradesh-Telangana amid show-sharing tussle with Ravi Teja-starrer Irumudi"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
       "Kabul, Kashmir, Mumbai, Pahalgam: Hafiz Saeed’s deadly four-decade terror trail",
-      "‘Excessive speed’: 8-yr-old killed as woman driver on phone runs him over in Mumbai",
       "Activist Manoj Jarange Sets Mumbai Protest Deadline, Devendra Fadnavis Reaches Out",
       "Maratha protesters wave black flags at Eknath Shinde in Parbhani",
       "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra",
@@ -59,7 +60,7 @@
       "Phool Aur Kaante filmmaker Kuku Kohli dies",
       "Bigg Boss 20: Rhiya Ahir, who went viral during Mumbai student protest, competes with Love Gill for entry"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "KA",
@@ -75,7 +76,7 @@
       "Karnataka CID arrests IAS officer Gangwar in KPSC exam irregularities case",
       "‘Ruling party calling for mass genocide?’ CJP slams BJP over ‘Dimagi Naxals’ meme featuring KGF scene"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "TG",
@@ -91,7 +92,7 @@
       "Revanth Reddy urges ECI to extend Telangana SIR deadline by four weeks",
       "Telangana panel seeks minor irrigation act, tank protection measures"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "UP",
@@ -107,7 +108,7 @@
       "Uttar Pradesh CM Adityanath slams opposition for dividing people in name of caste, region, language",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "AS",
@@ -123,7 +124,7 @@
       "Assam fisherman found in Bangladesh, BGB alleges drug, arms smuggling",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "TN",
@@ -139,7 +140,7 @@
       "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
       "Saree turns into rescue rope on muddy slope for Tamil Nadu pilgrims amid Nepal flash floods"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "AP",
@@ -153,21 +154,7 @@
       "Tirupati NIELIT centre to stay: Collector",
       "Man stabbed to death in suspected revenge killing in Guntur"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 4,
-    "headlines": [
-      "Indian Bank to add 100 branches, increase headcount by 2,500 in FY27",
-      "Nifty may be in accumulation phase, says Anand James; Ather, Nazara top bets",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "BR",
@@ -181,49 +168,7 @@
       "1 killed, 24 injured as lightning strikes Gurupadgiri Hill in Bihar’s Gaya: Police",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 4,
-    "headlines": [
-      "Army aviation pilots pull off daring high-altitude helicopter rescue at 18,600ft in Ladakh",
-      "Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh",
-      "Ladakh's development must leverage its unique strengths: NITI Aayog",
-      "Rahul says he turned vegan after having a brain stroke, stopped onion-garlic, smoking"
-    ],
-    "last_updated": "2026-08-31 05:34:13 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "Woman’s murder: couple arrested in Manipur being brought to Chennai",
-      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
-      "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
-      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
-    ],
-    "last_updated": "2026-08-31 05:34:13 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 4,
-    "headlines": [
-      "Odisha to deduct maintenance from salaries of govt employees who default: CM",
-      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
-      "7 Odisha tourists evacuated after Nepal floods; search on for 5: Official",
-      "Party may move SC if Odisha assembly fails to oppose MMDR amendments: BJD"
-    ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "WB",
@@ -237,46 +182,48 @@
       "‘Trying to reach a safe location’: Missing UK couple's last message from flood-hit Nepal",
       "HNGIL seeks insolvency proceedings against Bira 91 maker over payment default"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 3,
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 4,
     "headlines": [
-      "Four armed men killed in Meghalaya encounter",
-      "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
-      "4 armed men killed in Meghalaya encounter, link to businessman’s murder probed"
+      "Odisha to deduct maintenance from salaries of govt employees who default: CM",
+      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
+      "7 Odisha tourists evacuated after Nepal floods; search on for 5: Official",
+      "Party may move SC if Odisha assembly fails to oppose MMDR amendments: BJD"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 4,
     "headlines": [
-      "Passengers fume as SpiceJet Dubai flight delayed by nearly 18 hours at Amritsar airport",
-      "'No Strict Action': Akal Takht Leader Tears Into AAP Over Punjab Drug Issue",
-      "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive"
+      "Woman’s murder: couple arrested in Manipur being brought to Chennai",
+      "Tamil Nadu police arrests couple in Manipur for murder of woman found dismembered in Delhi-bound train",
+      "Manipur set to get 5th chief secretary in 3 years as Puneet Goel retires",
+      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 3,
     "headlines": [
-      "Kandela Khap condemns restrictions on inspections of Haryana government schools",
-      "30-year-old man arrested for allegedly raping 11-year-old relative in Haryana's Palwal",
-      "Khali calls accident 'No Big Deal': Former WWE star says he is fine"
+      "Army aviation pilots pull off daring high-altitude helicopter rescue at 18,600ft in Ladakh",
+      "Army Cheetal carries out evacuation of injured mountaineer at 18,600 ft in Ladakh",
+      "Rahul says he turned vegan after having a brain stroke, stopped onion-garlic, smoking"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "KL",
@@ -289,7 +236,20 @@
       "Parent objects to daughter receiving prize from Sriram Venkitaraman at Kozhikode event",
       "‘Reminded us of tsunami’: 36-member group from Kerala escapes Nepal floods, returns safely"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
+    "headlines": [
+      "Indian Bank to add 100 branches, increase headcount by 2,500 in FY27",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "RJ",
@@ -302,7 +262,45 @@
       "‘Cage-like’ school: Days after attack, CJP inspects Jaipur schools, gives 7-day ultimatum to govt",
       "NEET PG exam rescheduled for nearly 300 candidates over power outage in Jaipur"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Haryana water quality has deteriorated in 93 blocks since 2022: Congress MLA",
+      "Kandela Khap condemns restrictions on inspections of Haryana government schools",
+      "30-year-old man arrested for allegedly raping 11-year-old relative in Haryana's Palwal"
+    ],
+    "last_updated": "2026-08-31 06:33:00 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Passengers fume as SpiceJet Dubai flight delayed by nearly 18 hours at Amritsar airport",
+      "'No Strict Action': Akal Takht Leader Tears Into AAP Over Punjab Drug Issue",
+      "Punjab AAP activist Gurpreet Singh Gopi shot dead near Ferozepur; cops suspect old dispute, elections as motive"
+    ],
+    "last_updated": "2026-08-31 06:33:00 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 2,
+    "headlines": [
+      "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills",
+      "4 armed men killed in Meghalaya encounter, link to businessman’s murder probed"
+    ],
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "TR",
@@ -314,7 +312,7 @@
       "NE states have taken up withdrawal of revenue gap fund with Union FM: Tripura CM",
       "Tripura hostel warden gets 20 years in jail for sexually assaulting minor"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "JH",
@@ -325,7 +323,7 @@
     "headlines": [
       "Taking reforms to the road: From Ranchi protest to a Statewide yatra"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "CT",
@@ -336,7 +334,7 @@
     "headlines": [
       "How tea break saved five Chhattisgarh friends from Nepal flash floods: ‘We were lucky'"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "MP",
@@ -347,7 +345,7 @@
     "headlines": [
       "24 people in Indore died drinking sewage-tainted water via municipal lines: Probe"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "LD",
@@ -358,7 +356,7 @@
     "headlines": [
       "Vice President to launch ornamental fisheries plan in Lakshadweep tomorrow"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "JK",
@@ -369,7 +367,7 @@
     "headlines": [
       "Jammu and Kashmir should focus on retaining talented youth: Mattoo"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   },
   {
     "Code": "UT",
@@ -380,6 +378,6 @@
     "headlines": [
       "'Congress misleading Dalit community': BJP rejects Rahul's claim of Kharge's insult in Haldwani purification ritual"
     ],
-    "last_updated": "2026-08-31 05:34:13 AM"
+    "last_updated": "2026-08-31 06:33:00 AM"
   }
 ]
