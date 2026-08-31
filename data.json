@@ -10,9 +10,9 @@
       "Delhi gangrape on moving bus: DCW chairperson says culprits ‘must get punishment’",
       "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai",
       "\"He's Anxious, Cries Non-Stop\": Father Of 3-Year-Old Boy 'Assaulted' At Delhi Day Care",
-      "Kozhikode Mayor assures steps to prevent diversion of Central Market funds",
+      "Kozhikode Mayor promises steps to prevent diversion of Central Market funds",
+      "After Supreme Court refusal to halt CJP march, Delhi Police seeks quashing of FIRs against NEET-UG protesters, students",
       "Central Railway to opt for vetiver grass plantation to curb soil erosion in ghat sections",
-      "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
       "MCD demolishes structures around Jama Masjid as part of encroachment removal drive",
       "PM Modi meets Iran's Pezeshkian at SCO; discusses West Asia war, trade expansion",
       "Delhi Police tells SC it ‘no longer wishes to pursue’ 13 FIRs from NEET protests in July",
@@ -42,18 +42,20 @@
       "Sooryavanshi makes a statement! Teenager misses ton as East Zone match Central's total",
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 11,
+    "news_count": 13,
     "headlines": [
       "Social activist Anna Hazare admitted to hospital in Mumbai",
       "Mumbai property registrations hit 14-year August high at 12,401 units",
       "Lay's, Kurkure, Maggi Expiry Dates Altered In Multi-Crore Racket In Mumbai",
+      "Mahanagar Gas hikes CNG prices by ₹2/kg as LNG prices continue to soar",
+      "Taxi, autorickshaw fares to increase in Mumbai region from Tuesday",
       "Anna Hazare admitted to Mumbai hospital's ICU with acute dehydration, kidney issue",
       "Crane overturns, bursts into flames at Mumbai port; dramatic visuals show black smoke",
       "8-year-old boy dies after Mumbai woman, on a phone call, runs speeding SUV over him in Bandra",
@@ -63,27 +65,7 @@
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend",
       "Phool Aur Kaante filmmaker Kuku Kohli dies"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 10,
-    "headlines": [
-      "'Women should stay confined to homes': Kerala Islamic scholar Kanthapuram",
-      "41% growth in domestic cargo in Thiruvananthapuram airport",
-      "Keralam government reconstitutes GIDA general council",
-      "Kozhikode Mayor assures steps to prevent diversion of Central Market funds",
-      "SIT formed to probe 'attack' case involving former Health Minister Veena George at Kannur railway station",
-      "Overseas drug links under Kerala Police scanner, says IG",
-      "Marriage does not bar POCSO prosecution if wife is under 18, says Kerala HC",
-      "Two Kerala women killed in California; one murdered in flat, another hit by SUV; ‘friend’ detained",
-      "Kerala ministers slam Muslim cleric’s ‘confine women to homes’ remark",
-      "Like 'gold kept safely in box', women must remain in homes: Islamic cleric in Kerala"
-    ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "GJ",
@@ -103,7 +85,26 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "'Pragg is No. 1 in the world': Anand after India's first GCT title | Exclusive"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 9,
+    "headlines": [
+      "Complying with CWMA direction on Cauvery water release, Karnataka tells Supreme Court",
+      "SUCI(C) stages protest over suspension of social security pensions",
+      "Mysuru BJP releases ‘Ballari Chalo’ posters, backs 10-day padayatra",
+      "Shopkeeper arrested in Karnataka for 'assaulting' two minors with pipe over snack payment dispute",
+      "IAS officer arrested over Karnataka Public Service Commission exam fraud",
+      "Karnataka minister calls 'Islam greatest'. BJP demands resignation, apology to Hindus",
+      "Karnataka: CID arrests IAS officer over irregularities in KPSC exam",
+      "Woman’s body found under train seat in Karnataka; probe underway: Police",
+      "Complying with CWMA direction on Cauvery water release, Karnataka tells SC"
+    ],
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "MN",
@@ -121,125 +122,98 @@
       "Couple held in Manipur after body found on train",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 7,
     "headlines": [
-      "SUCI(C) stages protest over suspension of social security pensions",
-      "Mysuru BJP releases ‘Ballari Chalo’ posters, backs 10-day padayatra",
-      "Shopkeeper arrested in Karnataka for 'assaulting' two minors with pipe over snack payment dispute",
-      "IAS officer arrested over Karnataka Public Service Commission exam fraud",
-      "Karnataka minister calls 'Islam greatest'. BJP demands resignation, apology to Hindus",
-      "Karnataka: CID arrests IAS officer over irregularities in KPSC exam",
-      "Woman’s body found under train seat in Karnataka; probe underway: Police",
-      "Complying with CWMA direction on Cauvery water release, Karnataka tells SC"
+      "Kozhikode Mayor promises steps to prevent diversion of Central Market funds",
+      "41% growth in domestic cargo in Thiruvananthapuram airport",
+      "Keralam government reconstitutes GIDA general council",
+      "SIT formed to probe 'attack' case involving former Health Minister Veena George at Kannur railway station",
+      "Two Kerala women killed in California; one murdered in flat, another hit by SUV; ‘friend’ detained",
+      "Kerala ministers slam Muslim cleric’s ‘confine women to homes’ remark",
+      "Like 'gold kept safely in box', women must remain in homes: Islamic cleric in Kerala"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 6,
-    "headlines": [
-      "Candlelight vigil held in Hyderabad for 21-year-old nurse who was raped and murdered; nurses demand action against private hospital",
-      "Hyderabad eyes global knowledge hub status with top universities",
-      "Foundation stone laid for ₹12 crore BT road and central lighting works in Khammam",
-      "AIMIM worker stabbed to death by gang near his Hyderabad home",
-      "SLBC tunnel crosses dangerous ‘shear zone’ in major breakthrough",
-      "Northeastern University, University of London to set up campuses in Hyderabad"
-    ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 6,
+    "news_count": 7,
     "headlines": [
       "Tamil Nadu announces major housing reforms, Rs 2,883 crore plan to rebuild flats",
+      "Complying with CWMA direction on Cauvery water release, Karnataka tells Supreme Court",
       "Tamil Nadu government to implement State-level plan to prevent drug abuse",
       "84-year-old businessman arrested in Chennai for sexually assaulting girl",
       "Congress vs TVK in Tamil Nadu Assembly? ‘Vijay as PM’ pitch sparks rift buzz, seat-change adds fuel",
       "Master Plan 2047: What Delhi can learn from Tamil Nadu on rental housing",
       "Brigade Enterprises enters Coimbatore market with ₹600 crore residential project"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Family of U.S. citizen held on terror charges flags accused’s health, seeks diplomatic help",
-      "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
-      "Luxmi Group to launch Makaibari Collective with Darjeeling small tea growers",
-      "Low-pressure area to bring heavy rain in Bengal till Sep 4: IMD"
-    ],
-    "last_updated": "2026-08-31 10:33:07 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "‘Saw death from close’: 8 Assam workers rescued from Nepal return; 8 missing",
-      "Assam govt to invest  ₹50,000 crore in developing infra over 5 yrs: Himanta",
-      "Assam approves  ₹600cr proton beam therapy unit for cancer treatment: CM Sarma",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "RJ",
     "Lat": 27.0238,
     "Long": 74.2179,
     "State": "Rajasthan",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
       "No roofs, no toilets, no teachers: TOI check finds minuses in Rajasthan govt schools",
+      "Back-to-back glitches at Jaipur exam centre bring computer-based testing under scrutiny",
+      "SC panel picks new Rajasthan HC chief justice amid allegations against acting CJ",
       "TCS iON 'deeply regrets' Jaipur NEET-PG power failure, says working to fix it 'urgently'",
-      "‘Cage-like’ school: Days after attack, CJP inspects Jaipur schools, gives 7-day ultimatum to govt",
       "After NEET-PG, power failure disrupts AIIMS CRE at same Jaipur centre; re-test on Sept 7"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
     "headlines": [
-      "Krishna Byre Gowda inspects solid waste management system",
-      "Bengaluru loses 60% of road space to parked vehicles: Krishna Byre Gowda",
-      "Google says Vizag AI hub to limit water use amid concerns over geological impact"
+      "Telangana CM launches Amberpet-Moosarambagh high-level bridge",
+      "Candlelight vigil held in Hyderabad for 21-year-old nurse who was raped and murdered; nurses demand action against private hospital",
+      "AIMIM worker stabbed to death by gang near his Hyderabad home",
+      "SLBC tunnel crosses dangerous ‘shear zone’ in major breakthrough",
+      "Northeastern University, University of London to set up campuses in Hyderabad"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Sanjay Singh will be expelled from party if allegations are found true: Chirag Paswan",
+      "Bihar, Jharkhand sign agreement on sharing Sone River water",
+      "Tejashwi Yadav slams Bihar government over suspected hooch tragedy in Barh",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-08-31 11:33:22 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 3,
     "headlines": [
-      "Goa Opposition members disrupt House over disallowed land conversion question",
-      "Anti-conversion bill won’t be tabled in Goa assembly: BJP lawmaker",
-      "Goa nightclub fire case: SC upholds HC order cancelling bail of club owners"
+      "‘Saw death from close’: 8 Assam workers rescued from Nepal return; 8 missing",
+      "Assam govt to invest  ₹50,000 crore in developing infra over 5 yrs: Himanta",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "JH",
@@ -252,20 +226,33 @@
       "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
       "25-year Sone river rift to end as Bihar, Jharkhand set to sign water pact today"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 3,
     "headlines": [
-      "Bihar, Jharkhand sign agreement on sharing Sone River water",
-      "Tejashwi Yadav slams Bihar government over suspected hooch tragedy in Barh",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Goa Opposition members disrupt House over disallowed land conversion question",
+      "Anti-conversion bill won’t be tabled in Goa assembly: BJP lawmaker",
+      "Goa nightclub fire case: SC upholds HC order cancelling bail of club owners"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 3,
+    "headlines": [
+      "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
+      "Luxmi Group to launch Makaibari Collective with Darjeeling small tea growers",
+      "Low-pressure area to bring heavy rain in Bengal till Sep 4: IMD"
+    ],
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "UP",
@@ -277,7 +264,19 @@
       "‘Delhi police vanish during crime, only show up to assault kids’: Dipke on Greater Noida gangrape",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Krishna Byre Gowda inspects solid waste management system",
+      "Google says Vizag AI hub to limit water use amid concerns over geological impact"
+    ],
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "PB",
@@ -289,7 +288,7 @@
       "Punjab BJP Deletes AI Video Showing Bhagwant Mann Being Slapped",
       "Justice Mishra’s appointment as Punjab & Haryana HC chief delayed; AAP govt yet to respond"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "HR",
@@ -300,7 +299,7 @@
     "headlines": [
       "Justice Mishra’s appointment as Punjab & Haryana HC chief delayed; AAP govt yet to respond"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "ML",
@@ -311,7 +310,7 @@
     "headlines": [
       "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "NL",
@@ -322,7 +321,7 @@
     "headlines": [
       "Draft voter lists see over 6 crore deletions so far in SIR third phase"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "OD",
@@ -333,7 +332,7 @@
     "headlines": [
       "Odisha to deduct maintenance from salaries of govt employees who default: CM"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "SK",
@@ -344,7 +343,7 @@
     "headlines": [
       "Uttarakhand Has 219 'Hanging Glaciers'. One-Third Of Them Are Unstable"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "TR",
@@ -355,7 +354,7 @@
     "headlines": [
       "Draft voter lists see over 6 crore deletions so far in SIR third phase"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   },
   {
     "Code": "UT",
@@ -366,6 +365,6 @@
     "headlines": [
       "Uttarakhand Has 219 'Hanging Glaciers'. One-Third Of Them Are Unstable"
     ],
-    "last_updated": "2026-08-31 10:33:07 PM"
+    "last_updated": "2026-08-31 11:33:22 PM"
   }
 ]
