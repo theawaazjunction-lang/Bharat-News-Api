@@ -1,11 +1,11 @@
 {
   "general": [
     {
-      "title": "War, peace &amp; a car ride: Key moments from PM Modi-Putin Bishkek meet",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/move-from-endless-war-to-end-of-war-pm-modi-tells-putin-key-details-from-bishkek-talks/articleshow/133656335.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133656790,imgsize-146150.cms",
-      "publishedAt": "Mon, 31 Aug 2026 20:41:05 +0530",
+      "title": "Nepal floods: Avalanche raced down Himalayas at 167 kmph, triggering deadly deluge",
+      "description": "A sudden ice-rock avalanche plummeted down the Himalayas, wreaking havoc in Nepal with catastrophic floods. This swift phenomenon covered extensive ground in mere moments, and scientists ruled out a glacial lake outburst flood as the cause. The disaster wreaked havoc on Nepal's hydropower facilities",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-avalanche-from-5200-metres-raced-down-himalayas-at-167-kmph-triggering-deadly-deluge/articleshow/133657450.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133657484,imgsize-285288.cms",
+      "publishedAt": "Mon, 31 Aug 2026 21:26:41 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -37,15 +37,6 @@
       "category": "general"
     },
     {
-      "title": "Economy grew 7.8% in Q1 despite Iran crisis and El Nino conditions",
-      "description": "India's economy recorded impressive growth of 7.8% during the April to June quarter, driven by a thriving manufacturing sector and a strong services industry. Domestic demand surged, bolstered by significant increases in investment and exports. Reflecting this positive trend, the government has upgr",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/economy-grew-7-8-in-q1-despite-iran-crisis-and-el-nino-conditions/articleshow/133662895.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133662913,imgsize-121010.cms",
-      "publishedAt": "Tue, 01 Sep 2026 02:52:11 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Oracle layoffs: Company leadership may again send the '6 am' email on September 1",
       "description": "Oracle employees expect layoff emails on September 1, the day its fiscal second quarter begins, with managers asked to submit lists of affected employees and some teams facing double-digit cuts. Staff fear a repeat of March 31, when a 6 am email from \"Oracle Leadership\" told 10,000 workers their rol",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
@@ -55,20 +46,29 @@
       "category": "general"
     },
     {
-      "title": "51 Indias killed in Russian Army, 139 discharged; MEA says talks on with Moscow",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/51-indian-nationals-killed-in-russian-army-139-discharged-mea-says-talks-on-with-moscow/articleshow/133662291.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133662498,imgsize-44776.cms",
-      "publishedAt": "Tue, 01 Sep 2026 01:12:08 +0530",
+      "title": "Haldwani ‘purification’ row: Day after FIR against Rahul, BJP, Cong trade barbs",
+      "description": "The Congress party slammed the FIR against Rahul Gandhi, calling it casteist.  BJP countered that Rahul raised the issue belatedly after a threat from Kharge.  An FIR was registered against Rahul Gandhi under various sections and the SC/ST Act.  The complainant alleged Rahul gave a caste angle to cl",
+      "url": "https://timesofindia.indiatimes.com/india/haldwani-purification-row-day-after-fir-against-rahul-bjp-cong-trade-barbs/articleshow/133664929.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133664938,imgsize-70148.cms",
+      "publishedAt": "Tue, 01 Sep 2026 04:00:26 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Jammu HC reinstates bank official sacked without inquiry over hashtag campaign",
+      "title": "'Golden age of America': Trump celebrates as SC clears $400M White House ballroom",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/hc-reinstates-bank-official-sacked-without-inquiry-over-hashtag-campaign/articleshow/133662848.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133662860,imgsize-41140.cms",
-      "publishedAt": "Tue, 01 Sep 2026 02:29:10 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/us/golden-age-of-america-trump-celebrates-as-supreme-court-clears-400m-white-house-ballroom/articleshow/133663130.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133663556,imgsize-48102.cms",
+      "publishedAt": "Tue, 01 Sep 2026 03:33:10 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Malicious ads on social media lure users into fraud: Centre",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/porn-ads-on-fb-insta-lure-users-into-fraud-centre/articleshow/133664951.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133664955,imgsize-110214.cms",
+      "publishedAt": "Tue, 01 Sep 2026 04:08:37 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -82,29 +82,29 @@
       "category": "general"
     },
     {
-      "title": "India’s GPS problem: Why the armed forces need NavIC to work",
-      "description": "India's NavIC satellite system, crucial for military and civilian use, currently has only three operational satellites. This shortfall impacts its ability to provide accurate positioning and navigation services. The system's reliability issues stemmed from imported atomic clocks, now being replaced ",
-      "url": "https://timesofindia.indiatimes.com/defence/news/indias-gps-problem-why-the-armed-forces-need-navic-to-work/articleshow/133653658.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133653748,imgsize-1792748.cms",
-      "publishedAt": "Mon, 31 Aug 2026 18:32:27 +0530",
+      "title": "Economy grew 7.8% in Q1 despite Iran crisis and El Nino conditions",
+      "description": "India's economy recorded impressive growth of 7.8% during the April to June quarter, driven by a thriving manufacturing sector and a strong services industry. Domestic demand surged, bolstered by significant increases in investment and exports. Reflecting this positive trend, the government has upgr",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/economy-grew-7-8-in-q1-despite-iran-crisis-and-el-nino-conditions/articleshow/133662895.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662913,imgsize-121010.cms",
+      "publishedAt": "Tue, 01 Sep 2026 02:52:11 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Vineyard skips irrigation and pesticides for 20 years; organic matter doubles",
-      "description": "A Spanish vineyard study revealed significant soil health improvements over two decades.  Long-term vegetation cover doubled topsoil organic matter compared to tilled areas.  This practice enhanced soil porosity and biological activity in dry conditions.  The findings suggest reduced soil disturbanc",
-      "url": "https://timesofindia.indiatimes.com/science/a-spanish-vineyard-has-gone-more-than-20-years-without-irrigation-or-pesticides-its-cover-cropped-topsoil-now-has-over-twice-the-organic-matter-of-nearby-tilled-soil/articleshow/133648536.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133648796,imgsize-2416723.cms",
-      "publishedAt": "Mon, 31 Aug 2026 16:00:00 +0530",
+      "title": "Developer bought 83 acres near Yosemite for $4m; US weighs land swap for road",
+      "description": "A Nevada-based developer that bought 83 acres outside Yosemite for $4 million in 2024 is seeking a land exchange with the US government. The proposal could give the private property a direct road through a quarter-mile strip of Yosemite National Park. The same access plan was rejected in earlier leg",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-a-developer-paid-4-million-for-83-acres-outside-yosemite-two-years-later-the-us-is-considering-a-land-swap-for-a-private-access-road-through-the-park/articleshow/133627440.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133627852,imgsize-173168.cms",
+      "publishedAt": "Mon, 31 Aug 2026 10:01:20 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Oregon farmer grows crops for 40 years without irrigation",
+      "title": "Alaska eliminates invasive pike and restocks lake with 6,836 Arctic char",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-oregon-farmer-grew-tomatoes-potatoes-squash-garlic-and-beans-for-40-years-without-irrigation-careful-soil-preparation-kept-stored-moisture-in-the-root-zone/articleshow/133649121.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133649212,imgsize-125570.cms",
-      "publishedAt": "Mon, 31 Aug 2026 18:00:00 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/us/alaska-used-rotenone-to-eliminate-invasive-pike-from-an-entire-lake-the-pike-vanished-and-6836-arctic-char-were-later-stocked-to-rebuild-the-native-fishery/articleshow/133628680.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133628781,imgsize-155572.cms",
+      "publishedAt": "Mon, 31 Aug 2026 11:20:20 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -118,29 +118,29 @@
       "category": "general"
     },
     {
-      "title": "PM Modi's jackets, Rahul's shirts: How leaders use fashion for political messaging",
+      "title": "51 Indias killed in Russian Army, 139 discharged; MEA says talks on with Moscow",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modis-jackets-rahuls-shirts-mamatas-sarees-how-leaders-use-fashion-for-political-messaging/articleshow/133650257.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133653441,imgsize-1888063.cms",
-      "publishedAt": "Mon, 31 Aug 2026 18:10:35 +0530",
+      "url": "https://timesofindia.indiatimes.com/india/51-indian-nationals-killed-in-russian-army-139-discharged-mea-says-talks-on-with-moscow/articleshow/133662291.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662498,imgsize-44776.cms",
+      "publishedAt": "Tue, 01 Sep 2026 01:12:08 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "MBBS, BDS interns in J&amp;K start indefinite strike over ‘low’ stipend",
+      "title": "Ahead of SCO, PM holds talks with Kyrgyz president, PM of Armenia",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/mbbs-bds-interns-in-jk-start-indefinite-strike-over-low-stipend/articleshow/133661793.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133662446,imgsize-184804.cms",
-      "publishedAt": "Tue, 01 Sep 2026 01:03:49 +0530",
+      "url": "https://timesofindia.indiatimes.com/india/ahead-of-sco-pm-holds-talks-with-kyrgyz-prez-pm-of-armenia/articleshow/133664172.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300.cms",
+      "publishedAt": "Tue, 01 Sep 2026 03:54:31 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "From exam reforms to school reforms: How CJP is changing political discourse",
-      "description": "Student protests for improved school conditions have shifted from cities to villages across India.  The Cockroach Janata Party's campaign exposed poor government school infrastructure in several states.  State governments responded with new regulations and accelerated development projects.  Politica",
-      "url": "https://timesofindia.indiatimes.com/india/first-exam-reforms-now-school-thik-karo-campaign-how-cjp-is-changing-the-discourse-of-politics/articleshow/133647448.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133649501,imgsize-1913394.cms",
-      "publishedAt": "Mon, 31 Aug 2026 15:06:24 +0530",
+      "title": "IMD predicts below-normal rainfall over India in September",
+      "description": "September rainfall across India is predicted to be below normal, concluding the monsoon season deficiently. August was the warmest on record, with several regions experiencing record high temperatures. Cumulative rainfall from June to August shows a significant deficit, impacting agricultural sowing",
+      "url": "https://timesofindia.indiatimes.com/india/imd-predicts-below-normal-rainfall-over-country-in-september/articleshow/133662921.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662932,imgsize-75092.cms",
+      "publishedAt": "Tue, 01 Sep 2026 02:58:33 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -159,6 +159,60 @@
       "url": "https://timesofindia.indiatimes.com/sports/nfl/news/aaron-donald-is-back-and-myles-garrett-could-help-turn-the-los-angeles-rams-into-an-nfl-super-bowl-nightmare/articleshow/133656859.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133657045,imgsize-125512.cms",
       "publishedAt": "Mon, 31 Aug 2026 22:31:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Jammu HC reinstates bank official sacked without inquiry over hashtag campaign",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/hc-reinstates-bank-official-sacked-without-inquiry-over-hashtag-campaign/articleshow/133662848.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662860,imgsize-41140.cms",
+      "publishedAt": "Tue, 01 Sep 2026 02:29:10 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "India’s GPS problem: Why the armed forces need NavIC to work",
+      "description": "India's NavIC satellite system, crucial for military and civilian use, currently has only three operational satellites. This shortfall impacts its ability to provide accurate positioning and navigation services. The system's reliability issues stemmed from imported atomic clocks, now being replaced ",
+      "url": "https://timesofindia.indiatimes.com/defence/news/indias-gps-problem-why-the-armed-forces-need-navic-to-work/articleshow/133653658.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133653748,imgsize-1792748.cms",
+      "publishedAt": "Mon, 31 Aug 2026 18:32:27 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "PM Modi's jackets, Rahul's shirts: How leaders use fashion for political messaging",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modis-jackets-rahuls-shirts-mamatas-sarees-how-leaders-use-fashion-for-political-messaging/articleshow/133650257.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133653441,imgsize-1888063.cms",
+      "publishedAt": "Mon, 31 Aug 2026 18:10:35 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "War, peace &amp; a car ride: Key moments from PM Modi-Putin Bishkek meet",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/move-from-endless-war-to-end-of-war-pm-modi-tells-putin-key-details-from-bishkek-talks/articleshow/133656335.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133656790,imgsize-146150.cms",
+      "publishedAt": "Mon, 31 Aug 2026 20:41:05 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "MBBS, BDS interns in J&amp;K start indefinite strike over ‘low’ stipend",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/mbbs-bds-interns-in-jk-start-indefinite-strike-over-low-stipend/articleshow/133661793.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662446,imgsize-184804.cms",
+      "publishedAt": "Tue, 01 Sep 2026 01:03:49 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "From exam reforms to school reforms: How CJP is changing political discourse",
+      "description": "Student protests for improved school conditions have shifted from cities to villages across India.  The Cockroach Janata Party's campaign exposed poor government school infrastructure in several states.  State governments responded with new regulations and accelerated development projects.  Politica",
+      "url": "https://timesofindia.indiatimes.com/india/first-exam-reforms-now-school-thik-karo-campaign-how-cjp-is-changing-the-discourse-of-politics/articleshow/133647448.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133649501,imgsize-1913394.cms",
+      "publishedAt": "Mon, 31 Aug 2026 15:06:24 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -244,15 +298,6 @@
       "category": "general"
     },
     {
-      "title": "Nepal floods: Avalanche raced down Himalayas at 167 kmph, triggering deadly deluge",
-      "description": "A sudden ice-rock avalanche plummeted down the Himalayas, wreaking havoc in Nepal with catastrophic floods. This swift phenomenon covered extensive ground in mere moments, and scientists ruled out a glacial lake outburst flood as the cause. The disaster wreaked havoc on Nepal's hydropower facilities",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-avalanche-from-5200-metres-raced-down-himalayas-at-167-kmph-triggering-deadly-deluge/articleshow/133657450.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133657484,imgsize-285288.cms",
-      "publishedAt": "Mon, 31 Aug 2026 21:26:41 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Gold pledged for loan stolen in bank robbery: How borrower won case for full value",
       "description": "So, what happens if gold jewellery pledged against a gold loan is stolen from the bank? For a borrower, the loss can raise a bigger question than simply recovering the value of the gold. Should the bank pay only for the metal, or should the compensation also cover making charges and the value of sto",
       "url": "https://timesofindia.indiatimes.com/business/india-business/gold-pledged-for-loan-stolen-in-bank-robbery-borrower-gets-gold-value-plus-rs-88362-for-making-charges-and-stones-rs-40000-compensation-how-he-won-the-case/articleshow/133658220.cms",
@@ -312,51 +357,6 @@
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/uncertainties-rising-xi-jinping-calls-for-stronger-china-russia-cooperation-in-meeting-with-putin-at-sco-summit/articleshow/133656849.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133657058,imgsize-68140.cms",
       "publishedAt": "Mon, 31 Aug 2026 21:07:51 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Sobhana Mostary recalls the India win that ‘changed everything’ for Bangladesh",
-      "description": "Sobhana Mostary believes Bangladesh’s 2018 Asia Cup triumph over India brought a huge change in women’s cricket in her country, with greater facilities and financial support. From moving to Dhaka as a young cricketer to waiting years for regular opportunities, Mostary has steadily grown into a depen",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/womens-asia-cup/news/womens-asia-cup-sobhana-mostary-recalls-the-india-win-that-changed-everything-for-bangladesh/articleshow/133656456.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133656665,imgsize-149664.cms",
-      "publishedAt": "Mon, 31 Aug 2026 20:32:13 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "US PrSM missiles in Iran strike killed civilians up to 50 metres away: Report",
-      "description": "On February 28, a series of strikes in Lamerd, Iran, resulted in the tragic loss of at least twenty-one civilians. It is believed that US-manufactured Precision Strike Missiles facilitated the deadly attack, as these weaponry disperse dense tungsten pellets rapidly in various directions. While the U",
-      "url": "https://timesofindia.indiatimes.com/defence/international/us-prsm-missiles-in-iran-strike-killed-civilians-up-to-50-metres-away-report/articleshow/133655651.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133655783,imgsize-167123.cms",
-      "publishedAt": "Mon, 31 Aug 2026 19:52:28 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'No jurisdiction, illegal': India tears into Hague court's Indus Waters Treaty award",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/no-jurisdiction-india-rejects-llegal-court-of-arbitrations-indus-waters-treaty-award/articleshow/133652108.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133652155,imgsize-223188.cms",
-      "publishedAt": "Mon, 31 Aug 2026 17:23:10 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Nepal tragedy: Owners missing, dog refuses to leave flood-hit Trishuli home",
-      "description": "A black-and-white dog remains at the site of four homes destroyed by a flood.  He refuses to leave the muddy patch where his home once stood.  Rescue workers and JCBs clear debris around the steadfast canine.  Volunteers offer food and water, which he accepts quietly when alone.  Displaced residents",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-tragedy-owners-missing-dog-refuses-to-leave-flood-hit-trishuli-home/articleshow/133655596.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133656104,imgsize-266014.cms",
-      "publishedAt": "Mon, 31 Aug 2026 20:08:54 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "NPS charges change Oct 1: Rs 200 fee, 0.20% annual charge; who pays?",
-      "description": "Under the new fee structure, subscribers registering for NPS through a PoP will be charged a one-time onboarding fee of Rs 200 for each Permanent Retirement Account Number (PRAN). However, the entire Rs 200 will not be taken from the subscriber’s account at once.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/nps-charges-revised-from-october-1-2026-rs-200-onboarding-fee-0-20-annual-charge-e-nps-users-can-avoid-pop-fees-check-who-pays-and-who-gets-relief/articleshow/133654668.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133654949,imgsize-481620.cms",
-      "publishedAt": "Mon, 31 Aug 2026 19:20:49 +0530",
       "source": "Times of India",
       "category": "general"
     }
@@ -743,6 +743,15 @@
       "category": "sports"
     },
     {
+      "title": "Argentina president Milei joins tributes to Messi, calls him an ‘impossible man’",
+      "description": "Lionel Messi’s international retirement has prompted tributes across Argentina, including an emotional message from President Javier Milei. After 207 appearances and 125 goals, Messi leaves the national team following a 21-year career featuring a World Cup and two Copa América titles. The 39-year-ol",
+      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/argentina-president-javier-milei-joins-tributes-to-messi-calls-him-an-impossible-man/articleshow/133662931.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133663126,imgsize-46974.cms",
+      "publishedAt": "2026-09-01T03:26:38+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
       "title": "India name 26-member squad for big friendlies against Brazil, Uruguay and Panama",
       "description": "India's head coach Khalid Jamil has officially unveiled a 26-member squad as the team gears up for an intense series of international matches. The Blue Tigers will challenge themselves against esteemed squads from Panama, Brazil, and Uruguay. This series serves as a prime opportunity to evaluate the",
       "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/india-name-26-member-squad-for-big-friendlies-against-brazil-uruguay-and-panama/articleshow/133659969.cms",
@@ -892,15 +901,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ipl-media-rights-does-the-bcci-have-a-plan-b/articleshow/133639169.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133639192,imgsize-66386.cms",
       "publishedAt": "2026-08-31T06:13:36+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "‘Social media player’: Ex-Pakistan cricketer brutally tears into Babar Azam",
-      "description": "Former Pakistan batter Basit Ali strongly criticized captain Babar Azam following another batting failure.  Azam's recent Test performances and lack of centuries drew significant criticism from Ali.  Ali questioned Azam's contribution during difficult match situations for the team.  Other Pakistan b",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/social-media-player-ex-pakistan-cricketer-brutally-tears-into-babar-azam-after-lords-horror-show/articleshow/133645981.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133646320,imgsize-63082.cms",
-      "publishedAt": "2026-08-31T13:33:10+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     }
@@ -1089,6 +1089,15 @@
   ],
   "entertainment": [
     {
+      "title": "D4vd loses defence lawyers ahead of murder trial",
+      "description": "Singer D4vd's private lawyers withdrew from his case on Monday. He pleaded not guilty to charges of murder and sexual abuse. A public defender will now represent the singer in court. Prosecutors are still deciding whether to seek the death penalty. The case involves the death of 14-year-old Celeste ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/d4vd-loses-defence-lawyers-ahead-of-14-year-old-celeste-rivas-hernandez-murder-trial-hires-public-defender/articleshow/133664912.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133664954,imgsize-398871.cms",
+      "publishedAt": "2026-09-01T04:07:31+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "Met Gala 2027: Exhibit on designer John Galliano cancelled",
       "description": "The Metropolitan Museum of Art has canceled its planned exhibit honoring designer John Galliano. This decision followed significant backlash from the Jewish community and others. The museum stated that discussions with Galliano led to the mutual decision not to proceed. Galliano himself expressed sa",
       "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/met-gala-2027-museum-cancels-planned-exhibit-on-fashion-designer-john-galliano-amid-backlash-over-past-antisemitic-and-racist-statements/articleshow/133662869.cms",
@@ -1256,15 +1265,6 @@
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-cuts-only-35-seconds-of-intimate-scenes-mutes-cuss-words-in-mirzapur-themovie-grants-a-certificate-thus-retaining-its-unfiltered-essence-report/articleshow/133649935.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133650035,imgsize-321163.cms",
       "publishedAt": "2026-08-31T16:01:34+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Pradeep Ranganathan heaps praise on Ravi Teja starrer ‘Irumudi’",
-      "description": "Ravi Teja's latest release, 'Irumudi', continues to charm audiences, maintaining a strong presence in theaters. The film has received an overwhelmingly positive response, with actors and celebrities alike praising its core message. Notably, Pradeep Ranganathan commended Ravi Teja's impactful perform",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/pradeep-ranganathan-heaps-praise-on-ravi-teja-starrer-irumudi-amid-rs-170-crore-box-office-success-too-good-the-message-the-movie-conveys-is-essential/articleshow/133651118.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133651218,imgsize-219837.cms",
-      "publishedAt": "2026-08-31T16:46:38+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1678,6 +1678,15 @@
       "category": "science"
     },
     {
+      "title": "California and Arizona turned old tyres into reefs and found 20 times more fish",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/in-1994-researchers-in-california-and-arizona-turned-discarded-tyres-into-underwater-reefs-and-found-20-times-more-fish-in-concrete-canals/articleshow/133653796.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133654041,imgsize-187388.cms",
+      "publishedAt": "2026-09-01T03:30:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "13-year-old turned his grandmother’s fall into a $25,000 invention",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/science/13-year-old-kevin-tang-turned-his-grandmothers-fall-into-a-device-that-detects-when-seniors-need-help-and-won-25000-for-the-invention/articleshow/133652604.cms",
@@ -1802,16 +1811,7 @@
       "publishedAt": "2026-08-31T09:11:08+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
-    },
-    {
-      "title": "Centuries-old plaque on eight people’s teeth preserved a surprisingly detailed menu of what they ate in Osaka",
-      "description": "Dental plaque analysis revealed diverse diets for Edo-period Osaka commoners. Researchers found proteins from 17 food types, including luxury red sea bream. This suggests developing markets made once-exclusive foods accessible to ordinary people. Salmon proteins indicated food traveled long distance",
-      "url": "https://timesofindia.indiatimes.com/science/researchers-analysing-hardened-plaque-from-eight-people-buried-in-edo-era-osaka-detected-38-dietary-proteins-including-luxury-red-sea-bream-and-cold-water-fish-imported-through-japans-shipping-networks/articleshow/133641273.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133641300,imgsize-1743594.cms",
-      "publishedAt": "2026-08-31T09:44:31+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
     }
   ],
-  "last_updated": "2026-09-01 03:33:04 AM"
+  "last_updated": "2026-09-01 04:33:08 AM"
 }
