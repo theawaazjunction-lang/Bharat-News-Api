@@ -1,11 +1,11 @@
 {
   "general": [
     {
-      "title": "Fog of flood: Nepal’s disaster raises a Himalayan question for China",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/fog-of-flood-nepals-disaster-raises-a-himalayan-question-for-china/articleshow/133655940.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133657132,imgsize-285288.cms",
-      "publishedAt": "Mon, 31 Aug 2026 21:02:27 +0530",
+      "title": "India’s GPS problem: Why the armed forces need NavIC to work",
+      "description": "India's NavIC satellite system, crucial for military and civilian use, currently has only three operational satellites. This shortfall impacts its ability to provide accurate positioning and navigation services. The system's reliability issues stemmed from imported atomic clocks, now being replaced ",
+      "url": "https://timesofindia.indiatimes.com/defence/news/indias-gps-problem-why-the-armed-forces-need-navic-to-work/articleshow/133653658.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133653748,imgsize-1792748.cms",
+      "publishedAt": "Mon, 31 Aug 2026 18:32:27 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -19,11 +19,11 @@
       "category": "general"
     },
     {
-      "title": "PM Modi's jackets, Rahul's shirts: How leaders use fashion for political messaging",
+      "title": "51 Indias killed in Russian Army, 139 discharged; MEA says talks on with Moscow",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modis-jackets-rahuls-shirts-mamatas-sarees-how-leaders-use-fashion-for-political-messaging/articleshow/133650257.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133653441,imgsize-1888063.cms",
-      "publishedAt": "Mon, 31 Aug 2026 18:10:35 +0530",
+      "url": "https://timesofindia.indiatimes.com/india/51-indian-nationals-killed-in-russian-army-139-discharged-mea-says-talks-on-with-moscow/articleshow/133662291.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662498,imgsize-44776.cms",
+      "publishedAt": "Tue, 01 Sep 2026 01:12:08 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -37,11 +37,11 @@
       "category": "general"
     },
     {
-      "title": "From exam reforms to school reforms: How CJP is changing political discourse",
-      "description": "Student protests for improved school conditions have shifted from cities to villages across India.  The Cockroach Janata Party's campaign exposed poor government school infrastructure in several states.  State governments responded with new regulations and accelerated development projects.  Politica",
-      "url": "https://timesofindia.indiatimes.com/india/first-exam-reforms-now-school-thik-karo-campaign-how-cjp-is-changing-the-discourse-of-politics/articleshow/133647448.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133649501,imgsize-1913394.cms",
-      "publishedAt": "Mon, 31 Aug 2026 15:06:24 +0530",
+      "title": "PM Modi's jackets, Rahul's shirts: How leaders use fashion for political messaging",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modis-jackets-rahuls-shirts-mamatas-sarees-how-leaders-use-fashion-for-political-messaging/articleshow/133650257.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133653441,imgsize-1888063.cms",
+      "publishedAt": "Mon, 31 Aug 2026 18:10:35 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -51,6 +51,69 @@
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133652291,imgsize-65818.cms",
       "publishedAt": "Mon, 31 Aug 2026 17:24:10 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "MBBS, BDS interns in J&amp;K start indefinite strike over ‘low’ stipend",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/mbbs-bds-interns-in-jk-start-indefinite-strike-over-low-stipend/articleshow/133661793.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133662446,imgsize-184804.cms",
+      "publishedAt": "Tue, 01 Sep 2026 01:03:49 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "From exam reforms to school reforms: How CJP is changing political discourse",
+      "description": "Student protests for improved school conditions have shifted from cities to villages across India.  The Cockroach Janata Party's campaign exposed poor government school infrastructure in several states.  State governments responded with new regulations and accelerated development projects.  Politica",
+      "url": "https://timesofindia.indiatimes.com/india/first-exam-reforms-now-school-thik-karo-campaign-how-cjp-is-changing-the-discourse-of-politics/articleshow/133647448.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133649501,imgsize-1913394.cms",
+      "publishedAt": "Mon, 31 Aug 2026 15:06:24 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "OpenClaw that Sam Altman spent billions on gets 'largest update in its history'",
+      "description": "OpenClaw has unveiled its most comprehensive software upgrade yet with the arrival of version 2.0. This update enhances user accessibility significantly and integrates features for multi-user collaboration. Installation has been streamlined, along with expanded cross-platform automation tools. The r",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openclaw-that-sam-altman-spent-billions-on-and-claims-to-have-beaten-gta-6-gets-largest-update-in-its-history/articleshow/133650412.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133650529,imgsize-443611.cms",
+      "publishedAt": "Mon, 31 Aug 2026 16:27:52 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Fog of flood: Nepal’s disaster raises a Himalayan question for China",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/fog-of-flood-nepals-disaster-raises-a-himalayan-question-for-china/articleshow/133655940.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133657132,imgsize-285288.cms",
+      "publishedAt": "Mon, 31 Aug 2026 21:02:27 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Man spends life’s earnings on 130-acre gravel pit, turns it into wildlife haven",
+      "description": "The Cotswolds in England has about 170 lakes, most of them former gravel pits transformed after extraction ended. At Log House Holidays, 53 hectares of land were restored with 50,000 trees, wildflowers and reeds, creating habitats for birds and wildlife. The estate is now a designated Site of Specia",
+      "url": "https://timesofindia.indiatimes.com/world/uk/a-man-spent-his-lifes-earnings-buying-a-130-acre-abandoned-gravel-pit-he-planted-50000-trees-and-years-later-the-barren-land-had-become-a-thriving-wildlife-oasis/articleshow/133647216.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133647804,imgsize-156396.cms",
+      "publishedAt": "Mon, 31 Aug 2026 17:10:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "In 1934, Black cave guide sold Mammoth Cave hotel for just $3,000",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1934-black-cave-guide-matt-bransford-sold-his-14-room-mammoth-cave-hotel-and-land-for-just-3000-far-below-market-value-the-family-then-moved-20-miles-away-as-the-national-park-took-shape/articleshow/133585445.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133585497,imgsize-211862.cms",
+      "publishedAt": "Mon, 31 Aug 2026 10:01:15 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "On his last day as Apple CEO, Tim Cook sends memo to employees",
+      "description": "Tim Cook has sent his final memo to Apple employees on his last day as CEO, telling staff he is not leaving Apple but stepping away from a role he loved. John Ternus takes over as Apple CEO on September 1, while Cook becomes executive chairman. Read Tim Cook's full memo, his praise for Ternus, and w",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/on-his-last-day-as-apple-ceo-tim-cook-sends-memo-to-employees-says-i-am-not-leaving-apple-but-i-am-/articleshow/133661256.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133661303,imgsize-22842.cms",
+      "publishedAt": "Tue, 01 Sep 2026 00:01:51 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -82,11 +145,20 @@
       "category": "general"
     },
     {
-      "title": "OpenClaw that Sam Altman spent billions on gets 'largest update in its history'",
-      "description": "OpenClaw has unveiled its most comprehensive software upgrade yet with the arrival of version 2.0. This update enhances user accessibility significantly and integrates features for multi-user collaboration. Installation has been streamlined, along with expanded cross-platform automation tools. The r",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/openclaw-that-sam-altman-spent-billions-on-and-claims-to-have-beaten-gta-6-gets-largest-update-in-its-history/articleshow/133650412.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133650529,imgsize-443611.cms",
-      "publishedAt": "Mon, 31 Aug 2026 16:27:52 +0530",
+      "title": "D4vd’s private lawyers withdraw from case: Why did he switch to a public defender?",
+      "description": "D4vd’s private attorneys have withdrawn from representing him in the murder case involving 14-year-old Celeste Rivas Hernandez. During an August 31, 2026 hearing, the Los Angeles County Public Defender’s Office was appointed as his new legal team. Burke has pleaded not guilty, remains jailed without",
+      "url": "https://timesofindia.indiatimes.com/world/us-streamers/d4vds-private-lawyers-withdraw-from-murder-case-as-public-defender-takes-over-his-legal-representation/articleshow/133660730.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133661095,imgsize-475430.cms",
+      "publishedAt": "Mon, 31 Aug 2026 23:55:30 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Aaron Donald returns to Rams: Can he and Myles Garrett form the NFL’s best duo?",
+      "description": "Aaron Donald’s comeback to the Los Angeles Rams for the 2026 season marks a thrilling return from retirement. Joining forces with the talented edge Myles Garrett, they form an intimidating pass rush that will test the mettle of any quarterback. With aspirations of clinching a Super Bowl title in the",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/aaron-donald-is-back-and-myles-garrett-could-help-turn-the-los-angeles-rams-into-an-nfl-super-bowl-nightmare/articleshow/133656859.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133657045,imgsize-125512.cms",
+      "publishedAt": "Mon, 31 Aug 2026 22:31:00 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -96,33 +168,6 @@
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/badshah-and-isha-rikhi-announce-divorce-five-months-after-their-marriage-after-much-speculation-around-their-relationship-mutually-decided-to-part-ways/articleshow/133661501.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133661566,imgsize-348232.cms",
       "publishedAt": "Tue, 01 Sep 2026 00:11:42 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Alaska eliminates invasive pike and restocks lake with 6,836 Arctic char",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/alaska-used-rotenone-to-eliminate-invasive-pike-from-an-entire-lake-the-pike-vanished-and-6836-arctic-char-were-later-stocked-to-rebuild-the-native-fishery/articleshow/133628680.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133628781,imgsize-155572.cms",
-      "publishedAt": "Mon, 31 Aug 2026 11:20:20 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Two Canadian builders turn 612,000 bottles into hurricane-resistant home",
-      "description": "In an innovative project, builders in Nova Scotia have successfully created a house using recycled plastic bottles. These bottles were reshaped into high-performance composite panels, exemplifying the practicality of recycled materials in modern construction. The panels not only endured severe wind ",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/two-canadian-builders-turned-612000-recycled-plastic-bottles-into-a-2000-sq-ft-home-its-panels-were-tested-to-withstand-sustained-winds-of-326-mph-twice-category-5-hurricane-strength/articleshow/133646727.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133646934,imgsize-474937.cms",
-      "publishedAt": "Mon, 31 Aug 2026 13:35:35 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Scientists find eggshells make clay bricks reduce energy consumption by blocking heat",
-      "description": "Researchers in Egypt tested fired clay bricks made with eggshell waste.  Adding ten percent eggshell powder significantly reduced heat transfer through the material.  This process created internal pores, improving the bricks' insulation performance.  The study found that eggshell waste can be recycl",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2025-researchers-used-fired-clay-bricks-and-eggshell-waste-reducing-energy-consumption-for-heating-and-cooling-by-50-turning-food-waste-into-useful-building-material/articleshow/133658882.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133658899,imgsize-2386669.cms",
-      "publishedAt": "Mon, 31 Aug 2026 22:28:04 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -150,24 +195,6 @@
       "url": "https://timesofindia.indiatimes.com/tv/news/hindi/rohit-sharma-makes-tv-debut-with-family-full-house-revives-his-viral-garden-dialogue/articleshow/133661418.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133661573,imgsize-468339.cms",
       "publishedAt": "Tue, 01 Sep 2026 00:12:54 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "D4vd’s private lawyers withdraw from case: Why did he switch to a public defender?",
-      "description": "D4vd’s private attorneys have withdrawn from representing him in the murder case involving 14-year-old Celeste Rivas Hernandez. During an August 31, 2026 hearing, the Los Angeles County Public Defender’s Office was appointed as his new legal team. Burke has pleaded not guilty, remains jailed without",
-      "url": "https://timesofindia.indiatimes.com/world/us-streamers/d4vds-private-lawyers-withdraw-from-murder-case-as-public-defender-takes-over-his-legal-representation/articleshow/133660730.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133661095,imgsize-475430.cms",
-      "publishedAt": "Mon, 31 Aug 2026 23:55:30 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Aaron Donald returns to Rams: Can he and Myles Garrett form the NFL’s best duo?",
-      "description": "Aaron Donald’s comeback to the Los Angeles Rams for the 2026 season marks a thrilling return from retirement. Joining forces with the talented edge Myles Garrett, they form an intimidating pass rush that will test the mettle of any quarterback. With aspirations of clinching a Super Bowl title in the",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/aaron-donald-is-back-and-myles-garrett-could-help-turn-the-los-angeles-rams-into-an-nfl-super-bowl-nightmare/articleshow/133656859.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133657045,imgsize-125512.cms",
-      "publishedAt": "Mon, 31 Aug 2026 22:31:00 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -330,33 +357,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/umpires-calls-and-different-ball-joe-root-explains-lean-run-as-he-chases-sachin-tendulkars-record/articleshow/133650693.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133650989,imgsize-102071.cms",
       "publishedAt": "Mon, 31 Aug 2026 16:36:31 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Manipur census deferred ahead of September 1 house-listing exercise",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/manipur-census-deferred-ahead-of-september-1-house-listing-exercise/articleshow/133654712.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133655145,imgsize-185100.cms",
-      "publishedAt": "Mon, 31 Aug 2026 19:28:23 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Tamil Nadu announces major housing reforms, Rs 2,883 crore plan to rebuild flats",
-      "description": "Tamil Nadu announced initiatives to streamline building approvals and digitize land-use processes. Self-certification will expand for residential and small commercial buildings. Local body approval limits for residential and commercial projects are also increasing. A significant plan will rebuild 12",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/tamil-nadu-announces-major-housing-reforms-rs-2883-crore-plan-to-rebuild-flats/articleshow/133654379.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133654665,imgsize-173224.cms",
-      "publishedAt": "Mon, 31 Aug 2026 19:09:45 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "US Open: Mariano Navone wins battle as Novak Djokovic’s body says no",
-      "description": "Mariano Navone pulled off an incredible upset by defeating Novak Djokovic in a hard-fought five-set match. Despite dealing with health issues and requiring medical aid, Djokovic showcased his legendary tenacity, coming back from two sets down. However, Navone executed his tactics flawlessly and rema",
-      "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/us-open-mariano-navone-wins-battle-as-novak-djokovics-body-says-no/articleshow/133654307.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133654381,imgsize-125651.cms",
-      "publishedAt": "Mon, 31 Aug 2026 18:52:33 +0530",
       "source": "Times of India",
       "category": "general"
     }
@@ -1116,15 +1116,6 @@
       "category": "entertainment"
     },
     {
-      "title": "'Toxic': Yash's film crosses Rs 300 crore globally despite dip on Day 6",
-      "description": "'Toxic: A Fairytale For Grown-Ups' continues to hold strong at the box office as it moves into its sixth day of release, even as collections settle into the more modest pace typical of a film's second week. Having comfortably crossed the Rs. 200 crore domestic mark and edged toward Rs. 300 crore wor",
-      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/toxic-box-office-collection-day-6-live-yash-nayanthara-kiara-advani-looks-to-sustain-momentum-and-march-towards-rs-225-crore-india-net-after-strong-opening-weekend-of-rs-285-crore-global-haul/articleshow/133645424.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133645765,imgsize-164894.cms",
-      "publishedAt": "2026-08-31T12:54:07+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
       "title": "Vinod took a pay cut at age 41 for an intimate scene with 21-year old Madhuri, lost control",
       "description": "Vinod Khanna's filmography is marked by a famous yet contentious lip-lock scene with Madhuri Dixit in Feroz Khan's 'Dayavan'. Despite the notable age gap that made Madhuri uneasy, she continued filming after the director's cue, leading to claims that Khanna persisted even after the cut. This situati",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vinod-khanna-reportedly-took-a-pay-cut-at-age-41-for-an-intimate-scene-with-21-year-old-madhuri-dixit-in-dayavan-lost-control-and-kept-kissing-her-feroz-khan-paid-rs-1-crore-to-retain-that-scene/articleshow/133586616.cms",
@@ -1134,11 +1125,38 @@
       "category": "entertainment"
     },
     {
+      "title": "Shalini Pandey reacts to her viral AI-generated obscene video: 'It is deeply disturbing to see'",
+      "description": "Actress Shalini Pandey has spoken out against a fake AI-generated video circulating online. She has categorically dismissed the clip as fabricated and deeply disturbing technology misuse. Pandey urged users to refrain from sharing or engaging with the disturbing video. She requested everyone to repo",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shalini-pandey-reacts-to-her-viral-ai-generated-obscene-video-it-is-deeply-disturbing-to-see-i-strongly-condemn-this-kind-of-abuse/articleshow/133651757.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133651983,imgsize-207489.cms",
+      "publishedAt": "2026-08-31T17:15:39+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Dhamaal 4' OTT release: Here's when and where you can watch",
+      "description": "Ajay Devgn's Dhamaal 4 will be available for streaming on OTT now. Though the film experienced only a moderate performance at the box office and received mixed reviews, it ultimately became the top grosser of the franchise. With an exciting treasure hunt theme and a star-studded cast, fans can enjoy",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhamaal-4-ott-release-heres-when-and-where-you-can-watch-the-ajay-devgn-riteish-deshmukh-ravi-kishan-jaaved-jaaferi-arshad-warsi-starrer/articleshow/133649140.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133649263,imgsize-508298.cms",
+      "publishedAt": "2026-08-31T15:26:38+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "Aamir Khan set to be a part of 'Race 4'? Producer Ramesh Taurani breaks silence",
       "description": "Producer Ramesh Taurani has clarified that the cast for Race 4 is not yet finalized.  Recent reports linked actors like Aamir Khan and Sidharth Malhotra to the film.  Taurani requested media to avoid circulating unverified news about the upcoming thriller.  An official announcement regarding the cas",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-set-to-be-a-part-of-race-4-producer-ramesh-taurani-breaks-silence-refrain-from-speculations/articleshow/133657262.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-133657281,imgsize-165038.cms",
       "publishedAt": "2026-08-31T21:11:35+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Javed Akhtar says he's proud of Shabana for joining Jantar Mantar protests",
+      "description": "Javed Akhtar praised Shabana Azmi for joining protests against NEET paper leaks. He revealed that Azmi has a history of activism, including protests and hunger strikes.  She faced health issues and arrest for her participation in past demonstrations.  Akhtar stated that Azmi's conscience drives her ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-says-hes-proud-of-shabana-azmi-for-joining-protests-at-jantar-mantar-against-neet-paper-leak-this-isnt-the-first-time-when-our-relationship-was-developing-this-is-what-she-was-involved-in/articleshow/133651145.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133651255,imgsize-344581.cms",
+      "publishedAt": "2026-08-31T16:49:51+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1179,29 +1197,11 @@
       "category": "entertainment"
     },
     {
-      "title": "Javed Akhtar says he's proud of Shabana for joining Jantar Mantar protests",
-      "description": "Javed Akhtar praised Shabana Azmi for joining protests against NEET paper leaks. He revealed that Azmi has a history of activism, including protests and hunger strikes.  She faced health issues and arrest for her participation in past demonstrations.  Akhtar stated that Azmi's conscience drives her ",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-says-hes-proud-of-shabana-azmi-for-joining-protests-at-jantar-mantar-against-neet-paper-leak-this-isnt-the-first-time-when-our-relationship-was-developing-this-is-what-she-was-involved-in/articleshow/133651145.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133651255,imgsize-344581.cms",
-      "publishedAt": "2026-08-31T16:49:51+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Shalini Pandey reacts to her viral AI-generated obscene video: 'It is deeply disturbing to see'",
-      "description": "Actress Shalini Pandey has spoken out against a fake AI-generated video circulating online. She has categorically dismissed the clip as fabricated and deeply disturbing technology misuse. Pandey urged users to refrain from sharing or engaging with the disturbing video. She requested everyone to repo",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shalini-pandey-reacts-to-her-viral-ai-generated-obscene-video-it-is-deeply-disturbing-to-see-i-strongly-condemn-this-kind-of-abuse/articleshow/133651757.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133651983,imgsize-207489.cms",
-      "publishedAt": "2026-08-31T17:15:39+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Dhamaal 4' OTT release: Here's when and where you can watch",
-      "description": "Ajay Devgn's Dhamaal 4 will be available for streaming on OTT now. Though the film experienced only a moderate performance at the box office and received mixed reviews, it ultimately became the top grosser of the franchise. With an exciting treasure hunt theme and a star-studded cast, fans can enjoy",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhamaal-4-ott-release-heres-when-and-where-you-can-watch-the-ajay-devgn-riteish-deshmukh-ravi-kishan-jaaved-jaaferi-arshad-warsi-starrer/articleshow/133649140.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133649263,imgsize-508298.cms",
-      "publishedAt": "2026-08-31T15:26:38+05:30",
+      "title": "'Toxic': Yash's film crosses Rs 300 crore globally despite dip on Day 6",
+      "description": "'Toxic: A Fairytale For Grown-Ups' continues to hold strong at the box office as it moves into its sixth day of release, even as collections settle into the more modest pace typical of a film's second week. Having comfortably crossed the Rs. 200 crore domestic mark and edged toward Rs. 300 crore wor",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/toxic-box-office-collection-day-6-live-yash-nayanthara-kiara-advani-looks-to-sustain-momentum-and-march-towards-rs-225-crore-india-net-after-strong-opening-weekend-of-rs-285-crore-global-haul/articleshow/133645424.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133645765,imgsize-164894.cms",
+      "publishedAt": "2026-08-31T12:54:07+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1633,6 +1633,15 @@
   ],
   "science": [
     {
+      "title": "Meet Prakhar Purohit, who found a way to make tiny batteries from dirty water",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/meet-prakhar-purohit-the-north-carolina-student-who-found-a-way-to-make-tiny-batteries-from-dirty-water/articleshow/133653280.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-133653280,imgsize-50534.cms",
+      "publishedAt": "2026-09-01T01:00:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "Meet Harshith Nelabhotla, who built an AI system that can recognise American Sign Language",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/science/meet-harshith-nelabhotla-the-ohio-student-who-built-an-ai-system-that-can-recognise-american-sign-language-words-in-real-time/articleshow/133652231.cms",
@@ -1802,16 +1811,7 @@
       "publishedAt": "2026-08-31T09:44:31+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
-    },
-    {
-      "title": "A floating wind turbine off Spain became an underwater farm for four species",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/divers-turned-a-floating-wind-turbine-off-spain-into-an-underwater-farm-oysters-clams-mussels-and-green-algae-now-grow-beneath-it/articleshow/133630727.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-133630844,imgsize-2325752.cms",
-      "publishedAt": "2026-08-31T07:50:00+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
     }
   ],
-  "last_updated": "2026-09-01 12:33:25 AM"
+  "last_updated": "2026-09-01 01:33:36 AM"
 }
