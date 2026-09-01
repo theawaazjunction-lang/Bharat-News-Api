@@ -4,13 +4,12 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 30,
     "headlines": [
       "New Jersey woman paid $40,000 for land; town now wants it for 340 homes",
-      "'No double standards on terror': PM Modi's message at SCO in presence of Pak PM",
       "\"Ethnic Cleansing\": Israeli Ex-Generals On Attacks In West Bank",
+      "IMD issues flash flood alert for 10 Jharkhand districts as heavy rains lash State",
       "Central team to examine land parcels in Telangana’s Kothaguden for airport on September 7",
-      "Delhi-bound IndiGo flight returns to Goa after engine snag; passengers safe",
       "CBI should probe Delhi Food Minister Sirsa’s role in rice scam: AAP",
       "Police can't pick and choose accused to arrest: Delhi HC",
       "Mamata Banerjee's niece found dead at her residence in West Bengal's Birbhum, say police",
@@ -29,104 +28,73 @@
       "Indian LNG imports surge to six-year high even as prices spike",
       "Delhi HC asks Centre, FSSAI to respond to plea prohibiting sale of Fortune Soya refined oil",
       "Sensex today | Stock Market Highlights: Sensex ends 12 pts down, Nifty closes at 24,055 on higher crude prices; banks, autos lead losses",
-      "Modi pitches greater SCO economic connectivity with sovereignty caveat",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "Duleep Trophy Semi-final 2 Live Score: North Zone vs South Zone",
+      "Live Score: South Africa vs Zimbabwe, T20I Tri-Series 2026",
       "Australia lose patience as star batter left out of ODI squad",
       "Thalapathy Vijay’s ‘GOAT’ connection with Yash’s ‘Toxic’ revealed",
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places",
       "A man bought 51,000 acres of degraded land in Florida; decades later, it is the largest private restoration project east of the Mississippi"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 9,
+    "news_count": 11,
     "headlines": [
       "Onions to be sold at ₹35 per kg through urban fair price shops: T.N. Minister in Assembly on price control measures",
+      "Maharashtra govt gives traders 1 year relief on loose edible oil restrictions",
       "Rahul Gandhi to visit Nashik on Wed; his 2nd trip to Maharashtra in 11 days",
       "Taxi, autorickshaw fares to increase in Mumbai region from Tuesday",
       "Anna Hazare admitted to Mumbai hospital's ICU with acute dehydration, kidney issue",
+      "UBL sees positive demand momentum in Q2, invests ₹110 crore in Maharashtra brewery",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Jayawardene likely to continue as Mumbai Indians coach; status quo on trade chatter",
       "Suriya clarifies Mumbai living rumours at Karthi’s ‘Sardar 2’ audio launch",
       "Pranay Reddy Vanga says Hyderabad is cheaper than Mumbai",
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 8,
-    "headlines": [
-      "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
-      "Tamil Nadu Assembly: 10% hike in wages and DA for handloom weavers, establishment of T.N. Knitwear Board announced",
-      "Vanathi Srinivasan seeks Tamil Nadu CM’s intervention in incident of woman village panchayat president being prevented from discharging duties",
-      "₹100-crore defamation suit filed by M.S. Dhoni: Madras High Court orders commencement of trial",
-      "Tamil Nadu moves Bill to do away with Collector’s concurrence for wetland development in non-planning areas",
-      "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs",
-      "Woman’s dismembered body found in overhead tanks of Tamil Nadu houses: Cops",
-      "TN-CONGRESS LEADERS MEET TN CM C JOSEPH VIJAY AT SECRETARIAT"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 7,
-    "headlines": [
-      "3 Of Assam Family Die In Landslide, Teen Son Survives",
-      "5th Suspect Linked To Pak-Backed Handler Arrested In Assam",
-      "'Saw Death Up Close': 8 Assam Workers Return Home From Nepal",
-      "NHAI’s poor highway maintenance led to fatal accident: Assam CM Himanta Biswa Sarma",
-      "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
-      "‘Saw death from close’: 8 Assam workers rescued from Nepal return; 8 missing",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 7,
+    "news_count": 9,
     "headlines": [
+      "'He killed her, then went back to sleep': Calm of Hyderabad nurse's killer baffles cops",
       "Watch: Hyderabad man sits in pothole to protest crumbling Old City roads",
+      "Pedestrian Dead, Student Injured In 2 Back-To-Back Collisions In Hyderabad",
+      "Haritha Hotel in Jogulamba Gadwal set for infrastructure upgrades",
       "Seethakka consoles family of slain nurse, assures support",
       "Telangana CM inaugurates 400-metre-wide bridge connecting Moosarambagh and Amberpet",
-      "Telangana CM launches Amberpet-Moosarambagh high-level bridge",
       "Central technical team to visit possible sites for Bhadradri Kothagudem airport in Telangana",
       "Corteva celebrates 100 years of Pioneer seed brand in Hyderabad",
       "Pranay Reddy Vanga says Hyderabad is cheaper than Mumbai"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 6,
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 7,
     "headlines": [
-      "Why has the Manipur Census operation been deferred?",
-      "Kuki MLAs asked to stay away from Manipur Assembly session",
-      "At least 30 houses set ablaze in three Manipur villages; 1 injured: Police",
-      "Manipur: Anti-Census protests continue amid demand for formal deferment order",
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
-      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
+      "Ban on smartphones in Tamil Nadu temples comes into effect; phones without cameras to be allowed",
+      "Tamil Nadu CM Vijay opens Mettur Dam releasing Cauvery water for irrigation in State",
+      "Tamil Nadu Assembly: 10% hike in wages and DA for handloom weavers, establishment of T.N. Knitwear Board announced",
+      "Vanathi Srinivasan seeks Tamil Nadu CM’s intervention in incident of woman village panchayat president being prevented from discharging duties",
+      "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs",
+      "Woman’s dismembered body found in overhead tanks of Tamil Nadu houses: Cops",
+      "TN-CONGRESS LEADERS MEET TN CM C JOSEPH VIJAY AT SECRETARIAT"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "RJ",
@@ -142,22 +110,37 @@
       "Supreme Court collegium picks new Rajasthan HC chief justice amid graft allegations against Justice Sharma",
       "TCS iON 'deeply regrets' Jaipur NEET-PG power failure, says working to fix it 'urgently'"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 5,
     "headlines": [
-      "Pinarayi Vijayan Faces Heat As CPI(M) Battles Cracks In Kannur Stronghold",
-      "Video: Narrow Escape For Kerala Family As Elephant Charges At Vehicle",
-      "Vande Mataram sung in full twice at Kerala University Sports Day event with Governor, Ministers on stage",
-      "State Teachers’ Awards, Srestha Vidyalaya Puraskaram announced in Keralam",
-      "At 14, a Kerala girl built a washing machine that needed no electricity"
+      "3 Of Assam Family Die In Landslide, Teen Son Survives",
+      "NHAI’s poor highway maintenance led to fatal accident: Assam CM Himanta Biswa Sarma",
+      "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
+      "‘Saw death from close’: 8 Assam workers rescued from Nepal return; 8 missing",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 5,
+    "headlines": [
+      "Why has the Manipur Census operation been deferred?",
+      "At least 10 houses set ablaze in three Manipur villages; 1 injured: Police",
+      "Manipur: Anti-Census protests continue amid demand for formal deferment order",
+      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
+      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
+    ],
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "GJ",
@@ -166,12 +149,26 @@
     "State": "Gujarat",
     "news_count": 4,
     "headlines": [
-      "Ban on gutkha, pan masala in Gujarat extended for another year; effective from September 13",
+      "Tesla installs 20 Superchargers in India, expands service network to Ahmedabad",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Akshay On SRK and 'King': Actor lauds Khan’s warmth"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 4,
+    "headlines": [
+      "Justice Nagamohan Das’s books released in Shivamogga",
+      "Asian Games 2026: Karnataka High Court orders enquiry through former apex court judge into procedural lapses in selection of surfers",
+      "Karnataka Minister meets protesters, promises to highlight concerns and ask ECI for extension of SIR deadline",
+      "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row"
+    ],
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "UP",
@@ -184,19 +181,33 @@
       "Ram temple trust to pick CEO, discuss deed amendment amid donation theft row",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
     "headlines": [
-      "Maharashtra, Assam, Bengal, Bihar join Centre in SC bid to quash FIRs against CJP protesters",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Andhra Pradesh registers 18% growth in  Commercial Taxes collection",
+      "Nandyal MP highlights government’s timely distribution of pension to beneficiaries",
+      "Part with land for Narsapuram port, Andhra Pradesh CM Naidu asks farmers"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "State Teachers’ Awards, Srestha Vidyalaya Puraskaram announced in Keralam",
+      "Vande Mataram sung in full twice at Kerala University Sports Day event with Governor, Ministers on stage",
+      "At 14, a Kerala girl built a washing machine that needed no electricity"
+    ],
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "WB",
@@ -208,41 +219,31 @@
       "Mamata Banerjee's niece found dead at Birbhum house; cops suspect suicide",
       "Former CM Mamata Banerjee’s niece found dead at Birbhum residence"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
     "news_count": 2,
     "headlines": [
-      "Karnataka Minister meets protesters, promises to highlight concerns and ask ECI for extension of SIR deadline",
-      "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row"
+      "Maharashtra, Assam, Bengal, Bihar join Centre in SC bid to quash FIRs against CJP protesters",
+      "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 1,
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
     "headlines": [
-      "Part with land for Narsapuram port, Andhra Pradesh CM Naidu asks farmers"
+      "6 Dead, 14 Injured After Vehicle Rams Truck On Haryana Expressway",
+      "‘Shuddhikaran’ row: Haryana Congress protests over FIR against Rahul Gandhi"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "Delhi-bound IndiGo flight returns to Goa after engine snag; passengers safe"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "CH",
@@ -253,40 +254,7 @@
     "headlines": [
       "‘Shuddhikaran’ row: Haryana Congress protests over FIR against Rahul Gandhi"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
-    "headlines": [
-      "Chhattisgarh government launches portal to benefit tribal tin collectors"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 1,
-    "headlines": [
-      "‘Shuddhikaran’ row: Haryana Congress protests over FIR against Rahul Gandhi"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "The Orissan tells the story of Odisha through history, culture, and food"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "NL",
@@ -297,7 +265,18 @@
     "headlines": [
       "Bill to set up Frontier Nagaland Territorial Authority tabled in Assembly"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "IMD issues flash flood alert for 10 Jharkhand districts as heavy rains lash State"
+    ],
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "LD",
@@ -308,7 +287,18 @@
     "headlines": [
       "MakeMyTrip partners with Fly91 to offer holiday packages to Lakshadweep from Bengaluru"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "The Orissan tells the story of Odisha through history, culture, and food"
+    ],
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "PB",
@@ -319,18 +309,7 @@
     "headlines": [
       "‘Shuddhikaran’ row: Haryana Congress protests over FIR against Rahul Gandhi"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
-  },
-  {
-    "Code": "SK",
-    "Lat": 27.533,
-    "Long": 88.5122,
-    "State": "Sikkim",
-    "news_count": 1,
-    "headlines": [
-      "Sikkim Installs Sensors At 16 High-Risk Glacial Lakes After Nepal Floods"
-    ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "JK",
@@ -341,7 +320,7 @@
     "headlines": [
       "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   },
   {
     "Code": "UT",
@@ -352,6 +331,6 @@
     "headlines": [
       "Haldwani ‘purification’ ritual, FIR against Rahul expose BJP’s double standards: Uttam"
     ],
-    "last_updated": "2026-09-01 05:36:54 PM"
+    "last_updated": "2026-09-01 06:35:49 PM"
   }
 ]
