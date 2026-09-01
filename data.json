@@ -4,16 +4,20 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 35,
     "headlines": [
+      "Vice-captain Sooryavanshi shines as East beat Central to reach Duleep Trophy final",
       "Missiles from anywhere? Japan’s new warship is built to spot them all",
       "Closed for decades, Pittsburgh's 102-foot lookout is being restored for $3m",
+      "SIR In Numbers: Delhi Voter Exclusions And How It Exceeds Other States",
       "Harish Rawat Observes 'Maun Vrat' In Delhi Over Case Against Rahul Gandhi",
       "Delhi Man Dies Of Electrocution, Government Says No Fault In Streetlight Pole",
+      "Delhi HC issues notice on plea seeking policy for women athletes returning after maternity",
       "Votes being added, deleted to make BJP win, says Congress citing Maharashtra, Delhi SIR",
       "Former West Bengal CM Mamata Banerjee’s niece found dead at Birbhum residence",
       "Delhi High Court seeks Centre, FSSAI’s response to plea against ‘ban’ on Fortune soyabean refined oil",
       "Andhra Pradesh police open fire, arrest man who allegedly knifed constable in Krishna district",
+      "Train passenger deboarded, booked for lighting 'diya' on berth, says central railway",
       "Rain lashes Delhi-NCR as IMD issues 'orange' alert, more showers likely in next 2 hours | Videos",
       "Delhi to see traffic diversions for 5 hours tomorrow amid BRICS motorcade rehearsal – Check routes here",
       "West Bengal to levy fine over spitting, defecating, dumping waste: Govt",
@@ -31,7 +35,6 @@
       "RSS centenary celebrations likely to conclude in Delhi on November 29",
       "SC declines to intervene in CJP’s Sept 5 protest",
       "From Greater Noida to Delhi: 47-km bus ride ends in gangrape of 16-year-old",
-      "Should move from endless war to end of war, PM Modi tells Russian Prez Putin",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -39,26 +42,7 @@
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places",
       "A man bought 51,000 acres of degraded land in Florida; decades later, it is the largest private restoration project east of the Mississippi"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 9,
-    "headlines": [
-      "Kerala Teen's Viral Resemblance: Allen James dubbed Kerala's Yamal; hopes for Yamal message",
-      "SFI activists injured in police lathicharge",
-      "Semiconductor capability development park to come up in Thiruvananthapuram",
-      "Pala MLA Mani C. Kappan sentenced to one year in jail in cheque case",
-      "Thiruvananthapuram Zoo revenue collection during Onam up from last year",
-      "DYFI takes out march to DGP office in Thiruvananthapuram",
-      "House surgeons at Palakkad Medical College go on strike",
-      "Munawwarali Thangal plays down controversy over Kanthapuram Samastha circular",
-      "At 14, a Kerala girl built a washing machine that needed no electricity"
-    ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "MH",
@@ -68,7 +52,7 @@
     "news_count": 9,
     "headlines": [
       "MPSC exam paper leak: ‘Top ranker’ arrested, intentionally gave 10 wrong answers",
-      "Millions In Kolkata, Mumbai Risk Losing Homes Due To Rising Sea Levels: UN",
+      "Supreme Court to hear bail plea of Bhima Koregaon accused Surendra Gadling on October 14",
       "Beed mother runs to win prize money for daughters’ education",
       "Maharashtra govt gives traders 1 year relief on loose edible oil restrictions",
       "Rahul Gandhi to visit Nashik on Wed; his 2nd trip to Maharashtra in 11 days",
@@ -77,25 +61,55 @@
       "Jayawardene likely to continue as Mumbai Indians coach; status quo on trade chatter",
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 8,
+    "headlines": [
+      "Kerala Teen's Viral Resemblance: Allen James dubbed Kerala's Yamal; hopes for Yamal message",
+      "SFI activists injured in police lathicharge",
+      "Semiconductor capability development park to come up in Thiruvananthapuram",
+      "Pala MLA Mani C. Kappan sentenced to one year in jail in cheque case",
+      "Thiruvananthapuram Zoo revenue collection during Onam up from last year",
+      "DYFI takes out march to DGP office in Thiruvananthapuram",
+      "House surgeons at Palakkad Medical College go on strike",
+      "At 14, a Kerala girl built a washing machine that needed no electricity"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 5,
+    "headlines": [
+      "Houses Set On Fire By Armed Men In Manipur Village, Says Local Authority",
+      "At least 10 houses set ablaze in three Manipur villages; 1 injured: Police",
+      "Manipur: Anti-Census protests continue amid demand for formal deferment order",
+      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
+      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 8,
+    "news_count": 5,
     "headlines": [
       "'He killed her, then went back to sleep': Calm of Hyderabad nurse's killer baffles cops",
-      "Watch: Hyderabad man sits in pothole to protest crumbling Old City roads",
-      "AK-47s, Pistols, And 19,000 Bullets Stolen From Army Cantonment In Telangana",
-      "Pedestrian Dead, Student Injured In 2 Back-To-Back Collisions In Hyderabad",
-      "Former Maoist leader Radhakka’s last rites held in Adilabad district",
+      "Telangana to unveil next-gen policies for industries at Rising Global Summit 2.0",
       "Telangana SIR: Special campaigns for claims, objections on four days in September",
-      "Telangana Mahila Congress protests FIR against Rahul Gandhi",
-      "Telangana MHSRB releases second provisional merit list for MPHA posts"
+      "Former Maoist leader Radhakka’s last rites held in Adilabad district",
+      "Telangana Mahila Congress protests FIR against Rahul Gandhi"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "TN",
@@ -110,7 +124,21 @@
       "TN-CONGRESS LEADERS MEET TN CM C JOSEPH VIJAY AT SECRETARIAT",
       "Sumadhura Group enters Chennai with a 52-acre Grade A Industrial & Logistics Park with ₹400 crore investment"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "'Don't Eat Fish Caught From Floodwaters': Bihar On Alert After Nepal Tragedy",
+      "‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens",
+      "Maharashtra, Assam, Bengal, Bihar join Centre in SC bid to quash FIRs against CJP protesters",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "RJ",
@@ -124,7 +152,7 @@
       "Why SC collegium separately transferred Justice Agrawal to Rajasthan amid row",
       "Boy, 9, chasing kite falls into 45-foot borewell in Rajasthan’s Alwar; rescued"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "WB",
@@ -138,47 +166,7 @@
       "Indian govt tightens sugar stock limit, cuts traders’ limit by half",
       "Western Carriers expects Kolkata port terminal to further boost biz volumes for both domestic, EXIM cargo"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "At least 10 houses set ablaze in three Manipur villages; 1 injured: Police",
-      "Manipur: Anti-Census protests continue amid demand for formal deferment order",
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
-      "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
-    ],
-    "last_updated": "2026-09-01 10:04:36 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "3 Of Assam Family Die In Landslide, Teen Son Survives",
-      "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-01 10:04:36 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "'Don't Eat Fish Caught From Floodwaters': Bihar On Alert After Nepal Tragedy",
-      "Maharashtra, Assam, Bengal, Bihar join Centre in SC bid to quash FIRs against CJP protesters",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "AP",
@@ -191,7 +179,20 @@
       "Bapatla reports highest number of hypertension and diabetes cases, and ASR district lowest",
       "Andhra Pradesh police open fire, arrest man who allegedly knifed constable in Krishna district"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 3,
+    "headlines": [
+      "New foundation proposed to boost heritage conservation across Karnataka through adoption",
+      "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row",
+      "Spike in onion prices likely to persist as drought hits Karnataka cultivation"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "UP",
@@ -203,19 +204,19 @@
       "Ram temple trust to pick CEO, discuss deed amendment amid donation theft row",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 2,
     "headlines": [
-      "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row",
-      "Spike in onion prices likely to persist as drought hits Karnataka cultivation"
+      "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "GJ",
@@ -227,7 +228,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "CT",
@@ -238,18 +239,7 @@
     "headlines": [
       "Missiles from anywhere? Japan’s new warship is built to spot them all"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
-    "headlines": [
-      "10-Year-Old Girl Killed As School Van Collides With Vehicle In Jharkhand"
-    ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "MP",
@@ -260,7 +250,29 @@
     "headlines": [
       "Aditya Dhar lauds Yash for 'Toxic', amid the film facing backlash after being compared to 'Dhurandhar'"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "10-Year-Old Girl Killed As School Van Collides With Vehicle In Jharkhand"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 1,
+    "headlines": [
+      "Faridabad Girl, Punished In School Over Biryani Fight, Dies By Suicide"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "NL",
@@ -271,7 +283,18 @@
     "headlines": [
       "Bill to set up Frontier Nagaland Territorial Authority tabled in Assembly"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 1,
+    "headlines": [
+      "Analysis: Five Stages, One Election: What Baba Bakala Reveals About Punjab Polls"
+    ],
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "JK",
@@ -282,7 +305,7 @@
     "headlines": [
       "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   },
   {
     "Code": "UT",
@@ -293,6 +316,6 @@
     "headlines": [
       "Heavy rain in Uttarakhand triggers waterlogging in Nainital, Bhimtal; flood-like situation on roads | Visuals"
     ],
-    "last_updated": "2026-09-01 10:04:36 PM"
+    "last_updated": "2026-09-01 10:35:34 PM"
   }
 ]
