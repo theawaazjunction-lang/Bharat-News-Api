@@ -4,8 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 34,
+    "news_count": 33,
     "headlines": [
+      "245-year-old live oak from Revolutionary War battle freed from chains",
+      "Rescuer runs 1.5 miles with blood to save climber after 20-foot fall",
       "Iran president meets PM Modi, seeks help to end war",
       "Bihar CM urges Union Minister of Jal Shakti to accelerate irrigation and flood control projects",
       "Kozhikode Mayor promises steps to prevent diversion of Central Market funds",
@@ -31,9 +33,6 @@
       "West Asia Conflict: ONGC to spend ₹20,000 cr annually till FY30",
       "Mia by Tanishq And Zepto Bring an Unexpected Rakhi Surprise to Doorsteps Across Mumbai And Delhi NCR",
       "India’s GDP growth accelerates to 7.8% in Q1 FY27",
-      "OpenAI's ad business hits $1 billion annualized revenue run rate",
-      "Coal India to launch IPOs of South Eastern Coalfields and Mahanadi Coalfields this fiscal",
-      "Gujarat expects over ₹75,000 crore in investments this year: ASSOCHAM",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -41,16 +40,15 @@
       "Faf revisits cricket’s darkest chapter, says Australia mishandled ‘Sandpaper Gate’",
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 14,
+    "news_count": 13,
     "headlines": [
-      "Social activist Anna Hazare admitted to hospital in Mumbai",
       "Anna Hazare Admitted To ICU In Mumbai Due To Viral Infection, Dehydration",
       "Onions arrive from Nashik to reduce prices",
       "Mahanagar Gas hikes CNG prices by ₹2/kg as LNG prices continue to soar",
@@ -65,7 +63,7 @@
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend",
       "Phool Aur Kaante filmmaker Kuku Kohli dies"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "KA",
@@ -83,7 +81,7 @@
       "Woman’s body found under train seat in Karnataka; probe underway: Police",
       "Complying with CWMA direction on Cauvery water release, Karnataka tells SC"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "TN",
@@ -100,39 +98,24 @@
       "Master Plan 2047: What Delhi can learn from Tamil Nadu on rental housing",
       "Brigade Enterprises enters Coimbatore market with ₹600 crore residential project"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "RJ",
     "Lat": 27.0238,
     "Long": 74.2179,
     "State": "Rajasthan",
-    "news_count": 6,
+    "news_count": 7,
     "headlines": [
-      "No roofs, no toilets, no teachers: TOI check finds minuses in Rajasthan govt schools",
+      "Viral Video Of Family Meal On Rajasthan Highway Misrepresented. Here's Reality",
+      "After Supreme Court judge’s letters, Collegium recommends new Chief Justice for Rajasthan HC",
       "Rajasthan High Court lawyers to abstain from work till September 6 in Jodhpur",
       "Back-to-back glitches at Jaipur exam centre bring computer-based testing under scrutiny",
       "SC panel picks new Rajasthan HC chief justice amid allegations against acting CJ",
       "TCS iON 'deeply regrets' Jaipur NEET-PG power failure, says working to fix it 'urgently'",
       "After NEET-PG, power failure disrupts AIIMS CRE at same Jaipur centre; re-test on Sept 7"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 6,
-    "headlines": [
-      "Ban on gutkha, pan masala in Gujarat extended for another year; effective from September 13",
-      "5 sentenced to life for rape of minor girl on Navratri in Gujarat after two years; each fined  ₹50,000",
-      "Gujarat expects over ₹75,000 crore in investments this year: ASSOCHAM",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "'Pragg is No. 1 in the world': Anand after India's first GCT title | Exclusive"
-    ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "TG",
@@ -148,7 +131,22 @@
       "SLBC tunnel crosses dangerous ‘shear zone’ in major breakthrough",
       "Northeastern University, University of London to set up campuses in Hyderabad"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
+    "headlines": [
+      "Ban on gutkha, pan masala in Gujarat extended for another year; effective from September 13",
+      "5 sentenced to life for rape of minor girl on Navratri in Gujarat after two years; each fined  ₹50,000",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "'Pragg is No. 1 in the world': Anand after India's first GCT title | Exclusive"
+    ],
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "MN",
@@ -163,7 +161,7 @@
       "Couple held in Manipur after body found on train",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "KL",
@@ -178,7 +176,7 @@
       "Kerala ministers slam Muslim cleric’s ‘confine women to homes’ remark",
       "Like 'gold kept safely in box', women must remain in homes: Islamic cleric in Kerala"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "BR",
@@ -192,7 +190,7 @@
       "Sanjay Singh will be expelled from party if allegations are found true: Chirag Paswan",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "AP",
@@ -206,7 +204,7 @@
       "Civic body initiates plastic removal from drainages in Guntur",
       "Google says Vizag AI hub to limit water use amid concerns over geological impact"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "AS",
@@ -219,7 +217,7 @@
       "Assam govt to invest  ₹50,000 crore in developing infra over 5 yrs: Himanta",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "GA",
@@ -232,33 +230,7 @@
       "Anti-conversion bill won’t be tabled in Goa assembly: BJP lawmaker",
       "Goa nightclub fire case: SC upholds HC order cancelling bail of club owners"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 3,
-    "headlines": [
-      "Bihar, Jharkhand Sign Sone Water Agreement, Resolving 25-Year-Old Dispute",
-      "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
-      "25-year Sone river rift to end as Bihar, Jharkhand set to sign water pact today"
-    ],
-    "last_updated": "2026-09-01 05:38:06 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
-      "Luxmi Group to launch Makaibari Collective with Darjeeling small tea growers",
-      "Low-pressure area to bring heavy rain in Bengal till Sep 4: IMD"
-    ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "PB",
@@ -271,7 +243,20 @@
       "BJP targets AAP government over employee protests, ‘unfulfilled’ promises in Punjab",
       "Justice Mishra’s appointment as Punjab & Haryana HC chief delayed; AAP govt yet to respond"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 3,
+    "headlines": [
+      "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
+      "Luxmi Group to launch Makaibari Collective with Darjeeling small tea growers",
+      "Low-pressure area to bring heavy rain in Bengal till Sep 4: IMD"
+    ],
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "UP",
@@ -283,7 +268,19 @@
       "‘Delhi police vanish during crime, only show up to assault kids’: Dipke on Greater Noida gangrape",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 2,
+    "headlines": [
+      "Jharkhand Police announce cash reward for info on last top Maoist, 5 accomplices",
+      "25-year Sone river rift to end as Bihar, Jharkhand set to sign water pact today"
+    ],
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "HR",
@@ -294,7 +291,7 @@
     "headlines": [
       "Justice Mishra’s appointment as Punjab & Haryana HC chief delayed; AAP govt yet to respond"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "NL",
@@ -305,7 +302,7 @@
     "headlines": [
       "Draft voter lists see over 6 crore deletions so far in SIR third phase"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "ML",
@@ -316,7 +313,7 @@
     "headlines": [
       "Four killed in encounter with Meghalaya Police-ATS in East Garo Hills"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "JK",
@@ -327,7 +324,7 @@
     "headlines": [
       "Jammu HC reinstates bank official sacked without inquiry over hashtag campaign"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   },
   {
     "Code": "TR",
@@ -338,6 +335,6 @@
     "headlines": [
       "Draft voter lists see over 6 crore deletions so far in SIR third phase"
     ],
-    "last_updated": "2026-09-01 05:38:06 AM"
+    "last_updated": "2026-09-01 06:35:40 AM"
   }
 ]
