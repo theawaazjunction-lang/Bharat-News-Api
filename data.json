@@ -4,19 +4,18 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 38,
+    "news_count": 37,
     "headlines": [
+      "New Jersey woman paid $40,000 for land; town now wants it for 340 homes",
       "BRICS Summit: Delhi Traffic Police issues advisory ahead of motorcade rehearsal",
       "Vice-captain Sooryavanshi shines as East beat Central to reach Duleep Trophy final",
-      "Missiles from anywhere? Japan’s new warship is built to spot them all",
       "Delhi Voter List Revision: Tughlakabad Tops Missing List, Okhla Second",
       "India's Balancing Act At Shanghai Bloc: Xi, Putin, And A Message For Pak",
+      "Congress attacks BJP over exclusion of over 2 crore voters in Maharashtra SIR",
       "The south’s muted voice as political power shifts north",
       "Central team to examine land parcels in Telangana’s Kothagudem for airport on September 7",
       "Trinamool worker tortured in custody over signboard dispute, says Abhishek Banerjee",
       "CPI targets Modi government at Delhi rally, calls for ‘change’",
-      "Delhi HC issues notice on plea seeking policy for women athletes returning after maternity",
-      "Votes being added, deleted to make BJP win, says Congress citing Maharashtra, Delhi SIR",
       "Dialogue, not war: Modi pushes diplomacy for West Asia, targets terror ecosystem",
       "Train passenger deboarded, booked for lighting 'diya' on berth, says central railway",
       "Rain lashes Delhi-NCR as IMD issues 'orange' alert, more showers likely in next 2 hours | Videos",
@@ -45,18 +44,20 @@
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places",
       "A man bought 51,000 acres of degraded land in Florida; decades later, it is the largest private restoration project east of the Mississippi"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 11,
+    "news_count": 13,
     "headlines": [
       "Maharashtra puts FDA action against loose edible oil sales on hold for 1 year",
       "MPSC exam paper leak: ‘Top ranker’ arrested, intentionally gave 10 wrong answers",
       "Maharashtra Gives Traders 1-Year Relief Over Sale Of Loose Edible Oil",
+      "Congress attacks BJP over exclusion of over 2 crore voters in Maharashtra SIR",
+      "Maharashtra Cabinet approves policy to make State ‘drug-free’ by 2029",
       "Beed mother runs to win prize money for daughters’ education",
       "Supreme Court to hear bail plea of Bhima Koregaon accused Surendra Gadling on October 14",
       "Maharashtra govt gives traders 1 year relief on loose edible oil restrictions",
@@ -66,7 +67,7 @@
       "Jayawardene likely to continue as Mumbai Indians coach; status quo on trade chatter",
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "KA",
@@ -84,24 +85,23 @@
       "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row",
       "Spike in onion prices likely to persist as drought hits Karnataka cultivation"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "Kerala Teen's Viral Resemblance: Allen James dubbed Kerala's Yamal; hopes for Yamal message",
       "The man behind some of Mappilapattu’s enduring melodies",
       "Munavvar Ali Thangal seeks to play down Kanthapuram circular controversy",
       "Car catches fire at Eenchakkal in Thiruvananthapuram",
       "Pala MLA Mani C. Kappan sentenced to one year in jail in cheque case",
-      "SFI activists injured in police lathicharge",
       "At 14, a Kerala girl built a washing machine that needed no electricity"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "MN",
@@ -116,7 +116,7 @@
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "WB",
@@ -131,7 +131,7 @@
       "Indian govt tightens sugar stock limit, cuts traders’ limit by half",
       "Western Carriers expects Kolkata port terminal to further boost biz volumes for both domestic, EXIM cargo"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "TN",
@@ -146,21 +146,7 @@
       "TN-CONGRESS LEADERS MEET TN CM C JOSEPH VIJAY AT SECRETARIAT",
       "Sumadhura Group enters Chennai with a 52-acre Grade A Industrial & Logistics Park with ₹400 crore investment"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 4,
-    "headlines": [
-      "Rajasthan local body polls: Congress launches ‘Gen Z for Change’ campaign",
-      "Jaipur Literature Festival to celebrate 20th edition in January 2027",
-      "Why SC collegium separately transferred Justice Agrawal to Rajasthan amid row",
-      "Boy, 9, chasing kite falls into 45-foot borewell in Rajasthan’s Alwar; rescued"
-    ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "BR",
@@ -174,20 +160,21 @@
       "Maharashtra, Assam, Bengal, Bihar join Centre in SC bid to quash FIRs against CJP protesters",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 4,
     "headlines": [
-      "Drug Crackdown Backfires? Punjab Cop, Sister Attacked In Gurdaspur",
-      "7 Letters To Punjab Police, Yet No FIR In 'Transfer Racket' Case: Probe Agency ED Tells Court",
-      "Punjab Sacked Police Officer Over Lawrence Bishnoi Jail Interview. HC Quashes Dismissal Order"
+      "Rajasthan local body polls: Congress launches ‘Gen Z for Change’ campaign",
+      "Jaipur Literature Festival to celebrate 20th edition in January 2027",
+      "Why SC collegium separately transferred Justice Agrawal to Rajasthan amid row",
+      "Boy, 9, chasing kite falls into 45-foot borewell in Rajasthan’s Alwar; rescued"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "GJ",
@@ -200,19 +187,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "TG",
@@ -224,19 +199,7 @@
       "Telangana to unveil next-gen policies for industries at Rising Global Summit 2.0",
       "Telangana SIR: Special campaigns for claims, objections on four days in September"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Ram temple trust to pick CEO, discuss deed amendment amid donation theft row",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "JK",
@@ -248,18 +211,43 @@
       "Srinagar ghost mall turns into Rs 422cr jewel in auction",
       "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
     "headlines": [
-      "Missiles from anywhere? Japan’s new warship is built to spot them all"
+      "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Drug Crackdown Backfires? Punjab Cop, Sister Attacked In Gurdaspur",
+      "7 Letters To Punjab Police, Yet No FIR In 'Transfer Racket' Case: Probe Agency ED Tells Court"
+    ],
+    "last_updated": "2026-09-02 02:35:21 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Ram temple trust to pick CEO, discuss deed amendment amid donation theft row",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "AP",
@@ -270,18 +258,18 @@
     "headlines": [
       "CPI(M) seeks permanent solution to Visakhapatnam water shortage"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 1,
     "headlines": [
-      "Bill to set up Frontier Nagaland Territorial Authority tabled in Assembly"
+      "IndiGo flight makes emergency landing in Goa after engine failure"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "MP",
@@ -292,7 +280,29 @@
     "headlines": [
       "Aditya Dhar lauds Yash for 'Toxic', amid the film facing backlash after being compared to 'Dhurandhar'"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
+  },
+  {
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
+    "news_count": 1,
+    "headlines": [
+      "Bill to set up Frontier Nagaland Territorial Authority tabled in Assembly"
+    ],
+    "last_updated": "2026-09-02 02:35:21 AM"
+  },
+  {
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
+    "news_count": 1,
+    "headlines": [
+      "Truck Drivers Halt Traffic, Allege Harassment Amid Assam-Mizoram Dispute"
+    ],
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "HR",
@@ -303,7 +313,7 @@
     "headlines": [
       "Faridabad Girl, Punished In School Over Biryani Fight, Dies By Suicide"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   },
   {
     "Code": "UT",
@@ -314,6 +324,6 @@
     "headlines": [
       "Heavy rain in Uttarakhand triggers waterlogging in Nainital, Bhimtal; flood-like situation on roads | Visuals"
     ],
-    "last_updated": "2026-09-02 01:35:34 AM"
+    "last_updated": "2026-09-02 02:35:21 AM"
   }
 ]
