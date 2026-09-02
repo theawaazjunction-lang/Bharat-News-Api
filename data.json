@@ -4,12 +4,12 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 40,
+    "news_count": 37,
     "headlines": [
+      "Delhi bus gang-rape case: At minor’s UP village, locked house and silence",
       "Irani Cup, Asian Games and ODIs leave little room to prepare for NZ series, BGT",
       "California moves $125m toward turning former racetrack into waterfront park",
       "Kota girl, 15, dies at AIIMS Delhi after 13-year wait for heart surgery",
-      "After 6 Surgeries, Delhi Man Recovers From Rare Skull Bone TB After 2.5-Year Ordeal",
       "The south’s muted voice as political power shifts north",
       "Delhi High Court seeks Centre, FSSAI’s response to plea against ‘ban’ on Fortune soyabean refined oil",
       "ED raids multiple States in fraud NHAI toll plaza collection case",
@@ -32,9 +32,6 @@
       "Delhi school under scanner for operating without recognition, may get shut down",
       "Nepal flash flood death toll rises to 1,127",
       "Nifty set to open lower as oil hits near-six-week high on US-Iran strikes",
-      "Tata Motors gets ECB nod for ₹40,000-crore Iveco takeover",
-      "Three South Indian medtech startups get an Israel launchpad",
-      "Milky Mist Dairy Food shares surge 10% on strong Q1 growth",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -47,14 +44,14 @@
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places",
       "A man bought 51,000 acres of degraded land in Florida; decades later, it is the largest private restoration project east of the Mississippi"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
       "Bombay HC orders CBI probe into Sushant Singh Rajput’s ex-manager Disha Salian's death",
       "Congress attacks BJP over exclusion of over 2 crore voters in Maharashtra SIR",
@@ -62,9 +59,10 @@
       "Rahul Gandhi to visit Nashik on Wed; his 2nd trip to Maharashtra in 11 days",
       "Retail sugar prices in India still ruling above ₹60 a kg despite fall in mill-level and wholesale rates",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Bombay HC directs CBI probe into ex-celebrity manager Disha death case",
       "EXCLUSIVE: Mirzapur The Movie actors Divyenndu and Ali Fazal to host a one-of-a-kind party on August 27 ahead of the film's September 4 release; actors of the franchise to attend"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "KL",
@@ -73,15 +71,15 @@
     "State": "Kerala",
     "news_count": 7,
     "headlines": [
-      "Wayanad monsoon crisis: rainfall deficit hits 37% amid El Niño impact",
       "Smuggled liquor, bullets seized from rented house in Kozhikode district",
+      "Wayanad monsoon crisis: rainfall deficit hits 37% amid El Niño impact",
       "The man behind some of Mappilapattu’s enduring melodies",
       "Munavvar Ali Thangal seeks to play down Kanthapuram circular controversy",
-      "Car catches fire at Eenchakkal in Thiruvananthapuram",
+      "Kerala targets 2 lakh Arab tourists, eyes ₹5,000 crore tourism revenue",
       "‘Sultan of Mappila songs’ Kozhikode Aboobacker passes away",
       "At 14, a Kerala girl built a washing machine that needed no electricity"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "WB",
@@ -91,13 +89,13 @@
     "news_count": 6,
     "headlines": [
       "Started by a Muslim, a Kolkata Janmashtami turns ‘Hindu-only’",
+      "Makaibari to tie up with small tea growers in Darjeeling",
       "ED raids multiple States in fraud NHAI toll plaza collection case",
       "Mamata Banerjee’s niece found dead at home in Birbhum",
       "West Bengal to levy fine over spitting, defecating, dumping waste: Govt",
-      "Mamata Banerjee’s niece Bristi Mukherjee found hanging at Birbhum residence",
-      "Indian govt tightens sugar stock limit, cuts traders’ limit by half"
+      "Mamata Banerjee’s niece Bristi Mukherjee found hanging at Birbhum residence"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "MN",
@@ -113,91 +111,77 @@
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 5,
-    "headlines": [
-      "District Entomologist posts remain vacant in over 40 Health Unit Districts in T.N.",
-      "When the Election Commission cancelled a bypoll in Tamil Nadu after Jayalalithaa launched welfare schemes",
-      "AIADMK's Palaniswami jibes TVK over ‘Vijay as PM’ pitch: ‘Could even become US President’",
-      "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs",
-      "Woman’s dismembered body found in overhead tanks of Tamil Nadu houses: Cops"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 5,
-    "headlines": [
-      "‘No sexual intent’: HC quashes harassment case over man’s public urination",
-      "Congress MLA’s letter to CM exposes high level of corruption in Karnataka: BJP MLA",
-      "Karnataka urges Centre to give early clearance for pending irrigation and drinking water projects including revised DPR of Mekedatu",
-      "Congress will form counter-strategy to politically tackle BJP’s padayatra: Karnataka Chief Minister",
-      "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
       "Amid 'very long meetings' and running chess world, has Anand lost 'hunger' to win?",
       "Stock recommendations for today - check list",
+      "ED raids payment companies, CAs in online betting case",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Andhra Student Dies After Taking Anti-Malaria Tablet, Over 50 Hospitalised",
+      "Wild elephant electrocuted in Chittoor district; Pawan Kalyan orders inquiry",
+      "Naidu orders speedy construction of 5,000 temples across Andhra Pradesh",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 4,
+    "headlines": [
+      "District Entomologist posts remain vacant in over 40 Health Unit Districts in T.N.",
+      "AIADMK's Palaniswami jibes TVK over ‘Vijay as PM’ pitch: ‘Could even become US President’",
+      "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs",
+      "Woman’s dismembered body found in overhead tanks of Tamil Nadu houses: Cops"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 4,
+    "headlines": [
+      "‘No sexual intent’: HC quashes harassment case over man’s public urination",
+      "Congress MLA’s letter to CM exposes high level of corruption in Karnataka: BJP MLA",
+      "Karnataka urges Centre to give early clearance for pending irrigation and drinking water projects including revised DPR of Mekedatu",
+      "‘Prove my role, I’ll retire’: Karanataka minister Priyank Kharge challenges HD Kumaraswamy over KPSC row"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 4,
+    "news_count": 3,
     "headlines": [
       "Bihar appoints Patna HC judge to head exams reforms committee",
       "‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens",
-      "Maharashtra, Assam, Bengal, Bihar join Centre in SC bid to quash FIRs against CJP protesters",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "Back-to-back glitches at Jaipur exam centre bring computer-based testing under scrutiny",
-      "Rajasthan local body polls: Congress launches ‘Gen Z for Change’ campaign",
-      "Jaipur Literature Festival to celebrate 20th edition in January 2027"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 3,
-    "headlines": [
-      "Naveen Patnaik urges BJP MPs to seek reversal of mining Act amendment",
-      "Odisha govt rejects Opposition demand for special Assembly session on mining Bill",
-      "Three killed in separate wall collapse incidents in Odisha amid heavy rainfall"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "GA",
@@ -210,7 +194,20 @@
       "Goa passes bill to drop ‘leprosy’ references from child law to eliminate social stigma",
       "Goa assembly toughens prison rules, makes phone possession punishable with 3 years in jail"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
+    "headlines": [
+      "Back-to-back glitches at Jaipur exam centre bring computer-based testing under scrutiny",
+      "Rajasthan local body polls: Congress launches ‘Gen Z for Change’ campaign",
+      "Jaipur Literature Festival to celebrate 20th edition in January 2027"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "HR",
@@ -223,7 +220,33 @@
       "Haryana private hospitals suspend Ayushman services over outstanding dues",
       "Girl jumps off Faridabad school roof, dies; dad says made to stand in sun for hours"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Naveen Patnaik urges BJP MPs to seek reversal of mining Act amendment",
+      "Odisha govt rejects Opposition demand for special Assembly session on mining Bill",
+      "Three killed in separate wall collapse incidents in Odisha amid heavy rainfall"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "140 kmph, Rs 21.5 lakh and a dream: Shubham Gautam's rise from Narora",
+      "Lucknow University students protest against hostel fee hike, demands rollback",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "AS",
@@ -235,43 +258,7 @@
       "UP: Heavy rain shuts schools in Lakhimpur Kheri, boats out in Varanasi",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Andhra Student Dies After Taking Anti-Malaria Tablet, Over 50 Hospitalised",
-      "Naidu orders speedy construction of 5,000 temples across Andhra Pradesh"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Lucknow University students protest against hostel fee hike, demands rollback",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "Fake currency worth  ₹17 crore found at Punjab National Bank chest, SIT set up for probe",
-      "₹14k-crore DA dues in 14 days ‘constitutionally impossible’: Punjab government to Supreme Court"
-    ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "JK",
@@ -283,7 +270,30 @@
       "ED raids multiple States in fraud NHAI toll plaza collection case",
       "‘Cauvery our legal right’: Tamil Nadu CM Vijay opens Mettur dam for Samba rice cultivation, drinking water needs"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Fake currency worth  ₹17 crore found at Punjab National Bank chest, SIT set up for probe",
+      "₹14k-crore DA dues in 14 days ‘constitutionally impossible’: Punjab government to Supreme Court"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "4 Children Of A Family Die Days After Visiting Madhya Pradesh Waterfall, Probe On"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "NL",
@@ -294,7 +304,7 @@
     "headlines": [
       "Bill to set up Frontier Nagaland Territorial Authority tabled in Assembly"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "SK",
@@ -305,7 +315,18 @@
     "headlines": [
       "Sikkim Proposes 3 Ways To Mitigate Glacial Lake Outburst Flood Risks"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 1,
+    "headlines": [
+      "Drug given to prevent malaria sends 52 Andhra villagers to hospital; girl, 7, dead, 23 more children moved to Telangana"
+    ],
+    "last_updated": "2026-09-02 12:35:33 PM"
   },
   {
     "Code": "UT",
@@ -316,6 +337,6 @@
     "headlines": [
       "Heavy rain in Uttarakhand triggers waterlogging in Nainital, Bhimtal; flood-like situation on roads | Visuals"
     ],
-    "last_updated": "2026-09-02 11:36:54 AM"
+    "last_updated": "2026-09-02 12:35:33 PM"
   }
 ]
