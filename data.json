@@ -4,12 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 24,
+    "news_count": 26,
     "headlines": [
+      "Teacher's welding dream turns into North Dakota's 32-mile giant sculpture highway",
       "'I love playing Test cricket': After Duleep Trophy heroics, Tilak Varma opens up on his India ambition",
       "Delhi Investor Found Dead, Niece Among 3 Arrested In Robbery-Murder Case",
+      "Maternity leave cannot lead to loss of role or career prospects: Delhi HC",
       "After missing deadline, Bengaluru’s Namma Metro Pink Line’s 7.5-km stretch ready, inauguration expected in September",
       "Will Jagan claim credit for Polavaram too, questions TDP leader",
+      "Maintenance to estranged wife 'cannot go beyond husband's means': Delhi court",
       "Delhi HC asks Centre, police, govt to frame SOP for transgender arrests, detention",
       "Kiren Rijiju vs Congress again. But now over India's GDP: 'Drinking too much beer or blind loathing'",
       "No curtains, black films: Delhi tightens bus safety rules after Greater Noida gangrape",
@@ -22,7 +25,6 @@
       "HT Exclusive: Returning to Bangladesh on my own, no extradition link, says ex-PM Sheikh Hasina",
       "Train passenger deboarded, booked for lighting 'diya' on berth, says central railway",
       "Equities extend losses as West Asia tensions push crude higher",
-      "EU study questions South Asian ship recycling",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -31,34 +33,18 @@
       "'The more you bowl, the stronger you become': Gurnoor Brar",
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 9,
-    "headlines": [
-      "Telangana Migrant Worker Killed In Russian Missile Attack On Ukraine",
-      "Telangana govt. makes it mandatory to account for construction debris at building permission stage",
-      "Traffic curbs for flyover inaugural on Nalgonda X Road -Saidabad stretch",
-      "Option to raise objection against Hyderabad (CURE) affordable flat beneficiaries on TGHB website",
-      "Hyderabad to get India’s first Olympic-standard BMX Supercross track",
-      "4 AK-203 rifles among 11 weapons stolen from army facility in Telangana",
-      "Telangana CM Revanth Reddy seeks Centre’s support to boost defence investments in State",
-      "Telangana wants Centre to procure pulses, maize, jowar",
-      "‘Issue eligibility cards to tenant farmers’"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 9,
+    "news_count": 12,
     "headlines": [
+      "T.N. CM announces major drinking water and underground sewage projects for Madurai; ₹1,850-cr for road repairs in Chennai and urban areas",
+      "Tamil Nadu Assembly | Files on sanitation workers’ demands ready, says Minister",
+      "Singai G. Ramachandran appointed Chairperson of Tamil Nadu Startup and Innovation Mission",
       "Mettur dam built at  ₹4.80 cr, CM Vijay's visit cost  ₹5 cr, alleges Tamil Nadu BJP chief",
       "'Rahul Gandhi will make Vijay sit in PM chair in 2029': TVK MLA amid prime minister pitch row over Tamil Nadu CM",
       "Tamil Nadu Assembly sees ‘Nagadosham’ vs ‘Jaladosham’ banter as ministers debate over snakebite incidents",
@@ -69,59 +55,27 @@
       "Inside Aditi Rao Hydari, Siddharth's 4000 sq feet Chennai home which is poetic",
       "Antony Varghese reveals why he missed Thalapathy Vijay’s ‘Master’"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 8,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 10,
     "headlines": [
-      "Wild elephant electrocuted in Chittoor district; Pawan Kalyan orders inquiry",
-      "Kurnool set to receive 91 electric garbage vehicles to enhance city cleanliness",
-      "A.P. CM Naidu stresses river interlinking to transform Uttarandhra into Uttamandhra",
-      "Police arrest man for series of house burglaries, recover valuables worth ₹84 lakh",
-      "Godavari waters reach Anakapalli in AP, easing water concerns for data centres in Vizag",
-      "Trisha Krishnan announces new Tamil film with Raja Krishna Menon",
-      "Laalo Telugu remake: Vijay replaces Ram Charan as Lord Krishna",
-      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+      "Telangana Migrant Worker Killed In Russian Missile Attack On Ukraine",
+      "Floating restaurants, dine-in cruise boats and houseboats proposed across Telangana’s six waterbodies",
+      "Telangana govt makes it mandatory to account for construction debris at building permission stage",
+      "158 medical shops across Telangana issued show-cause notices for illegal sale of prescription drugs",
+      "Hyderabad to get India’s first Olympic-standard BMX Supercross track",
+      "Traffic curbs for flyover inaugural on Nalgonda X Road -Saidabad stretch",
+      "4 AK-203 rifles among 11 weapons stolen from army facility in Telangana",
+      "Telangana CM Revanth Reddy seeks Centre’s support to boost defence investments in State",
+      "Telangana wants Centre to procure pulses, maize, jowar",
+      "‘Issue eligibility cards to tenant farmers’"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 7,
-    "headlines": [
-      "After 200 Years, A Girl Is Born In Maharashtra Family, Gets Grand Welcome",
-      "Disha Salian Death Case: 6 Years, Several Questions, And CBI Probe",
-      "Rahul Gandhi asks party leaders to stand solidly by Congress ideology; gives jujutsu demo",
-      "Mallojula Venugopal Rao alias Bhupati: From dreaded Maoist to Gondwana University coordinator in Gadchiroli",
-      "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Sourav Ganguly to attend BCCI AGM on September 18 in Mumbai"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
-    "headlines": [
-      "T J Marce, 74, braves -20C cold and 65 kmph winds to climb Mt Elbrus",
-      "House surgeons continue strike at Palakkad medical college",
-      "Keralam Cabinet decides to extend validity of 18 PSC rank lists of teachers",
-      "Kerala Minister’s assurance on bringing home Anjana’s body from U.S.",
-      "Thrissur Vigilance Court orders case against Chalakudy MLA over alleged bribe demand",
-      "Palakkad division bifurcation is Centre’s ‘biggest betrayal’ of Keralam: V.M. Sudheeran",
-      "Kiren Rijiju vs Congress again. But now over India's GDP: 'Drinking too much beer or blind loathing'"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "UP",
@@ -138,23 +92,53 @@
       "140 kmph, Rs 21.5 lakh and a dream: Shubham Gautam's rise from Narora",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
+    "Code": "MH",
+    "Lat": 19.7515,
     "Long": 75.7139,
-    "State": "Karnataka",
+    "State": "Maharashtra",
     "news_count": 6,
     "headlines": [
-      "‘Sita’s character greater than Ram’s’: DKS urges women to take leadership roles",
-      "Shivamogga DC directs officers to auction seized sand as per law",
-      "Declare Kalaburagi district as drought-hit: BJP to Karnataka government",
-      "Historic Shivappa Nayaka Palace in Shivamogga renovated, needs staff for maintenance",
-      "Dissolve Karnataka Assembly and face polls, Vijayendra challenges government",
-      "Karnataka woman arrested after 4-month-old twin daughters found dead at home"
+      "After 200 Years, A Girl Is Born In Maharashtra Family, Gets Grand Welcome",
+      "Disha Salian Death Case: 6 Years, Several Questions, And CBI Probe",
+      "‘If there’s a will, there's a way': FSSAI CEO praises Maharashtra FDA's Tukaram Mundhe",
+      "Novonesis bets ₹6,660 crore on Maharashtra to build emerging-markets enzyme hub",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Sourav Ganguly to attend BCCI AGM on September 18 in Mumbai"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "Y.S. Rajasekhar Reddy will continue to be in hearts of Cong. leaders: Srikakulam DCC president",
+      "Wild elephant electrocuted in Chittoor district; Pawan Kalyan orders inquiry",
+      "Godavari waters reach Anakapalli in AP, easing water concerns for data centres in Vizag",
+      "Trisha Krishnan announces new Tamil film with Raja Krishna Menon",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+    ],
+    "last_updated": "2026-09-02 09:35:36 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 5,
+    "headlines": [
+      "Punjab polls: BJP rules out SAD tie-up, to fight solo in all 117 seats",
+      "BJP seeks CM’s resignation, CBI probe into corruption allegations in Punjab",
+      "'Alarming apathy': India lambasts Pakistan over demolition of century-old Punjab temple",
+      "Fake currency worth  ₹17 crore found at Punjab National Bank chest, SIT set up for probe",
+      "₹14k-crore DA dues in 14 days ‘constitutionally impossible’: Punjab government to Supreme Court"
+    ],
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "MN",
@@ -169,7 +153,36 @@
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic",
       "EXCLUSIVE: Rangbaaz Season 4 shooting begins next week; Grahan director Ranjan Chandel to helm new season"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
+    "headlines": [
+      "T J Marce, 74, braves -20C cold and 65 kmph winds to climb Mt Elbrus",
+      "Cashew-import scam: Kerala High Court directs VACB to clarify how accused received prosecution sanction order",
+      "Final report filed in the death of 18-month-old child in Nedumangad, Kerala High Court informed",
+      "House surgeons continue strike at Palakkad medical college",
+      "Kiren Rijiju vs Congress again. But now over India's GDP: 'Drinking too much beer or blind loathing'"
+    ],
+    "last_updated": "2026-09-02 09:35:36 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 4,
+    "headlines": [
+      "‘Sita’s character greater than Ram’s’: DKS urges women to take leadership roles",
+      "Over 2,500 Guarantee Committee members will be appointed in Mandya district soon: Dinesh Gooligowda",
+      "NITI Aayog tells Karnataka to consider building a ‘second Bengaluru’ to ease pressure on capital",
+      "Karnataka woman arrested after 4-month-old twin daughters found dead at home"
+    ],
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "AS",
@@ -182,20 +195,7 @@
       "Assam school teacher held for killing wife, three children over financial distress",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "Bihar appoints Patna HC judge to head exams reforms committee",
-      "‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "GJ",
@@ -208,7 +208,20 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Amid 'very long meetings' and running chess world, has Anand lost 'hunger' to win?"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bihar appoints Patna HC judge to head exams reforms committee",
+      "‘Don’t eat, buy or sell fish caught in Nepal floodwaters': Bihar warns citizens",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "UT",
@@ -220,19 +233,7 @@
       "12 Dead Across Uttarakhand Since Yesterday, Heavy Rain Alert For 3 Districts",
       "Orange alert issued for 3 Uttarakhand districts; 12 dead in rain-related incidents"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "Kargil war veteran attempts suicide after 24-year wait for promised land grant",
-      "Kargil gets second passport seva kendra | Check details here"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "GA",
@@ -244,19 +245,7 @@
       "Goa passes bill to drop ‘leprosy’ references from child law to eliminate social stigma",
       "Goa assembly toughens prison rules, makes phone possession punishable with 3 years in jail"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "Fake currency worth  ₹17 crore found at Punjab National Bank chest, SIT set up for probe",
-      "₹14k-crore DA dues in 14 days ‘constitutionally impossible’: Punjab government to Supreme Court"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "OD",
@@ -268,7 +257,19 @@
       "Six Odisha natives held with 53 kg ganja",
       "Three killed in separate wall collapse incidents in Odisha amid heavy rainfall"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Kargil war veteran attempts suicide after 24-year wait for promised land grant",
+      "Kargil gets second passport seva kendra | Check details here"
+    ],
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "RJ",
@@ -280,18 +281,7 @@
       "Three injured after speeding SUV of former Minister's wife hits e-rickshaw in Jaipur",
       "Dilapidated Jaipur school, where CJP workers were attacked, demolished; new building soon"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
-    "headlines": [
-      "Jharkhand BJP seeks CBI probe into exam irregularities"
-    ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "HR",
@@ -302,7 +292,7 @@
     "headlines": [
       "Girl jumps off Faridabad school roof, dies; dad says made to stand in sun for hours"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "MZ",
@@ -313,7 +303,7 @@
     "headlines": [
       "Assam truckers lift 70-hour blockade after Mizoram assures vehicle safety"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "MP",
@@ -324,7 +314,7 @@
     "headlines": [
       "Rahul's 'Chhatron Ki Goonj' event in Indore postponed after MP govt snub: Congress"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "TR",
@@ -335,7 +325,7 @@
     "headlines": [
       "Man Beaten To Death Over Cattle Theft Suspicion In Tripura's Khowai"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   },
   {
     "Code": "JK",
@@ -346,6 +336,6 @@
     "headlines": [
       "Security tightened in Srinagar as the BJP and Omar Abdullah's NC take to the streets. What's happening?"
     ],
-    "last_updated": "2026-09-02 08:40:21 PM"
+    "last_updated": "2026-09-02 09:35:36 PM"
   }
 ]
