@@ -4,18 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 29,
     "headlines": [
       "Thar crushes bike-borne man, woman in Delhi Cantt; both die",
-      "West Virginia high school built in 1923 reopens as 40-room hotel",
       "\"I Don't Think Too Long\": Trump Says Iran Strikes Likely To Be Short-Lived",
       "\"No Nation Should Help Iran\": Rubio's 'Sanctions' Warning After PM Modi-Pezeshkian Meet",
+      "Delhi Police detains ex-bureaucrat over online activity, releases him later",
       "Delhi HC asks police to reply to ex-AAP councillor Tahir Hussain's appeal in IB officer murder case",
       "Rotten meat, spoiled milk seized across Bengal as food safety raids widen",
       "Differences surface in CPI(M) Keralam leadership about Assembly poll debacle",
-      "River-linking is not the solution",
-      "CGPSC scam: Ex-Baghel aide’s name used by relative to influence candidates, says ED",
-      "West Bengal CM drives roller over 2 lakh cough syrup bottles in anti-drug drive",
       "Delhi HC rejects petition against closure of Vizag airport",
       "Supreme Court allows boy’s return to father in Canada after six years",
       "Border area ‘unusual’ cash deposits under security agencies’ scanner; discussed in NSS conference",
@@ -39,27 +36,29 @@
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch",
       "EXCLUSIVE: CBFC cuts 35 seconds of intimate scenes in Mirzapur The Movie; mutes cuss words in 4 places, replaces abuses in 6 places"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 10,
+    "news_count": 12,
     "headlines": [
       "I’ve watched Chennai grow and change through the years",
       "CM announces ₹1,850-cr for road repairs in Chennai and other urban areas",
       "Engineering education symposium in Chennai explores AI, industry needs and future-ready skills",
+      "Madras HC dismisses MK Stalin’s plea challenging Vijay team's Kolathur victory",
       "DMK’s in a mood of reflection and retrospection",
       "Mettur dam built at  ₹4.80 cr, CM Vijay's visit cost  ₹5 cr, alleges Tamil Nadu BJP chief",
       "'Rahul Gandhi will make Vijay sit in PM chair in 2029': TVK MLA amid prime minister pitch row over Tamil Nadu CM",
       "Tamil Nadu Assembly sees ‘Nagadosham’ vs ‘Jaladosham’ banter as ministers debate over snakebite incidents",
       "Smartphone ban at 52 Tamil Nadu temples with a  ₹5-rule and an exception",
       "Madras HC seeks status report on 85 Tamil Nadu pilgrims missing in Nepal flood",
+      "Tamil Nadu plans ₹1,200-crore Assembly, Secretariat complex in Chennai",
       "UrbanVault forays into Chennai with 1,00,000 sq ft of office space across three properties"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "MH",
@@ -78,72 +77,57 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
-      "Police vehicle removed from outside Pinarayi Vijayan's Kannur residence, but guards continue duty",
-      "Farmers’ groups, Catholic Church, and local MLA from Keralam demand an exclusively high-range district",
+      "How Super League Kerala is trying to build Indian football from the ground up",
       "Row over Kanthapuram directive limiting women’s public participation grows as Samastha defends ‘right to preach’",
-      "Tense scenes as SFI stages march to Secretariat in Kerala",
+      "Police remove vehicle used as ‘makeshift station’ from outside Pinarayi Vijayan's Kannur residence, but guards continue duty",
       "Consent irrelevant in POCSO cases, says Kerala High Court",
+      "Farmers’ groups, Catholic Church, and local MLA from Keralam demand an exclusively high-range district",
+      "Tense scenes as SFI stages march to Secretariat in Kerala",
       "Rare Fulvous whistling duck spotted in Keralam’s Malappuram",
       "Kiren Rijiju vs Congress again. But now over India's GDP: 'Drinking too much beer or blind loathing'"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 7,
-    "headlines": [
-      "Op Sindoor commander Jeetendra Mishra selected as Ayodhya Ram temple’s first CEO",
-      "Govt. job aspirants protest outside Uttar Pradesh Deputy CM’s residence over delay in recruitment",
-      "‘Grateful to Lord Ram’: Retd Air Marshal Jeetendra Mishra’s first reaction after being named Ayodhya temple’s first CEO",
-      "Ayodhya Ram temple gets first CEO, 3 new members | Check full list of appointees",
-      "AIMIM's Syed Asim Waqar joins Congress, says Owaisi-led party fights everyone who wants to remove BJP",
-      "140 kmph, Rs 21.5 lakh and a dream: Shubham Gautam's rise from Narora",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-03 10:53:26 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 6,
-    "headlines": [
-      "Video: Free For All At Trinamool's Kolkata Office As Men Flee With Flat Screens",
-      "Rotten meat, spoiled milk seized across Bengal as food safety raids widen",
-      "Trinamool Congress leader Abhishek Banerjee’s office ransacked in Kolkata",
-      "West Bengal CM drives roller over 2 lakh cough syrup bottles in anti-drug drive",
-      "Masked men ransack, loot TMC leader Abhishek Banerjee’s office in Kolkata",
-      "Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack"
-    ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
       "4-Year-Old Girl Attacked By Stray Dogs While Playing At Home In Karnataka",
+      "Mysuru district Kannada Sahitya Parishat President Maddikere Gopal passes away",
       "PM KUSUM C: Where the sun keeps water pumpsets running in Karnataka",
       "BJP seeks sacking of two Ministers over Congress MLA’s allegation of corruption in Karnataka",
       "SC/ST quota medical seats in Karnataka see sharp decline after reconfiguration of reservation matrix",
       "Karnataka woman arrested after 4-month-old twin daughters found dead at home"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 6,
+    "headlines": [
+      "Op Sindoor commander Jeetendra Mishra selected as Ayodhya Ram temple’s first CEO",
+      "Govt. job aspirants protest outside Uttar Pradesh Deputy CM’s residence over delay in recruitment",
+      "‘Grateful to Lord Ram’: Retd Air Marshal Jeetendra Mishra’s first reaction after being named Ayodhya temple’s first CEO",
+      "Ayodhya Ram temple gets first CEO, 3 new members | Check full list of appointees",
+      "AIMIM's Syed Asim Waqar joins Congress, says Owaisi-led party fights everyone who wants to remove BJP",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "TG",
@@ -158,63 +142,22 @@
       "Issue eligibility cards to tenant farmers: Telangana all-party meet urges govt",
       "Sandeep Anand gets bail in Hyderabad hit-and-run case"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
     "headlines": [
-      "Janmashtami celebrations by Hare Krishna Trust on Sept. 4, 5",
-      "Delhi HC rejects petition against closure of Vizag airport",
-      "Delhi HC dismisses petition against closing Vizag airport operations",
-      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+      "Video: Free For All At Trinamool's Kolkata Office As Men Flee With Flat Screens",
+      "Trinamool Congress leader Abhishek Banerjee’s office ransacked in Kolkata",
+      "Rotten meat, spoiled milk seized across Bengal as food safety raids widen",
+      "Masked men ransack, loot TMC leader Abhishek Banerjee’s office in Kolkata",
+      "Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Rare Fulvous whistling duck spotted in Keralam’s Malappuram",
-      "Assam truckers lift 70-hour blockade after Mizoram assures vehicle safety",
-      "Assam school teacher held for killing wife, three children over financial distress",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-03 10:53:26 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 4,
-    "headlines": [
-      "Pilot Abhinandan Varthaman, Who Shot Down Pak Jet, Retires From IAF And Joins Goa Airline: Report",
-      "Former Indian Air Force Group Captain Abhinandan Varthaman joins regional airline FLY91 as pilot",
-      "'Drishyam The Conclusion' trailer gets U/A 16+ certificate, Goa launch on Sept 8 or 9",
-      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
-    ],
-    "last_updated": "2026-09-03 10:53:26 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
-      "55km Indo-Myanmar border fencing completed, says Manipur home minister",
-      "Manipur violence: 25 more houses set ablaze in Kangpokpi a day after 10 homes torched",
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
-    ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "GJ",
@@ -228,7 +171,49 @@
       "Amid 'very long meetings' and running chess world, has Anand lost 'hunger' to win?",
       "Sandeep Anand gets bail in Hyderabad hit-and-run case"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 4,
+    "headlines": [
+      "Rare Fulvous whistling duck spotted in Keralam’s Malappuram",
+      "Assam truckers lift 70-hour blockade after Mizoram assures vehicle safety",
+      "Assam school teacher held for killing wife, three children over financial distress",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-03 11:38:41 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 4,
+    "headlines": [
+      "Pilot Abhinandan Varthaman, Who Shot Down Pak Jet, Retires From IAF And Joins Goa Airline: Report",
+      "Former Indian Air Force Group Captain Abhinandan Varthaman joins regional airline FLY91 as pilot",
+      "'Drishyam The Conclusion' trailer gets U/A 16+ certificate, Goa launch on Sept 8 or 9",
+      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
+    ],
+    "last_updated": "2026-09-03 11:38:41 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 4,
+    "headlines": [
+      "2 Kuki-Zo MLAs set foot in Imphal for 1st time in 3 years",
+      "55km Indo-Myanmar border fencing completed, says Manipur home minister",
+      "Manipur violence: 25 more houses set ablaze in Kangpokpi a day after 10 homes torched",
+      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
+    ],
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "PB",
@@ -242,30 +227,45 @@
       "Op Sindoor planner tied to choosing terror targets in Pakistan: Who is Ram Temple CEO Jeetendra Mishra?",
       "'Alarming apathy': India lambasts Pakistan over demolition of century-old Punjab temple"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "Bihar Cabinet approves allocation of ₹9169 crore for ULBs",
       "Bihar on alert as major rivers swell following heavy rains, all 69 gates of Sone Barrage opened",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
     "headlines": [
-      "Odisha warns of fresh flooding in Balasore as Subarnarekha rises"
+      "Delhi HC rejects petition against closure of Vizag airport",
+      "Delhi HC dismisses petition against closing Vizag airport operations",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "'Baseless, born of animosity': Rajasthan HC acting Chief Justice slams SC judge's graft charge",
+      "Dilapidated Jaipur school, where CJP workers were attacked, demolished; new building soon"
+    ],
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "HP",
@@ -276,18 +276,18 @@
     "headlines": [
       "JPC on Viksit Bharat bill to meet on Sept 11"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
     "news_count": 1,
     "headlines": [
       "Odisha warns of fresh flooding in Balasore as Subarnarekha rises"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "MZ",
@@ -298,7 +298,7 @@
     "headlines": [
       "Assam truckers lift 70-hour blockade after Mizoram assures vehicle safety"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "ML",
@@ -309,7 +309,7 @@
     "headlines": [
       "‘Not happy’: Meghalaya HC questions police over August 19 violence probe"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "MP",
@@ -320,7 +320,18 @@
     "headlines": [
       "'No complaint, no insult': MP denies nod to prosecute BJP neta for Col Qureshi remarks"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "Odisha warns of fresh flooding in Balasore as Subarnarekha rises"
+    ],
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "JK",
@@ -331,18 +342,7 @@
     "headlines": [
       "Security tightened in Srinagar as the BJP and Omar Abdullah's NC take to the streets. What's happening?"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 1,
-    "headlines": [
-      "Dilapidated Jaipur school, where CJP workers were attacked, demolished; new building soon"
-    ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "LA",
@@ -353,7 +353,7 @@
     "headlines": [
       "Kargil gets second passport seva kendra | Check details here"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   },
   {
     "Code": "UT",
@@ -364,6 +364,6 @@
     "headlines": [
       "Orange alert issued for 3 Uttarakhand districts; 12 dead in rain-related incidents"
     ],
-    "last_updated": "2026-09-03 10:53:26 AM"
+    "last_updated": "2026-09-03 11:38:41 AM"
   }
 ]
