@@ -4,9 +4,8 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 31,
+    "news_count": 30,
     "headlines": [
-      "West Virginia's 1906 coal bridges are being rebuilt for hikers for $11.8m",
       "Apple and Google rename Lake Ontario to Lake America; one app refuses Trump’s order",
       "8th pay commission: How level 8 staff could earn up to Rs 28.89 lakh extra in 10 yrs",
       "Delhi Government Announces Holiday On September 11 Ahead Of BRICS Summit",
@@ -38,7 +37,7 @@
       "Amazon River pours 28 billion gallons into Atlantic, reducing salinity 100 miles offshore",
       "Meet Aadit Krishna, the 15-year-old student who built a floating device to remove PFAS"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "TN",
@@ -64,16 +63,17 @@
       "GST collections see wide divergence across top States in GST 2.0 regime",
       "Avalon Technologies and Zollner Elektronik AG ink JV for a new EMS facility near Chennai"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 10,
+    "news_count": 11,
     "headlines": [
       "KPSC irregularities: K'taka govt suspends IAS officer facing probe",
+      "Big Relief For Karnataka Teachers Suspended For Taking Part In RSS March",
       "BJP seeks sacking of two Ministers over Congress MLA’s allegation of corruption in Karnataka",
       "MLC flags non-disbursal of nutrition kits in Karnataka",
       "Belagavi district administration seeks transfer of Cantonment land",
@@ -84,7 +84,7 @@
       "GST collections see wide divergence across top States in GST 2.0 regime",
       "Wipro Kawasaki to set up new manufacturing plant at Harohalli near Bengaluru"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "MH",
@@ -104,7 +104,7 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "WB",
@@ -121,7 +121,7 @@
       "Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack",
       "West Bengal anti-corruption panel searches firms co-owned by former Kolkata mayor Firhad Hakim"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "BR",
@@ -138,7 +138,7 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "GJ",
@@ -154,7 +154,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "KL",
@@ -170,7 +170,7 @@
       "Muttil tree-felling case: Kerala High Court refuses to stay trial court proceedings against accused",
       "How Super League Kerala is trying to build Indian football from the ground up"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "AS",
@@ -184,7 +184,7 @@
       "Assam constable held for shooting dead 2 colleagues with AK-47 at police outpost",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "UP",
@@ -198,7 +198,7 @@
       "India’s Uttar Pradesh government withdraws order to cap mill-level sugar prices",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "TG",
@@ -212,7 +212,7 @@
       "Telangana CM Revanth Reddy sacks forest minister Konda Surekha",
       "Telangana minister Surekha refuses to quit, dares Congress high command to sack her"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "AP",
@@ -226,7 +226,7 @@
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "UT",
@@ -239,7 +239,7 @@
       "Uttarakhand needs long-term strategy suited to Himalayan challenges: CM Dhami",
       "Kharge writes to Nadda for urgent action over Uttarakhand ritual after his rally"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "PB",
@@ -252,7 +252,7 @@
       "Top Congress leaders discuss Punjab factionalism, possible Cabinet reshuffle in Himachal Pradesh",
       "Raghav Chadha claims name ‘shifted’ in Punjab draft electoral rolls, AAP denies hand"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "GA",
@@ -265,19 +265,7 @@
       "Stray dogs from public places in Goa to be shifted to shelters: Minister",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "Yamunanagar woman stabbed multiple times by neighbour in front of 4-year-old son, dies",
-      "'IED will detonate at…': Gurugram civic body office receives bomb threat email, evacuated"
-    ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "HP",
@@ -289,43 +277,7 @@
       "Top Congress leaders discuss Punjab factionalism, possible Cabinet reshuffle in Himachal Pradesh",
       "House panel on Viksit Bharat bill to meet on September 11"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
-    "headlines": [
-      "Supreme Court asks NHAI to consider setting up CCTVs, monitoring rooms at toll plazas",
-      "'Baseless, born of animosity': Rajasthan HC acting Chief Justice slams SC judge's graft charge"
-    ],
-    "last_updated": "2026-09-04 01:35:13 AM"
-  },
-  {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
-    "news_count": 2,
-    "headlines": [
-      "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority",
-      "Nagaland Assembly urges Centre to withdraw Protected Area Permit regime"
-    ],
-    "last_updated": "2026-09-04 01:35:13 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Odisha passenger train detained after engine fire report near Khurda Road",
-      "North Odisha flood situation grim; 373 villages inundated"
-    ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "LA",
@@ -337,7 +289,54 @@
       "Ladakh to have seven hill councils now, elections for new LAHDCs soon",
       "Kargil War veteran attempts suicide in Karnataka over delay in land allotment for more than 20 years"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "Supreme Court asks NHAI to consider setting up CCTVs, monitoring rooms at toll plazas",
+      "'Baseless, born of animosity': Rajasthan HC acting Chief Justice slams SC judge's graft charge"
+    ],
+    "last_updated": "2026-09-04 02:35:44 AM"
+  },
+  {
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
+    "news_count": 2,
+    "headlines": [
+      "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority",
+      "Nagaland Assembly urges Centre to withdraw Protected Area Permit regime"
+    ],
+    "last_updated": "2026-09-04 02:35:44 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Odisha passenger train detained after engine fire report near Khurda Road",
+      "North Odisha flood situation grim; 373 villages inundated"
+    ],
+    "last_updated": "2026-09-04 02:35:44 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 1,
+    "headlines": [
+      "'IED will detonate at…': Gurugram civic body office receives bomb threat email, evacuated"
+    ],
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "MP",
@@ -348,7 +347,7 @@
     "headlines": [
       "\"Because Of Pain\": Madhya Pradesh Cop Alleges Salary Hold Amid Illness"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "MN",
@@ -359,7 +358,7 @@
     "headlines": [
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   },
   {
     "Code": "TR",
@@ -370,6 +369,6 @@
     "headlines": [
       "Three men arrested with 80,000 yaba tablets in Tripura: Police"
     ],
-    "last_updated": "2026-09-04 01:35:13 AM"
+    "last_updated": "2026-09-04 02:35:44 AM"
   }
 ]
