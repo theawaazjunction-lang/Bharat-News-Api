@@ -4,16 +4,19 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 26,
+    "news_count": 29,
     "headlines": [
       "'Swatantra to be arrested in 72 hours': CJP protester and daughter of assault victim",
+      "‘Feel the power!’ Swatantra Bhardwaj's Instagram story after assaulting protester",
       "Not given FIR copy, says ex-bureaucrat Ashish Joshi; no need at this stage, say cops",
       "Watch: Man boasts of 'cracking skull' of CJP protester's father at Jantar Mantar",
       "West Bengal's Nijashree Housing Scheme explained: Eligibility, income limit &amp; more",
       "High-risk delivery: Why 1 in 3 gig workers feels unsafe on Delhi roads",
       "'Will Do Again If...': Man Who Hit Student's Father As CJP Protests In Delhi",
+      "CPI(M) defeat in Keralam Assembly polls not due to single factor, says A. Vijayaraghavan",
       "How Hyderabad spread beyond its ‘boundaries’",
-      "CJP protest news LIVE: Abhijeet Dipke questions DCP Sachin Sharma, asks why Hindutva influencer isn't behind bars",
+      "What legal protections exist for women returning from maternity leave?",
+      "CJP protest news LIVE: ‘Swatantra Bhardwaj could be arrested within 72 hours’, says protester's counsel amid sit-in",
       "CJP to reach Delhi police station today, asks people to join in protest against Swatantra Bhardwaj",
       "India sends more relief supplies to Nepal days after devastating flash floods",
       "TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks",
@@ -33,28 +36,28 @@
       "Amazon River pours 28 billion gallons into Atlantic, reducing salinity 100 miles offshore",
       "Meet Aadit Krishna, the 15-year-old student who built a floating device to remove PFAS"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
     "news_count": 11,
     "headlines": [
-      "Language no bar: Inside Hyderabad’s multilingual cinema boom",
-      "Telugus in uniform: A legacy of valour, service",
-      "From Nawabi shahar to a vibrant urban sprawl",
-      "When political continuity became the turning point",
-      "How Hyderabad spread beyond its ‘boundaries’",
-      "Hyderabad on new growth orbit",
-      "The Hyderabad that was, and the city it is now",
-      "Telangana minister sacked days after daughter's sharp criticism of CM Revanth Reddy",
-      "Daughter's remarks, MLAs upset: Why Telangana CM Revanth Reddy sacked Konda Surekha as minister",
-      "Telangana tribal man killed in landmine blast on Karreguttalu hillocks: Police",
-      "Telangana CM Revanth Reddy sacks forest minister Konda Surekha"
+      "Watch: Stray dogs save mentally ill woman from sexual assault attempt in Coimbatore",
+      "4 killed as bus collides with moped in Tamil Nadu",
+      "\"Good Dress, Good Food Now\": Woman After Rescue By Indian Embassy In Kuwait",
+      "Drunk Man Throws Petrol Bomb Near Girlfriend's Home In Tamil Nadu",
+      "Lar gibbon case: Court grants Erode farm owner interim custody of exotic animals, subject to conditions",
+      "T.N. man instigates schoolgirl to mix cow dung powder in free breakfast scheme sambar at Erode school, arrested",
+      "Tamil Nadu government identifies three sites for new Assembly-Secretariat complex in Chennai",
+      "Are all police stations in Tamil Nadu retaining CCTV footage for 18 months? Madras High Court asks DGP",
+      "Couple breaches security, runs toward CM Vijay's convoy near Tamil Nadu Secretariat; detained",
+      "'No one should get up and run away': CM Vijay dares DMK to listen to his reply on law and order concerns in Tamil Nadu",
+      "New Secretariat-Assembly complex, Olympic City, Motor Sports City: CM Vijay's big plans for Tamil Nadu"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "MH",
@@ -63,18 +66,38 @@
     "State": "Maharashtra",
     "news_count": 10,
     "headlines": [
-      "Left alone as last child, 3-year-old sexually assaulted by Navi Mumbai bus driver",
-      "IndiGo flight from Navi Mumbai hits pole at Srinagar airport during landing",
+      "9 Newborns Evacuated As Fire Breaks Out In Private Hospital In Maharashtra",
       "Chhatrapati Sambhajinagar fire: 58 rescued, including nine newborns in blaze at hospital",
       "31.35% of Mumbai electors to get notices for being unmapped or having anomalies",
       "Revenue officer found dead days after he goes missing in Maharashtra",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Salman references Mundhe while warning friend’s Bandra cafe",
       "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani",
       "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply",
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 10,
+    "headlines": [
+      "Driver killed as Telangana RTC bus overturns near Jukkal",
+      "How Hyderabad spread beyond its ‘boundaries’",
+      "Language no bar: Inside Hyderabad’s multilingual cinema boom",
+      "Telugus in uniform: A legacy of valour, service",
+      "From Nawabi shahar to a vibrant urban sprawl",
+      "When political continuity became the turning point",
+      "Telangana minister sacked days after daughter's sharp criticism of CM Revanth Reddy",
+      "Daughter's remarks, MLAs upset: Why Telangana CM Revanth Reddy sacked Konda Surekha as minister",
+      "Telangana tribal man killed in landmine blast on Karreguttalu hillocks: Police",
+      "Telangana CM Revanth Reddy sacks forest minister Konda Surekha"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "AP",
@@ -89,46 +112,11 @@
       "Andhra Pradesh Cabinet clears reclassification of 22.31 acres in Nellore for house sites",
       "Andhra Pradesh Cabinet sub-committee steps in on onion, tur dal, palm oil prices; onions at ₹35 a kg",
       "Andhra ACB arrests TTD’s deputy executive officer in DA case",
-      "Kiccha Sudeep thanks fans for their love and wished on his 53rd birthday",
+      "Dragon: Makers deny Alia, Shahid casting; NTR surgery shifts schedule",
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 9,
-    "headlines": [
-      "Watch: Stray dogs save mentally ill woman from sexual assault attempt in Coimbatore",
-      "4 killed as bus collides with moped in Tamil Nadu",
-      "T.N. man instigates schoolgirl to mix cow dung powder in free breakfast scheme sambar at Erode school, arrested",
-      "Tamil Nadu government identifies three sites for new Assembly-Secretariat complex in Chennai",
-      "Are all police stations in Tamil Nadu retaining CCTV footage for 18 months? Madras High Court asks DGP",
-      "Couple breaches security, runs toward CM Vijay's convoy near Tamil Nadu Secretariat; detained",
-      "'No one should get up and run away': CM Vijay dares DMK to listen to his reply on law and order concerns in Tamil Nadu",
-      "New Secretariat-Assembly complex, Olympic City, Motor Sports City: CM Vijay's big plans for Tamil Nadu",
-      "Tamil Nadu plans to set up Olympic-standard sports complex, new Secretariat"
-    ],
-    "last_updated": "2026-09-04 02:35:04 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 6,
-    "headlines": [
-      "Belagavi residents appeal to Cantonment Board not to bar locals from roads in camp area",
-      "HDB region emerging as technology and advanced manufacturing hub, says KDEM CEO",
-      "HDB region emerging as promising technology, manufacturing, investment corridor: Karnataka Minister Priyank Kharge",
-      "Blinkit facility inspected in Karnataka after consumer claims worm seen in egg",
-      "IAS officer suspended after arrest over KPSC recruitment exam row",
-      "5 students injured after section of classroom ceiling falls at Karnataka school"
-    ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "GJ",
@@ -137,95 +125,84 @@
     "State": "Gujarat",
     "news_count": 5,
     "headlines": [
-      "'Encroacher' remark hangs over Yusuf Pathan as he withdraws land dispute appeal",
       "UltraTech shares rise on Ultravolt launch, EV truck plans",
       "Angel One, BSE lead capital market stocks higher as SEBI plans review of CAS mechanism",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "'Encroacher' remark hangs over Yusuf Pathan as he withdraws land dispute appeal"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
     "news_count": 5,
     "headlines": [
-      "IndiGo flight from Navi Mumbai hits pole at Srinagar airport during landing",
-      "IndiGo Plane Hits Pole During Parking At Srinagar Airport",
-      "Indigo flight hits pole while parking at Srinagar airport, no injuries",
-      "Amid Raj HC acting CJ row, his junior picked for key role at another High Court",
-      "IndiGo flight hits docking pole at Srinagar airport, all passengers safe"
+      "Belagavi residents appeal to Cantonment Board not to bar locals from roads in camp area",
+      "HDB region emerging as technology and advanced manufacturing hub, says KDEM CEO",
+      "Blinkit facility inspected in Karnataka after consumer claims worm seen in egg",
+      "IAS officer suspended after arrest over KPSC recruitment exam row",
+      "5 students injured after section of classroom ceiling falls at Karnataka school"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "Real looters of Ram Temple protected by BJP-RSS, alleges Uttar Pradesh Congress chief",
-      "Uttar Pradesh floods: Over 17,500 evacuated, 26 districts hit",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
-    ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Bihar Police arrests two, including headmaster of Govt school, under POCSO Act",
       "Bihar education department suspends two teachers in Buxar over molestation, video allegations",
       "Bihar: 2 government school teachers suspended over sexual abuse claims in Buxar",
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "Assam man kills wife with machete, dies after slitting own throat: Police",
-      "Assam constable held for shooting dead 2 colleagues with AK-47 at police outpost",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-04 02:35:04 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 3,
-    "headlines": [
-      "Telugus in uniform: A legacy of valour, service",
-      "Centre calls Ladakh leaders for talks on Sept 9 ahead of foot march demanding statehood",
-      "Amid Raj HC acting CJ row, his junior picked for key role at another High Court"
-    ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "WB",
     "Lat": 22.9868,
     "Long": 87.855,
     "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "Kiara Advani shares unseen 'Toxic' pics",
+      "TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks",
+      "Bengal’s new anti-graft body inspects factories of TMC veteran Firhad Hakim",
+      "Kiara Advani shares UNSEEN 'Toxic' pics"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 4,
+    "headlines": [
+      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain",
+      "Assam man kills wife with machete, dies after slitting own throat: Police",
+      "Assam constable held for shooting dead 2 colleagues with AK-47 at police outpost",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 3,
     "headlines": [
-      "Kiara Advani shares UNSEEN 'Toxic' pics",
-      "TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks",
-      "Bengal’s new anti-graft body inspects factories of TMC veteran Firhad Hakim"
+      "Indigo flight hits pole while parking at Srinagar airport, no injuries",
+      "Amid Raj HC acting CJ row, his junior picked for key role at another High Court",
+      "IndiGo flight hits docking pole at Srinagar airport, all passengers safe"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "OD",
@@ -238,19 +215,33 @@
       "Odisha passenger train detained after engine fire report near Khurda Road",
       "North Odisha flood situation grim; 373 villages inundated"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
     "headlines": [
-      "Why Group Captain Abhinandan Varthaman chose Goa after retiring from IAF",
-      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
+      "Telugus in uniform: A legacy of valour, service",
+      "Centre calls Ladakh leaders for talks on Sept 9 ahead of foot march demanding statehood",
+      "Amid Raj HC acting CJ row, his junior picked for key role at another High Court"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Real looters of Ram Temple protected by BJP-RSS, alleges Uttar Pradesh Congress chief",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "NL",
@@ -262,7 +253,19 @@
       "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority",
       "Nagaland Assembly urges Centre to withdraw Protected Area Permit regime"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 2,
+    "headlines": [
+      "Why Group Captain Abhinandan Varthaman chose Goa after retiring from IAF",
+      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "KL",
@@ -274,7 +277,18 @@
       "Janmashtami festivities in Keralam’s Kannur contrast with DYFI's protest for justice in Palathayi sexual assault case",
       "Fading fear of HIV puts focus on rising STI risks among youth in Keralam"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Protein, creatine never delivered; customer gets refund plus Rs 50,000 compensation"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "HR",
@@ -285,18 +299,7 @@
     "headlines": [
       "Punjab, Haryana governors, CMs extend Janmashtami greetings"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
-    ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "SK",
@@ -307,7 +310,40 @@
     "headlines": [
       "40 high-hazard glacial lakes identified in Sikkim, 16 at highest risk of outburst"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 1,
+    "headlines": [
+      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
+    "news_count": 1,
+    "headlines": [
+      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Why Madhya Pradesh Is Backing Minister In Colonel Sofiya Qureshi Remarks Case"
+    ],
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "RJ",
@@ -318,7 +354,7 @@
     "headlines": [
       "Amid Raj HC acting CJ row, his junior picked for key role at another High Court"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "TR",
@@ -329,7 +365,7 @@
     "headlines": [
       "Three men arrested with 80,000 yaba tablets in Tripura: Police"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   },
   {
     "Code": "UT",
@@ -340,6 +376,6 @@
     "headlines": [
       "Uttarakhand needs long-term strategy suited to Himalayan challenges: CM Dhami"
     ],
-    "last_updated": "2026-09-04 02:35:04 PM"
+    "last_updated": "2026-09-04 03:35:28 PM"
   }
 ]
