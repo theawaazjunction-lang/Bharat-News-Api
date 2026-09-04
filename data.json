@@ -4,10 +4,12 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 29,
+    "news_count": 30,
     "headlines": [
+      "Teacher's welding dream turns into North Dakota's 32-mile giant sculpture highway",
       "Apple and Google rename Lake Ontario to Lake America; one app refuses Trump’s order",
       "8th pay commission: How level 8 staff could earn up to Rs 28.89 lakh extra in 10 yrs",
+      "South Korea Preparing To Deploy Troops In Strait Of Hormuz: Report",
       "On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
       "In Kyiv, Jaishankar offers India’s help to stop Ukraine-Russia war",
       "Supreme Court asks lawyers to move Delhi HC for probe into attack on peaceful protest in BCI premises",
@@ -25,7 +27,6 @@
       "Storage in 30% of India’s key reservoirs tops 80% of capacity",
       "₹9.70 lakh cr FCNR(B) deposits related surplus: RBI weighs absorption options",
       "Led by China, central banks continued to buy gold in July",
-      "West Bengal anti-corruption panel searches firms co-owned by former Kolkata mayor Firhad Hakim",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -36,17 +37,16 @@
       "Amazon River pours 28 billion gallons into Atlantic, reducing salinity 100 miles offshore",
       "Meet Aadit Krishna, the 15-year-old student who built a floating device to remove PFAS"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 15,
+    "news_count": 14,
     "headlines": [
       "\"They Torture Me Here\": Tamil Nadu Woman's Desperate SOS From Kuwait",
-      "Adani Group Expands Footprint Across States With Rs 5 Lakh Crore Investment Pipeline",
       "Manickam Tagore alleges Narikuravar students were pushed out of govt. bus in Pudukkottai",
       "Madras High Court directs Chengalpattu police to keep land grabbing complaint against Collector in abeyance",
       "Three brothers arrested for killing their aunt over property dispute in Ranipet",
@@ -61,27 +61,7 @@
       "GST collections see wide divergence across top States in GST 2.0 regime",
       "Avalon Technologies and Zollner Elektronik AG ink JV for a new EMS facility near Chennai"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 10,
-    "headlines": [
-      "Couple buys Rs 60L flat, husband taxed on Rs 34.81L stamp-duty gap; ITAT objects",
-      "Sixth day of Maratha Reservation protest: Supporters block major national highways",
-      "Revenue officer found dead days after he goes missing in Maharashtra",
-      "Activist arrested over remarks against Maharashtra minister Chandrakant Patil",
-      "India’s Uttar Pradesh government withdraws order to cap mill-level sugar prices",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Ajay Devgn, Tiger Shroff respond to FDA's notice regarding elaichi ad, SRK response awaited",
-      "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply",
-      "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
-      "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
-    ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "KA",
@@ -100,7 +80,26 @@
       "GST collections see wide divergence across top States in GST 2.0 regime",
       "Wipro Kawasaki to set up new manufacturing plant at Harohalli near Bengaluru"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 9,
+    "headlines": [
+      "Sixth day of Maratha Reservation protest: Supporters block major national highways",
+      "Revenue officer found dead days after he goes missing in Maharashtra",
+      "Activist arrested over remarks against Maharashtra minister Chandrakant Patil",
+      "India’s Uttar Pradesh government withdraws order to cap mill-level sugar prices",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Ajay Devgn, Tiger Shroff respond to FDA's notice regarding elaichi ad, SRK response awaited",
+      "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply",
+      "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
+      "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
+    ],
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "BR",
@@ -117,24 +116,23 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "WB",
     "Lat": 22.9868,
     "Long": 87.855,
     "State": "West Bengal",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "On Uttam Kumar’s birth centenary, West Bengal CM vows to keep politics out of Tollywood",
       "TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks",
       "Bengal’s new anti-graft body inspects factories of TMC veteran Firhad Hakim",
       "TMC writes to President, Bengal governor over 'utter lawlessness' after Abhishek Banerjee's Kolkata office ransacked",
       "Masked men ransack, loot TMC leader Abhishek Banerjee’s office in Kolkata",
-      "Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack",
-      "West Bengal anti-corruption panel searches firms co-owned by former Kolkata mayor Firhad Hakim"
+      "Abhishek Banerjee's Kolkata office ransacked, TMC MP claims BJP workers behind attack"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "GJ",
@@ -150,7 +148,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "KL",
@@ -165,7 +163,7 @@
       "Kerala High Court  welcomes renaming of mental health centres as ‘happiness and wellness centres’",
       "How Super League Kerala is trying to build Indian football from the ground up"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "AP",
@@ -179,7 +177,7 @@
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "AS",
@@ -193,7 +191,7 @@
       "Assam constable held for shooting dead 2 colleagues with AK-47 at police outpost",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "UP",
@@ -207,7 +205,7 @@
       "India’s Uttar Pradesh government withdraws order to cap mill-level sugar prices",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "TG",
@@ -221,7 +219,7 @@
       "Telangana CM Revanth Reddy sacks forest minister Konda Surekha",
       "Telangana minister Surekha refuses to quit, dares Congress high command to sack her"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "GA",
@@ -234,7 +232,7 @@
       "Stray dogs from public places in Goa to be shifted to shelters: Minister",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "UT",
@@ -247,7 +245,7 @@
       "Uttarakhand needs long-term strategy suited to Himalayan challenges: CM Dhami",
       "Kharge writes to Nadda for urgent action over Uttarakhand ritual after his rally"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "NL",
@@ -259,7 +257,7 @@
       "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority",
       "Nagaland Assembly urges Centre to withdraw Protected Area Permit regime"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "OD",
@@ -271,7 +269,7 @@
       "Odisha passenger train detained after engine fire report near Khurda Road",
       "North Odisha flood situation grim; 373 villages inundated"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "RJ",
@@ -283,7 +281,7 @@
       "Supreme Court asks NHAI to consider setting up CCTVs, monitoring rooms at toll plazas",
       "'Baseless, born of animosity': Rajasthan HC acting Chief Justice slams SC judge's graft charge"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "LA",
@@ -295,7 +293,7 @@
       "Ladakh to have seven hill councils now, elections for new LAHDCs soon",
       "Kargil War veteran attempts suicide in Karnataka over delay in land allotment for more than 20 years"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "PB",
@@ -307,7 +305,18 @@
       "Two-Time Punjab MP Dharamvira Gandhi's Name Not On Draft Electoral Rolls After SIR",
       "Raghav Chadha claims name ‘shifted’ in Punjab draft electoral rolls, AAP denies hand"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "South Korea Preparing To Deploy Troops In Strait Of Hormuz: Report"
+    ],
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "HR",
@@ -318,18 +327,7 @@
     "headlines": [
       "'IED will detonate at…': Gurugram civic body office receives bomb threat email, evacuated"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
-  },
-  {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "House panel on Viksit Bharat bill to meet on September 11"
-    ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "JH",
@@ -340,7 +338,7 @@
     "headlines": [
       "Marandi flags NMC rule violations in RINPAS Director appointment"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "MP",
@@ -351,7 +349,7 @@
     "headlines": [
       "\"Because Of Pain\": Madhya Pradesh Cop Alleges Salary Hold Amid Illness"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "MN",
@@ -362,7 +360,7 @@
     "headlines": [
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   },
   {
     "Code": "TR",
@@ -373,6 +371,6 @@
     "headlines": [
       "Three men arrested with 80,000 yaba tablets in Tripura: Police"
     ],
-    "last_updated": "2026-09-04 04:34:51 AM"
+    "last_updated": "2026-09-04 05:37:56 AM"
   }
 ]
