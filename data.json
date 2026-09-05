@@ -4,20 +4,23 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 35,
+    "news_count": 37,
     "headlines": [
+      "‘We’ve got to be careful’: Ex-CDS flags Pak's 'overconfidence' after Mecca Pact",
       "Watch: PM Modi takes Delhi Metro to SRCC, interacts with students",
       "North Carolina mission school land protected after 184 years through new easement",
       "DTC fought conductor for 32 years over Rs 67, now fined Rs 1 lakh by Delhi HC",
-      "Analysis: How AAP's Vendetta Charge In Delhi Runs Into A Mirror In Punjab",
+      "PM Modi's \"Naraaz Fufa\" Attack On Opposition At Top Delhi College",
+      "Former Delhi Mayor seeks action against police officers over house search",
+      "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out",
       "Malappuram DDC urges Centre to drop Palakkad rail division split",
       "SLBC project to be a panacea for water-starved south Telangana",
       "B-to-A Khata conversion rebate window ends with 80,412 applications; only 12% of total beneficiaries",
       "PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’",
       "PM Modi slams Oppn over 7.8% GDP growth row: ‘Some people couldn’t digest the numbers'",
-      "'Dhurandhar na ho lekin dhoom machai hai': PM Modi praises ‘OG alumni’ of SRCC at centenary celebrations",
+      "'Dhurandhar ho na ho lekin dhoom machai hai': PM Modi praises ‘OG alumni’ of SRCC at centenary celebrations",
       "PM Modi takes Delhi Metro to reach SRCC for college's centenary celebrations | WATCH",
-      "Delhi weather LIVE Update: IMD issues red alert in Delhi as heavy rain, thunderstorms lash NCR",
+      "Delhi weather LIVE Update: Heavy rain waterlogs NH-48, Mehrauli-Badarpur Road and key Delhi stretches",
       "‘Phones stuck to Delhi Metro’ reels catch DMRC’s eye, creators warned: ‘Viewing this with all seriousness’",
       "HT Morning Brief Sept 5: More S-400s on India's radar; Delhi rain chaos; FBI's most-wanted man held in Punjab",
       "‘ ₹250 crore per km’: Congress MP stuck on Dwarka Expressway amid Delhi rain, hits out at Modi government",
@@ -34,7 +37,6 @@
       "IIL stands by rabies vaccine, as CDSCO flags ‘fake’ vials seized from unlicensed Delhi residence",
       "Somerset-backed Cyrix Healthcare acquires Blue Star E&E's Medtech Solutions",
       "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment",
-      "Maharashtra’s tiger reserves give captive-bred vultures a fighting chance in the wild",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -42,40 +44,18 @@
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 14,
-    "headlines": [
-      "Civic workers skipping duty to face dismissal: Krishna Byre Gowda",
-      "‘Praja Seva’ will be model initiative for country, say Ballari MLAs",
-      "Days when people had to run from dept. to dept. to get routine work done should end, says Karnataka Chief Minister",
-      "Praja Seva campaign launched in Dharwad by Santosh Lad",
-      "Karnataka High Court directs State government to fix technical difficulties in Kaveri 2.0 portal for registering perpetual leasehold properties",
-      "18 passengers escape as KSRTC electric bus catches fire near Mysuru",
-      "AI can provide information, but cannot replace teachers: Yathindra",
-      "1,511 candidates selected at job mela in Mysuru",
-      "Proposal for Vande Bharat train from Tirupati to Shivamogga gets green signal",
-      "Resolve public grievances without delay, Minister tells officers of Hassan",
-      "Karnataka CM DK Shivakumar announces ‘Tr’ prefix for teachers on Teachers’ Day: 'They truly earned this'",
-      "Karnataka CM launches Prajaseva Abhiyana for citizen grievance redressal",
-      "Karnataka teachers can use ‘Tr’ prefix before names, says CM Shivakumar",
-      "KPSC recruitment probe: Karnataka Home Minister promises ‘no nonsense’ investigation"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 14,
     "headlines": [
       "7-year-old dies as brick column collapses during Dahi Handi celebrations in Mumbai",
+      "Former wrestler, two children found dead in Maharashtra fort",
+      "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out",
       "7-year-old boy dies in Mumbai after brick column collapses during Dahi Handi celebration",
       "‘Run, Ramabai, run’: Maharashtra widow’s barefoot race win draws nationwide support",
       "11 fasts, 3 years, 2 Mumbai marches: Manoj Jarange Patil’s battle is far from over",
@@ -88,75 +68,83 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 9,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 12,
     "headlines": [
+      "18 passengers escape as KSRTC electric bus catches fire near Mysuru",
+      "Karnataka Governor directs action against KSHEC Vice-Chairman over alleged financial irregularities",
+      "Mysuru hosts march for total animal liberation",
       "Civic workers skipping duty to face dismissal: Krishna Byre Gowda",
-      "Andhra Pradesh aims to achieve 100% literacy by 2027, says CM Naidu",
-      "Nandyal school alumni honour teachers with unique chariot celebration",
-      "Missing minor girl found in Haryana, accused arrested after three-month-long probe",
-      "Andhra Pradesh govt. issues rules paving way for direct election of Mayors, municipal chairpersons",
-      "Google data centre in Visakhapatnam will use air-cooling technology: MP",
-      "Proposal for Vande Bharat train from Tirupati to Shivamogga gets green signal",
-      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
-      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+      "‘Praja Seva’ will be model initiative for country, say Ballari MLAs",
+      "Days when people had to run from dept. to dept. to get routine work done should end, says Karnataka Chief Minister",
+      "Praja Seva campaign launched in Dharwad by Santosh Lad",
+      "Karnataka High Court directs State government to fix technical difficulties in Kaveri 2.0 portal for registering perpetual leasehold properties",
+      "Karnataka CM DK Shivakumar announces ‘Tr’ prefix for teachers on Teachers’ Day: 'They truly earned this'",
+      "Karnataka CM launches Prajaseva Abhiyana for citizen grievance redressal",
+      "Karnataka teachers can use ‘Tr’ prefix before names, says CM Shivakumar",
+      "KPSC recruitment probe: Karnataka Home Minister promises ‘no nonsense’ investigation"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
-    "headlines": [
-      "Malappuram DDC urges Centre to drop Palakkad rail division split",
-      "Thrissur road accident: State to ensure road safety amid recurring incidents on NH, says Keralam Minister",
-      "Thrissur road accident: Collector orders urgent safety audit of national highways",
-      "Travel with caution: under-construction NH 66 in Keralam turns into a death trap",
-      "Thiruvananthapuram  Mayor again raises issue of overpricing in cinemas",
-      "Kerala minister takes dig at university heads attending RSS events: ‘Not befitting of a democratic society’",
-      "Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 7,
+    "news_count": 9,
     "headlines": [
       "Lorry hits BRS president KT Rama Rao’s car in Telangana",
+      "‘Hypocrisy’ in Congress stand on women’s empowerment, claims BJP",
+      "Governor unveils Telangana Journal of Higher Education",
+      "Three-day AITUC State conference to begin in Karimnagar on Sunday (September 6)",
       "SLBC project to be a panacea for water-starved south Telangana",
       "Telangana BJP demands judicial probe into 22A irregularities",
       "Modi government deliberately obstructing caste Census to prevent true representation of OBCs, EBCs: Congress leader",
-      "Don’t take to streets; give me two years to resolve issues: CM tells teachers",
       "Telangana CM faces internal discord amid removal of two leaders",
       "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 5,
+    "news_count": 8,
     "headlines": [
       "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab general secretary",
-      "Analysis: How AAP's Vendetta Charge In Delhi Runs Into A Mirror In Punjab",
+      "After Rahul Gandhi's Call To Punjab Protester, Action Against Police Personnel",
+      "51,979 Tip-Offs Help Punjab Cops Arrest Over 25,000 In Anti-Drug Campaign",
+      "Human Rights Body Seeks Report On Alleged Custodial Torture In Punjab",
+      "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out",
       "Congress replaces Baghel with Sachin Pilot as AICC Punjab in-charge",
       "Census 2027: Centre prepones population count in poll bound UP, Goa, Uttarakhand, Punjab",
       "HT Morning Brief Sept 5: More S-400s on India's radar; Delhi rain chaos; FBI's most-wanted man held in Punjab"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Civic workers skipping duty to face dismissal: Krishna Byre Gowda",
+      "Andhra Pradesh aims to achieve 100% literacy by 2027, says CM Naidu",
+      "Nandyal school alumni honour teachers with unique chariot celebration",
+      "Missing minor girl found in Haryana, accused arrested after three-month-long probe",
+      "Andhra Pradesh govt. issues rules paving way for direct election of Mayors, municipal chairpersons",
+      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "TN",
@@ -171,7 +159,36 @@
       "‘Our leader is very clear’: Tamil Nadu minister reiterates TVK’s stance on 'Vijay as PM' pitch",
       "DVAC searches premises linked to K N Nehru; Stalin calls action ‘politically motivated’"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
+    "headlines": [
+      "‘Hypocrisy’ in Congress stand on women’s empowerment, claims BJP",
+      "Malappuram DDC urges Centre to drop Palakkad rail division split",
+      "Thrissur road accident: State to ensure road safety amid recurring incidents on NH, says Keralam Minister",
+      "Kerala minister takes dig at university heads attending RSS events: ‘Not befitting of a democratic society’",
+      "Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 4,
+    "headlines": [
+      "PM Modi Back At Shri Ram College, 13 Years After \"Glass Full\" Speech Launched His National Bid",
+      "Who played the ‘most expensive joke’ on Anand Mahindra, the fallible chess player?",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "BR",
@@ -185,21 +202,21 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 4,
     "headlines": [
-      "89 Infant Deaths In A Month, Bengal Sacks Malda Hospital's Top 2 Officials",
-      "Suvendu Adhikari unveils new West Bengal tourism logo, plans  ₹500 crore sector boost",
-      "Kolkata school teacher suspended for asking student to wipe off tilak: Bengal CM",
-      "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment"
+      "Uproar in Uttar Pradesh as mosque demolished in Saharanpur amid heavy security",
+      "‘Order can’t be without reasoning': Supreme Court sets aside Allahabad HC ruling",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "LA",
@@ -212,20 +229,20 @@
       "Ladakh Apex Body warns of bigger agitation ahead of talks with MHA on Sep 9",
       "Royal Enfield launches Himalayan 440 at the inaugural Himalayan Basecamp in Ladakh"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 3,
     "headlines": [
-      "‘Order can’t be without reasoning': Supreme Court sets aside Allahabad HC ruling",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+      "Suvendu Adhikari unveils new West Bengal tourism logo, plans  ₹500 crore sector boost",
+      "Kolkata school teacher suspended for asking student to wipe off tilak: Bengal CM",
+      "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "MP",
@@ -238,83 +255,19 @@
       "MP HC acquits man, calls the conviction given on cryptic ground by trial court",
       "From MP to Bihar: How fake IAS officers are using forged IDs to con people"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 3,
-    "headlines": [
-      "PM Modi Back At Shri Ram College, 13 Years After \"Glass Full\" Speech Launched His National Bid",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "GA",
     "Lat": 15.2993,
     "Long": 74.124,
     "State": "Goa",
-    "news_count": 3,
+    "news_count": 2,
     "headlines": [
-      "Goa compensates artists with homes destroyed by natural calamities; here's how",
       "Goa Mercedes crash: Driver held after biker killed, pillion injured",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 3,
-    "headlines": [
-      "Uttarakhand rain triggers landslides, 136 roads closed across state: Officials",
-      "Dehradun woman, 72, murdered over unpaid wages; man held, gold bangle recovered",
-      "Hanuman Ansh gets tax-free status in Uttarakhand as Neem Karoli Baba film turns surprise hit"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "\"Lazy, Incompetent\": Kangana Ranaut's Fiery Exchange With Officials In Mandi",
-      "‘Should I give the money like an idiot?’: Kangana Ranaut lashes out at Himachal Pradesh officials over unused funds",
-      "Himachal Pradesh faces serious flood threat: IIT researchers warn of 9 rapidly-expanding glacial lakes"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Odisha watchman bitten by krait, cycles to hospital with snake in bag; critical",
-      "Odisha to fill up 45,000 vacant teaching posts in next 3 yrs: CM"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 2,
-    "headlines": [
-      "LeT terrorist killed in J&amp;K: Yasir was behind 2024 attack on IAF convoy, civilians",
-      "J&K Police identify terrorist killed in Budgam encounter as Pakistan resident, LeT member"
-    ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "AS",
@@ -326,29 +279,67 @@
       "In Major Crackdown, 330 Detained In Assam For Fraud, Extortion, Impersonation",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
+    "news_count": 2,
     "headlines": [
-      "NIA court convicts 10 in 2013 Jhiram Valley Maoist attack case"
+      "‘Hypocrisy’ in Congress stand on women’s empowerment, claims BJP",
+      "‘Should I give the money like an idiot?’: Kangana Ranaut lashes out at Himachal Pradesh officials over unused funds"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out",
       "Roads submerged, residential sectors choked: Gurugram under orange alert as heavy rain floods roads, disrupts traffic"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "LeT terrorist killed in J&amp;K: Yasir was behind 2024 attack on IAF convoy, civilians",
+      "J&K Police identify terrorist killed in Budgam encounter as Pakistan resident, LeT member"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 2,
+    "headlines": [
+      "Uttarakhand rain triggers landslides, 136 roads closed across state: Officials",
+      "Hanuman Ansh gets tax-free status in Uttarakhand as Neem Karoli Baba film turns surprise hit"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 2,
+    "headlines": [
+      "Census advanced in four poll-bound States, deferred in Manipur",
+      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "DH",
@@ -359,18 +350,40 @@
     "headlines": [
       "A home run for workers? Daman &amp; Diu’s SPARSH 2.0 opens more rental space"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 1,
     "headlines": [
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
+      "‘He didn’t know how to shoot': Jhiram Valley attack convicts' kin dispute court judgment, claim innocence"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 1,
+    "headlines": [
+      "Voter lists shrink by more than 15% since 2024 in States where SIR phase-3 draft lists are out"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "Odisha watchman bitten by krait, cycles to hospital with snake in bag; critical"
+    ],
+    "last_updated": "2026-09-05 10:35:00 PM"
   },
   {
     "Code": "JH",
@@ -381,6 +394,6 @@
     "headlines": [
       "Jharkhand court denies bail to ex-JPSC chief Khiangte in exam irregularity case"
     ],
-    "last_updated": "2026-09-05 09:35:12 PM"
+    "last_updated": "2026-09-05 10:35:00 PM"
   }
 ]
