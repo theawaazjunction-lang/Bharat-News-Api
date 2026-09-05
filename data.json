@@ -4,13 +4,14 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 41,
     "headlines": [
-      "1878 West Virginia mansion stays in one family for 148 years, now asks $695,000",
+      "DTC fought conductor for 32 years over Rs 67, now fined Rs 1 lakh by Delhi HC",
       "'A complaint &amp; a warning': Supporters of Swatantra Bhardwaj stage protest in Delhi",
       "Delhi court sends 'influencer' Swatantra Bhardwaj to one-day police custody",
       "Women Were Ululating, Then A Bang: Wedding Guest Recounts US Bombing On Iran",
       "How 9/11 Impacted Russia's Ties With The West",
+      "SIR notice: While West Bengal netas paid for flight tickets for their voters, what will those in Karnataka do?",
       "2 kg of suspected MDMA seized in Mattancherry in Keralam originated from Delhi: police",
       "Three bonded labour victims rescued from cold storage at West Bengal’s Alipurduar",
       "Nepal flash floods: Indian tunnel rescue team makes progress at flood-hit Chilime hydropower site",
@@ -19,7 +20,7 @@
       "Can’t ask mosquitoes not to bite: Bengal Minister’s remark sparks criticism",
       "Heroin worth ₹9 lakh seized, West Bengal native held in Hyderabad",
       "Digital arrest scams: CBI’s nationwide crackdown and the Supreme Court’s continuing oversight",
-      "Delhi weather LIVE Update: IMD issues rain, thunderstorm alert across NCR; Gurugram choked again after heavy downpour",
+      "Delhi weather LIVE Update: IMD issues red alert in Delhi as heavy rain, thunderstorms lash NCR",
       "‘Phones stuck to Delhi Metro’ reels catch DMRC’s eye, creators warned: ‘Viewing this with all seriousness’",
       "HT Morning Brief Sept 5: More S-400s on India's radar; Delhi rain chaos; FBI's most-wanted man held in Punjab",
       "‘ ₹250 crore per km’: Congress MP stuck on Dwarka Expressway amid Delhi rain, hits out at Modi government",
@@ -38,6 +39,7 @@
       "SRPF personnel shifted from BMC school after video goes viral",
       "IMD red alert in Delhi for heavy rain; severe waterlogging at IGI Airport",
       "Bengal collects blood samples from relatives of people missing in Nepal flood",
+      "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment",
       "Maharashtra’s tiger reserves give captive-bred vultures a fighting chance in the wild",
       "Delhi sees showers; min temp drops to 24.8 degree Celsius",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -46,34 +48,38 @@
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 9,
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 12,
     "headlines": [
-      "Auto fares likely to go up in Telangana",
-      "KTR warns Congress against seeking KCR’s resignation, recalls 2006 episode",
-      "Don’t take to streets; give me two years to resolve issues: Telangana CM to teachers",
-      "Former worker held for stealing ₹24.49 lakh from Hyderabad bakery",
-      "Heroin worth ₹9 lakh seized, West Bengal native held in Hyderabad",
-      "This day, that age, and a few memories",
-      "Three cases booked after student groups clash at JNTU Hyderabad",
-      "Telangana CM faces internal discord amid removal of two leaders",
-      "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad"
+      "Maharashtra Man Honeytrapped For 17 Lakhs. Case Against 7, Including Cop",
+      "‘Run, Ramabai, run’: Maharashtra widow’s barefoot race win draws nationwide support",
+      "11 fasts, 3 years, 2 Mumbai marches: Manoj Jarange Patil’s battle is far from over",
+      "SRPF personnel shifted from BMC school after video goes viral",
+      "Maharashtra recruitment exams: Govt sets up high-level committee for review of system",
+      "Crisis of credibility biggest problem in media sector, says Gadkari",
+      "Two-way bilateral trade is over $15 billion, grown tenfold in 20 years: Brazil Consul General in Mumbai",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani",
+      "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply",
+      "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
+      "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "WB",
     "Lat": 22.9868,
     "Long": 87.855,
     "State": "West Bengal",
-    "news_count": 9,
+    "news_count": 11,
     "headlines": [
+      "SIR notice: While West Bengal netas paid for flight tickets for their voters, what will those in Karnataka do?",
       "Three bonded labour victims rescued from cold storage at West Bengal’s Alipurduar",
       "Suvendu Adhikari unveils new West Bengal tourism logo; faces criticism",
       "Can’t ask mosquitoes not to bite: Bengal Minister’s remark sparks criticism",
@@ -82,123 +88,111 @@
       "Kolkata school teacher suspended for asking student to wipe off tilak: Bengal CM",
       "TMC's Abhishek Banerjee asked to vacate youth wing office in Kolkata over ‘safety lapses’",
       "More trains to northbengal cancelled as fresh subsidence hits Farakka repairs",
-      "Bengal collects blood samples from relatives of people missing in Nepal flood"
+      "Bengal collects blood samples from relatives of people missing in Nepal flood",
+      "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 9,
-    "headlines": [
-      "Maharashtra Man Honeytrapped For 17 Lakhs. Case Against 7, Including Cop",
-      "‘Run, Ramabai, run’: Maharashtra widow’s barefoot race win draws nationwide support",
-      "11 fasts, 3 years, 2 Mumbai marches: Manoj Jarange Patil’s battle is far from over",
-      "SRPF personnel shifted from BMC school after video goes viral",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani",
-      "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply",
-      "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
-      "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
-    "headlines": [
-      "In soup over remarks on women, Kerala Muslim cleric calls for 'calm'",
-      "8 Students Dead In Kerala Crash. Their Car Rammed Parked Lorry Last Night",
-      "Keralam seeks Sadya emoji, eyes global branding for traditional feast",
-      "How three Keralam nuns stitched together clothing venture ‘Stand By Me’ in a struggle for survival after standing up against the Church",
-      "Eight T.N. engineering students killed as car rams parked lorry on NH 66 in Keralam’s Thrissur",
-      "Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU",
-      "Unisex salon brand PURE 8 enters Kerala"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 7,
+    "news_count": 9,
     "headlines": [
+      "‘CSK captaincy must be changed’: Sanju Samson backed to take over from Ruturaj",
       "Tamil Nadu Panchayat Chief Attacked With Brick Over Drinking Water Supply. He Dies",
+      "Complete all monsoon preparedness works in Chennai by September-end, T.N. Chief Secretary instructs officials",
       "TVK to formalise existing alliance led by it in Tamil Nadu on September 9",
       "After 68 years, Air India flight connecting Madurai and Chennai to stop operations from October 25",
       "8 Tamil Nadu engineering students killed in Kerala, their car rammed into parked lorry",
       "‘Our leader is very clear’: Tamil Nadu minister reiterates TVK’s stance on 'Vijay as PM' pitch",
       "‘Please get me out… they torture me’: Tamil Nadu woman rescued after desperate SOS from Kuwait",
-      "‘CSK captaincy must be changed’: Sanju Samson backed to take over from Ruturaj"
+      "DVAC searches premises linked to K N Nehru; Stalin calls action ‘politically motivated’"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 9,
+    "headlines": [
+      "In soup over remarks on women, Kerala Muslim cleric calls for 'calm'",
+      "8 Students Dead In Kerala Crash. Their Car Rammed Parked Lorry Last Night",
+      "University of Kerala DSU launches digital portal to redefine student governance",
+      "How three Keralam nuns stitched together clothing venture ‘Stand By Me’ in a struggle for survival after standing up against the Church",
+      "Keralam seeks Sadya emoji, eyes global branding for traditional feast",
+      "Eight T.N. engineering students killed as car rams parked lorry on NH 66 in Keralam’s Thrissur",
+      "Kerala minister takes dig at university heads attending RSS events: ‘Not befitting of a democratic society’",
+      "Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU",
+      "Unisex salon brand PURE 8 enters Kerala"
+    ],
+    "last_updated": "2026-09-05 05:35:55 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 8,
+    "headlines": [
+      "Revanth and TCS announce ₹70,000 crore AI Data Centre in Future City, to be completed by June 2, 2028",
+      "Auto fares likely to go up in Telangana",
+      "KTR warns Congress against seeking KCR’s resignation, recalls 2006 episode",
+      "Don’t take to streets; give me two years to resolve issues: Telangana CM to teachers",
+      "Former worker held for stealing ₹24.49 lakh from Hyderabad bakery",
+      "Heroin worth ₹9 lakh seized, West Bengal native held in Hyderabad",
+      "Telangana CM faces internal discord amid removal of two leaders",
+      "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad"
+    ],
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 6,
+    "news_count": 7,
     "headlines": [
       "IIM Bangalore opens Rs 5 lakh national competition for college students",
+      "SIR notice: While West Bengal netas paid for flight tickets for their voters, what will those in Karnataka do?",
       "No evidence in KPSC probe will be diluted, says Karnataka Minister Priyank Kharge",
       "14 ancient gold coins found by workers digging trench in Belagavi district of Karnataka",
+      "Karnataka CM launches Prajaseva Abhiyana for citizen grievance redressal",
       "Karnataka teachers can use ‘Tr’ prefix before names, says CM Shivakumar",
-      "KPSC recruitment probe: Karnataka Home Minister promises ‘no nonsense’ investigation",
-      "Bus fare hike in Karnataka to be decided after committee report"
+      "KPSC recruitment probe: Karnataka Home Minister promises ‘no nonsense’ investigation"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
       "Flyover at Ranasthalam likely to be ready in six months",
-      "Sree Krishna Jayanti processions part of RSS’ political project: Jayarajan",
       "‘Laalo’ Telugu remake: Vijay Deverakonda, Ram Charan, Allu Arjun in talks",
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
-      "Cyberabad police seek cancellation of Anand Sai’s son’s driving licence in fatal Khajaguda crash",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Rashmika Mandanna calls brother-in-law Anand Deverakonda a 'green forest'",
       "Samay Raina pleads for Ahmedabad shows"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "Delhi court sends 'influencer' Swatantra Bhardwaj to one-day police custody",
-      "‘Order can’t be without reasoning': Supreme Court sets aside Allahabad HC ruling",
-      "Uttar Pradesh to sell sugar at ₹50-52/kg in Lucknow",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "GA",
@@ -212,21 +206,7 @@
       "Amit Shah on 3-day visit to Goa from Saturday",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain",
-      "Ahom dynasty capital ensemble submitted for UNESCO heritage tag: Himanta",
-      "Assam govt signs MoUs with 6 organisations for introducing AI in school education",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "JK",
@@ -240,7 +220,21 @@
       "Terrorist killed in joint operation by security forces in Jammu and Kashmir's Budgam",
       "3 virtual Bharat documentaries selected for Kashmir's first international film festival"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Delhi court sends 'influencer' Swatantra Bhardwaj to one-day police custody",
+      "‘Order can’t be without reasoning': Supreme Court sets aside Allahabad HC ruling",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+    ],
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "UT",
@@ -253,7 +247,20 @@
       "Dehradun woman, 72, murdered over unpaid wages; man held, gold bangle recovered",
       "Hanuman Ansh gets tax-free status in Uttarakhand as Neem Karoli Baba film turns surprise hit"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 3,
+    "headlines": [
+      "Ahom dynasty capital ensemble submitted for UNESCO heritage tag: Himanta",
+      "Assam govt signs MoUs with 6 organisations for introducing AI in school education",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "HR",
@@ -263,10 +270,22 @@
     "news_count": 3,
     "headlines": [
       "35 Years, One Phone Call: How SIR Reunited Brothers In Haryana",
-      "Delhi weather LIVE Update: IMD issues rain, thunderstorm alert across NCR; Gurugram choked again after heavy downpour",
+      "One hour of rain, hours of congestion: Gurugram's waterlogging woes persist",
       "Roads submerged, residential sectors choked: Gurugram under orange alert as heavy rain floods roads, disrupts traffic"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "NIA court convicts 10 in 2013 Jhiram Valley Maoist attack case",
+      "10 Convicted In Deadly 2013 Maoist Attack On Congress Leaders In Bastar"
+    ],
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "BR",
@@ -278,7 +297,7 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "OD",
@@ -290,29 +309,7 @@
       "Odisha watchman bitten by krait, cycles to hospital with snake in bag; critical",
       "Odisha to fill up 45,000 vacant teaching posts in next 3 yrs: CM"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "Himachal Pradesh faces serious flood threat: IIT researchers warn of 9 rapidly-expanding glacial lakes"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
-    "headlines": [
-      "10 Convicted In Deadly 2013 Maoist Attack On Congress Leaders In Bastar"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "JH",
@@ -323,29 +320,18 @@
     "headlines": [
       "Jharkhand court denies bail to ex-JPSC chief Khiangte in exam irregularity case"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "From MP to Bihar: How fake IAS officers are using forged IDs to con people"
+      "Himachal Pradesh faces serious flood threat: IIT researchers warn of 9 rapidly-expanding glacial lakes"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
-  },
-  {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 1,
-    "headlines": [
-      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain"
-    ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "MN",
@@ -356,7 +342,18 @@
     "headlines": [
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "From MP to Bihar: How fake IAS officers are using forged IDs to con people"
+    ],
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "PB",
@@ -367,7 +364,7 @@
     "headlines": [
       "HT Morning Brief Sept 5: More S-400s on India's radar; Delhi rain chaos; FBI's most-wanted man held in Punjab"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   },
   {
     "Code": "LA",
@@ -378,6 +375,6 @@
     "headlines": [
       "Ladakh Apex Body warns of bigger agitation ahead of talks with MHA on Sep 9"
     ],
-    "last_updated": "2026-09-05 04:34:49 PM"
+    "last_updated": "2026-09-05 05:35:55 PM"
   }
 ]
