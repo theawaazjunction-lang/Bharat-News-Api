@@ -4,16 +4,17 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 42,
     "headlines": [
       "8 students killed after car rams into parked lorry in Keralam",
+      "Janhvi Kapoor personality rights case: 552 URLs ordered removed",
       "Delhi HC allows 2 'linked' to NEET leak to go for counselling",
       "Class 9 Student Stabbed To Death In Delhi Over Girl, 3 Arrested",
       "Jantar Mantar assault row: Delhi police add attempt-to-murder, SC/ST charges; assure Swatantra Bhardwaj’s arrest within 72 hours, says CJP",
       "Three bonded labour victims rescued from cold storage at West Bengal’s Alipurduar",
       "Develop North Karnataka cities as alternative growth centres to Bengaluru: KCCI",
       "Missing: boundary walls, bathrooms, blackboards",
-      "‘ ₹250 crore per km’: Congress MP stuck on Dwarka Expressway amid Delhi rain, hits out Modi government",
+      "‘ ₹250 crore per km’: Congress MP stuck on Dwarka Expressway amid Delhi rain, hits out at Modi government",
       "Suvendu Adhikari unveils new West Bengal tourism logo, plans  ₹500 crore sector boost",
       "At 36,000 feet, Air India flight to Delhi briefly lost all hydraulics within seconds, triggering ‘altitude upset’",
       "After waterlogging, traffic chaos, Delhi NCR braces for more rain today; IMD issues yellow alert",
@@ -40,13 +41,15 @@
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Duleep Trophy final comes at right time for Mohammed Siraj to find rhythm",
+      "Janhvi Kapoor personality rights case: Delhi HC appoints amicus curiae",
       "Spider-Man becomes THIRD HIGHEST-grossing movie of all time",
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch",
       "A giant 10-sided wave is emerging around Saturn’s south pole, Hubble observations show",
       "South African student transforms sugarcane and maize waste into bioplastic"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "MH",
@@ -59,7 +62,7 @@
       "Maharashtra Woman, 2 Kids Die After Jumping Off Fort, Family Alleges Dowry Harassment",
       "Maharashtra Bill does not regulate private hospital treatment rates, says health right group",
       "Help pours in for woman who ran marathon barefoot to win  ₹3,000 for daughters’ studies",
-      "11 fasts, 3 years, 2 Mumbai marches: Jarange Patil’s battle is far from over",
+      "11 fasts, 3 years, 2 Mumbai marches: Manoj Jarange Patil’s battle is far from over",
       "SRPF personnel shifted from BMC school after video goes viral",
       "31.35% of Mumbai electors to get notices for being unmapped or having anomalies",
       "PM Surya Ghar: Uttar Pradesh, Maharashtra lead residential rooftop solar installations in August",
@@ -70,43 +73,7 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 8,
-    "headlines": [
-      "Sree Krishna Jayanti processions part of RSS’ political project: Jayarajan",
-      "Cloudy skies, isolated light rain likely in Andhra Pradesh",
-      "Visakhapatnam police win overall championship at Andhra Pradesh Sports Meet-2026",
-      "Villagers drag, beat crocodile driven ashore by shrinking Tungabhadra in Andhra’s Kurnool",
-      "Andhra ACB arrests TTD’s deputy executive officer in DA case",
-      "Krishna Janmashtami: Virat Kohli, Rishabh Pant, Sehwag, Manu Bhaker extend wishes",
-      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
-      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
-    "headlines": [
-      "Wanted In 16 Cases, Karnataka Man Hid In Pond To Dodge Cops. It Didn't Work",
-      "Develop North Karnataka cities as alternative growth centres to Bengaluru: KCCI",
-      "Bowring Hospital designated nodal centre for DNA profiling of Karnataka victims missing in Nepal",
-      "Blinkit facility inspected in Karnataka after consumer claims worm seen in egg",
-      "IAS officer suspended after arrest over KPSC recruitment exam row",
-      "Bus fare hike in Karnataka to be decided after committee report",
-      "Indian onion prices more than double in a month, but relief may be around the corner",
-      "IKEA steps up Karnataka expansion as India store network widens"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "WB",
@@ -124,7 +91,58 @@
       "TMC MP Mahua Moitra summoned by Diamond Harbour police in West Bengal over alleged communal remarks",
       "West Bengal formulating plan to address riverbank erosion in coordination with Bihar, Jharkhand, involving IIT Kanpur"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Sree Krishna Jayanti processions part of RSS’ political project: Jayarajan",
+      "Cloudy skies, isolated light rain likely in Andhra Pradesh",
+      "Visakhapatnam police win overall championship at Andhra Pradesh Sports Meet-2026",
+      "Villagers drag, beat crocodile driven ashore by shrinking Tungabhadra in Andhra’s Kurnool",
+      "Andhra ACB arrests TTD’s deputy executive officer in DA case",
+      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 7,
+    "headlines": [
+      "Fewer births, bigger questions for Tamil Nadu",
+      "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium",
+      "Sustainable debt-GSDP ratio for Tamil Nadu is 23%, says economic consultant to government",
+      "8 Tamil Nadu engineering students killed in Kerala, their car rammed into parked lorry",
+      "‘Our leader is very clear’: Tamil Nadu minister reiterates TVK’s stance on 'Vijay as PM' pitch",
+      "‘Please get me out… they torture me’: Tamil Nadu woman rescued after desperate SOS from Kuwait",
+      "PV Sindhu shares special dinner with Nayanthara and Vignesh Shivan"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 7,
+    "headlines": [
+      "Develop North Karnataka cities as alternative growth centres to Bengaluru: KCCI",
+      "Bowring Hospital designated nodal centre for DNA profiling of Karnataka victims missing in Nepal",
+      "Blinkit facility inspected in Karnataka after consumer claims worm seen in egg",
+      "IAS officer suspended after arrest over KPSC recruitment exam row",
+      "Bus fare hike in Karnataka to be decided after committee report",
+      "Indian onion prices more than double in a month, but relief may be around the corner",
+      "IKEA steps up Karnataka expansion as India store network widens"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "KL",
@@ -134,30 +152,14 @@
     "news_count": 7,
     "headlines": [
       "8 students killed after car rams into parked lorry in Keralam",
-      "8 Killed As Car Rams Into Parked Lorry In Kerala's Thrissur",
+      "8 Dead In Kerala Crash. Their Car Rammed Parked Lorry Late Last Night",
       "Eight killed as car rams parked lorry on NH 66 in Thrissur",
       "Tenure of TDB Chief Vigilance and Security Officer extended until January 2027, State informs Kerala High Court",
       "Kerala High Court  welcomes renaming of mental health centres as ‘happiness and wellness centres’",
       "Keralam seeks Sadya emoji, eyes global branding for traditional feast",
-      "8 dead in Kerala's Thrissur after car crashes into parked lorry late at night"
+      "Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 6,
-    "headlines": [
-      "Fewer births, bigger questions for Tamil Nadu",
-      "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium",
-      "Sustainable debt-GSDP ratio for Tamil Nadu is 23%, says economic consultant to government",
-      "‘Our leader is very clear’: Tamil Nadu minister reiterates TVK’s stance on 'Vijay as PM' pitch",
-      "‘Please get me out… they torture me’: Tamil Nadu woman rescued after desperate SOS from Kuwait",
-      "PV Sindhu shares special dinner with Nayanthara and Vignesh Shivan"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "UP",
@@ -173,20 +175,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "Assam Signs MoUs With 6 Firms, IIT Madras To Bring AI To Schools",
-      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "BR",
@@ -199,19 +188,20 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 3,
     "headlines": [
-      "Punjab Police detains FBI-wanted fugitive accused of defrauding US govt of $600,000",
-      "FBI-Wanted Fraudster Arrested In Jalandhar Over $600,000 Scam In US"
+      "Assam Signs MoUs With 6 Firms, IIT Madras To Bring AI To Schools",
+      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "GJ",
@@ -223,51 +213,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "Railway employee lures Odisha passenger with confirmed ticket promise, rapes her"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 1,
-    "headlines": [
-      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
-    ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "HR",
@@ -278,18 +224,51 @@
     "headlines": [
       "Punjab, Haryana governors, CMs extend Janmashtami greetings"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
     "news_count": 1,
     "headlines": [
-      "Terrorist killed in joint operation by security forces in Jammu and Kashmir's Budgam"
+      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 1,
+    "headlines": [
+      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "Railway employee lures Odisha passenger with confirmed ticket promise, rapes her"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "RJ",
@@ -300,18 +279,29 @@
     "headlines": [
       "How BJP Is Treating Local Elections In Rajasthan As A Diagnostic Test After CJP Jolt"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 1,
     "headlines": [
-      "Ladakh residents to get ownership rights over 60,000 acres of barren land"
+      "FBI-Wanted Fraudster Arrested In Jalandhar Over $6,00,000 Scam In US"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 1,
+    "headlines": [
+      "Terrorist killed in joint operation by security forces in Jammu and Kashmir's Budgam"
+    ],
+    "last_updated": "2026-09-05 09:35:07 AM"
   },
   {
     "Code": "UT",
@@ -322,6 +312,6 @@
     "headlines": [
       "Dehradun woman, 72, murdered over unpaid wages; man held, gold bangle recovered"
     ],
-    "last_updated": "2026-09-05 08:35:11 AM"
+    "last_updated": "2026-09-05 09:35:07 AM"
   }
 ]
