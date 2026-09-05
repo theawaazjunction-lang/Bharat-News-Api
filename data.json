@@ -4,7 +4,7 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 34,
+    "news_count": 35,
     "headlines": [
       "Delhi HC allows 2 'linked' to NEET leak to go for counselling",
       "Class 9 Student Stabbed To Death In Delhi Over Girl, 3 Arrested",
@@ -12,6 +12,8 @@
       "Develop North Karnataka cities as alternative growth centres to Bengaluru: KCCI",
       "Missing: boundary walls, bathrooms, blackboards",
       "Jantar Mantar assault row: Delhi police add attempt-to-murder, SC/ST charges; assure Swatantra Bhardwaj’s arrest within 72 hours, says CJP",
+      "Ahead of Delhi pollution season, CAQM asks Isro to improve stubble burning accuracy",
+      "Delhi body approves Manmohan Singh’s memorial at Rajghat, sets conditions",
       "Beach view, Venice and a GDP dig: Opposition takes swipe at Centre over waterlogging at Delhi airport",
       "Delhi traffic police issues advisory for BRICS summit motorcade rehearsal on Sept 5 | Check affected routes, diversions",
       "Delhi battered by heavy rain; Connaught Place to IGI Airport waterlogged after downpour",
@@ -33,7 +35,6 @@
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "Engineer by day, cricketer by night: The unlikely journey of Anshuman Hooda",
       "Spider-Man becomes THIRD HIGHEST-grossing movie of all time",
       "Khushi buys Bandra flat: Actor picks 180 sq ft for Rs 63 lakh",
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
@@ -41,18 +42,20 @@
       "A giant 10-sided wave is emerging around Saturn’s south pole, Hubble observations show",
       "South African student transforms sugarcane and maize waste into bioplastic"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 15,
     "headlines": [
       "SC awards pension to Mumbai engineer who forged ST certificate",
       "Maharashtra Woman, 2 Kids Die After Jumping Off Fort, Family Alleges Dowry Harassment",
       "Maharashtra Bill does not regulate private hospital treatment rates, says health right group",
+      "Help pours in for woman who ran marathon barefoot to win  ₹3,000 for daughters’ studies",
+      "11 fasts, 3 years, 2 Mumbai marches: Jarange Patil’s battle is far from over",
       "SRPF personnel shifted from BMC school after video goes viral",
       "31.35% of Mumbai electors to get notices for being unmapped or having anomalies",
       "Revenue officer found dead days after he goes missing in Maharashtra",
@@ -64,14 +67,14 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 10,
+    "news_count": 9,
     "headlines": [
       "Sree Krishna Jayanti processions part of RSS’ political project: Jayarajan",
       "Cloudy skies, isolated light rain likely in Andhra Pradesh",
@@ -80,11 +83,10 @@
       "Andhra ACB arrests TTD’s deputy executive officer in DA case",
       "Krishna Janmashtami: Virat Kohli, Rishabh Pant, Sehwag, Manu Bhaker extend wishes",
       "Siddharth reveals playing Krishna helped him battle 'mental pandemic'",
-      "Dragon: Makers deny Alia, Shahid casting; NTR surgery shifts schedule",
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "KA",
@@ -102,7 +104,7 @@
       "Indian onion prices more than double in a month, but relief may be around the corner",
       "IKEA steps up Karnataka expansion as India store network widens"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "WB",
@@ -120,104 +122,91 @@
       "Bengal’s new anti-graft body inspects factories of TMC veteran Firhad Hakim",
       "West Bengal formulating plan to address riverbank erosion in coordination with Bihar, Jharkhand, involving IIT Kanpur"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 6,
-    "headlines": [
-      "Fewer births, bigger questions for Tamil Nadu",
-      "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium",
-      "Sustainable debt-GSDP ratio for Tamil Nadu is 23%, says economic consultant to government",
-      "‘Our leader is very clear’: Tamil Nadu minister reiterates TVK’s stance on 'Vijay as PM' pitch",
-      "‘Please get me out… they torture me’: Tamil Nadu woman rescued after desperate SOS from Kuwait",
-      "Couple breaches security, runs toward CM Vijay's convoy near Tamil Nadu Secretariat; detained"
-    ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "Swatantra Bhardwaj booked under POCSO Act: How ‘influencer’ tried to evade police",
       "Why IIT and IIM students are ditching backpacks for buckets and bicycles",
       "Over 17,000 moved to safer places as floods affect 26 districts in Uttar Pradesh",
       "Uttar Pradesh to sell sugar at ₹50-52/kg in Lucknow",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Assam Signs MoUs With 6 Firms, IIT Madras To Bring AI To Schools",
-      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain",
-      "Assam man kills wife with machete, dies after slitting own throat: Police",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-05 06:34:45 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
-    "headlines": [
-      "Bihar reiterates parents’ salaries, agricultural income cannot be counted for OBC creamy layer",
-      "Bihar education department suspends two teachers in Buxar over molestation, video allegations",
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
-    ],
-    "last_updated": "2026-09-05 06:34:45 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "Punjab Police detains FBI-wanted fugitive accused of defrauding US govt of $600,000",
-      "Bargaining tactics? Why BJP's 'solo pitch' in Punjab may have message for Akalis",
-      "FBI-Wanted Fraudster Arrested In Jalandhar Over $600,000 Scam In US"
-    ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 3,
+    "news_count": 5,
     "headlines": [
+      "8 Killed As Car Rams Into Parked Lorry In Kerala's Thrissur",
       "Tenure of TDB Chief Vigilance and Security Officer extended until January 2027, State informs Kerala High Court",
       "Eight killed as car rams parked lorry on NH 66 in Thrissur",
-      "Kerala High Court  welcomes renaming of mental health centres as ‘happiness and wellness centres’"
+      "Kerala High Court  welcomes renaming of mental health centres as ‘happiness and wellness centres’",
+      "Keralam seeks Sadya emoji, eyes global branding for traditional feast"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 5,
+    "headlines": [
+      "Fewer births, bigger questions for Tamil Nadu",
+      "CM Vijay condoles deaths of four girls in Namakkal road accident, sanctions solatium",
+      "Sustainable debt-GSDP ratio for Tamil Nadu is 23%, says economic consultant to government",
+      "‘Our leader is very clear’: Tamil Nadu minister reiterates TVK’s stance on 'Vijay as PM' pitch",
+      "‘Please get me out… they torture me’: Tamil Nadu woman rescued after desperate SOS from Kuwait"
+    ],
+    "last_updated": "2026-09-05 07:35:16 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 3,
+    "headlines": [
+      "Assam Signs MoUs With 6 Firms, IIT Madras To Bring AI To Schools",
+      "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-05 07:35:16 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bihar reiterates parents’ salaries, agricultural income cannot be counted for OBC creamy layer",
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
+    ],
+    "last_updated": "2026-09-05 07:35:16 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 2,
     "headlines": [
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
+      "Punjab Police detains FBI-wanted fugitive accused of defrauding US govt of $600,000",
+      "FBI-Wanted Fraudster Arrested In Jalandhar Over $600,000 Scam In US"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "OD",
@@ -229,18 +218,19 @@
       "Railway employee lures Odisha passenger with confirmed ticket promise, rapes her",
       "Odisha passenger train detained after engine fire report near Khurda Road"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 1,
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 2,
     "headlines": [
-      "Punjab, Haryana governors, CMs extend Janmashtami greetings"
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "GA",
@@ -251,7 +241,7 @@
     "headlines": [
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "MZ",
@@ -262,18 +252,18 @@
     "headlines": [
       "Train movement to Mizoram affected due to soil erosion near tracks after heavy rain"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
     "news_count": 1,
     "headlines": [
-      "Nagaland Assembly passes Bill to create autonomous Frontier Nagaland Authority"
+      "Punjab, Haryana governors, CMs extend Janmashtami greetings"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "MN",
@@ -284,18 +274,7 @@
     "headlines": [
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 1,
-    "headlines": [
-      "How BJP Is Treating Local Elections In Rajasthan As A Diagnostic Test After CJP Jolt"
-    ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "JK",
@@ -306,18 +285,18 @@
     "headlines": [
       "Terrorist killed in joint operation by security forces in Jammu and Kashmir's Budgam"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
     "news_count": 1,
     "headlines": [
-      "Three men arrested with 80,000 yaba tablets in Tripura: Police"
+      "How BJP Is Treating Local Elections In Rajasthan As A Diagnostic Test After CJP Jolt"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "LA",
@@ -328,7 +307,7 @@
     "headlines": [
       "Ladakh residents to get ownership rights over 60,000 acres of barren land"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   },
   {
     "Code": "UT",
@@ -339,6 +318,6 @@
     "headlines": [
       "Dehradun woman, 72, murdered over unpaid wages; man held, gold bangle recovered"
     ],
-    "last_updated": "2026-09-05 06:34:45 AM"
+    "last_updated": "2026-09-05 07:35:16 AM"
   }
 ]
