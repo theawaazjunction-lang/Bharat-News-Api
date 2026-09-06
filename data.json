@@ -4,7 +4,7 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 38,
     "headlines": [
       "Sooryavanshi faces another big test: his first five-day game in Duleep Trophy final",
       "‘We’ve got to be careful’: Ex-CDS flags Pak's 'overconfidence' after Mecca Pact",
@@ -19,7 +19,6 @@
       "Assured transit-time container train service launched between Bengaluru and Delhi",
       "Malappuram DDC urges Centre to drop Palakkad rail division split",
       "Authorities probing ‘counterfeit’ rabies vaccine, says drug regulator",
-      "Former Delhi Mayor seeks action against police officers over house search",
       "GDP swipe at Opposition, warning to Pakistan: PM Modi’s top quotes from Delhi college address",
       "PM Modi says his 'homeopathic dose' during I-Day speech exposed ‘dimaagi naxals’",
       "PM Modi slams Oppn over 7.8% GDP growth row: ‘Some people couldn’t digest the numbers'",
@@ -46,7 +45,7 @@
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "MH",
@@ -69,7 +68,7 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "PB",
@@ -87,7 +86,7 @@
       "Census 2027: Centre prepones population count in poll bound UP, Goa, Uttarakhand, Punjab",
       "HT Morning Brief Sept 5: More S-400s on India's radar; Delhi rain chaos; FBI's most-wanted man held in Punjab"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "KA",
@@ -104,7 +103,7 @@
       "Karnataka teachers can use ‘Tr’ prefix before names, says CM Shivakumar",
       "KPSC recruitment probe: Karnataka Home Minister promises ‘no nonsense’ investigation"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "KL",
@@ -120,50 +119,23 @@
       "Kerala minister takes dig at university heads attending RSS events: ‘Not befitting of a democratic society’",
       "Needle found inside 1-yr-old’s body in Kerala, parents allege medical negligence at NICU"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
       "Documentary on wildlife in Tamil Nadu to be screened from Monday",
       "The Hindu Made of Chennai treasure hunt takes participants on a city-wide trail",
+      "Tamil Nadu failing at animal birth control",
       "Tamil Nadu govt. shortlists Cheyyur, Gummidipoondi sites to build Chennai’s second airport; writes to AAI for pre-feasibility study",
       "8 Tamil Nadu engineering students killed in Kerala, their car rammed into parked lorry",
       "DVAC searches premises linked to K N Nehru; Stalin calls action ‘politically motivated’"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "MLA seeks steps to address water shortage in Chittoor, Vaduthala areas",
-      "Missing minor girl found in Haryana, accused arrested after three-month-long probe",
-      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
-      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
-    ],
-    "last_updated": "2026-09-06 04:34:34 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Kolkata school teacher booked for ‘forcing’ student to remove tilak",
-      "Suvendu Adhikari unveils new West Bengal tourism logo, plans  ₹500 crore sector boost",
-      "Kolkata school teacher suspended for asking student to wipe off tilak: Bengal CM",
-      "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment"
-    ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "GJ",
@@ -177,7 +149,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "BR",
@@ -191,20 +163,35 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 3,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
     "headlines": [
-      "Census 2027: The 14 questions and why opposition fears an NPR 'backdoor'",
-      "Ladakh Apex Body warns of bigger agitation ahead of talks with MHA on Sep 9",
-      "Royal Enfield launches Himalayan 440 at the inaugural Himalayan Basecamp in Ladakh"
+      "Kolkata school teacher booked for ‘forcing’ student to remove tilak",
+      "Suvendu Adhikari unveils new West Bengal tourism logo, plans  ₹500 crore sector boost",
+      "Kolkata school teacher suspended for asking student to wipe off tilak: Bengal CM",
+      "West Bengal CM Suvendu Adhikari promises transparent teacher recruitment"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "MLA seeks steps to address water shortage in Chittoor, Vaduthala areas",
+      "Missing minor girl found in Haryana, accused arrested after three-month-long probe",
+      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+    ],
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "AS",
@@ -217,33 +204,20 @@
       "In Congress organisational reshuffle, Sachin Pilot gets poll-bound Punjab, Surjewala for Gujarat, Baghel moved to Assam",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 3,
     "headlines": [
-      "‘Order can’t be without reasoning': Supreme Court sets aside Allahabad HC ruling",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+      "Census 2027: The 14 questions and why opposition fears an NPR 'backdoor'",
+      "Ladakh Apex Body warns of bigger agitation ahead of talks with MHA on Sep 9",
+      "Royal Enfield launches Himalayan 440 at the inaugural Himalayan Basecamp in Ladakh"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 3,
-    "headlines": [
-      "Hyderabad Police to step up security for Ganesh festivities",
-      "Telangana CM faces internal discord amid removal of two leaders",
-      "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad"
-    ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "MN",
@@ -256,7 +230,33 @@
       "Census advanced in four poll-bound States, deferred in Manipur",
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "‘Order can’t be without reasoning': Supreme Court sets aside Allahabad HC ruling",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+    ],
+    "last_updated": "2026-09-06 05:38:44 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
+    "headlines": [
+      "Hyderabad Police to step up security for Ganesh festivities",
+      "Telangana CM faces internal discord amid removal of two leaders",
+      "TCS HyperVault to set up ₹70,000-crore AI data centre campus in Hyderabad"
+    ],
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "MP",
@@ -269,31 +269,7 @@
       "MP HC acquits man, calls the conviction given on cryptic ground by trial court",
       "From MP to Bihar: How fake IAS officers are using forged IDs to con people"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
-    "headlines": [
-      "Goa Mercedes crash: Driver held after biker killed, pillion injured",
-      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
-    ],
-    "last_updated": "2026-09-06 04:34:34 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "35 years apart, SIR reunites brothers in Jind",
-      "Roads submerged, residential sectors choked: Gurugram under orange alert as heavy rain floods roads, disrupts traffic"
-    ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "RJ",
@@ -305,7 +281,31 @@
       "Two Rajasthan Leaders To Face Off In Punjab As Sachin Pilot Gets Congress Charge",
       "Eight High Court judges appointed as Chief Justices"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 2,
+    "headlines": [
+      "Goa Mercedes crash: Driver held after biker killed, pillion injured",
+      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
+    ],
+    "last_updated": "2026-09-06 05:38:44 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "35 years apart, SIR reunites brothers in Jind",
+      "Roads submerged, residential sectors choked: Gurugram under orange alert as heavy rain floods roads, disrupts traffic"
+    ],
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "UT",
@@ -317,7 +317,18 @@
       "Census 2027: Population Enumeration In 4 Poll-Bound States From December 1",
       "Uttarakhand rain triggers landslides, 136 roads closed across state: Officials"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
+  },
+  {
+    "Code": "AN",
+    "Lat": 11.7401,
+    "Long": 92.6586,
+    "State": "Andaman and Nicobar Islands",
+    "news_count": 1,
+    "headlines": [
+      "BJP MP Dinesh Sharma appointed Lt Governor of Andaman and Nicobar Islands"
+    ],
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "JH",
@@ -328,7 +339,7 @@
     "headlines": [
       "Jharkhand court denies bail to ex-JPSC chief Khiangte in exam irregularity case"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "HP",
@@ -339,7 +350,7 @@
     "headlines": [
       "‘Should I give the money like an idiot?’: Kangana Ranaut lashes out at Himachal Pradesh officials over unused funds"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "DH",
@@ -350,7 +361,7 @@
     "headlines": [
       "A home run for workers? Daman &amp; Diu’s SPARSH 2.0 opens more rental space"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "CT",
@@ -361,7 +372,7 @@
     "headlines": [
       "‘He didn’t know how to shoot': Jhiram Valley attack convicts' kin dispute court judgment, claim innocence"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "ML",
@@ -372,7 +383,7 @@
     "headlines": [
       "Spotlight on illegal coal trade in Meghalaya after truck accident"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "OD",
@@ -383,7 +394,7 @@
     "headlines": [
       "Odisha watchman bitten by krait, cycles to hospital with snake in bag; critical"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "JK",
@@ -394,7 +405,7 @@
     "headlines": [
       "J&K Police identify terrorist killed in Budgam encounter as Pakistan resident, LeT member"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   },
   {
     "Code": "TR",
@@ -405,6 +416,6 @@
     "headlines": [
       "BJP Commits To 'Tripartite Agreement' In Tripura"
     ],
-    "last_updated": "2026-09-06 04:34:34 AM"
+    "last_updated": "2026-09-06 05:38:44 AM"
   }
 ]
