@@ -4,21 +4,24 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 47,
+    "news_count": 49,
     "headlines": [
+      "‘Illegal’ basement work, extra floors: What triggered Delhi building collapse",
+      "\"Walls Had Started Developing Cracks\": Delhi Building Collapse Survivor",
+      "Delhi Building Collapse LIVE Updates: Basement Water, Repair Work Behind Delhi Building Collapse: Rekha Gupta",
       "The Critical Task That Brought An Unstable Delhi Building Down, Killing 6",
       "Delhi Building Collapse: Civic Body Seals Adjoining Building",
       "As Rescuers Dig Through Rubble In Delhi, Another Building Worries Officials",
-      "Delhi Building Collapse LIVE Updates: Basement Water, Repair Work Caused Building Collapse: Rekha Gupta",
-      "Watch: Moment Delhi Building Came Crashing Down And Turned Into Rubble",
+      "Delhi HC agrees to hear on September 7 Hindutva influencer Swatantra Bhardwaj’s plea against arrest",
       "Delhi building collapse updates: At least five dead; FIR registered against alleged owner",
       "CJP demands accountability over South Delhi hostel collapse; Dipke questions PM",
       "BJP to go alone in Bengal civic polls, no alliance with NCPI, says Samik Bhattacharya",
       "At least five dead as PG accommodation building collapses in Delhi",
       "Delhi building collapse: Guilty will not be spared, says Delhi CM; orders magisterial probe",
+      "Delhi building collapse: 80% debris cleared, says CM Rekha Gupta",
       "HC to hear habeas corpus plea on Swatantra Bhardwaj's arrest today",
       "Bihar flood situation still grim; 2.24 million hit",
-      "Delhi building collapse LIVE: Cops issue lookout notice against PG owner, HC to hear plea on Satya Niketan cave-in today",
+      "Delhi building collapse LIVE: Toll rises to 7 in Satya Niketan, hunt on for owner; PIL seeks  ₹1 crore",
       "ABVP members protest, vandalise MCD office in Delhi over building collapse incident | Video",
       "'Misleading': Govt fact checks Dipke's claim that ‘a hostel in DU South Campus has collapsed’",
       "DU colleges open doors to anguished students of nearby PGs after building collapse in Satya Niketan",
@@ -36,9 +39,8 @@
       "Delhi HC quashes FIR arising out of fight between friends, directs community service at Manipur hospital",
       "Delhi to get more rain, thunderstorms on Sunday; IMD issues yellow alert",
       "Bihar updates CBI probe ambit as per rules of BNS, BNSS",
-      "CDSCO flags substandard anti-rabies vaccine Abhayrab, traces it to Delhi flat",
-      "IMD warns of heavy rain today in several states as monsoon stays active; red alert in parts of Delhi",
-      "Sensex today | Stock Market LIVE: Sensex down 400 pts, Nifty slips below 23,780 as crude nears $97; Infy, TechM lead losers",
+      "Sensex today | Stock Market LIVE: Sensex down 470 pts, Nifty slips below 23,770; Infy, TechM lead losers",
+      "Seven flights diverted to Delhi following suspected drone movement near Amritsar airport",
       "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
       "Delhi building collapse: Six dead, 11 rescued from debris in Satya Niketan",
       "Crude oil prices rise as US-Iran strikes raise fears of prolonged Hormuz supply disruption",
@@ -54,28 +56,29 @@
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 11,
+    "news_count": 12,
     "headlines": [
       "Homeopaths turn to allopathy amid job insecurity in Maharashtra",
-      "'Are you with the mob or the law?' Kamra asks Mumbai police before comeback show",
+      "\"30 Sena Workers Came Into ICU\": Palghar Hospital Employee Slapped Over Bill Dispute",
       "Maharashtra Ministers call for DJ-free festivals citing health hazards",
       "High-level committee formed in Maharashtra for transparency in recruitment examinations",
       "'Enter, don't spare doctors': Sena workers accused of attacking staff at Palghar hospital",
-      "'Check Aadhaar card, apply tilak': Maharashtra VHP seeks to bar Muslim entry at garba, dandiya events",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Sanjay Dutt uses Yerwada jail joke to skip speaking Marathi",
+      "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue",
       "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani",
       "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply",
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "GJ",
@@ -84,15 +87,15 @@
     "State": "Gujarat",
     "news_count": 7,
     "headlines": [
+      "Gujarat NGO withdraws defamation suit against BBC over Modi documentary",
       "Consumer forums in crisis: Report in SC flags cases pending for over 3 decades",
-      "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab in-charge amid internal discord",
       "Kanohar Electricals IPO opens tomorrow at ₹601-632 price band; Anand Rathi recommends subscribe for long term",
       "Gujarat uses AI-based grain analyser to grade paddy at MSP procurement centres",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Shobhinaw Satyaa and Chandan Anand film records 37.9% growth"
+      "Anjali Anand hits back at pap over body-shaming quip"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "PB",
@@ -107,97 +110,70 @@
       "Justice Ashwani Kumar Mishra sworn in as Chief Justice of Punjab, Haryana HC",
       "Punjab govt. objects to appointment of Ashwani Kumar Mishra as HC chief justice, asks Centre to stop oath ceremony",
       "Right-wing ‘influencer’ Swatantra Bhardwaj sent to 1-day judicial custody in Jantar Mantar assault case",
-      "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab in-charge amid internal discord"
+      "Seven flights diverted to Delhi following suspected drone movement near Amritsar airport"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 6,
-    "headlines": [
-      "4 killed, over two dozen injured as bus overturns after hitting divider in UP",
-      "How Congress's Punjab Assignment For Sachin Pilot Shapes His Rajasthan Plans",
-      "Justice Sanjay K Agrawal sworn in as Rajasthan High Court Chief Justice",
-      "Judicial discipline vital, says ex-CJI Gavai on Rajasthan HC controversy",
-      "Amid 'corruption, nepotism' row, Centre names Justice Sanjay Kumar Agrawal as Rajasthan HC chief justice",
-      "National Spice Conference 2026 to focus on farmer empowerment, consumer safety"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 5,
-    "headlines": [
-      "1.85 lakh voters deleted from Manipur, Sikkim electoral rolls after SIR",
-      "Manipur final electoral roll records 1.96 million voters after revision",
-      "Delhi HC quashes FIR arising out of fight between friends, directs community service at Manipur hospital",
-      "Manipur: 2 banned UKNA cadres killed, 2 injured in Churachandpur",
-      "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 7,
     "headlines": [
       "28-year-old killed after TN minister Jagadeeswari’s car hits 2-wheeler in Chennai",
+      "Tumultuous scenes in Tamil Nadu Assembly as CM Vijay attacks DMK invoking Sarkaria Commission, Veeranam scandal",
+      "Ensure grounds of arrest are furnished before remand, Madras High Court tells T.N. DGP, Chennai Police Commissioner",
       "Youth killed in accident involving Tamil Nadu Minister Jagadeshwari’s car near Chennai",
       "‘I would not trade Chennai for any other city in the world, irrespective of the weather’",
       "Parandur out, Manellore or Cheyyur in: Vijay govt shortlists 2 sites for second Chennai airport",
       "Mammootty 75th Birthday: 'Mela' title and first look"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 4,
-    "headlines": [
-      "Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders",
-      "Amit Shah cancels BJP Goa event after Delhi’s boys' PG building collapse",
-      "Pawan Khera slams BJP over social media post showing National Emblem at PM Modi's 'feet'",
-      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
-    "headlines": [
-      "Bihar flood situation still grim; 2.24 million hit",
-      "Bihar updates CBI probe ambit as per rules of BNS, BNSS",
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Rs 2.61 crore in online games, Rs 28 lakh loss; but taxman seeks tax on Rs 2.33 cr",
       "Three bonded labourers from Tiruvannamalai rescued in Karnataka",
       "Dalit leader accused of harassing poor Dalits",
       "BeLa presents awards to teachers in Belagavi district",
       "Karnataka seizes  ₹4 lakh medicines from two unlicensed Amazon facilities"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 5,
+    "headlines": [
+      "Amit Shah chairs 28th Western Zonal Council meeting in Goa",
+      "Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders",
+      "Amit Shah cancels BJP Goa event after Delhi’s boys' PG building collapse",
+      "Pawan Khera slams BJP over social media post showing National Emblem at PM Modi's 'feet'",
+      "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Peripheral neuropathy affects 1% of people, 10% of those over 60: doctors at Guntur CME",
+      "Tirupati MLA urges public to install eco-friendly Ganesh idols",
+      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
+      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "AS",
@@ -211,7 +187,35 @@
       "Vice President Radhakrishnan arrives in Assam on two-day trip",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Bihar flood situation still grim; 2.24 million hit",
+      "Bihar updates CBI probe ambit as per rules of BNS, BNSS",
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 4,
+    "headlines": [
+      "4 killed, over two dozen injured as bus overturns after hitting divider in UP",
+      "How Congress's Punjab Assignment For Sachin Pilot Shapes His Rajasthan Plans",
+      "Justice Sanjay K Agrawal sworn in as Rajasthan High Court Chief Justice",
+      "National Spice Conference 2026 to focus on farmer empowerment, consumer safety"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "TG",
@@ -221,11 +225,25 @@
     "news_count": 4,
     "headlines": [
       "Pregnant Telangana Woman Rides Bullock Cart To Reach Ambulance Due To Poor Roads",
-      "Case Against Congress MP's Brother Over Fight At Hyderabad Pub",
-      "Monsoon session of Telangana Assembly commences on September 7; prohibited properties issue rocks House",
-      "Telangana eyes growth led by regional airports"
+      "Congress Dalit legislators condemn BRS MLCs remarks against Telangana Assembly Speaker; demand KCR’s apology",
+      "Peripheral neuropathy affects 1% of people, 10% of those over 60: doctors at Guntur CME",
+      "Monsoon session of Telangana Assembly commences on September 7; prohibited properties issue rocks House"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 4,
+    "headlines": [
+      "1.85 lakh voters deleted from Manipur, Sikkim electoral rolls after SIR",
+      "Manipur final electoral roll records 1.96 million voters after revision",
+      "Delhi HC quashes FIR arising out of fight between friends, directs community service at Manipur hospital",
+      "Manipur: 2 banned UKNA cadres killed, 2 injured in Churachandpur"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "KL",
@@ -239,7 +257,7 @@
       "Kozhikode Corporation recalls medicines after councillors flag expiry concerns",
       "Singer Nisar Wayanad passes away at 44 in Dubai"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "UP",
@@ -252,20 +270,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Tirupati MLA urges public to install eco-friendly Ganesh idols",
-      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
-      "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "AR",
@@ -277,55 +282,7 @@
       "India, China armies hold LAC talks in Arunachal Pradesh",
       "India, China to hold first Corps Commander-level talks today at Wacha along LAC in Arunachal Pradesh"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 2,
-    "headlines": [
-      "Jharkhand CID arrests one accused in JSSC-CGL exam irregularities case; 10 held so far",
-      "Jharkhand minister Sudivya Kumar dies at 56, state declares two-day mourning"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "Justice Ashwani Kumar Mishra sworn in as Chief Justice of Punjab, Haryana HC",
-      "Consumer forums in crisis: Report in SC flags cases pending for over 3 decades"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 2,
-    "headlines": [
-      "Amid 'corruption, nepotism' row, Centre names Justice Sanjay Kumar Agrawal as Rajasthan HC chief justice",
-      "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "UN-backed world map must depict J&K, Ladakh accurately: India",
-      "India backs ‘Equal Earth’ map at UN, but warns against inaccurate depiction of Jammu and Kashmir, Ladakh"
-    ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "JK",
@@ -337,7 +294,54 @@
       "A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir",
       "India backs ‘Equal Earth’ map at UN, but warns against inaccurate depiction of Jammu and Kashmir, Ladakh"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "Justice Ashwani Kumar Mishra sworn in as Chief Justice of Punjab, Haryana HC",
+      "Consumer forums in crisis: Report in SC flags cases pending for over 3 decades"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 2,
+    "headlines": [
+      "Jharkhand CID arrests one accused in JSSC-CGL exam irregularities case; 10 held so far",
+      "Jharkhand minister Sudivya Kumar dies at 56, state declares two-day mourning"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "UN-backed world map must depict J&K, Ladakh accurately: India",
+      "India backs ‘Equal Earth’ map at UN, but warns against inaccurate depiction of Jammu and Kashmir, Ladakh"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill"
+    ],
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "HP",
@@ -348,7 +352,7 @@
     "headlines": [
       "IIT Mandi probes 'Shudras serve higher classes' poster; director blames some students' interpretation"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "MP",
@@ -359,7 +363,7 @@
     "headlines": [
       "Woman kills sister-in-law over jailed brother's insult, dumps body in tank"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "OD",
@@ -370,7 +374,7 @@
     "headlines": [
       "31-year-old undertrial dies in Odisha jail, family demands probe into death"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "SK",
@@ -381,7 +385,7 @@
     "headlines": [
       "1.85 lakh voters deleted from Manipur, Sikkim electoral rolls after SIR"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "TR",
@@ -392,7 +396,7 @@
     "headlines": [
       "BJP, allies to contest TTAADC village committee polls together: Tripura CM"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   },
   {
     "Code": "WB",
@@ -403,6 +407,6 @@
     "headlines": [
       "BJP to go alone in Bengal civic polls, no alliance with NCPI, says Samik Bhattacharya"
     ],
-    "last_updated": "2026-09-07 11:37:16 AM"
+    "last_updated": "2026-09-07 12:37:37 PM"
   }
 ]
