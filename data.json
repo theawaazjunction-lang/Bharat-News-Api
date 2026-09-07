@@ -4,9 +4,11 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 53,
+    "news_count": 57,
     "headlines": [
       "7 dead in Delhi PG collapse: Hostel agreement said ‘not responsible’ for any tragedy",
+      "'North pole and south pole': Ashish Nehra compares Shubman Gill and Hardik Pandya",
+      "North Yorkshire estate restores 2,500 acres; 1,700 species return",
       "'Delhi Police had audacity to arrest me,' says Swatantra; HC denies relief",
       "'Not keeping expectations': Ishan Kishan reveals mindset behind epic 270",
       "Satya Niketan PG collapse: After owner Hariram, Delhi Police arrest wife, son",
@@ -18,6 +20,9 @@
       "Collapsed Delhi Hostel's Rent Agreement Left Owner With Zero Responsibility",
       "7 Lakh Enrolled vs 8,000 Hostel Rooms: Why Delhi Students Stay In Death Traps",
       "Israel Vows \"Full-Scale\" War With Palestine In Case Of October 7-Style Attack",
+      "No accountability in Delhi Satya Niketan collapse, says Rahul Gandhi",
+      "Delhi HC rejects Hindutva influencer Swatantra Bhardwaj’s plea against arrest",
+      "TN Assembly drama: CM Vijay attacks DMK over past corruption | Above the Fold | Sept 7, 2026",
       "CM apologises after West Bengal government advertisement depicts Durga with 11 hands instead of 10",
       "Delhi court sends Swatantra Bhardwaj to 14-day judicial custody",
       "Grilled by cops last week, Ashish Joshi moves Delhi court to seek copy of FIR",
@@ -45,7 +50,6 @@
       "'Pillar shifted, building collapsed': Delhi CM on how boys' PG crashed down; vows action against those responsible",
       "‘Distressing’: PM Modi expresses condolences after Delhi building collapse",
       "Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders",
-      "SOS video from under debris: Student trapped in collapsed Delhi boys’ PG building reaches out to friend",
       "Leo Puri to takeover as Chairman of Asian Paints",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
@@ -60,14 +64,14 @@
       "In 2021, a North Yorkshire estate began restoring 2,500 acres of farmed land; four years later...",
       "In 1953, North and South Korea established a demilitarised zone; decades later it is a 155-mile-long wildlife haven"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 14,
+    "news_count": 13,
     "headlines": [
       "Malaysia Airlines plane, with 186 flyers, diverts to Chennai after engine snag",
       "186 On Board, Plane With Engine Issue Makes Emergency Landing In Chennai",
@@ -81,23 +85,20 @@
       "‘Girlfriend gives 0% interest…’: Chennai Metro FD ad sparks row over women ‘objectification’",
       "‘Can’t get up?’ Vijay’s rare gesture towards DMK MLA sparks table-thumping in TN Assembly",
       "Tamil Nadu CM Vijay slams 'double-meaning' remarks against women, invokes Jayalalithaa insult after Trisha row",
-      "Two aircraft diverted to Chennai airport over technical issues",
-      "udaan acquires Swiggy’s LYNK Logistics for ₹500 crore, gets Swiggy as shareholder"
+      "Two aircraft diverted to Chennai airport over technical issues"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 11,
     "headlines": [
-      "Shiv Sena leader Rahul Gharat arrested in Palghar hospital assault case",
       "Video: Supercars Seen Racing On Mumbai Coastal Road, Case Registered",
       "Eknath Shinde suspends Shiv Sena's Palghar unit chief over hospital assault case, vows expulsion",
       "Mumbai airport says closely monitoring cargo ops as increased volumes causes congestion",
-      "Those who assault doctors don’t deserve to roam free, says Supreme Court",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Preity Zinta wears 'Team Tukaram Mundhe' t-shirt, netizens react",
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
@@ -107,17 +108,18 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 9,
+    "news_count": 10,
     "headlines": [
       "Akhilesh's 'chavanni' jab: Can Jayant be BJP’s trump card in UP's 'jatland'?",
       "'Delhi Police had audacity to arrest me,' says Swatantra; HC denies relief",
+      "Supreme Court asks why U.P. Police sought journalist’s digital data in road-rage probe",
       "Uttar Pradesh Chief Minister Yogi Adityanath prays at Tirumala temple",
       "Delhi HC rejects Swatantra Bhardwaj’s habeas corpus plea in CJP protest assault case",
       "'Delhi cops had audacity to go to Bulandshahr after me': 'Influencer' arrested in Jantar Mantar case",
@@ -126,33 +128,16 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 8,
-    "headlines": [
-      "Congress Targets BRS Over Remarks Against Telangana Speaker",
-      "₹1,000 crore earmarked for 2027 Godavari Pushkaralu, says Telangana Deputy CM",
-      "Hyderabad Traffic Police book seven cases over fake number plates",
-      "Smart PNG metering project to benefit Telangana",
-      "Deputy jailor, petrol bunk operator held in ACB trap in Karimnagar",
-      "Telangana BJP leaders protest near Assembly over fee reimbursement dues",
-      "ECI pushes Telangana SIR final roll to Nov. 9; notice phase, deadline for claims and objections extended",
-      "High drama in Telangana Assembly: KTR, Harish Rao detained; BRS MLA pulled by hair"
-    ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
+      "'North pole and south pole': Ashish Nehra compares Shubman Gill and Hardik Pandya",
       "Inside Mayawati's Family Tussle: Changing Roles And An Upcoming Election",
       "National Film Awards 2026 ceremony to be held in Gujarat",
       "Two held from Chennai for sending bomb threats to Gujarat HC, Surat court: Cop",
@@ -161,7 +146,24 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 7,
+    "headlines": [
+      "Congress Targets BRS Over Remarks Against Telangana Speaker",
+      "University of Hyderabad receives Sarojini Naidu’s artefacts at Golden Threshold",
+      "Tenders invited for 369 EV charging stations works in Telangana; charging tariff fixed at ₹13 per unit",
+      "₹1,000 crore earmarked for 2027 Godavari Pushkaralu, says Telangana Deputy CM",
+      "Hyderabad Traffic Police book seven cases over fake number plates",
+      "Smart PNG metering project to benefit Telangana",
+      "High drama in Telangana Assembly: KTR, Harish Rao detained; BRS MLA pulled by hair"
+    ],
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "AP",
@@ -170,28 +172,28 @@
     "State": "Andhra Pradesh",
     "news_count": 5,
     "headlines": [
+      "Modernised NTR Zilla Parishad meeting hall inaugurated",
       "Sloth bear trapped in oil palm fence rescued in Andhra’s Kakinada district, sent to Visakhapatnam zoo",
-      "Andhra Pradesh govt. approves filling of 913 vacant ASHA posts",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10",
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
     "news_count": 5,
     "headlines": [
-      "Three booked for allegedly assaulting, kidnapping woman in Kasaragod",
-      "Projected increase in toll to pinch motorists on NH 66",
-      "Basheer’s world to come alive on stage in Kottayam",
-      "Kozhikode MP writes to parliamentary panel on bifurcation of Palakkad division",
-      "Former Idukki MLA Jose Kuttiyani passes away"
+      "Wildlife Week photography contest at Mysuru zoo",
+      "Karnataka CM inaugurates RISM",
+      "Plan for future urban demands, Minister tells Raichur officials",
+      "Karnataka HC declines anticipatory bail to Sahukar in KPSC scam",
+      "Karnataka seizes  ₹4 lakh medicines from two unlicensed Amazon facilities"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "GA",
@@ -205,21 +207,21 @@
       "Amit Shah launches Nasha Mukt Bharat 2029 roadmap, vows zero narcotics across borders",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 4,
     "headlines": [
-      "Karnataka CM inaugurates RISM",
-      "Plan for future urban demands, Minister tells Raichur officials",
-      "Karnataka HC declines anticipatory bail to Sahukar in KPSC scam",
-      "Karnataka seizes  ₹4 lakh medicines from two unlicensed Amazon facilities"
+      "Manipur government wants 1951 as base year to conduct NRC",
+      "Manipur musician killed in Delhi; eight held for mob lynching",
+      "1951 will be considered base year for NRC, says Manipur home minister Konthoujam",
+      "Manipur House proceedings: Naga MLAs abstain, seek action against deputy CM Kipgen"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "RJ",
@@ -233,7 +235,21 @@
       "Delhi hostel owner arrested from Rajasthan after building collapse kills 7",
       "Justice Sanjay K Agrawal sworn in as Rajasthan High Court Chief Justice"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Three booked for allegedly assaulting, kidnapping woman in Kasaragod",
+      "Projected increase in toll to pinch motorists on NH 66",
+      "Basheer’s world to come alive on stage in Kottayam",
+      "Kozhikode MP writes to parliamentary panel on bifurcation of Palakkad division"
+    ],
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "AS",
@@ -246,7 +262,7 @@
       "Three charred to death after car crashes into transformer in UP’s Lakhimpur Kheri",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "BR",
@@ -259,44 +275,7 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "Bengal CM announces crackdown on child marriage after 60,000 underage deliveries",
-      "CM apologises after West Bengal government advertisement depicts Durga with 11 hands instead of 10",
-      "udaan acquires Swiggy’s LYNK Logistics for ₹500 crore, gets Swiggy as shareholder"
-    ],
-    "last_updated": "2026-09-07 09:35:12 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "‘I’m easy target’: Madhya Pradesh bureaucrat transferred for 4th time in a year",
-      "Woman kills sister-in-law over jailed brother's insult, dumps body in tank"
-    ],
-    "last_updated": "2026-09-07 09:35:12 PM"
-  },
-  {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "SIR complaints must follow proper process: Arunachal CM",
-      "India, China armies hold LAC talks in Arunachal Pradesh"
-    ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "JK",
@@ -308,19 +287,19 @@
       "A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir",
       "Kashmir seeks to revive Bollywood ties with first international film festival"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
     "news_count": 2,
     "headlines": [
-      "1951 will be considered base year for NRC, says Manipur home minister Konthoujam",
-      "Manipur House proceedings: Naga MLAs abstain, seek action against deputy CM Kipgen"
+      "SIR complaints must follow proper process: Arunachal CM",
+      "India, China armies hold LAC talks in Arunachal Pradesh"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "PB",
@@ -332,7 +311,55 @@
       "‘Influencer’ Swatantra Bhardwaj sent to 14-day judicial custody in Jantar Mantar case",
       "Drones force Amritsar airport shutdown, send 7 flights to Delhi, Chandigarh"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Bengal CM announces crackdown on child marriage after 60,000 underage deliveries",
+      "CM apologises after West Bengal government advertisement depicts Durga with 11 hands instead of 10"
+    ],
+    "last_updated": "2026-09-07 10:35:01 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "New U.N. map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese claim lines",
+      "UN-backed world map must depict J&K, Ladakh accurately: India"
+    ],
+    "last_updated": "2026-09-07 10:35:01 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "‘I’m easy target’: Madhya Pradesh bureaucrat transferred for 4th time in a year",
+      "Woman kills sister-in-law over jailed brother's insult, dumps body in tank"
+    ],
+    "last_updated": "2026-09-07 10:35:01 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Odisha eyes export-led industrial growth through UAE investment outreach: CM Majhi",
+      "Raghav Productivity expects to commission Odisha plant next year, plans to double market share"
+    ],
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "CT",
@@ -343,7 +370,7 @@
     "headlines": [
       "In 1953, North and South Korea established a demilitarised zone; decades later it is a 155-mile-long wildlife haven"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "CH",
@@ -354,18 +381,7 @@
     "headlines": [
       "Drones force Amritsar airport shutdown, send 7 flights to Delhi, Chandigarh"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "Odisha eyes export-led industrial growth through UAE investment outreach: CM Majhi"
-    ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "HR",
@@ -376,18 +392,7 @@
     "headlines": [
       "Drones force Amritsar airport shutdown, send 7 flights to Delhi, Chandigarh"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "UN-backed world map must depict J&K, Ladakh accurately: India"
-    ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   },
   {
     "Code": "UT",
@@ -396,8 +401,8 @@
     "State": "Uttarakhand",
     "news_count": 1,
     "headlines": [
-      "Bengal BJP chief rejects Bageshwar Baba's ‘non-veg’ appeal: ‘How can Bengalis not have fish and meat?’"
+      "Bengal BJP chief rejects Bageshwar Baba's no ‘non-veg’ appeal: ‘How can Bengalis not have fish and meat?’"
     ],
-    "last_updated": "2026-09-07 09:35:12 PM"
+    "last_updated": "2026-09-07 10:35:01 PM"
   }
 ]
