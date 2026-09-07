@@ -4,10 +4,9 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 50,
+    "news_count": 49,
     "headlines": [
       "6 killed in Delhi building collapse; illegal buildings over 4 floors to face action",
-      "The Yamuna is rising again: How prepared is Delhi for another flood?",
       "Watch: Moment Delhi Building Came Crashing Down And Turned Into Rubble",
       "6 Dead, Several Feared Trapped After Six-Storey Building Collapses In Delhi",
       "Delhi Building That Collapsed Was 50 Years Old And Dying. Greed Revived It",
@@ -21,7 +20,7 @@
       "Delhi building collapse: Guilty will not be spared, says Delhi CM; orders magisterial probe",
       "Call to keep Durga Pujas in West Bengal vegetarian kicks up a storm",
       "Bihar flood situation still grim; 2.24 million hit",
-      "Delhi Satya Niketan building collapse LIVE: CM Rekha Gupta oversees rescue operations on Day 2",
+      "Delhi building collapse LIVE updates: NDRF deploys dog squad on Day 2, CM Rekha Gupta present at incident site",
       "ABVP members protest, vandalise MCD office in Delhi over building collapse incident | Video",
       "'Misleading': Govt fact checks Dipke's claim that ‘a hostel in DU South Campus has collapsed’",
       "DU colleges open doors to anguished students of nearby PGs after building collapse in Satya Niketan",
@@ -41,11 +40,10 @@
       "Bihar updates CBI probe ambit as per rules of BNS, BNSS",
       "CDSCO flags substandard anti-rabies vaccine Abhayrab, traces it to Delhi flat",
       "IMD warns of heavy rain today in several states as monsoon stays active; red alert in parts of Delhi",
-      "BRICS countdown begins: Delhi traffic alert today for dry run, 35 roads to be hit",
+      "Sensex today | Stock Market LIVE: Sensex down 300 pts, Nifty slips below 23,800 as crude nears $97; Infy, TechM lead losers",
       "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill",
       "Delhi building collapse: Six dead, 11 rescued from debris in Satya Niketan",
       "Crude oil prices rise as US-Iran strikes raise fears of prolonged Hormuz supply disruption",
-      "IIL stands by rabies vaccine, as CDSCO flags ‘fake’ vials seized from unlicensed Delhi residence",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -53,11 +51,12 @@
       "Australia announce SA Test squad: Labuschagne survives, Cooper Connolly included",
       "Duleep Trophy Final: East Zone finish day 1 on 385/4 as Ishan remains unbeaten on 111",
       "Watch: Tilak Varma’s intense exchange with Vaibhav Sooryavanshi in Duleep Trophy final",
+      "Kim-Kanye REUNITE to cheer for North at debut gig - WATCH",
       "Creative Arts Emmy Awards 2026 Night 2 winners' list",
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "MH",
@@ -79,23 +78,23 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 6,
     "headlines": [
-      "‘I would not trade Chennai for any other city in the world, irrespective of the weather’",
-      "Palaniswami chairs AIADMK district secretaries’ meeting in Chennai",
-      "Carnatic musician S.R. Janakiraman passes away at 98",
-      "Tamil Nadu government mulling over abolition of State Planning Commission",
-      "Parandur out, Manellore or Cheyyur in: Vijay govt shortlists 2 sites for second Chennai airport",
-      "Mammootty 75th Birthday: 'Mela' title and first look"
+      "'Our consent wasn't taken': Punjab govt objects to appointment of new HC CJ",
+      "Relief in Congress as all factions accept Pilot as Punjab handler",
+      "Explained: The Warring Equation And Baghel Paradox In Punjab Congress",
+      "Punjab govt. objects to appointment of Ashwani Kumar Mishra as HC chief justice, asks Centre to stop oath ceremony",
+      "Right-wing ‘influencer’ Swatantra Bhardwaj sent to 1-day judicial custody in Jantar Mantar assault case",
+      "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab in-charge amid internal discord"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "GJ",
@@ -110,7 +109,7 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Shobhinaw Satyaa and Chandan Anand film records 37.9% growth"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "KA",
@@ -125,7 +124,22 @@
       "Karnataka files appeal before CWMA seeking reduction in water release",
       "Karnataka seizes  ₹4 lakh medicines from two unlicensed Amazon facilities"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 5,
+    "headlines": [
+      "‘I would not trade Chennai for any other city in the world, irrespective of the weather’",
+      "Palaniswami chairs AIADMK district secretaries’ meeting in Chennai",
+      "Carnatic musician S.R. Janakiraman passes away at 98",
+      "Parandur out, Manellore or Cheyyur in: Vijay govt shortlists 2 sites for second Chennai airport",
+      "Mammootty 75th Birthday: 'Mela' title and first look"
+    ],
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "MN",
@@ -140,22 +154,7 @@
       "Manipur: 2 banned UKNA cadres killed, 2 injured in Churachandpur",
       "SCOOP: Sanjay Leela Bhansali signs Grahan director Ranjan Chandel for historical epic"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 5,
-    "headlines": [
-      "Relief in Congress as all factions accept Pilot as Punjab handler",
-      "Explained: The Warring Equation And Baghel Paradox In Punjab Congress",
-      "Punjab govt. objects to appointment of Ashwani Kumar Mishra as HC chief justice, asks Centre to stop oath ceremony",
-      "Right-wing ‘influencer’ Swatantra Bhardwaj sent to 1-day judicial custody in Jantar Mantar assault case",
-      "Congress replaces Bhupesh Baghel with Sachin Pilot as Punjab in-charge amid internal discord"
-    ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "BR",
@@ -170,7 +169,7 @@
       "Rare 'intensive' revision in Bihar four months before polls",
       "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "AP",
@@ -179,26 +178,12 @@
     "State": "Andhra Pradesh",
     "news_count": 4,
     "headlines": [
-      "Call to keep Durga Pujas in West Bengal vegetarian kicks up a storm",
       "Tirupati MLA urges public to install eco-friendly Ganesh idols",
+      "Call to keep Durga Pujas in West Bengal vegetarian kicks up a storm",
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Spate of thefts triggers security concerns in Ernakulam district",
-      "Safety violations put NH 66 users at risk in Kozhikode",
-      "Kozhikode Corporation recalls medicines after councillors flag expiry concerns",
-      "Suresh Gopi opens toll gates after seeing long queue of vehicles in Keralam’s Thrissur"
-    ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "GA",
@@ -212,20 +197,20 @@
       "Pawan Khera slams BJP over social media post showing National Emblem at PM Modi's 'feet'",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 3,
     "headlines": [
-      "India, China Corps Commanders meet in Arunachal Pradesh",
-      "India, China armies hold LAC talks in Arunachal Pradesh",
-      "India, China to hold first Corps Commander-level talks today at Wacha along LAC in Arunachal Pradesh"
+      "Spate of thefts triggers security concerns in Ernakulam district",
+      "Safety violations put NH 66 users at risk in Kozhikode",
+      "Kozhikode Corporation recalls medicines after councillors flag expiry concerns"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "AS",
@@ -238,7 +223,7 @@
       "Vice President Radhakrishnan arrives in Assam on two-day trip",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "LA",
@@ -251,20 +236,7 @@
       "UN-backed world map must depict J&K, Ladakh accurately: India",
       "India backs ‘Equal Earth’ map at UN, but warns against inaccurate depiction of Jammu and Kashmir, Ladakh"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Ambulance stuck in pothole for 2 hours, unborn baby dies in Agra",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
-    ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "JK",
@@ -277,20 +249,20 @@
       "A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir",
       "India backs ‘Equal Earth’ map at UN, but warns against inaccurate depiction of Jammu and Kashmir, Ladakh"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 3,
     "headlines": [
-      "Kangana Ranaut, Himachal Minister Clash Over Mandi Development",
-      "IIT Mandi probes 'Shudras serve higher classes' poster; director blames some students' interpretation",
-      "Kharif Harvest Outlook: Strong prices expected for most crops, except Bajra and Moong"
+      "Ambulance stuck in pothole for 2 hours, unborn baby dies in Agra",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "RJ",
@@ -303,7 +275,7 @@
       "Judicial discipline vital, says ex-CJI Gavai on Rajasthan HC controversy",
       "Amid 'corruption, nepotism' row, Centre names Justice Sanjay Kumar Agrawal as Rajasthan HC chief justice"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "UT",
@@ -315,19 +287,31 @@
       "Uttarakhand waqf board bid to align nikahnama with UCC draws opposition",
       "Call to keep Durga Pujas in West Bengal vegetarian kicks up a storm"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
     "news_count": 2,
     "headlines": [
-      "Amid 'corruption, nepotism' row, Centre names Justice Sanjay Kumar Agrawal as Rajasthan HC chief justice",
-      "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill"
+      "India, China armies hold LAC talks in Arunachal Pradesh",
+      "India, China to hold first Corps Commander-level talks today at Wacha along LAC in Arunachal Pradesh"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
+  },
+  {
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Kangana Ranaut, Himachal Minister Clash Over Mandi Development",
+      "IIT Mandi probes 'Shudras serve higher classes' poster; director blames some students' interpretation"
+    ],
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "JH",
@@ -339,7 +323,19 @@
       "Jharkhand minister Sudivya Kumar dies at 56, state declares two-day mourning",
       "Jharkhand higher education minister Sudivya Kumar Sonu dies of cardiac arrest"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "Amid 'corruption, nepotism' row, Centre names Justice Sanjay Kumar Agrawal as Rajasthan HC chief justice",
+      "North Korea commissions 2nd naval destroyer as US, South Korea, Japan begin military drill"
+    ],
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "MP",
@@ -351,7 +347,7 @@
       "At least 11 dead after consuming spurious liquor in Madhya Pradesh",
       "Woman kills sister-in-law over jailed brother's insult, dumps body in tank"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "WB",
@@ -363,7 +359,7 @@
       "BJP to go alone in Bengal civic polls, no alliance with NCPI, says Samik Bhattacharya",
       "Call to keep Durga Pujas in West Bengal vegetarian kicks up a storm"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "SK",
@@ -375,7 +371,7 @@
       "1.85 lakh voters deleted from Manipur, Sikkim electoral rolls after SIR",
       "Massive landslide chokes Sikkim rivers"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "HR",
@@ -386,7 +382,7 @@
     "headlines": [
       "Consumer forums in crisis: Report in SC flags cases pending for over 3 decades"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "OD",
@@ -397,7 +393,7 @@
     "headlines": [
       "31-year-old undertrial dies in Odisha jail, family demands probe into death"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "ML",
@@ -408,7 +404,7 @@
     "headlines": [
       "Security Tightened In Shillong Ahead Of Vice President's Visit"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "TR",
@@ -419,7 +415,7 @@
     "headlines": [
       "BJP, allies to contest TTAADC village committee polls together: Tripura CM"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   },
   {
     "Code": "TG",
@@ -430,6 +426,6 @@
     "headlines": [
       "Telangana eyes growth led by regional airports"
     ],
-    "last_updated": "2026-09-07 09:35:02 AM"
+    "last_updated": "2026-09-07 10:35:26 AM"
   }
 ]
