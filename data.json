@@ -4,24 +4,20 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 59,
+    "news_count": 54,
     "headlines": [
-      "'Illegal' basement work, extra floors: What triggered Delhi building collapse",
-      "6-week high: India's crude import price hits $100-a-barrel mark",
       "'North pole and south pole': Nehra compares Shubman Gill and Hardik Pandya",
+      "6-week high: India's crude import price hits $100-a-barrel mark",
       "'Orwellian Dystopia’: HC raps Noida DM over student’s detention during workers' protest",
       "4 yrs, 2 building collapses in same South Delhi lane - the warning nobody acted on",
       "7 dead in Delhi PG collapse: Hostel agreement said ‘not responsible’ for any tragedy",
       "'Delhi Police had audacity to arrest me,' says Swatantra; HC denies relief",
-      "'Not keeping expectations': Ishan Kishan reveals mindset behind epic 270",
-      "Satya Niketan PG collapse: After owner Hariram, Delhi Police arrest wife, son",
-      "Bengal CM announces crackdown on child marriage after 60,000 underage deliveries",
-      "When you ask accountability, PM says 'dimagi naxal': Rahul on Delhi PG collapse",
+      "Baba Ramdev's Aide Balkrishna Acquitted In 15-Year Old Forged Documents Case",
+      "Ground Report | Sunlight Is A Luxury In Delhi Students' Hub Where Building Collapse Killed 7",
       "Delhi Tragedy: Building Owner Retired From Air Force, Runs Shop In Gurugram",
       "After Delhi Tragedy, Building Owners May Face Mandatory Structural Audits",
       "Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home",
       "\"We Dug Out Friends' Bodies\": Students Recall Delhi Building Collapse Horror",
-      "Delhi Survey Tagged 27 Houses As 'Dangerous'. One That Collapsed Not On List",
       "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
       "North Chennai residents seek Metro Rail connectivity via Perambur, better sanitation, and water supply facilities",
       "West Bengal CM urges Durga Puja committees to give up State support, announces restrictions",
@@ -30,7 +26,6 @@
       "13 lakh Delhi voters deleted in pre-SIR mapping phase, highest in Phase-3",
       "No accountability in Delhi Satya Niketan collapse, says Rahul Gandhi",
       "Delhi HC rejects Hindutva influencer Swatantra Bhardwaj’s plea against arrest",
-      "TN Assembly drama: CM Vijay attacks DMK over past corruption | Above the Fold | Sept 7, 2026",
       "Grilled by cops last week, Ashish Joshi moves Delhi court to seek copy of FIR",
       "Delhi HC rejects Swatantra Bhardwaj’s habeas corpus plea in CJP protest assault case",
       "HT Evening News Brief September 7: HC orders MCD inquiry into Delhi PG collapse; Ishan Kishan shines in Duleep Trophy",
@@ -48,7 +43,7 @@
       "Delhi building collapse: 80% debris cleared, says CM Rekha Gupta",
       "HC to hear habeas corpus plea on Swatantra Bhardwaj's arrest today",
       "Bihar flood situation still grim; 2.24 million hit",
-      "Delhi building collapse LIVE: Satya Niketan PG owner Hariram Gupta, wife sent to 14-day judicial custody",
+      "Delhi building collapse: Satya Niketan PG owner Hariram Gupta, wife sent to 14-day judicial custody",
       "ABVP members protest, vandalise MCD office in Delhi over building collapse incident | Video",
       "'Misleading': Govt fact checks Dipke's claim that ‘a hostel in DU South Campus has collapsed’",
       "DU colleges open doors to anguished students of nearby PGs after building collapse in Satya Niketan",
@@ -66,17 +61,16 @@
       "In 2021, a North Yorkshire estate began restoring 2,500 acres of farmed land; four years later...",
       "In 1953, North and South Korea established a demilitarised zone; decades later it is a 155-mile-long wildlife haven"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
       "Tamil Nadu CM Vijay spits fire at three generations of DMK leaders",
-      "Malaysia Airlines plane, with 186 flyers, diverts to Chennai after engine snag",
       "North Chennai residents seek Metro Rail connectivity via Perambur, better sanitation, and water supply facilities",
       "Cuddalore MP seeks comprehensive inquiry into safety and maintenance practices at NLCIL",
       "Air India Express Singapore-bound flight with 180 on board makes emergency landing in Chennai after technical glitch",
@@ -89,7 +83,7 @@
       "Tamil Nadu CM Vijay slams 'double-meaning' remarks against women, invokes Jayalalithaa insult after Trisha row",
       "Two aircraft diverted to Chennai airport over technical issues"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "MH",
@@ -110,7 +104,26 @@
       "Sayani Gupta sues Vinita Negi for Rs 9 crores over Aasmani copyright claims",
       "Hrithik Roshan leases Mumbai office space for Rs. 4.84 crores; actor rents 2,727 sq. ft. property to QuantumX global"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 9,
+    "headlines": [
+      "'North pole and south pole': Nehra compares Shubman Gill and Hardik Pandya",
+      "National film awards ceremony to be in Gujarat this year",
+      "Gujarat to host National Film Awards ceremony for the first time",
+      "National Film Awards 2026 ceremony to be held in Gujarat",
+      "Two held from Chennai for sending bomb threats to Gujarat HC, Surat court: Cop",
+      "Gujarat HC grants AAP’ Chaitar Vasava 7-day bail to attend assembly",
+      "Gujarat NGO withdraws defamation suit against BBC over Modi documentary",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "UP",
@@ -128,41 +141,22 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 8,
-    "headlines": [
-      "'North pole and south pole': Nehra compares Shubman Gill and Hardik Pandya",
-      "Gujarat to host National Film Awards ceremony for the first time",
-      "National Film Awards 2026 ceremony to be held in Gujarat",
-      "Two held from Chennai for sending bomb threats to Gujarat HC, Surat court: Cop",
-      "Gujarat HC grants AAP’ Chaitar Vasava 7-day bail to attend assembly",
-      "Gujarat NGO withdraws defamation suit against BBC over Modi documentary",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "MN",
     "Lat": 24.6637,
     "Long": 93.9063,
     "State": "Manipur",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "Manipur Singer Beaten To Death For Objecting To Drinking Outside Delhi Home",
       "Arambai Tenggol, village volunteers not banned organisations: Manipur CM",
       "Manipur government wants 1951 as base year to conduct NRC",
-      "Manipur musician killed in Delhi; eight held for mob lynching",
       "1951 will be considered base year for NRC, says Manipur home minister Konthoujam",
       "Manipur House proceedings: Naga MLAs abstain, seek action against deputy CM Kipgen"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "AS",
@@ -177,7 +171,21 @@
       "Three charred to death after car crashes into transformer in UP’s Lakhimpur Kheri",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Tejashwi writes to PM Modi, urges him to grant ₹5,000 crore for Bihar floods",
+      "Bihar flood situation still grim; 2.24 million hit",
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "AP",
@@ -191,21 +199,7 @@
       "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
       "BREAKING: Vijay Deverakonda, not Ram Charan, to play Lord Krishna in Telugu remake of Gujarati blockbuster Laalo – Krishna Sada Sahaayate"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
-    "headlines": [
-      "University of Hyderabad receives Sarojini Naidu’s artefacts at Golden Threshold",
-      "Tenders invited for 369 EV charging stations works in Telangana; charging tariff fixed at ₹13 per unit",
-      "High drama in Telangana Assembly: KTR, Harish Rao detained; BRS MLA pulled by hair",
-      "Rajesh Sharma clarifies he did not suffer insect bite on Prabhas' film set in Hyderabad"
-    ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "RJ",
@@ -219,7 +213,7 @@
       "Delhi hostel owner arrested from Rajasthan after building collapse kills 7",
       "Justice Sanjay K Agrawal sworn in as Rajasthan High Court Chief Justice"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "PB",
@@ -233,34 +227,34 @@
       "‘Influencer’ Swatantra Bhardwaj sent to 14-day judicial custody in Jantar Mantar case",
       "Drones force Amritsar airport shutdown, send 7 flights to Delhi, Chandigarh"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Bengal CM announces crackdown on child marriage after 60,000 underage deliveries",
-      "India, Bangladesh To Discuss Restarting Train Services At Key Meeting",
-      "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
-      "West Bengal CM urges Durga Puja committees to give up State support, announces restrictions"
-    ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Authorities must show leniency while asking members of SC/ST communities to prove their caste status: Kerala High Court",
       "Student from Alappuzha arrested in Ernakulam college morphing case",
       "Kerala High Court lawyers step in to pay MVD fine on flood-rescue vehicle in Keralam’s Aranmula",
       "Sailing expedition in Alappuzha"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 3,
+    "headlines": [
+      "India, Bangladesh To Discuss Restarting Train Services At Key Meeting",
+      "West Bengal recorded 60,000 underage institutional deliveries in first six months of 2026: CM",
+      "West Bengal CM urges Durga Puja committees to give up State support, announces restrictions"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "JK",
@@ -273,20 +267,20 @@
       "A day after India’s UN map remarks, Pakistan provokes again over Jammu and Kashmir",
       "Kashmir seeks to revive Bollywood ties with first international film festival"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
     "news_count": 3,
     "headlines": [
-      "Bihar flood situation still grim; 2.24 million hit",
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
+      "University of Hyderabad receives Sarojini Naidu’s artefacts at Golden Threshold",
+      "High drama in Telangana Assembly: KTR, Harish Rao detained; BRS MLA pulled by hair",
+      "Rajesh Sharma clarifies he did not suffer insect bite on Prabhas' film set in Hyderabad"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "GA",
@@ -299,7 +293,7 @@
       "Amit Shah chairs 28th Western Zonal Council meeting in Goa",
       "BREAKING: Drishyam The Conclusion trailer cleared by CBFC with U/A 16+ rating; makers return to Goa for star-studded trailer launch"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "HR",
@@ -312,43 +306,7 @@
       "77 days and counting: Haryana guest teachers intensify  agitation seeking job regularisation",
       "Drones force Amritsar airport shutdown, send 7 flights to Delhi, Chandigarh"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "‘I’m easy target’: Madhya Pradesh bureaucrat transferred for 4th time in a year",
-      "Woman kills sister-in-law over jailed brother's insult, dumps body in tank"
-    ],
-    "last_updated": "2026-09-08 01:35:25 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines",
-      "UN-backed world map must depict J&K, Ladakh accurately: India"
-    ],
-    "last_updated": "2026-09-08 01:35:25 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Odisha eyes export-led industrial growth through UAE investment outreach: CM Majhi",
-      "Raghav Productivity expects to commission Odisha plant next year, plans to double market share"
-    ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "KA",
@@ -360,18 +318,43 @@
       "Karnataka High Court orders tech-driven overhaul to manage finance and assets of temples",
       "Wildlife Week photography contest at Mysuru zoo"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 1,
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 2,
     "headlines": [
-      "India, China armies hold LAC talks in Arunachal Pradesh"
+      "‘I’m easy target’: Madhya Pradesh bureaucrat transferred for 4th time in a year",
+      "Woman kills sister-in-law over jailed brother's insult, dumps body in tank"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "New UN map depicts Arunachal, Aksai Chin as territories caught between Indian, Chinese ‘unspecified’ claim lines",
+      "UN-backed world map must depict J&K, Ladakh accurately: India"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Odisha eyes export-led industrial growth through UAE investment outreach: CM Majhi",
+      "Raghav Productivity expects to commission Odisha plant next year, plans to double market share"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "CH",
@@ -382,18 +365,18 @@
     "headlines": [
       "Drones force Amritsar airport shutdown, send 7 flights to Delhi, Chandigarh"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "In 1953, North and South Korea established a demilitarised zone; decades later it is a 155-mile-long wildlife haven"
+      "India, China armies hold LAC talks in Arunachal Pradesh"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "JH",
@@ -404,7 +387,29 @@
     "headlines": [
       "BJP all set for four-day protest over student issues in Jharkhand from September 8"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "In 1953, North and South Korea established a demilitarised zone; decades later it is a 155-mile-long wildlife haven"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
+  },
+  {
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
+    "news_count": 1,
+    "headlines": [
+      "Mizoram electoral rolls see 78,442 deletions, 39,243 additions after SIR; final count at 8.35 lakh"
+    ],
+    "last_updated": "2026-09-08 02:35:32 AM"
   },
   {
     "Code": "UT",
@@ -415,6 +420,6 @@
     "headlines": [
       "Bengal BJP chief rejects Bageshwar Baba's no ‘non-veg’ appeal: ‘How can Bengalis not have fish and meat?’"
     ],
-    "last_updated": "2026-09-08 01:35:25 AM"
+    "last_updated": "2026-09-08 02:35:32 AM"
   }
 ]
