@@ -4,8 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 44,
+    "news_count": 46,
     "headlines": [
+      "Delhi building collapse: Owner knew base was weak, built 4 additional floors, say cops",
+      "Delhi man says Meta glasses filmed him without consent, seeks Rs 2.05 crore",
       "Delhi HC raps Centre for outing survivor's name in its POSH handbook",
       "Godzilla Minus Zero trailer teases King Ghidorah battle, Ramayana parallels",
       "Strategic autonomy in motion as India hosts Brics summit",
@@ -16,12 +18,13 @@
       "Delhi Building Collapse Highlights: Rekha Gupta Visits AIIMS, Promises Support To Building Collapse Victims",
       "Vigil In Manipur Over Musician's Death, Chief Minister Writes To Rekha Gupta",
       "Lokayukta inspects Sankey Tank after residents flag falling water level",
+      "Delhi building collapse LIVE: Demolition of structure next to collapsed PG begins; contractor held in Satya Niketan",
+      "'No one should have to face this': Manipur musician's killing sparks concerns among Northeastern residents in Delhi",
       "'Don't send your children to Delhi to study': Father's appeal to parents after losing son in Satya Niketan tragedy",
       "Former Delhi chief secretary Rakesh Mehta died by suicide due to health reasons: Police",
       "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri",
       "Guitarist, music teacher: Who was Chongtham Vikram Singh, Manipuri singer killed in Delhi",
       "‘Networks are fully operational’: Delhi Police says no jammers at Satya Niketan rescue site",
-      "Satya Niketan deaths: Supreme Court signals wider crackdown on illegal buildings",
       "India joins US, 24 other nations in global initiative to shape next-generation 6G networks",
       "51-yr-old man gets life imprisonment for murdering wife, daughter in Delhi",
       "Manipur musician's son recounts what happened before Delhi murder: ‘They were having alcohol, making noise’",
@@ -31,14 +34,13 @@
       "‘Chased to 3rd floor, overpowered’: Last moments of Manipuri musician who was beaten to death in Delhi",
       "‘Going back to Moon, want India by our side’: US envoy to Delhi pushes for ISRO-NASA collaboration",
       "Jaishankar faces tough questions from MPs over India’s West Asia policy, perception of being in ‘Israel’s corner'",
-      "Delhi building collapse highlights: NHRC seeks comprehensive report on hostels from Delhi government, UGC",
+      "NHRC seeks comprehensive report on hostels from Delhi government, UGC",
       "‘We saw him happy, now we see his dead body’: Families mourn students killed in Delhi PG collapse",
       "Delhi-NCR to get 55 new air quality monitoring stations by year-end, total to reach 157",
       "Manipuri musician Chongtham Vikram Singh beaten to death by delivery boys, dhaba staff in Delhi",
       "Grilled by cops last week, Ashish Joshi moves Delhi court to seek copy of FIR",
       "Indian AI developers enhancing security architectures to prevent rogue behaviors",
       "Putin, Modi to discuss trade, defence deals, local currency payments on Friday: Kremlin",
-      "Global Market Today: Asian chip stocks rise, oil climbs towards $100",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -51,37 +53,18 @@
       "Antarctica gained 695 billion tons in 2021-23 as tropical warmth drove heavy snowfall",
       "Meet Dr Alberto Cruz: The palaeontologist who found an Ice Age toad in a La Brea fossil"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 10,
-    "headlines": [
-      "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
-      "Gujarat HC blocks Asaram release after Raj parole order, says no temporary bail",
-      "‘Now Naraz Fufaji will start shouting’: PM Modi's jibe after unveiling  ₹35,000-crore projects in Gujarat",
-      "PM Modi to unveil projects worth  ₹35,000 crore in Gujarat today",
-      "National Film Awards 2026 ceremony to be held in Gujarat",
-      "Two held from Chennai for sending bomb threats to Gujarat HC, Surat court: Cop",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "'That was a pity': V Anand loses on time to Carlsen, who lauds India's 'love for chess'",
-      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 10,
+    "news_count": 11,
     "headlines": [
       "Dilip Gavit's journey: From losing right arm to raising the tricolour on podiums",
       "Husband died in 2006, widow got PF and gratuity; why HC rejected pension claim",
+      "Renewed focus on economic reforms, ‘naraz fufa’ dig at Rahul Gandhi: PM Modi spends day in Gujarat, Maharashtra",
       "Man claiming to be PMO official, ‘bodyguard’ with gun arrested in Mumbai",
       "Six, including 3-year-old, killed as speeding truck collides with SUV in Maharashtra",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
@@ -91,26 +74,26 @@
       "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani",
       "Ajay Devgn and Tiger Shroff respond to Vimal Pan Masala FDA notice, Shah Rukh Khan yet to reply"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
     "news_count": 9,
     "headlines": [
-      "Tamil Nadu government transfers 27 IAS officers in major bureaucratic reshuffle",
-      "CM Vijay clarifies row over his ‘body language’ in Tamil Nadu Assembly: ‘Not in any way intentional’",
-      "Gold price today: Check 24K, 22K rates in Delhi, Mumbai, Chennai and other cities",
-      "Tamil Nadu Assembly erupts in ruckus over CM Vijay’s ED remarks; DMK MLAs evicted",
-      "Air India Express Singapore-bound flight with 180 on board makes emergency landing in Chennai after technical glitch",
+      "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
+      "Gujarat HC blocks Asaram release after Raj parole order, says no temporary bail",
+      "‘Now Naraz Fufaji will start shouting’: PM Modi's jibe after unveiling  ₹35,000-crore projects in Gujarat",
+      "PM Modi to unveil projects worth  ₹35,000 crore in Gujarat today",
+      "National Film Awards 2026 ceremony to be held in Gujarat",
       "Two held from Chennai for sending bomb threats to Gujarat HC, Surat court: Cop",
-      "Man, 26, dies after scooter hit by TVK minister's car near Chennai",
-      "'Roll camera, action': Udhayanidhi Stalin takes swipe at CM Vijay after fiery assembly session",
-      "Tamil Nadu debt-to-GSDP ratio within norms, but rising deficits need close watch: CAG"
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "PB",
@@ -123,12 +106,30 @@
       "Channi vs Warring: Why Sachin Pilot may be Congress's best bet in Punjab",
       "\"No Work, No Pay\": Punjab Cracks Down On Unauthorised Absence Of State Staff",
       "Punjab MP Raghav Chadha's Name Added To Delhi Voter List",
+      "Punjab leaders have assured me of working collectively under Rahul and Kharge’s leadership: Sachin Pilot",
       "Water cannons used as Punjab Congress members stage demonstration against AAP after villager’s death",
-      "Punjab leaders have assured me of working collectively under Rahul ji and Kharge ji’s leadership, says Sachin Pilot",
       "‘Channi has assured his full support to  Congress’ poll efforts’: Sachin Pilot",
       "Employees' strike 'illegal', says Punjab minister Arora ahead of call for mass casual leave"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 8,
+    "headlines": [
+      "Tamil Nadu government transfers 27 IAS officers in major bureaucratic reshuffle",
+      "When Karunanidhi attempted to revamp DMK in 1999",
+      "CM Vijay clarifies row over his ‘body language’ in Tamil Nadu Assembly: ‘Not in any way intentional’",
+      "Gold price today: Check 24K, 22K rates in Delhi, Mumbai, Chennai and other cities",
+      "Tamil Nadu Assembly erupts in ruckus over CM Vijay’s ED remarks; DMK MLAs evicted",
+      "Air India Express Singapore-bound flight with 180 on board makes emergency landing in Chennai after technical glitch",
+      "Two held from Chennai for sending bomb threats to Gujarat HC, Surat court: Cop",
+      "Tamil Nadu debt-to-GSDP ratio within norms, but rising deficits need close watch: CAG"
+    ],
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "KA",
@@ -145,38 +146,39 @@
       "61-year-old Karnataka resident declared dead in draft voter roll visits officials",
       "Karnataka SIR: ECI withdraws discrepancy notice issued to Padma Awardee Hajabba"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 6,
     "headlines": [
-      "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
-      "Tension as police raid Shyam Institute, case against Director Shyam, 20 students in Kakinada",
-      "YSRCP Vizianagaram president Majji Srinivasa Rao joins TDP",
-      "Navy Chief Admiral Krishna Swaminathan to visit Australia, New Zealand to boost ties",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10",
-      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director"
+      "SP-RLD row over chavanni flips open caste fault lines ahead of U.P. poll",
+      "Rahul Gandhi's Delhi-Lucknow flight makes go-around due to weather, lands safely later: Report",
+      "6 accused of snatching Muslim man' skullcap during procession in UP's Etah; cops make them apologise",
+      "Uttar Pradesh may spoil India’s sugar party in 2026-27 season",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "MN",
     "Lat": 24.6637,
     "Long": 93.9063,
     "State": "Manipur",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
       "Vigil In Manipur Over Musician's Death, Chief Minister Writes To Rekha Gupta",
       "After Manipur Musician Beaten To Death In Delhi, Kiren Rijiju vs Rahul Gandhi Over \"Playing Politics\"",
       "Manipur Naga body announces intensified highway blockade",
+      "'No one should have to face this': Manipur musician's killing sparks concerns among Northeastern residents in Delhi",
       "Guitarist, music teacher: Who was Chongtham Vikram Singh, Manipuri singer killed in Delhi",
       "Manipur musician's son recounts what happened before Delhi murder: ‘They were having alcohol, making noise’"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "KL",
@@ -191,50 +193,22 @@
       "MVD slaps penalty of ₹6.04 lakh on trucks for overloading in Keralam’s Ernakulam",
       "ED writes to Kerala DGP seeking FIR against ex-CM Vijayan, daughter, son-in-law in CMRL case"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 5,
     "headlines": [
-      "Rahul Gandhi's Delhi-Lucknow flight makes go-around due to weather, lands safely later: Report",
-      "6 accused of snatching Muslim man' skullcap during procession in UP's Etah; cops make them apologise",
-      "Uttar Pradesh may spoil India’s sugar party in 2026-27 season",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+      "Andhra Pradesh rain forecast: showers from September 12 after a near 60% deficit",
+      "Tension as police raid Shyam Institute, case against Director Shyam, 20 students in Kakinada",
+      "Navy Chief Admiral Krishna Swaminathan to visit Australia, New Zealand to boost ties",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10",
+      "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
-    "headlines": [
-      "Bihar Floods: water levels recede, but threat persists",
-      "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Assam Ex-Bureaucrat, 2 Journalists Join BJP Ahead Of State Bypoll",
-      "Supreme Court pulls up Assam for appointing unqualified teachers",
-      "Assam ordered to pay  ₹2 lakh to family of woman pushed into Bangladesh: ‘Expelled without information to husband’",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "OD",
@@ -248,7 +222,49 @@
       "Odisha CM leaves for UAE, to hold investment roadshows in Abu Dhabi, Dubai",
       "Odisha government notifies new rules for settlement of Jagannath Temple land"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Bihar Floods: water levels recede, but threat persists",
+      "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
+      "Rare 'intensive' revision in Bihar four months before polls",
+      "EXCLUSIVE: Imtiaz Ali and Mahaveer Jain’s Side Heroes a RARE Bollywood film to be shot COMPLETELY in Bihar"
+    ],
+    "last_updated": "2026-09-09 07:35:33 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 4,
+    "headlines": [
+      "Assam Ex-Bureaucrat, 2 Journalists Join BJP Ahead Of State Bypoll",
+      "Supreme Court pulls up Assam for appointing unqualified teachers",
+      "Assam ordered to pay  ₹2 lakh to family of woman pushed into Bangladesh: ‘Expelled without information to husband’",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-09 07:35:33 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Manu Bhaker suffers another personal loss; grandmother passes away in Rohtak",
+      "Probe ordered into police action against protesting Bhopal intern doctors",
+      "India's cleanest city Indore loses top spot in clean air survey by 1 point; mayor blames PM10 for slip",
+      "Indore varsity announces 100 pc tuition fee waiver for ex-Agniveers"
+    ],
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "TG",
@@ -261,56 +277,20 @@
       "CPI(M) won’t participate in TVK’s second meeting with post-poll allies on September 9: Shanmugam",
       "Telangana minister performs CPR on IAS officer's personal secretary at Assembly; revival fails"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Probe ordered into police action against protesting Bhopal intern doctors",
-      "India's cleanest city Indore loses top spot in clean air survey by 1 point; mayor blames PM10 for slip",
-      "Indore varsity announces 100 pc tuition fee waiver for ex-Agniveers"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "Manu Bhaker suffers another personal loss; grandmother passes away in Rohtak",
       "2-year-old girl run over by speeding car in Gurugram as her mother watches in horror",
       "Delhi-NCR to get 55 new air quality monitoring stations by year-end, total to reach 157"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 2,
-    "headlines": [
-      "CDB’s Chhattisgarh farm tops coconut production among non-traditional farms in 2025",
-      "Global Market Today: Asian chip stocks rise, oil climbs towards $100"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri",
-      "In NIA charge sheet, no terror charges against US national VanDyke, 6 Ukrainians"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "RJ",
@@ -322,30 +302,18 @@
       "Ruling BJP expels 42 rebels ahead of first phase of Rajasthan civic polls",
       "Rajasthan Cricket Association polls on Sept 29 after two years of ad hoc rule"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 2,
-    "headlines": [
-      "Nainital Police register FIR against ‘unknown persons’ for performing ‘purification’ of Mallikarjun Kharge’s rally venue",
-      "Bengal BJP chief rejects Bageshwar Baba's no ‘non-veg’ appeal: ‘How can Bengalis not have fish and meat?’"
-    ],
-    "last_updated": "2026-09-09 06:35:23 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 1,
     "headlines": [
-      "Boosting mango exports"
+      "CDB’s Chhattisgarh farm tops coconut production among non-traditional farms in 2025"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "JK",
@@ -356,7 +324,7 @@
     "headlines": [
       "On Sheikh Abdullah’s 44th death anniversary, NC reclaims his political legacy through archival videos"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
   },
   {
     "Code": "LA",
@@ -367,6 +335,28 @@
     "headlines": [
       "Ladakh LG taps 90 million litres of glacial water after village head's appeal"
     ],
-    "last_updated": "2026-09-09 06:35:23 AM"
+    "last_updated": "2026-09-09 07:35:33 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 1,
+    "headlines": [
+      "Nainital Police register FIR against ‘unknown persons’ for performing ‘purification’ of Mallikarjun Kharge’s rally venue"
+    ],
+    "last_updated": "2026-09-09 07:35:33 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 1,
+    "headlines": [
+      "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri"
+    ],
+    "last_updated": "2026-09-09 07:35:33 AM"
   }
 ]
