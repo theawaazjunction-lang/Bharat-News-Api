@@ -4,8 +4,11 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 36,
+    "news_count": 37,
     "headlines": [
+      "‘Wanted to teach him a lesson’: Accused on assault that killed Delhi musician",
+      "Brics summit in Delhi on September 12-13: Agenda, schedule and other details",
+      "3 trucks of debris, 1 missing wall: How renovation doomed Delhi PG building",
       "Brics Summit: Delhi on high alert with 4,800 cops, 35+ roads face curbs",
       "Watch: PM Modi’s ‘naraaz fufa’ jibe follows Rahul Gandhi to Rae Bareli",
       "Watch: DU students raise ‘VC go back, sharam karo’ slogan at campus event days",
@@ -13,8 +16,7 @@
       "Debris In Basement, Wall Removed: What Led To Delhi Building Collapse",
       "58-Year-Old British Tourist Arrested For Spitting On Turkish Flag",
       "How Delhi University's Hostel Gap Forces Students Into Private Market",
-      "Last rites performed for Manipur musician killed in Delhi amid calls for justice",
-      "Karnataka Chief Minister warns Congress MLAs and Ministers to prepare for raids by Central agencies",
+      "Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday",
       "Traffic advisory in Delhi till 10pm for BRICS motorcade rehearsal: 35+ roads hit, airport routes diverted",
       "Delhi Court dismisses YouTuber Ajeet Bharti’s anticipatory bail plea in caste remarks case",
       "Delhi HC asks WFI’s stand on Vinesh Phogat’s participation in World Championship trials",
@@ -33,7 +35,6 @@
       "Delhi boosts health budget by 69%, but struggles to spend it: Assembly Panel",
       "India, Sri Lanka sign MoUs to upgrade L70s",
       "Nexus Select Trust expands East India footprint with ₹1,600-cr Guwahati deal",
-      "BRICS Summit: India reaches out to regional blocs to build wider Global South network",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -43,51 +44,68 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 14,
+    "headlines": [
+      "Rayalaseema faces severe water crisis amid strengthening El Nino",
+      "Manohar asks Jana Sena cadre to prepare for local body elections in Andhra Pradesh",
+      "Andhra Pradesh pushes ‘One Water’ vision at IFAT India 2026",
+      "IATO national convention to be held in Visakhapatnam from September 10",
+      "Gujarat team appreciates APCNF natural farming model in Andhra Pradesh",
+      "In Bengaluru, many waste collectors not paid for four months",
+      "Science and spirituality exhibition draws 5,000 visitors in Guntur",
+      "177 Velampeta families to get flats where their huts stand;  ₹28.44 crore slum redevelopment begins in Visakhapatnam",
+      "Jagan announces to undertake padayatra in Andhra Pradesh next year",
+      "Bhogapuram Airport: Air India Express to fly Visakhapatnam-Bangkok twice a week from October 27",
+      "Andhra Pradesh CM to review welfare during Collectors’ Conference on September 10, 11",
+      "Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar",
+      "Centre to adopt Andhra’s 10% broken-rice model for PDS nationwide: Minister Manohar",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 20,
+    "news_count": 14,
     "headlines": [
       "Iron Rods Pierce Karnataka Bus After Tractor Collision, Driver Dies On Spot",
+      "ED raids premises linked to Karnataka PWD Minister Satish Jarkiholi, his MP daughter",
+      "125th show of Akshatha Pandavapura’s play in Mysuru",
+      "Students demonstrate scientific temper and mathematical talent at The Hindu In School Science Fest and Maths Olympiad",
+      "Hassan panel records Ramya Haridas’ statement in the late-night affray controversy in  Keralam",
       "Karnataka government’s initial estimate of drought-related losses pegged at ₹18,000 crore",
       "SC-ST commission chairman holds meeting in Hassan",
       "Student union polls to be held without caste quota, but with reserved seats for women from this academic year in Karnataka",
       "Karnataka to challenge CWMA’s order before SC and file review petition before CWRC, says Minister",
       "Youth commission sought in Karnataka",
-      "People of Holehonnur up in arms against proposed ring road for the town, to protest in Shivamogga on September 11",
-      "Karnataka seizes 2,564 PoP Ganesha idols in State-wide enforcement drive",
-      "Private school federation launches indefinite protest in Kalaburagi",
-      "Karnataka Chief Minister warns Congress MLAs and Ministers to prepare for raids by Central agencies",
-      "Mysuru Dasara lights to shine without harming trees",
-      "Karnataka HC refuses to quash FIR against couple accused of cheating woman of ₹1.4 crore with medical seat promise",
-      "Focus on implementing welfare schemes for Bhovi community, says corporation chairman",
-      "Ballari Chalo padayatra to conclude with massive public meeting, says Vijayendra",
-      "Heavy security, traffic diversions planned for BJP rally in Ballari",
-      "Protest march to be held by Shivamogga district unit of BJP",
       "‘Beat him with slippers’: Karnataka minister's outburst against BJP MLA; BP Harish hits back",
       "'BJP misusing agencies': Karnataka CM Shivakumar slams ED raids at PWD minister's residence",
       "61-year-old listed as dead among electors flagging flawed SIR notices in Karnataka",
       "ED raids premises linked to Karnataka Minister Satish Jarkiholi, family"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
       "Bengaluru trails Delhi, Mumbai in clean air survey, but improves score. How did it rank this year?",
       "Maharashtra CM Fadnavis announces legislation for land tokenisation",
       "Which city took the clean-air crown? Delhi, Mumbai rankings revealed. Noida makes it to Top 10",
-      "Who is Rohan Parekh? Diamond merchant’s son at centre of Mumbai PMO impersonation case",
+      "Who is Rohan Parzekh? Diamond merchant’s son at centre of Mumbai PMO impersonation case",
       "Renewed focus on economic reforms, ‘naraz fufa’ dig at Rahul Gandhi: PM Modi spends day in Gujarat, Maharashtra",
-      "Man claiming to be PMO official, ‘bodyguard’ with gun arrested in Mumbai",
       "Indian mill-level sugar prices rise on UP factories reluctance to lower rates",
       "Mumbai office demand to grow in double digits: CBRE report",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
@@ -96,30 +114,7 @@
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue",
       "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 13,
-    "headlines": [
-      "Gujarat team appreciates APCNF natural farming model in Andhra Pradesh",
-      "In Bengaluru, many waste collectors not paid for four months",
-      "Science and spirituality exhibition draws 5,000 visitors in Guntur",
-      "177 Velampeta families to get flats where their huts stand;  ₹28.44 crore slum redevelopment begins in Visakhapatnam",
-      "Jagan announces to undertake padayatra in Andhra Pradesh next year",
-      "Bhogapuram Airport: Air India Express to fly Visakhapatnam-Bangkok twice a week from October 27",
-      "Andhra Pradesh CM to review welfare during Collectors’ Conference on September 10, 11",
-      "Govt committed to upgrading 33,000-plus anganwadis: Keralam Minister Bindu Krishna",
-      "Lokesh announces free power for Ganesh pandals across Andhra Pradesh",
-      "Srikakulam Cong. holds review meeting ahead of local body polls",
-      "Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar",
-      "Centre to adopt Andhra’s 10% broken-rice model for PDS nationwide: Minister Manohar",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "GJ",
@@ -130,7 +125,7 @@
     "headlines": [
       "Father-in-law must 'quit politics': Mayawati's condition for Akash's big role",
       "Gujarat team appreciates APCNF natural farming model in Andhra Pradesh",
-      "Tejashwi writes to Bihar CM Samrat Choudhary over PDS dealers’ demands",
+      "BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram",
       "Mayawati sets 'sanyas' condition to restore nephew Akash Anand's role in BSP",
       "Woman dies in Gujarat ‘hit-and-run’; probe finds family killed her over 'video with man'",
       "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
@@ -141,23 +136,7 @@
       "‘It’s madness’: Anand loses on time after declining draw against Sindarov",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "Samsung phone stops working in 2 months; company told to pay Rs 37,499",
-      "UDF, LDF declare candidates for Kuttichira bypoll in Kozhikode",
-      "‘Kuttiyolum Collectorum’ launched in Kozhikode to foster students’ confidence",
-      "Man kills son in Idukki",
-      "Govt committed to upgrading 33,000-plus anganwadis: Keralam Minister Bindu Krishna",
-      "Complete Vengad Gosala project by May 2027: Kerala High Court"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "UP",
@@ -173,22 +152,21 @@
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph",
       "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
-      "Tejashwi writes to Bihar CM Samrat Choudhary over PDS dealers’ demands",
       "Tejashwi writes to Bihar CM, alleges ration dealers' distress due to 'organised corruption'",
       "Liquor case accused gets bail in dry Bihar, asked to pay to beautify court",
       "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "TN",
@@ -198,11 +176,64 @@
     "news_count": 4,
     "headlines": [
       "Vijay's TVK, its allies form Secular Social Justice Victory Alliance",
-      "TVK-led alliance named Secular Social Justice Victory Alliance",
+      "Cuddalore Collector reviews preparedness measures ahead of northeast monsoon",
       "CM Vijay clarifies row over his ‘body language’ in Tamil Nadu Assembly: ‘Not in any way intentional’",
       "SES deepens India investment, expands Chennai presence"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Samsung phone stops working in 2 months; company told to pay Rs 37,499",
+      "UDF, LDF declare candidates for Kuttichira bypoll in Kozhikode",
+      "Karuvatta murder case: Kerala HC stays JJB order allowing escorted movement of children in conflict with law for evidence recovery",
+      "‘Kuttiyolum Collectorum’ launched in Kozhikode to foster students’ confidence"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Gulzar Singh's suicide case: Rahul demands Punjab finance min's resignation",
+      "HT Morning Brief September 9: Russia sees BRICS bridging Iran-UAE ties; Sachin Pilot counts on Channi in Punjab",
+      "Channi assured full support to Congress’ poll efforts in Punjab, Sachin Pilot tells HT"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 3,
+    "headlines": [
+      "Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links",
+      "Manipur: Kuki police constable suspended over alleged role in abduction of 6 Naga men",
+      "Guitarist, music teacher: Who was Chongtham Vikram Singh, Manipuri singer killed in Delhi"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
+    "headlines": [
+      "32 pubs in Hyderabad found without valid Fire NOCs",
+      "Over 20 BRS members suspended from Telangana Assembly for remainder of monsoon session",
+      "Telangana minister performs CPR on IAS officer's personal secretary at Assembly; revival fails"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "MP",
@@ -215,44 +246,7 @@
       "Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar",
       "India's cleanest Indore loses top spot by 1 point to this UP city in clean air survey"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "Last rites performed for Manipur musician killed in Delhi amid calls for justice",
-      "Manipur: Kuki police constable suspended over alleged role in abduction of 6 Naga men",
-      "Guitarist, music teacher: Who was Chongtham Vikram Singh, Manipuri singer killed in Delhi"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "Supreme Court pulls up Assam for appointing unqualified teachers",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 2,
-    "headlines": [
-      "TG SAFE suspends FSSAI licence of five Hyderabad establishments over food safety violations",
-      "Telangana minister performs CPR on IAS officer's personal secretary at Assembly; revival fails"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "HR",
@@ -264,19 +258,7 @@
       "Haryana tightens monitoring of CM meeting decisions; depts to give evidence-based action reports",
       "2-year-old girl run over by speeding car in Gurugram as her mother watches in horror"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "HT Morning Brief September 9: Russia sees BRICS bridging Iran-UAE ties; Sachin Pilot counts on Channi in Punjab",
-      "Channi assured full support to Congress’ poll efforts in Punjab, Sachin Pilot tells HT"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "OD",
@@ -288,7 +270,31 @@
       "5 ‘lost’ baby orangutans found in Odisha forest",
       "5 orangutans’ rescue in Odisha raises trafficking fears"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Kargil veteran urges Governor to promote ‘Each One Save One’ campaign",
+      "Ladakh tourist arrivals surpass full-year 2025 tally in first eight months of 2026"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "TR",
+    "Lat": 23.9408,
+    "Long": 91.9882,
+    "State": "Tripura",
+    "news_count": 2,
+    "headlines": [
+      "Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links",
+      "BJP and allies to contest upcoming Tripura village committee elections"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "AR",
@@ -299,7 +305,18 @@
     "headlines": [
       "Arunachal is crucial in safeguarding nation’s borders: Vice Prez Radhakrishnan"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 1,
+    "headlines": [
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "JH",
@@ -310,18 +327,18 @@
     "headlines": [
       "Names Of 3 Afghans Found On Jharkhand Voter List During SIR"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
     "news_count": 1,
     "headlines": [
-      "BJP and allies to contest upcoming Tripura village committee elections"
+      "Rs 500 notes in kalakand boxes? Viral video triggers vote-for-cash row in Alwar"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "JK",
@@ -332,18 +349,7 @@
     "headlines": [
       "J-K Police conduct security mock drill to strengthen border security in Samba"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Ladakh tourist arrivals surpass full-year 2025 tally in first eight months of 2026"
-    ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   },
   {
     "Code": "WB",
@@ -354,6 +360,6 @@
     "headlines": [
       "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri"
     ],
-    "last_updated": "2026-09-09 08:35:15 PM"
+    "last_updated": "2026-09-09 09:35:27 PM"
   }
 ]
