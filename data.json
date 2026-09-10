@@ -4,22 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 44,
+    "news_count": 43,
     "headlines": [
       "Delhi building collapse: Can a 'no-responsibility' clause shield a PG owner?",
+      "Going to airport, central or South Delhi? Brics traffic restrictions you need to know",
+      "15-year-old found alive on overturned fishing boat after going missing off Alaska",
+      "Failed farm cut 50 miles of ditches; scientists now plan to reflood peatland",
       "West Virginia’s restored elk herd is finally roaming farther again",
       "'Treat Northeast people as Indians': Brother of Manipur musician killed in Delhi",
-      "IRCTC scam case: Delhi court orders framing of charges against Lalu, Rabri Devi &amp; Tejashwi",
-      "'Not invited': Bangladesh PM Tarique Rahman on Brics Summit in Delhi",
       "Opinion: Opinion | US Can Threaten, Not Dictate: What India's Iran Message Really Means",
-      "SC says will not ‘disturb’ Satya Niketan collapse case before Delhi HC",
+      "Special train between Yeshwantpur and Bidar for Ganesha Chaturthi festival",
       "Delhi court orders framing of money laundering charges against Lalu Prasad, son Tejashwi",
-      "Bengal assembly passes Bill enabling inter-university transfer of teaching, non-teaching staffers",
-      "Will not transfer case from Delhi HC as things have started moving: SC on Satya Niketan building collapse",
-      "Bengal CID detains Abhishek Banerjee’s aide Sumit Roy after Supreme Court rejects anticipatory bail plea in land case",
-      "Locked up with seven inmates, M.K. Stalin was beaten, harassed, and fed kali during Emergency period",
-      "West Bengal CM defends ‘godman’ who sought to avoid meat during Durga Puja",
-      "SC declines to transfer Satya Niketan building collapse proceedings pending before Delhi HC",
+      "IRCTC ‘scam’ case: Delhi HC to hear Lalu Prasad’s petition against framing charges on Jan. 5",
+      "SC says will not ‘disturb’ Satya Niketan collapse case before Delhi HC",
+      "Delhi HC orders mandatory biometric Aadhaar for GST registration",
+      "Satya Niketan PG operator's anticipatory bail plea rejected by Delhi court days after 7 killed in building collapse",
       "Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks JU",
       "Gaurav Bhatia vs Saurav Das continues after defamation suit hearing in Delhi HC: ‘No comment’, ‘pantless’",
       "Jaipur CA abducted from Central Park, escapes after Mercedes overturns: Police",
@@ -40,7 +39,6 @@
       "Delhi HC directs GST department to make biometric Aadhaar authentication mandatory for registration",
       "Rupee drops 37 paise to close at a week low of 95.44/$ as oil bubbles on West Asia worries",
       "Oilmeal exports decline in Q1 as soybean meal shipments fall",
-      "Nepal floods death toll climbs to 1,377; search operations continue for more than 5,000 missing",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -49,70 +47,89 @@
       "'Shah Rukh Khan was full of Delhi harkatein, cocky, confident,' recalls his 'Baazigar' co-star Dalip",
       "72nd National Film Awards to be held in Gujarat; President Droupadi Murmu to present honours on September 22",
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
-      "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West"
+      "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
+      "North Carolina peatland emits 130,000 tons of CO₂ yearly after 50 miles of ditches were cut"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 17,
-    "headlines": [
-      "₹281 crore set aside for safety measures ahead of northeast monsoon in Nagapattinam: Minister",
-      "Drop plan for Tamil Nadu Secretariat at Pattinapakkam, CPI urges State government",
-      "TVK-led front named Secular Social Justice Victory Alliance",
-      "TVK-led alliance cannot call itself ‘secular’: Tamil Nadu BJP chief Nainar Nagenthran",
-      "College, university teachers oppose Tamil Nadu Private Universities (Amendment) Bill, 2026",
-      "Private Universities Amendment Bill will attract world-class institutes to Tamil Nadu: Higher Education Minister",
-      "‘My gesture during Assembly speech was inadvertent’: Tamil Nadu CM Vijay",
-      "ECI recognises TVK as State party; Tamil Nadu CM Vijay expresses gratitude to people",
-      "Tamil Nadu CM Vijay’s body language during Assembly speech was not dignified: VCK chief Thirumavalavan",
-      "DMK to stage demonstrations against Tamil Nadu CM Vijay’s remarks on Stalin in Assembly",
-      "Temporary ban on DJ parties in Coimbatore",
-      "‘My jaws were indeed broken in jail during Emergency’: Stalin responds to Tamil Nadu CM Vijay",
-      "CPI(M) leader P. Shanmugam condemns Tamil Nadu CM Vijay for ‘body shaming’ Stalin",
-      "Tamil Nadu bypolls: TVK fields former AIADMK MLAs in Madurantakam, Dharapuram",
-      "Beyond Fort St. George: Tamil Nadu government’s quest for an Assembly-Secretariat site is more than a century old",
-      "Chess by day, Salem by night: Board games, tennis and Nihal Sarin's 7 am GCL night",
-      "Did You Know? ‘Sardar 2’ star Karthi and Mahesh Babu studied at the same Chennai school"
-    ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 16,
+    "news_count": 14,
     "headlines": [
+      "Shruti Haasan’s Rs 15 crore Mumbai duplex blends gothic decor and bold interiors",
       "Protests And The City: How Mass Agitations Threaten Ganesh Utsav In Mumbai",
       "Maharashtra: Five suspended over Amravati hospital fire that killed three infants",
       "Nitin Gadkari ‘ashamed’ of Mumbai-Goa Highway expansion delays, says won't join inauguration",
       "Bengaluru trails Delhi, Mumbai in clean air survey, but improves score. How did it rank this year?",
-      "Maharashtra CM Fadnavis announces legislation for land tokenisation",
       "Navi Mumbai airport eyes more international routes with waiver in landing charges",
       "AgriStack alone won’t close rural credit gap; insurance, guarantees need fixing: NABARD chief",
       "From Nandurbar to the world: UIDAI eyes ‘Aadhaar international’",
       "Shakti Pumps shares surge 12% on Rs 236 crore Maharashtra solar pump order",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "'Scientific evidence backing my case': Anaya Bangar claims no 'unfair advantage'",
-      "Bipasha flags alleged contamination found inside nutrition product",
-      "Inside Rohit Saraf’s chic, minimal Mumbai home with leafy balcony",
       "Rani Mukerji honoured with Raj Kapoor special contribution award at Maharashtra State Film Awards 2026",
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 14,
+    "headlines": [
+      "Karnataka govt to mandate only 2 stanzas of Vande Mataram at state events",
+      "Only 2 Paras Of Vande Mataram to Be Sung: Karnataka Order Sets Stage For Row",
+      "KADC Chairman assures aid to slain Dalit man’s family in Raichur",
+      "Special train between Yeshwantpur and Bidar for Ganesha Chaturthi festival",
+      "Congress appoints G.B. Shashidhara of Arasikere as Hassan DCC president",
+      "Karnataka Information Commission recommends action against three police sub-inspectors over CCTV footage issue",
+      "Don’t be distracted by criticism from Opposition, former Chief Minister Siddaramaiah advises Karnataka Chief Minister D.K. Shivakumar",
+      "Chief Minister D.K. Shivakumar unveils ‘Karnataka Model’ as his government marks 100 days",
+      "H.C. Yogesh appointed Shivamogga DCC president",
+      "Karnataka HC quashes notices demanding 2% cess from movie tickets as govt. admits that law is yet to be enforced",
+      "Woman subjected to involuntary sex by husband 'undoubtedly a victim': Supreme Court grapples with marital rape exception",
+      "SIR notices to Infosys co-founder Nandan Nilekani, Zerodha's Nikhil Kamath in Karnataka",
+      "Railway projects worth  ₹20,804 crore approved, expected to ease congestion across 9 states",
+      "Beaten by bias? Krishik misses Asian Games bus despite meeting AFI benchmark thrice"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 12,
+    "headlines": [
+      "Railway development: M.K. Raghavan meets DRM, seeks faster implementation of projects",
+      "ECI recognises TVK as State party; Tamil Nadu CM Vijay expresses gratitude to people",
+      "DMDK seeks action over death of pregnant woman, infant near Kancheepuram",
+      "TVK-led alliance cannot call itself ‘secular’: Tamil Nadu BJP chief Nainar Nagenthran",
+      "₹281 crore set aside for safety measures ahead of northeast monsoon in Nagapattinam: Minister",
+      "Drop plan for Tamil Nadu Secretariat at Pattinapakkam, CPI urges State government",
+      "TVK-led front named Secular Social Justice Victory Alliance",
+      "College, university teachers oppose Tamil Nadu Private Universities (Amendment) Bill, 2026",
+      "Private Universities Amendment Bill will attract world-class institutes to Tamil Nadu: Higher Education Minister",
+      "‘My gesture during Assembly speech was inadvertent’: Tamil Nadu CM Vijay",
+      "Chess by day, Salem by night: Board games, tennis and Nihal Sarin's 7 am GCL night",
+      "Did You Know? ‘Sardar 2’ star Karthi and Mahesh Babu studied at the same Chennai school"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 9,
+    "news_count": 10,
     "headlines": [
+      "Gujarat man pleads guilty in US in $9.36 million illegal gambling case",
       "Mayawati's fifth-term UP bet: How Akash Anand's missed X repost sealed his fate in BSP",
       "Brics Summit, nationwide strike tomorrow: Are banks open or shut on September 11?",
       "Mayawati expels nephew Akash Anand for 2nd time; his father-in-law quits politics",
@@ -123,85 +140,24 @@
       "‘Unfortunate things happening’: Arjun Erigaisi explains Anand’s poor GCL run",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
-    "headlines": [
-      "Karnataka govt to mandate only 2 stanzas of Vande Mataram at state events",
-      "Beaten by bias? Krishik misses Asian Games bus despite meeting AFI benchmark thrice",
-      "Only 2 Paras Of Vande Mataram to Be Sung: Karnataka Order Sets Stage For Row",
-      "Karnataka issues order restricting Vande Mataram to two stanzas in State functions",
-      "Woman subjected to involuntary sex by husband 'undoubtedly a victim': Supreme Court grapples with marital rape exception",
-      "SIR notices to Infosys co-founder Nandan Nilekani, Zerodha's Nikhil Kamath in Karnataka",
-      "Railway projects worth  ₹20,804 crore approved, expected to ease congestion across 9 states",
-      "‘Beat him with slippers’: Karnataka minister's outburst against BJP MLA; BP Harish hits back"
-    ],
-    "last_updated": "2026-09-10 06:35:34 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 7,
     "headlines": [
-      "Telangana Assembly Monsoon Session highlights: House adjourned to September 11",
-      "Ganesh Agamans in Hyderabad turn into major celebrations; dhol-tasha, lights and fireworks add festive glow",
-      "Uppal–Narapally flyover to open by June 2027: Telangana  Minister Komatireddy",
-      "Vegetables from Telangana are not accepted due to rampant use of chemicals and fertilisers: Agriculture Minister",
-      "Telangana Govt created corpus of ₹240 crore for Employees Health Scheme",
-      "Railway projects worth  ₹20,804 crore approved, expected to ease congestion across 9 states",
-      "Emirates SkyCargo adds freighter flights to Bengaluru, Chennai and Hyderabad"
+      "Andhra Pradesh Assembly Speaker Ayyanna Patrudu to participate in Commonwealth Parliamentary Conference at Cape Town",
+      "Expedite execution of approved investment proposals, Naidu tells Collectors",
+      "Bhogapuram Airport: Air India Express to fly Visakhapatnam-Bangkok twice a week from October 27",
+      "Fly91 launches Vijayawada-Tirupati flights on Tuesdays, Thursdays, Saturdays and Sundays",
+      "Andhra HC questions 34% OBC quota in local bodies, seeks data",
+      "Rain gains seen for barren South as fresh ‘low’ forms over Bay of Bengal",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "UP govt to challenge HC order awarding  ₹5 lakh compensation to law student",
-      "UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case",
-      "Uttar Pradesh Puts Enterprise Requirements at the Heart of Its GCC Growth Agenda at Zinnov Confluence 2026",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
-    ],
-    "last_updated": "2026-09-10 06:35:34 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 4,
-    "headlines": [
-      "Ladakh groups disappointed over MHA meet; Wangchuk warns of fresh stir from Sept 19",
-      "‘Hoping draft ready by Oct’: Ladakh chief secy as UT seeks Article 371 safeguards",
-      "Sonam Wangchuk threatens fresh agitation from Sept 19 to 24 over Ladakh issues",
-      "Sonam Wangchuk shares comedian Jaspal Bhatti clip to slam govt over Ladakh talks: 'Next meeting ki date fix'"
-    ],
-    "last_updated": "2026-09-10 06:35:34 PM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 4,
-    "headlines": [
-      "Jaipur CA abducted from Central Park, escapes after Mercedes overturns: Police",
-      "Why Rajasthan BJP leader wants the song 'Shoorveer' removed from Mirzapur film",
-      "Rajasthan women use slingshots to scatter seed balls across Aravalli hills to restore green cover",
-      "Today’s Gold Rate in India September 10: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur and other cities"
-    ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "AS",
@@ -215,48 +171,90 @@
       "Assam govt official hired mimics to impersonate CM, top bureaucrats: Police",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 4,
     "headlines": [
-      "Bhogapuram Airport: Air India Express to fly Visakhapatnam-Bangkok twice a week from October 27",
-      "Fly91 launches Vijayawada-Tirupati flights on Tuesdays, Thursdays, Saturdays and Sundays",
-      "Rain gains seen for barren South as fresh ‘low’ forms over Bay of Bengal",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+      "UP govt to challenge HC order awarding  ₹5 lakh compensation to law student",
+      "Uttar Pradesh Puts Enterprise Requirements at the Heart of Its GCC Growth Agenda at Zinnov Confluence 2026",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
     "news_count": 4,
     "headlines": [
-      "Bengal assembly passes Bill enabling inter-university transfer of teaching, non-teaching staffers",
-      "Bengal CID detains Abhishek Banerjee’s aide Sumit Roy after Supreme Court rejects anticipatory bail plea in land case",
-      "West Bengal CM defends ‘godman’ who sought to avoid meat during Durga Puja",
-      "Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks JU"
+      "MSD’s Hyderabad tech centre opened",
+      "Railway projects worth  ₹20,804 crore approved, expected to ease congestion across 9 states",
+      "Telangana mulls floating solar projects to augment renewable energy",
+      "Emirates SkyCargo adds freighter flights to Bengaluru, Chennai and Hyderabad"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 4,
+    "headlines": [
+      "Jaipur CA abducted from Central Park, escapes after Mercedes overturns: Police",
+      "Why Rajasthan BJP leader wants the song 'Shoorveer' removed from Mirzapur film",
+      "Rajasthan women use slingshots to scatter seed balls across Aravalli hills to restore green cover",
+      "Today’s Gold Rate in India September 10: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur and other cities"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
       "1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images",
+      "Railway development: M.K. Raghavan meets DRM, seeks faster implementation of projects",
       "Tiger Nandu euthanised at Thrissur Zoological Park in Keralam",
       "ATS arrests Malappuram man in fresh UAPA case for 'anti-national links'"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 4,
+    "headlines": [
+      "Ladakh groups disappointed over MHA meet; Wangchuk warns of fresh stir from Sept 19",
+      "‘Hoping draft ready by Oct’: Ladakh chief secy as UT seeks Article 371 safeguards",
+      "Sonam Wangchuk threatens fresh agitation from Sept 19 to 24 over Ladakh issues",
+      "Sonam Wangchuk shares comedian Jaspal Bhatti clip to slam govt over Ladakh talks: 'Next meeting ki date fix'"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "On Dearness Allowance Arrears, Court's Direction To Punjab, And A Deadline",
+      "BJP Plans 13-Day Anti-Drug Campaign In Punjab Ahead Of 2027 Polls: Sources",
+      "Petition filed against CJP's Saurav Das over post on Punjab and Haryana high court's order"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "BR",
@@ -268,19 +266,7 @@
       "Lalu Yadav, family to face money laundering charges in IRCTC case over 'abuse of office'",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "On Dearness Allowance Arrears, Court's Direction To Punjab, And A Deadline",
-      "BJP Plans 13-Day Anti-Drug Campaign In Punjab Ahead Of 2027 Polls: Sources"
-    ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "CT",
@@ -292,19 +278,19 @@
       "Tamil Nadu’s Thoothukudi shipyard project moves to detailed project planning stage",
       "India crush Pakistan 19-0 to storm into Women’s Hockey Junior Asia Cup semi-finals"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
     "news_count": 2,
     "headlines": [
-      "'Treat Northeast people as Indians': Brother of Manipur musician killed in Delhi",
-      "Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links"
+      "Madhya Pradesh High Court seeks government’s response over deaths of tribal children in Balaghat",
+      "100 insect heads, ₹200: How MP’s ‘Mundmala’ is helping protect Sal forests"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "GA",
@@ -316,7 +302,7 @@
       "Three arrested over shooting targeting Goa casino director: Police",
       "Nitin Gadkari ‘ashamed’ of Mumbai-Goa Highway expansion delays, says won't join inauguration"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "AR",
@@ -327,7 +313,18 @@
     "headlines": [
       "Arunachal is crucial in safeguarding nation’s borders: Vice Prez Radhakrishnan"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 1,
+    "headlines": [
+      "Petition filed against CJP's Saurav Das over post on Punjab and Haryana high court's order"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "OD",
@@ -338,18 +335,18 @@
     "headlines": [
       "Odisha CM Mohan Charan Majhi meets UAE Minister; woos investors in Dubai"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 1,
     "headlines": [
-      "Ex-officials say Census data must be confidential amid concerns over potential NPR, NRC links"
+      "'Treat Northeast people as Indians': Brother of Manipur musician killed in Delhi"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
   },
   {
     "Code": "JK",
@@ -360,6 +357,17 @@
     "headlines": [
       "J-K Police conduct security mock drill to strengthen border security in Samba"
     ],
-    "last_updated": "2026-09-10 06:35:34 PM"
+    "last_updated": "2026-09-10 07:35:05 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 1,
+    "headlines": [
+      "Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks JU"
+    ],
+    "last_updated": "2026-09-10 07:35:05 PM"
   }
 ]
