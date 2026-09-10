@@ -4,13 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 30,
+    "news_count": 37,
     "headlines": [
       "West Asia conflict likely hindrance to cementing Brics declaration",
       "3 trucks of debris, 1 missing wall: How renovation doomed Delhi PG building",
       "Over 10 feared trapped as under-construction building collapses in Gandhinagar",
       "How Delhi University's Hostel Gap Forces Students Into Private Market",
       "3 Delhi Hostel Buildings Declared Dangerous After Satya Niketan Tragedy",
+      "Bypolls in three panchayats in Keralam’s Ernakulam to have little impact on power equations",
+      "Will uproot forces raising ‘anti-national’ slogans, says West Bengal CM",
       "YouTuber Ajit Bharti moves Delhi HC against trial court order denying anticipatory bail",
       "CCEA clears  ₹20,804 crore rail upgrade to ease congestion across 9 states",
       "Piyush Goyal to meet Russian counterpart Anton Alikhanov on Thursday",
@@ -26,6 +28,11 @@
       "'Don't send your children to Delhi to study': Father's appeal to parents after losing son in Satya Niketan tragedy",
       "Former Delhi chief secretary Rakesh Mehta died by suicide due to health reasons: Police",
       "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri",
+      "India Inc taps corporate bond market amid liquidity surplus and rate hike concerns",
+      "Delhi Airport to raise international capacity by 50% ahead of BRICS Summit",
+      "WTO barometer shows resilient trade growth in mid-2026 despite West Asia tensions",
+      "Yotta Data Services to set up Texas-style data centres in Mumbai, Delhi",
+      "Delhi boosts health budget by 69%, but struggles to spend it: Assembly Panel",
       "Global Market Today: Asian stocks to fall as oil stokes inflation fears",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
@@ -37,19 +44,20 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 13,
+    "news_count": 14,
     "headlines": [
       "Over 10 feared trapped as under-construction building collapses in Gandhinagar",
       "'National Award Not Any State's Property': Gujarat BJP Slams Uddhav Thackeray",
       "Mayawati's Tough Love: Nephew Akash Anand Benched Again. What It Means For BSP",
       "Several Feared Trapped As Crane Collapses At Construction Site In Gandhinagar",
+      "15 workers rescued, 12 hospitalised after iron slab collapses at construction site in Gandhinagar",
       "BJP asks Gujarat Congress MLA to apologise for sitting during Vande Mataram",
       "Mayawati sets 'sanyas' condition to restore nephew Akash Anand's role in BSP",
       "Woman dies in Gujarat ‘hit-and-run’; probe finds family killed her over 'video with man'",
@@ -60,56 +68,69 @@
       "‘It’s madness’: Anand loses on time after declining draw against Sindarov",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 10,
+    "news_count": 14,
     "headlines": [
+      "‘Why nine accused in Palghar doctor assault case are absconding?’: Bombay HC raps police",
       "Bengaluru trails Delhi, Mumbai in clean air survey, but improves score. How did it rank this year?",
       "Maharashtra CM Fadnavis announces legislation for land tokenisation",
       "Which city took the clean-air crown? Delhi, Mumbai rankings revealed. Noida makes it to Top 10",
       "Who is Rohan Parzekh? Diamond merchant’s son at centre of Mumbai PMO impersonation case",
       "Renewed focus on economic reforms, ‘naraz fufa’ dig at Rahul Gandhi: PM Modi spends day in Gujarat, Maharashtra",
+      "Indian mill-level sugar prices rise on UP factories reluctance to lower rates",
+      "Mumbai office demand to grow in double digits: CBRE report",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Dilip Gavit's journey: From losing right arm at five to raising the tricolour on podiums",
+      "Tabu net worth: The actress owns lavish Hyderabad bungalow with personal gym and fish pond",
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue",
       "Sayani Gupta gets interim relief in defamation case over copyright dispute around Aasmani"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case",
-      "Rahul Gandhi's Delhi-Lucknow flight makes go-around due to weather, lands safely later: Report",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph",
-      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 4,
+    "news_count": 12,
     "headlines": [
+      "Karnataka seizes 2,564 PoP Ganesha idols in State-wide enforcement drive",
+      "Industries in 10 districts in Karnataka to be paid ₹2,500 for every job generated",
+      "Karnataka Cabinet approves aerospace Policy, expecting bout ₹60,000 crore investment in five years",
+      "Celebrate Ganesha festival peacefully, miscreants will face strict action: Mandya DC",
+      "Karnataka Health Minister awards job orders to 51 candidates on compassionate grounds",
+      "Government is looking at feasibility of tunnel road alignment change to bypass Lalbagh: Karnataka Chief Minister D.K. Shivakumar",
+      "Woman subjected to involuntary sex by husband 'undoubtedly a victim': Supreme Court grapples with marital rape exception",
+      "SIR notices to Infosys co-founder Nandan Nilekani, Zerodha's Nikhil Kamath in Karnataka",
       "CCEA clears  ₹20,804 crore rail upgrade to ease congestion across 9 states",
       "‘Beat him with slippers’: Karnataka minister's outburst against BJP MLA; BP Harish hits back",
       "'BJP misusing agencies': Karnataka CM Shivakumar slams ED raids at PWD minister's residence",
-      "61-year-old listed as dead among electors flagging flawed SIR notices in Karnataka"
+      "ED raids premises linked to Karnataka Minister Satish Jarkiholi, family"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 6,
+    "headlines": [
+      "Concern grows over structures linked with Muslim community in wake of notices, demolition in Uttar Pradesh",
+      "UP: FIR against 31 over forged affidavits in 2020 Bhadohi gangrape case",
+      "Rahul Gandhi's Delhi-Lucknow flight makes go-around due to weather, lands safely later: Report",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph",
+      "Hanuman Ansh team holds special screening for inmates at Agra district jail as film surges at box office"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "BR",
@@ -123,19 +144,137 @@
       "Bihar Congress row deepens as expelled leaders protest in Delhi, seek total revamp",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 4,
+    "headlines": [
+      "Punjab govt. employees call off their strike after assurance",
+      "Rahul Gandhi, Bhagwant spar over the alleged suicide of a Dalit man in Punjab",
+      "HT Morning Brief September 9: Russia sees BRICS bridging Iran-UAE ties; Sachin Pilot counts on Channi in Punjab",
+      "Channi assured full support to Congress’ poll efforts in Punjab, Sachin Pilot tells HT"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Madhya Pradesh govt. hikes MBBS intern stipend by 50% amid protests, hindered medical services",
+      "Madhya Pradesh CM orders judicial probe into Sagar hooch tragedy; death toll rises to 15",
+      "Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar",
+      "India's cleanest Indore loses top spot by 1 point to this UP city in clean air survey"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 3,
+    "headlines": [
+      "Minister launches The Hindu’s coffee table book on Meenakshi-Sundareswarar Temple in Madurai",
+      "A-G plays video clips of Tamil Nadu Assembly proceedings before Madras High Court in case against Mekedatu amended resolution",
+      "Tamil Nadu’s new Assembly-Secretariat complex to come up at Pattinapakkam"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "Government is looking at feasibility of tunnel road alignment change to bypass Lalbagh: Karnataka Chief Minister D.K. Shivakumar",
       "Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 3,
+    "headlines": [
+      "Brazil vs India: Vinicius Jr, Raphinha set for historic Kolkata showdown",
+      "Will uproot forces raising ‘anti-national’ slogans, says West Bengal CM",
+      "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "Ladakh groups claim breakthrough in talks with MHA on legislative powers",
+      "MHA proposes new Chapter K under Article 371 for Ladakh",
+      "Ladakh, Centre hold fresh talks on constitutional safeguards"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "Bypolls in three panchayats in Keralam’s Ernakulam to have little impact on power equations",
+      "Kerala High Court directs Meta, Google to preserve social media content and records of Guruvayur MLA N.K. Akbar",
+      "Clean chit in departmental inquiry does not mean exemption from criminal proceedings: Kerala High Court"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
+    "headlines": [
+      "Hyderabad CP reviews Ganesh idol immersion arrangements, calls for strict safety and traffic measures",
+      "CCEA clears  ₹20,804 crore rail upgrade to ease congestion across 9 states",
+      "Tabu net worth: The actress owns lavish Hyderabad bungalow with personal gym and fish pond"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "TR",
+    "Lat": 23.9408,
+    "Long": 91.9882,
+    "State": "Tripura",
+    "news_count": 2,
+    "headlines": [
+      "1,169 candidates set to win unopposed in Tripura village committee elections",
+      "BJP and allies to contest upcoming Tripura village committee elections"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "Year-long overhaul boosts Haryana Congress, but challenges persist",
+      "Haryana tightens monitoring of CM meeting decisions; depts to give evidence-based action reports"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "AS",
@@ -147,43 +286,7 @@
       "Assam Official Arrested Over Scam, Used Mimics To Impersonate Chief Minister",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "HT Morning Brief September 9: Russia sees BRICS bridging Iran-UAE ties; Sachin Pilot counts on Channi in Punjab",
-      "Channi assured full support to Congress’ poll efforts in Punjab, Sachin Pilot tells HT"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Madhya Pradesh toxic liquor tragedy: Toll rises as 3 more people die in Sagar",
-      "India's cleanest Indore loses top spot by 1 point to this UP city in clean air survey"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "Brazil vs India: Vinicius Jr, Raphinha set for historic Kolkata showdown",
-      "Bad weather prevents West Bengal CM Adhikari's helicopter from landing in Kalimpong, forces return to Siliguri"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "AR",
@@ -194,29 +297,7 @@
     "headlines": [
       "Arunachal is crucial in safeguarding nation’s borders: Vice Prez Radhakrishnan"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "Manipur: Kuki police constable suspended over alleged role in abduction of 6 Naga men"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 1,
-    "headlines": [
-      "Haryana tightens monitoring of CM meeting decisions; depts to give evidence-based action reports"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "CT",
@@ -227,7 +308,18 @@
     "headlines": [
       "Global Market Today: Asian stocks to fall as oil stokes inflation fears"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 1,
+    "headlines": [
+      "Kuki police constable suspended in Manipur over abduction of 6 Nagas who were later murdered"
+    ],
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "OD",
@@ -238,40 +330,7 @@
     "headlines": [
       "5 orangutans’ rescue in Odisha raises trafficking fears"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
-    "news_count": 1,
-    "headlines": [
-      "BJP and allies to contest upcoming Tripura village committee elections"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 1,
-    "headlines": [
-      "CCEA clears  ₹20,804 crore rail upgrade to ease congestion across 9 states"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Ladakh groups claim breakthrough in talks with MHA on legislative powers"
-    ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   },
   {
     "Code": "JK",
@@ -282,6 +341,6 @@
     "headlines": [
       "J-K Police conduct security mock drill to strengthen border security in Samba"
     ],
-    "last_updated": "2026-09-10 06:35:28 AM"
+    "last_updated": "2026-09-10 07:35:18 AM"
   }
 ]
