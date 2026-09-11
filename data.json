@@ -8,18 +8,20 @@
     "headlines": [
       "Brics summit: What’s on agenda as world leaders gather in Delhi amid global tensions",
       "Pakistan stops Sikh pilgrims bound for Hemkund Sahib at Faisalabad airport",
-      "Belgium sinks 23 giant concrete blocks to build world's first energy island",
       "Putin lands in Delhi for Brics Summit, to meet PM Modi today",
-      "Amid West Asia conflict, Iran president to meet PM Modi today",
       "BRICS Summit 2026 LIVE Updates: Confident Of Positive, Meaningful Discussions At BRICS Summit: PM Modi",
       "Delhi SIR: Demolished Homes Led To Deletion Of 728 Voters From Draft Roll",
       "Putin Lands In Delhi For BRICS Summit, To Hold Bilateral With PM Modi Today",
+      "18th BRICS Summit 2026: Who are the world leaders attending in New Delhi, India’s role, and more",
       "BRICS Summit 2026 LIVE updates: PM Modi hopes for 'positive discussions with aspiration for global welfare' as world leaders gather",
       "Delhi HC refuses to allow Vinesh Phogat’s participation in selection trials for 2026 Senior World Championships",
       "Bihar Congress disciplinary committee issues show-cause notices to 29 leaders",
       "Russian President Vladimir Putin arrives in New Delhi to attend BRICS summit",
       "Supreme Court declines pre-arrest relief to Abhishek Banerjee’s PA",
-      "Delhi to see major traffic disruptions for over 6 hours today ahead of BRICS: Check timings, affected routes",
+      "Putin is here, when are other dignitaries arriving in Delhi for BRICS?",
+      "BRICS Summit: Delhi schools, offices closed today? Check what’s open, what’s shut",
+      "'1km turns into 8km': Delhi's traffic patience wears thin as BRICS rolls in",
+      "Delhi likely to see traffic disruptions for over 6 hours today ahead of BRICS: Check timings, affected routes",
       "Travelling during BRICS summit by rail? Check if you train is cancelled or diverted",
       "Bangladesh PM set to skip meet; not ‘properly invited’, says Kobir",
       "Trade, bridging gaps between Iran and UAE: Brics Summit to be a delicate balancing act for India",
@@ -38,11 +40,9 @@
       "BRICS Summit: 15,000 Delhi Police personnel to be deployed for multi-layered security",
       "‘Kala Hiran’ not ready for release, yet to get CBFC cert: Producer to Delhi HC",
       "CJP agrees to take down posts against BJP's Gaurav Bhatia after Delhi HC's appeal: 'Attacking without verifying'",
-      "BRICS Summit 2026: Full list of leaders attending PM Modi’s mega meet in New Delhi",
-      "SC directs reputation loss compensation for compulsorily retired bureaucrat",
-      "Focus on dangerous traffic behaviour: Experts",
-      "37 of 155 Institutions of National Importance running with interim, acting heads",
-      "Sensex today | Stock Market Live: Sensex, Nifty plunge nearly 1% as West Asia tensions push Brent crude to $108",
+      "Sensex today | Stock Market Live: Sensex drops 500 pts, Nifty plunge to 23,300 as West Asia tensions push crude prices to $108",
+      "BRICS Summit: Delhi Metro services to start early on Sunday",
+      "Brent crude remains above $108 a barrel on West Asia supply disruption concerns",
       "BRICS Summit: Delhi deploys 15,000 police personnel, 500 CCTV cameras",
       "Delhi High Court halts Beco’s #WarOnWhatsHidden ads against Surf Excel, Vim",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -58,7 +58,7 @@
       "Khushi Kapoor buys apartment worth Rs 63 lakhs in Mumbai’s Bandra West",
       "North Carolina peatland emits 130,000 tons of CO₂ yearly after 50 miles of ditches were cut"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "GJ",
@@ -76,41 +76,24 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 8,
+    "news_count": 7,
     "headlines": [
       "'Entire Mumbai Filled With Filth': High Court's Warning Over Garbage Problem",
       "Heavy vehicles banned on Mumbai-Goa highway during Ganeshotsav",
       "Maharashtra: Five suspended over Amravati hospital fire that killed three infants",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Saif recalls thinking he could die after stabbing: ‘I felt this must be it’",
       "Rani Mukerji honoured with Raj Kapoor special contribution award at Maharashtra State Film Awards 2026",
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images",
-      "Tribal people from hamlet in Keralam’s Malappuram live in makeshift sheds seven years after flood",
-      "Kerala HC finds video containing social activist’s remarks regarding Sabarimala deities offensive, directs Meta to temporarily block it",
-      "Kerala HC denies bail to PFI leaders in Sreenivasan murder case",
-      "Man arrested on charge of hunting Sambar deer in Panathady reserve forest in Kasaragod",
-      "ATS arrests Malappuram man in fresh UAPA case for 'anti-national links'"
-    ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "AS",
@@ -126,7 +109,23 @@
       "Assam govt official hired mimics to impersonate CM, top bureaucrats: Police",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 6,
+    "headlines": [
+      "1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images",
+      "Kerala HC raps authorities over road safety failures, reckless driving by heavy vehicles",
+      "Tribal people from hamlet in Keralam’s Malappuram live in makeshift sheds seven years after flood",
+      "Kerala HC finds video containing social activist’s remarks regarding Sabarimala deities offensive, directs Meta to temporarily block it",
+      "Kerala HC denies bail to PFI leaders in Sreenivasan murder case",
+      "Man arrested on charge of hunting Sambar deer in Panathady reserve forest in Kasaragod"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "AP",
@@ -142,47 +141,36 @@
       "Andhra HC questions 34% OBC quota in local bodies, seeks data",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
       "VIT Chennai – The Hindu Biotech Conclave to throw spotlight on opportunities shaping the future of life sciences",
       "1,071 out of 2,100 police stations in Tamil Nadu have been equipped to retain their CCTV footage for 18 months, T.N. DGP tells Madras High Court",
       "Tamil Nadu bypolls: TVK fields former AIADMK MLAs in Madurantakam, Dharapuram",
-      "Tamil Nadu to better national average in police-public ratio"
+      "Tamil Nadu to better national average in police-public ratio",
+      "Milky Mist commissions new high-protein Skyr and Yoghurt plant"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 3,
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 4,
     "headlines": [
-      "Wangchuk warns of stir on Ladakh demands",
-      "Sonam Wangchuk threatens fresh agitation from Sept 19 to 24 over Ladakh issues",
-      "Sonam Wangchuk shares comedian Jaspal Bhatti clip to slam govt over Ladakh talks: 'Next meeting ki date fix'"
+      "India Hosts World Leaders At BRICS Amid 2 Wars. What To Expect",
+      "8th Pay Commission: Union Demands Old Pension Scheme, Legal Expert Raises Concerns",
+      "Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address'",
+      "Petition filed against CJP's Saurav Das over post on Punjab and Haryana high court's order"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "Bihar Congress disciplinary committee issues show-cause notices to 29 leaders",
-      "Lalu Yadav, family to face money laundering charges in IRCTC case over 'abuse of office'",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "RJ",
@@ -195,20 +183,33 @@
       "Why Rajasthan BJP leader wants the song 'Shoorveer' removed from Mirzapur film",
       "Rajasthan women use slingshots to scatter seed balls across Aravalli hills to restore green cover"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 3,
     "headlines": [
-      "India Hosts World Leaders At BRICS Amid 2 Wars. What To Expect",
-      "8th Pay Commission: Union Demands Old Pension Scheme, Legal Expert Raises Concerns",
-      "Petition filed against CJP's Saurav Das over post on Punjab and Haryana high court's order"
+      "Wangchuk warns of stir on Ladakh demands",
+      "Sonam Wangchuk threatens fresh agitation from Sept 19 to 24 over Ladakh issues",
+      "Sonam Wangchuk shares comedian Jaspal Bhatti clip to slam govt over Ladakh talks: 'Next meeting ki date fix'"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bihar Congress disciplinary committee issues show-cause notices to 29 leaders",
+      "Lalu Yadav, family to face money laundering charges in IRCTC case over 'abuse of office'",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "UP",
@@ -221,7 +222,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "HR",
@@ -233,31 +234,7 @@
       "8th Pay Commission: Union Demands Old Pension Scheme, Legal Expert Raises Concerns",
       "Petition filed against CJP's Saurav Das over post on Punjab and Haryana high court's order"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Five Orangutans rescued in Odisha get music therapy to ease stress",
-      "Tata Steel commissions coke oven gas injection project in Odisha"
-    ],
-    "last_updated": "2026-09-11 09:35:36 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "Supreme Court declines pre-arrest relief to Abhishek Banerjee’s PA",
-      "Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks Jadavpur University"
-    ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "MP",
@@ -269,18 +246,55 @@
       "Madhya Pradesh: Houses of 3 accused in Banda liquor tragedy demolished",
       "100 insect heads, ₹200: How MP’s ‘Mundmala’ is helping protect Sal forests"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
     "headlines": [
-      "Three arrested over shooting targeting Goa casino director: Police"
+      "Five Orangutans rescued in Odisha get music therapy to ease stress",
+      "Tata Steel commissions coke oven gas injection project in Odisha"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 2,
+    "headlines": [
+      "Telangana Assembly Monsoon Session LIVE: Key Urban Governance Bill, Census issues up for debate today",
+      "Women take the controls as farms embrace new tech in Telangana"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Supreme Court declines pre-arrest relief to Abhishek Banerjee’s PA",
+      "Right time to uproot seeds of Naxalism, WB CM Suvendu Adhikari attacks Jadavpur University"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 2,
+    "headlines": [
+      "Karnataka govt limits Vande Mataram to 2 stanzas, barring VVIP functions",
+      "Dipke hits back at ‘CJP visits only BJP-ruled states to check schools’ criticism, cites Punjab, Karnataka visits"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "CH",
@@ -291,7 +305,29 @@
     "headlines": [
       "8th Pay Commission: Union Demands Old Pension Scheme, Legal Expert Raises Concerns"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "Three arrested over shooting targeting Goa casino director: Police"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
+  },
+  {
+    "Code": "DH",
+    "Lat": 20.1809,
+    "Long": 73.0169,
+    "State": "Dadra and Nagar Haveli and Daman and Diu",
+    "news_count": 1,
+    "headlines": [
+      "Collector makes Thar, Fortuner owners take road safety pledge, video goes viral"
+    ],
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "ML",
@@ -302,7 +338,7 @@
     "headlines": [
       "17 foreigners in Meghalaya jail after completing sentence, High Court finds"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   },
   {
     "Code": "MN",
@@ -313,28 +349,6 @@
     "headlines": [
       "CRPF convoy attacked on NH-2 in Manipur’s Imphal West, no casualties"
     ],
-    "last_updated": "2026-09-11 09:35:36 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 1,
-    "headlines": [
-      "Dipke hits back at ‘CJP visits only BJP-ruled states to check schools’ criticism, cites Punjab, Karnataka visits"
-    ],
-    "last_updated": "2026-09-11 09:35:36 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 1,
-    "headlines": [
-      "Women take the controls as farms embrace new tech in Telangana"
-    ],
-    "last_updated": "2026-09-11 09:35:36 AM"
+    "last_updated": "2026-09-11 10:35:15 AM"
   }
 ]
