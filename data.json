@@ -4,20 +4,19 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 54,
+    "news_count": 53,
     "headlines": [
       "'Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi",
       "Mirwaiz to attend Iranian President Masoud Pezeshkian's event in New Delhi",
       "Brics summit: AAP targets Centre over ‘hiding’ Delhi slums, takes GDP dig",
       "India's forex reserves surge record $44.9 billion to all-time high of $785.7 billion",
-      "Putin brings 'Flying Kremlin' to India for Brics: What makes 'Doomsday Plane' different?",
+      "North Korea Fires Unidentified Projectile Toward Sea Of Japan",
       "'US, Israel Want To Bully Us, But We Won't Kneel': Iran President In Delhi",
       "BRICS Summit 2026 LIVE Updates: Putin, Pezeshkian Highlight Issue Of Sanctions At BRICS Business Forum",
       "Putin Takes \"40%\" Dig At G7, Compares It With BRICS' Contribution To World GDP",
       "Delhi Lt Governor Proposes Mandatory Tuberculosis Test For All Hospital Patients",
       "Carplomacy 4.0: PM Modi, Putin Share A Ride Again After Bilateral Talks",
       "Delhi Issues Traffic Advisory For BRICS On Saturday. Here Are The Routes To Avoid",
-      "Delhi Orders Strict Police Checks For School Bus Drivers, Support Staff",
       "BRICS Summit 2026 updates on Sept.11: PM Modi stresses need to protect navigation, seafarers in talks with Iran's Pezeshkian",
       "Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi",
       "When home in Delhi became a death trap: Satya Niketan building collapse",
@@ -61,7 +60,7 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "South China Sea methane leak formed a 1km plume; worms and bacteria built a ‘worm bed’ in 2 years"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "MH",
@@ -82,7 +81,7 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "GJ",
@@ -98,21 +97,7 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 4,
-    "headlines": [
-      "Three persons detained in connection with rescue of orangutans in Odisha",
-      "Odisha STF detains three in Bengal’s Digha over recovery of 5 orangutans",
-      "Odisha drafts anti-witch-hunting policy with special courts, time-bound trials",
-      "Odisha awaits Central Zoo Authority's permission to keep rescued Orangutans at Nandankanan"
-    ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "AP",
@@ -126,20 +111,35 @@
       "Jailed Hindu monk gets 5-hour parole for mother's funeral in Bangladesh: 'Pure, unadulterated cruelty'",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 3,
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 4,
     "headlines": [
-      "Trade union seeks legislation to regularise outsourced power sector workers",
-      "The Hindu In School Science Fest, Maths Olympiad showcase young talent",
-      "Karnataka govt.’s Praja Seve to be expanded with launch of ‘Namma Seve’ app"
+      "Three persons detained in connection with rescue of orangutans in Odisha",
+      "Odisha STF detains three in Bengal’s Digha over recovery of 5 orangutans",
+      "Odisha drafts anti-witch-hunting policy with special courts, time-bound trials",
+      "Odisha awaits Central Zoo Authority's permission to keep rescued Orangutans at Nandankanan"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "UP man stalks, stabs teen in neck after she rejects his advances; arrested",
+      "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
+    ],
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "MN",
@@ -152,68 +152,33 @@
       "Modi, Trump share a special bond, says U.S. Ambassador Sergio Gor",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "UP man stalks, stabs teen in neck after she rejects his advances; arrested",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
-    ],
-    "last_updated": "2026-09-12 02:35:02 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "BJP's Anti-Drugs Yatra On 4 Routes In Big Punjab Push Ahead Of 2027 Polls",
-      "Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address'"
-    ],
-    "last_updated": "2026-09-12 02:35:02 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "BJP names Debasish Sharma as candidate for Nagaon Lok Sabha bypoll in Assam",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "CT",
     "Lat": 21.2787,
     "Long": 81.8661,
     "State": "Chhattisgarh",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "North Korea Fires Unidentified Projectile Toward Sea Of Japan",
       "Chhattisgarh man dies in police custody, constable suspended; probe ordered",
       "‘Rarest of rare’: Chhattisgarh man sentenced to death for raping, killing girl"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 3,
     "headlines": [
-      "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
-      "Rajasthan civic polls: Voting underway across 147 local bodies in the state"
+      "Trade union seeks legislation to regularise outsourced power sector workers",
+      "The Hindu In School Science Fest, Maths Olympiad showcase young talent",
+      "Karnataka govt.’s Praja Seve to be expanded with launch of ‘Namma Seve’ app"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "TG",
@@ -225,18 +190,43 @@
       "Farmers protest demanding uninterrupted power supply in Karimnagar district",
       "Telangana bans analogue paneer being sold as ‘paneer’"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
     "headlines": [
-      "BJP's Anti-Drugs Yatra On 4 Routes In Big Punjab Push Ahead Of 2027 Polls"
+      "BJP names Debasish Sharma as candidate for Nagaon Lok Sabha bypoll in Assam",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
+      "Rajasthan civic polls: Voting underway across 147 local bodies in the state"
+    ],
+    "last_updated": "2026-09-12 03:35:26 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office",
+      "Merlin Group Partners With Yuvraj Singh to Set up the Second Yuvraj Singh Centre of Excellence in Kolkata"
+    ],
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "BR",
@@ -247,18 +237,18 @@
     "headlines": [
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 1,
     "headlines": [
-      "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
+      "Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address'"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "KL",
@@ -269,29 +259,18 @@
     "headlines": [
       "Kerala High Court affirms tender process for demolition of Chander Kunj Army Towers"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
     "news_count": 1,
     "headlines": [
-      "BJP's Anti-Drugs Yatra On 4 Routes In Big Punjab Push Ahead Of 2027 Polls"
+      "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 1,
-    "headlines": [
-      "House burgled in Ranipet"
-    ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "TR",
@@ -302,18 +281,18 @@
     "headlines": [
       "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
     "news_count": 1,
     "headlines": [
-      "After Doda, Udhampur administration imposes 2-month ban on VPN use"
+      "House burgled in Ranipet"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
     "Code": "LA",
@@ -324,17 +303,17 @@
     "headlines": [
       "Wangchuk warns of stir on Ladakh demands"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "Merlin Group Partners With Yuvraj Singh to Set up the Second Yuvraj Singh Centre of Excellence in Kolkata"
+      "After Doda, Udhampur administration imposes 2-month ban on VPN use"
     ],
-    "last_updated": "2026-09-12 02:35:02 AM"
+    "last_updated": "2026-09-12 03:35:26 AM"
   }
 ]
