@@ -11,10 +11,10 @@
       "Joe Root creates history, breaks Sachin Tendulkar's Test record",
       "Floor Area Ratio explained: Why does it matter as Delhi grapples with building collapses",
       "India's Middle East peace push at Brics: UAE crown prince meets Iran prez Pezeshkian",
-      "Terrorism, trade, tariffs &amp; wars: What's in India's hard-won Brics declaration",
       "Iranian President's Daughter Visits PM Museum, BRICS Bazaar In Delhi",
       "Iran Says Middle East Doesn't Need A \"Regional Policeman\" Amid War With US",
-      "BRICS Summit 2026 LIVE Updates: PM Modi, Xi Hold Bilateral Meet For 50 Minutes, Discuss Trade, Border",
+      "Air India pilot found dead in Delhi hotel; police rule out foul play",
+      "BRICS leaders call for stronger cooperation in disease surveillance, medical product regulation",
       "BRICS issues New Delhi Declaration, as UAE and Iran back down from tough positions",
       "Xi, Modi welcome ‘steady progress’ in India-China ties",
       "Iran President meets Abu Dhabi Crown Prince amid West Asia hostilities",
@@ -65,7 +65,7 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "For decades, scientists thought North America had a cheetah; DNA links it to pumas 2.6M years ago"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "MH",
@@ -85,24 +85,7 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "Gujarat earthquake, Nepal floods &amp; more: What is it about the date 26?",
-      "Gujarat Professor Calls For Ban On All Religious Rituals On University Campus",
-      "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
-      "Three held for using mule accounts to receive  ₹1.5 lakh cheated from Gujarat man",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "KL",
@@ -119,22 +102,37 @@
       "CPI to organise protest in Ernakulam against ‘undeclared power cut’",
       "Kerala Assistant Public Prosecutors Association gets new office-bearers"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "Gujarat earthquake, Nepal floods &amp; more: What is it about the date 26?",
+      "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
+      "Three held for using mule accounts to receive  ₹1.5 lakh cheated from Gujarat man",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
       "Adilabad airport project will be fast-tracked, says Kishan Reddy",
       "Two held in ₹13.31 crore real estate investment fraud in Adilabad",
-      "Paediatric heart surgeries costing up to ₹20 lakh each performed for free at NIMS in Hyderabad",
       "Retd havildar held for theft of assault rifles, pistols from T’gana cantonment",
       "Retd havildar held for theft of assault rifles, pistols from T’gana armoury"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "UP",
@@ -148,21 +146,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "Protests erupt over abrupt closure of Kurnool Outdoor Stadium",
-      "Forest officials launch drive to protect wildlife in Chittoor",
-      "DSC recruitment process in Andhra Pradesh \nwas transparent, asserts Tourism Minister",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "WB",
@@ -176,20 +160,7 @@
       "West Bengal Govt to stop financial assistance to students to buy mobile phones",
       "Corporal punishment without sexual intent doesn't fall under POCSO: SC quashes case against Bengal teacher"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 3,
-    "headlines": [
-      "Modi greets BRICS leaders against backdrop of Tamil Nadu’s Ramanathaswamy temple",
-      "Vijay meets Ajith Kumar: 4 memorable times the Tamil stars met in the past",
-      "In major relief, Chennai Airport passenger pick-up plaza to be inaugurated virtually on Sunday"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "HR",
@@ -202,7 +173,33 @@
       "27 gangsters brought to India from abroad by Haryana Police: DGP Ajay Singhal",
       "Kulbhushan Bhardwaj elected Gurugram District Bar Association president"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Male tiger, Explorer, attacks two buffaloes in Kakinada district",
+      "Protests erupt over abrupt closure of Kurnool Outdoor Stadium",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 3,
+    "headlines": [
+      "Modi greets BRICS leaders against backdrop of Tamil Nadu’s Ramanathaswamy temple",
+      "Vijay meets Ajith Kumar: 4 memorable times the Tamil stars met in the past",
+      "In major relief, Chennai Airport passenger pick-up plaza to be inaugurated virtually on Sunday"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "BR",
@@ -214,7 +211,7 @@
       "Interstate ATM cutting gang leader caught in Nuh, handed over to Bihar Police",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "KA",
@@ -226,7 +223,31 @@
       "Government, private medical colleges to adopt health centres across Karnataka",
       "190 Raichur students forced outdoors, await safer classrooms month after demolition"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "Decomposed body of ‘Pak Jaish terrorist’, M4 rifle found in J&amp;K's Doda",
+      "SIA searches Poonch, Udhampur in J&amp;K 'radicalisation' probe"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ladakh Lt Governor Rejects Protected Area Report Over Legal, Security Concerns",
+      "Former BJP MP for Ladakh accuses Wangchuk and others of misleading the people of the UT"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "MP",
@@ -238,18 +259,7 @@
       "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat",
       "Balaghat child deaths: CJP convernor Dipke visits tribal villages, demands accountability"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "In Himachal Pradesh, 2.5 Lakh Women To Get Rs 1,500 Each On October 2"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "AS",
@@ -260,62 +270,18 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "A taste of Odisha at BRICS Summit: Koraput coffee given to global delegates"
+      "In Himachal Pradesh, 2.5 Lakh Women To Get Rs 1,500 Each On October 2"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
-    "news_count": 1,
-    "headlines": [
-      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 1,
-    "headlines": [
-      "Mawthoh joins BJP; eight UDP MLAs may follow in Meghalaya"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
-  },
-  {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
-    "news_count": 1,
-    "headlines": [
-      "TIPRA Motha leader Tapas Dey dies at 80 in Tripura after prolonged illness"
-    ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "PB",
@@ -326,18 +292,62 @@
     "headlines": [
       "'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
     "news_count": 1,
     "headlines": [
-      "Ladakh Lt Governor Rejects Protected Area Report Over Legal, Security Concerns"
+      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "Mawthoh joins BJP; eight UDP MLAs may follow in Meghalaya"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 1,
+    "headlines": [
+      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "A taste of Odisha at BRICS Summit: Koraput coffee given to global delegates"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
+  },
+  {
+    "Code": "TR",
+    "Lat": 23.9408,
+    "Long": 91.9882,
+    "State": "Tripura",
+    "news_count": 1,
+    "headlines": [
+      "TIPRA Motha leader Tapas Dey dies at 80 in Tripura after prolonged illness"
+    ],
+    "last_updated": "2026-09-13 12:34:27 AM"
   },
   {
     "Code": "UT",
@@ -348,6 +358,6 @@
     "headlines": [
       "Harish Rawat says he would ‘like to step down from Congress posts’ amid corruption allegations against aide"
     ],
-    "last_updated": "2026-09-12 11:35:42 PM"
+    "last_updated": "2026-09-13 12:34:27 AM"
   }
 ]
