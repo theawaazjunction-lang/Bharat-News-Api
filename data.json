@@ -4,14 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 50,
+    "news_count": 51,
     "headlines": [
       "'Global South must be rule-shaper, India ready to take lead': PM Modi at Brics Summit",
+      "'Wanted to marry each other': How Delhi man, his girlfriend plotted wife's murder",
       "Xi Jinping arrives in Delhi for Brics summit, set for talks with PM Modi",
       "China Southern to resume Guangzhou-Delhi flights ahead of Xi's India visit",
       "BRICS Summit 2026 LIVE Updates: \"BRICS Has Reached A Moment Of Coming Of Age\": PM Modi",
       "26-Year-Old Man Found With Uterus During Infertility Evaluation In Delhi",
-      "BRICS Summit 2026 LIVE updates: PM Modi proposes 10-point proposal for global governance",
+      "BRICS Summit 2026 LIVE updates: BRICS nations adopt New Delhi declaration",
+      "‘From rule-takers to rule-shapers’: PM Modi’s big pitch to BRICS leaders in welcome address",
       "How Delhi is managing 35 special aircraft, air traffic during the BRICS Summit",
       "Three Kashmir religious leaders, including Mirwaiz, attend Iran embassy exhibition in Delhi",
       "BRICS Summit 2026 | China’s President Xi Jinping arrives in New Delhi",
@@ -25,9 +27,9 @@
       "Hauz Khas, Jantar Mantar restrict entry as 10 monuments undergo repair across Delhi",
       "Delhi man discovers he has uterus, fallopian tubes during infertility treatment",
       "PM Modi, Vietnam counterpart Le Minh Hung hold bilateral talks as BRICS leaders converge in Delhi",
-      "China to resume Delhi-Guangzhou flight after 6 years as Modi-Xi meet at BRICS",
+      "China to resume Delhi-Guangzhou flight after 6 years as Modi, Xi meet at BRICS",
       "‘Wonderful experience’: South African journalist on covering BRICS Summit in India",
-      "BRICS summit LIVE updates: Global South must become a rule-shaper, says PM Modi at inaugural session of BRICS Summit",
+      "BRICS Summit 2026 LIVE: China's XI says West Asia war caused serious losses, does not serve ‘common interests’",
       "Blunt force to the chest, abdomen: What autopsy of Manipuri musician killed in Delhi reveals",
       "Delhi court convicts 5 men for assault on cops, unlawful assembly during 2020 riots",
       "Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon'",
@@ -36,7 +38,6 @@
       "Modi urges Iran’s Pezeshkian to resolve West Asia conflict through dialogue",
       "Modi calls for safeguarding freedom of navigation in talks with Iranian President Pezeshkian",
       "Inside Modi-Putin meet: PM Modi nudges Russia to end Ukraine War; flags West Asia conflict, seafarer safety",
-      "Student protestor Nishu Aazad says no adequate security despite SC order, fears for family’s safety",
       "BRICS Summit 2026 Live Updates: Global South in front row of global crises, but back row of decision-making: PM Modi",
       "BRICS Summit: Leaders to navigate global trade disputes; suspense continues over joint declaration",
       "Xi-Modi dialogue: High-stakes diplomacy in Delhi",
@@ -57,20 +58,39 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "South China Sea methane leak formed a 1km plume; worms and bacteria built a ‘worm bed’ in 2 years"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 10,
+    "headlines": [
+      "Telangana Assembly session LIVE Sept 12: Short discussion Section 22A issues commences",
+      "Paediatric heart surgeries costing up to ₹20 lakh each at private hospitals performed free at NIMS Hyderabad",
+      "Telangana CM should make clear statement on ₹15,000 crore fee reimbursement dues: Ramchander Rao",
+      "Hyderabad techie’s website helps families track those missing in Nepal floods",
+      "310 km long Nagpur–Warangal-Vijayawada highway to be completed by December 2027: Komatireddy",
+      "Genuine colleges alone will get fee reimbursement; ₹200 crore to be released every month: Telangana CM",
+      "Retd havildar held for theft of assault rifles, pistols from T’gana cantonment",
+      "Retd havildar held for theft of assault rifles, pistols from T’gana armoury",
+      "Vylor plans to develop its Hyderabad centre as gene-editing hub for Asia",
+      "Telangana bans analogue paneer being sold as ‘paneer’"
+    ],
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 11,
+    "news_count": 10,
     "headlines": [
       "Palghar hospital violence: MLA’s son, 13 others arrested; HC slams lax, ‘ridiculous’ probe",
       "Mumbai police arrest three in cyber-fraud network linked to ₹24 crore, 2,898 SIM cards",
       "Anti-superstition body seeks revocation of Maharashtra govt decision to install astrological time devices in State HQ",
       "Nagpur man flings chili powder at SBI staff, flees with  ₹4.5 lakh; nabbed in 30 mins",
-      "Mumbai man used ChatGPT to fake PMO ID ‘to boost social standing’, police tell court",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered",
@@ -78,28 +98,7 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 11,
-    "headlines": [
-      "Paediatric heart surgeries costing up to ₹20 lakh each at private hospitals performed free at NIMS Hyderabad",
-      "Telangana Assembly session LIVE Sept 12: Short discussion on CURE Bill, 2026 underway",
-      "Telangana CM should make clear statement on ₹15,000 crore fee reimbursement dues: Ramchander Rao",
-      "Hyderabad techie’s website helps families track those missing in Nepal floods",
-      "310 km long Nagpur–Warangal-Vijayawada highway to be completed by December 2027: Komatireddy",
-      "Genuine colleges alone will get fee reimbursement; ₹200 crore to be released every month: Telangana CM",
-      "Retd havildar held for theft of assault rifles, pistols from T’gana cantonment",
-      "Retd havildar held for theft of assault rifles, pistols from T’gana armoury",
-      "Retired army personnel, 2 accomplices detained for stealing weapons from Telangana armory",
-      "Vylor plans to develop its Hyderabad centre as gene-editing hub for Asia",
-      "Telangana bans analogue paneer being sold as ‘paneer’"
-    ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "GJ",
@@ -108,7 +107,7 @@
     "State": "Gujarat",
     "news_count": 7,
     "headlines": [
-      "Gujarat’s new Panchayat Tax rule: Relief for soldiers, veterans and war widows",
+      "Three held for using mule accounts to receive  ₹1.5 lakh cheated from Gujarat man",
       "CAG flags data discrepancies in Gujarat’s Har Ghar Jal claim",
       "21 rescued after two merchant ships collide near Gujarat coast, pollution response measures activated: Coast Guard",
       "Gujarat Assembly passes Rent Bill 2026, caps security deposit at 3 months",
@@ -116,35 +115,35 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 4,
+    "headlines": [
+      "Tamil Nadu temples in a deplorable condition, says HR&CE Minister Ramesh",
+      "Tamil Nadu Chief Minister Vijay’s trip to U.K. was cleared by Ministry of External Affairs, says official",
+      "Tamil Nadu to better national average in police-public ratio",
+      "Radhika Sarathkumar praises Ajith ahead of Silverstone race,"
+    ],
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
       "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
-      "Uttar Pradesh pushes sugarcane transformation with digital reforms, modern governance",
       "UP elections: BJP plans Bihar-style ‘lawlessness’ pitch to counter anti-incumbency",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Balaghat child deaths: CJP convenor Dipke visits tribal villages, demands accountability",
-      "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore",
-      "Balaghat child deaths: CJP convernor Dipke visits tribal villages, demands accountability"
-    ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "AP",
@@ -157,7 +156,7 @@
       "Shouldering history: Vizianagaram entrepreneur collects ‘patches of pride’",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "HR",
@@ -170,20 +169,7 @@
       "27 gangsters brought to India from abroad by Haryana Police: DGP Ajay Singhal",
       "Kulbhushan Bhardwaj elected Gurugram District Bar Association president"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 3,
-    "headlines": [
-      "Tamil Nadu Chief Minister Vijay’s trip to U.K. was cleared by Ministry of External Affairs, says official",
-      "Tamil Nadu to better national average in police-public ratio",
-      "Radhika Sarathkumar praises Ajith ahead of Silverstone race,"
-    ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "WB",
@@ -196,7 +182,7 @@
       "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row",
       "Corporal punishment without sexual intent doesn't fall under POCSO: SC quashes case against Bengal teacher"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "OD",
@@ -209,19 +195,33 @@
       "Odisha drafts anti-witch-hunting policy with special courts, time-bound trials",
       "Odisha secures investment proposals worth ₹2.43 lakh crore during UAE outreach"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 3,
     "headlines": [
-      "Interstate ATM cutting gang leader caught in Nuh, handed over to Bihar Police",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Balaghat child deaths: CJP convenor Dipke visits tribal villages, demands accountability",
+      "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore",
+      "Balaghat child deaths: CJP convernor Dipke visits tribal villages, demands accountability"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Punjab Police Secures First-Ever Extradition From European Nation",
+      "'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'",
+      "Bajpayee on Veer-Zaara set: Actor recalls brief role with Yash Chopra"
+    ],
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "TR",
@@ -233,19 +233,31 @@
       "TIPRA Motha leader Tapas Dey dies at 80 in Tripura after prolonged illness",
       "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
     "news_count": 2,
     "headlines": [
-      "Punjab Police Secures First-Ever Extradition From European Nation",
-      "'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'"
+      "Interstate ATM cutting gang leader caught in Nuh, handed over to Bihar Police",
+      "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 2,
+    "headlines": [
+      "1980s AI Photo trend: 5 ChatGPT prompts to create Kerala-style retro images",
+      "Frequent power outages leave Keralam’s EV owners anxious over charging woes"
+    ],
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "KA",
@@ -257,7 +269,7 @@
       "How Raj Vilas, a century-old Mysuru bungalow, embraced modern living",
       "190 Raichur students forced outdoors, await safer classrooms month after demolition"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "AS",
@@ -268,7 +280,7 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "GA",
@@ -279,7 +291,7 @@
     "headlines": [
       "Can Isprava make bespoke luxury villas at scale?"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "CT",
@@ -290,7 +302,7 @@
     "headlines": [
       "Chhattisgarh man dies in police custody, constable suspended; probe ordered"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "MN",
@@ -301,7 +313,18 @@
     "headlines": [
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
+  },
+  {
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
+    "news_count": 1,
+    "headlines": [
+      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
+    ],
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "MZ",
@@ -312,18 +335,7 @@
     "headlines": [
       "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 1,
-    "headlines": [
-      "After killing wife, 3 daughters, man makes tea for father, takes bath"
-    ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "JK",
@@ -334,7 +346,7 @@
     "headlines": [
       "SIA raids 5 locations in Poonch, Udhampur over cross-border terror links"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "LA",
@@ -345,7 +357,7 @@
     "headlines": [
       "Wangchuk appeals for support to Ladakh’s fight for democracy; CJP responds"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   },
   {
     "Code": "UT",
@@ -356,6 +368,6 @@
     "headlines": [
       "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row"
     ],
-    "last_updated": "2026-09-12 03:35:41 PM"
+    "last_updated": "2026-09-12 04:34:45 PM"
   }
 ]
