@@ -4,9 +4,8 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 54,
+    "news_count": 48,
     "headlines": [
-      "'Future captain, maybe?': Ishan's banter with Sooryavanshi goes viral - WATCH",
       "'Will work with India, be friends': China ahead of PM Modi-Xi meeting in Delhi",
       "Mirwaiz to attend Iranian President Masoud Pezeshkian's event in New Delhi",
       "Fire Breaks Out At Old Central Theatre Near Madurai Meenakshi Temple",
@@ -23,6 +22,7 @@
       "When home in Delhi became a death trap: Satya Niketan building collapse",
       "PM Modi meets Pezeshkian, calls for dialogue and diplomacy to end West Asia conflict",
       "BRICS negotiators work late into evening to find consensus for ‘Delhi Declaration’",
+      "Blunt force to the chest, abdomen: What autopsy of Manipuri musician killed in Delhi reveals",
       "Delhi court convicts 5 men for assault on cops, unlawful assembly during 2020 riots",
       "Bangladesh says reviewing 101 pacts signed with India: 'Outcome very very soon'",
       "SC stays reinstatement of officer accused of clearing running track at Delhi stadium to walk dog",
@@ -41,27 +41,21 @@
       "Dog walking in stadium; SC stays Delhi HC order asking Centre to reinstate IAS officer",
       "Man chased, stabbed 17 times near Delhi school, one arrested: Police",
       "BRICS Summit: Lutyens' Delhi gets makeover with lights, flowers, themed signages",
-      "Putin is here, when are other dignitaries arriving in Delhi for BRICS?",
-      "BRICS Summit: Delhi schools, offices closed today? Check what’s open, what’s shut",
-      "'1km turns into 8km': Delhi's traffic patience wears thin as BRICS rolls in",
-      "Delhi likely to see traffic disruptions for over 6 hours today ahead of BRICS: Check timings, affected routes",
-      "Travelling during BRICS summit by rail? Check if you train is cancelled or diverted",
-      "Bangladesh PM set to skip meet; not ‘properly invited’, says Kobir",
       "BRICS Summit 2026 Highlights: Unified payment system achievable with right trust framework: South African chapter of BRICS council",
       "Modi urges dialogue and safe navigation in talks with Iran’s Pezeshkian",
       "Climate: Time for BRICS to act",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "'Future captain, maybe?': Ishan's banter with Sooryavanshi goes viral - WATCH",
       "10 days, 1,981 runs, no winner: ENG vs SA Test that ended with a ship to catch",
       "How MS Dhoni is quietly shaping Jharkhand's next generation",
-      "Neena Gupta recalls childhood Delhi days: 'I wanted this one aunty..'",
       "Ranveer Singh becomes BMW India brand ambassador, unveils new 7 series range in New Delhi",
       "72nd National Film Awards to be held in Gujarat; President Droupadi Murmu to present honours on September 22",
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "South China Sea methane leak formed a 1km plume; worms and bacteria built a ‘worm bed’ in 2 years"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "MH",
@@ -80,7 +74,7 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "GJ",
@@ -96,47 +90,49 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 4,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
     "headlines": [
-      "Three persons detained in connection with rescue of orangutans in Odisha",
-      "Odisha STF detains three in Bengal’s Digha over recovery of 5 orangutans",
-      "Odisha drafts anti-witch-hunting policy with special courts, time-bound trials",
-      "Odisha awaits Central Zoo Authority's permission to keep rescued Orangutans at Nandankanan"
+      "Farmers protest demanding uninterrupted power supply in Karimnagar district",
+      "Retd havildar held for theft of assault rifles, pistols from T’gana cantonment",
+      "Retd havildar held for theft of assault rifles, pistols from T’gana armoury",
+      "Retired army personnel, 2 accomplices detained for stealing weapons from Telangana armory",
+      "Telangana bans analogue paneer being sold as ‘paneer’"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Andhra Pradesh notifies Excise Shops Policy 2026-27, retains 3,736 liquor outlets",
-      "Jailed Hindu monk gets 5-hour parole for mother's funeral in Bangladesh: 'Pure, unadulterated cruelty'",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
-    ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
       "Allahabad HC seeks Uttar Pradesh govt’s reply over Saharanpur Mosque demolition, stays ₹6.41 crore damage recovery",
+      "HC notice to UP over demolition of mosque",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Odisha STF detains three in Bengal’s Digha over recovery of 5 orangutans",
+      "Odisha drafts anti-witch-hunting policy with special courts, time-bound trials",
+      "Odisha awaits Central Zoo Authority's permission to keep rescued Orangutans at Nandankanan"
+    ],
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "CT",
@@ -149,7 +145,7 @@
       "Chhattisgarh man dies in police custody, constable suspended; probe ordered",
       "‘Rarest of rare’: Chhattisgarh man sentenced to death for raping, killing girl"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "AS",
@@ -162,7 +158,20 @@
       "BJP names Debasish Sharma as candidate for Nagaon Lok Sabha bypoll in Assam",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Andhra Pradesh notifies Excise Shops Policy 2026-27, retains 3,736 liquor outlets",
+      "Jailed Hindu monk gets 5-hour parole for mother's funeral in Bangladesh: 'Pure, unadulterated cruelty'",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+    ],
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "KL",
@@ -175,20 +184,33 @@
       "Youth in Keralam’s Kozhikode held for alleged bid to record visuals from hospital toilet",
       "Kerala High Court affirms tender process for demolition of Chander Kunj Army Towers"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
     "news_count": 3,
     "headlines": [
-      "Farmers protest demanding uninterrupted power supply in Karimnagar district",
-      "Retired army personnel, 2 accomplices detained for stealing weapons from Telangana armory",
-      "Telangana bans analogue paneer being sold as ‘paneer’"
+      "After killing wife, 3 daughters, man makes tea for father, takes bath",
+      "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
+      "Rajasthan civic polls: Voting underway across 147 local bodies in the state"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 3,
+    "headlines": [
+      "Trade union seeks legislation to regularise outsourced power sector workers",
+      "The Hindu In School Science Fest, Maths Olympiad showcase young talent",
+      "Kids waiting for safer classrooms forced outdoors in Raichur"
+    ],
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "BR",
@@ -200,19 +222,19 @@
       "Tejashwi writes to Bihar CM demanding life-size statues of Ram Vilas, Sharad Yadav and Raghuvansh",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 2,
     "headlines": [
-      "Trade union seeks legislation to regularise outsourced power sector workers",
-      "The Hindu In School Science Fest, Maths Olympiad showcase young talent"
+      "After Doda, Udhampur administration imposes 2-month ban on VPN use",
+      "Srinagar court issues arrest order against son of Ganga hijacker Hashim Qureshi, hospitalised with ‘critical injury’"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "TN",
@@ -224,30 +246,7 @@
       "Fire Breaks Out At Old Central Theatre Near Madurai Meenakshi Temple",
       "House burgled in Ranipet"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
-    "headlines": [
-      "Rajasthan civic polls: 70.01% polling in second phase of urban local body elections",
-      "Rajasthan civic polls: Voting underway across 147 local bodies in the state"
-    ],
-    "last_updated": "2026-09-12 07:35:28 AM"
-  },
-  {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 1,
-    "headlines": [
-      "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
-    ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "MP",
@@ -258,7 +257,7 @@
     "headlines": [
       "Stadium denied, Congress gets alternative venue for Rahul Gandhi’s ‘Chhatron Ki Goonj’ event in Indore"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "MN",
@@ -269,18 +268,18 @@
     "headlines": [
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
     "news_count": 1,
     "headlines": [
-      "Kejriwal thanks CJP's Saurav Das for flagging problems during Punjab schools audit: 'Will immediately address'"
+      "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "TR",
@@ -291,18 +290,18 @@
     "headlines": [
       "Tripura, Mizoram hold first meeting over inter-state border dispute: Tripura CM"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 1,
     "headlines": [
-      "After Doda, Udhampur administration imposes 2-month ban on VPN use"
+      "Singapore couple moves to Uttarakhand village to unschool their son"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   },
   {
     "Code": "WB",
@@ -313,6 +312,6 @@
     "headlines": [
       "Vice-principal of Kolkata college ‘forced’ to resign; ABVP ‘purifies’ her office"
     ],
-    "last_updated": "2026-09-12 07:35:28 AM"
+    "last_updated": "2026-09-12 08:35:02 AM"
   }
 ]
