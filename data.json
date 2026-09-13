@@ -4,12 +4,11 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 53,
+    "news_count": 52,
     "headlines": [
       "South Korea eyes nuclear submarines to counter North Korea",
       "51 wides! Arshdeep Singh creates big unwanted record in India vs Afghanistan 1st T20I",
       "Fed, crude, dollar and Iran war: 4 factors that could move gold next week",
-      "What changed? Why the West is finally acting against Israel's 'settler terrorists'",
       "BRICS Summit 2026 Highlights: PM Modi Thanks Leaders For Making BRICS Summit In Delhi \"Productive\"",
       "\"Move Towards New Relationship\": Bangladesh Wants To Reset India Ties",
       "'India Key Player In Conflict Resolution': South Africa Minister To NDTV",
@@ -60,17 +59,18 @@
       "In 2016, NSW began fencing feral cats and foxes out of three reserves; 10 years later...",
       "T. rex walked across North America 66.5 million years ago, fossil tracks show"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 14,
     "headlines": [
       "7 addl cops, 37 DCPs, 16,000+ personnel: How Mumbai Police are securing Ganeshotsav",
       "Police Deny Activist Manoj Jarange Permission To Hold Mumbai Hunger Strike",
+      "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied",
       "Mumbai Police deny nod for activist Manoj Jarange's September 19 hunger strike at Azad Maidan",
       "Manoj Jarange alleges ‘conspiracy’ to ‘kill him’ amid Maratha quota stir, says ‘will accept death but not surrender’",
       "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
@@ -83,24 +83,7 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "Akash Anand ‘spreading false rumours about my health’, says Mayawati",
-      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
-      "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Vijay Deverakonda praises brother Anand’s ‘Epic - First Semester’, calls it a ‘beautiful movie’",
-      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
-    ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "AS",
@@ -117,7 +100,7 @@
       "Global one-horned rhino population hits record 4,075; Assam has 80%, says minister",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "TN",
@@ -133,7 +116,23 @@
       "Aviation minister Naidu outlines larger transformation plan for Chennai Airport",
       "Tamil Nadu CM Vijay flags off Le Mans Cup at Silverstone during UK visit"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "Akash Anand ‘spreading false rumours about my health’, says Mayawati",
+      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
+      "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
+    ],
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "KL",
@@ -148,7 +147,7 @@
       "Man found dead in Kannur",
       "CPI(M)’s extended Keralam State committee meet begins in Kozhikode"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "UP",
@@ -163,7 +162,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "MP",
@@ -177,7 +176,21 @@
       "Abhijeet Dipke 'resigns as MP CM' after Balaghat heckling, sparks row over 'misuse of letterhead'",
       "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 4,
+    "headlines": [
+      "For governance draft, MHA asks Ladakh bodies to answer 7 queries",
+      "Bid To Revive Ladakh Lake That Shrunk By 70% In A Decade",
+      "L-G announces ₹15 lakh relief for Leh protest victims",
+      "Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China"
+    ],
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "AP",
@@ -191,7 +204,7 @@
       "Four struck dead by lightning in separate incidents in Palnadu district",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "BR",
@@ -204,20 +217,7 @@
       "‘Murdered’ woman in Bihar turns up alive in Jharkhand, was living with lover",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 3,
-    "headlines": [
-      "Bid To Revive Ladakh Lake That Shrunk By 70% In A Decade",
-      "L-G announces ₹15 lakh relief for Leh protest victims",
-      "Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China"
-    ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "WB",
@@ -230,20 +230,7 @@
       "Bengal: Purulia man held for killing girlfriend, caught with body on motorcycle",
       "West Bengal government orders closure of 252 madrassas, sends show-cause notice to 100"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "Masked men open fire at Punjabi singer Gulab Sidhu’s residence; CCTV video emerges",
-      "Punjab Government Claims Power Crisis Over, Opposition Isn't Convinced",
-      "Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry"
-    ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "TG",
@@ -256,19 +243,33 @@
       "September 13, 1948: Why ‘Operation Polo’ on Hyderabad changed India's map forever",
       "12th-century Telangana temple, lying in a state of neglect, gets national monument status"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 2,
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
     "headlines": [
-      "South Korea eyes nuclear submarines to counter North Korea",
-      "God on Trial: At Chhattisgarh temple, devotees bring grievances against their deities"
+      "Masked men open fire at Punjabi singer Gulab Sidhu’s residence; CCTV video emerges",
+      "Punjab Government Claims Power Crisis Over, Opposition Isn't Convinced",
+      "Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Murder accused's 'victory march': SC asks Haryana police to produce him in court",
+      "'Op Safed Sagar' Veteran Attacked With Iron Rod By Parking Staff In Gurugram",
+      "Gurugram residents protest illegal dumping along GCER, Sector 23A"
+    ],
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "JK",
@@ -280,19 +281,19 @@
       "‘Sense of satisfaction’: Pahalgam victims’ families welcome BRICS terror resolution, thank PM Modi",
       "NIA court in J-K issues fresh warrant against LeT founder Hafiz Saeed"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 2,
     "headlines": [
-      "Gunmen kill 4 Kuki-Zo civilians in Manipur",
-      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
+      "South Korea eyes nuclear submarines to counter North Korea",
+      "God on Trial: At Chhattisgarh temple, devotees bring grievances against their deities"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "KA",
@@ -304,19 +305,19 @@
       "Belagavi police make security arrangements for Ganeshothsava",
       "Row erupts over Ganesh Chaturthi procession in Karnataka after Mysuru cop's ‘threat’; BJP, Congress trade barbs"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 2,
     "headlines": [
-      "'Op Safed Sagar' Veteran Attacked With Iron Rod By Parking Staff In Gurugram",
-      "Gurugram residents protest illegal dumping along GCER, Sector 23A"
+      "Gunmen kill 4 Kuki-Zo civilians in Manipur",
+      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "GA",
@@ -327,7 +328,7 @@
     "headlines": [
       "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "NL",
@@ -338,7 +339,7 @@
     "headlines": [
       "RPF rescues two teens from Nagaland near Katpadi"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "RJ",
@@ -349,7 +350,7 @@
     "headlines": [
       "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   },
   {
     "Code": "UT",
@@ -360,6 +361,6 @@
     "headlines": [
       "UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks"
     ],
-    "last_updated": "2026-09-14 03:35:08 AM"
+    "last_updated": "2026-09-14 04:34:54 AM"
   }
 ]
