@@ -4,16 +4,19 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 64,
+    "news_count": 66,
     "headlines": [
       "'Global South must shape, not just follow, rules': PM Modi at Brics Summit",
+      "King County proposes $100M to protect 1,500 acres across 57 projects",
       "India to get another major DRDO missile testing range in Bengal",
       "'Zero tolerance' on terror: Brics declaration strongly condemns Pahalgam attack",
       "'Pyramid of privilege': PM Modi takes shot at West, bats for Global South",
+      "BRICS Summit 2026 LIVE Updates: New Delhi Declaration Backs Return Of Antiquities To Countries Of Origin",
       "Opinion: Opinion | Building BRICS In New Delhi",
       "BRICS Summit 2026 Highlights: PM Modi, Xi Hold Bilateral Meet For 50 Minutes, Discuss Trade, Border",
       "Iranian President's Daughter Visits PM Museum, BRICS Bazaar In Delhi",
       "Iran Says Middle East Doesn't Need A \"Regional Policeman\" Amid War With US",
+      "Xi, Modi welcome ‘steady progress’ in India-China ties",
       "West Benagal govt. to revive Chandannagar’s French legacy",
       "West Bengal professors oppose Govt.’s inter-university transfer Bill, call it an attack on education",
       "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise",
@@ -22,11 +25,12 @@
       "Air India pilot found dead in Delhi hotel; police rule out foul play",
       "BRICS leaders call for stronger cooperation in disease surveillance, medical product regulation",
       "BRICS issues New Delhi Declaration, as UAE and Iran back down from tough positions",
-      "Xi, Modi welcome ‘steady progress’ in India-China ties",
       "Iran President meets Abu Dhabi Crown Prince amid West Asia hostilities",
       "Conflicts be resolved through dialogue, diplomacy: President Murmu in meeting with Iran's Pezeshkian",
       "BRICS leaders call for stronger international cooperation, wider access to AI resources",
-      "Slum settlement in south Delhi veiled for BRICS Summit",
+      "‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff",
+      "BRICS 2026 LIVE updates: After New Delhi declaration, BRICS leaders to hold open session on Day 2",
+      "From Hormuz to Black Sea, PM Modi pitches BRICS distress network to rescue seafarers",
       "Two-state solution for Palestine, concerns over ‘unilateral tariff’: Highlights from BRICS New Delhi declaration",
       "How India pulled off BRICS consensus on Delhi declaration amid West Asia crisis",
       "What’s in a school? A Swiss woman's West Bengal initiative offers new meaning",
@@ -44,8 +48,6 @@
       "PM Modi, Vietnam counterpart Le Minh Hung hold bilateral talks as BRICS leaders converge in Delhi",
       "China to resume Delhi-Guangzhou flight after 6 years as Modi, Xi meet at BRICS",
       "‘Wonderful experience’: South African journalist on covering BRICS Summit in India",
-      "Blunt force to the chest, abdomen: What autopsy of Manipuri musician killed in Delhi reveals",
-      "Delhi court convicts 5 men for assault on cops, unlawful assembly during 2020 riots",
       "BRICS countries emphasis on maintaining undisrupted energy flows, protecting critical infra",
       "China’s Xi urges BRICS to play peacemaker role in Middle East conflict",
       "BRICS Summit 2026 Day 1 Highlights: India steers BRICS to consensus on trade, coercive measures amid West Asia rift",
@@ -71,7 +73,7 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "For decades, scientists thought North America had a cheetah; DNA links it to pumas 2.6M years ago"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "MH",
@@ -83,8 +85,8 @@
       "Maratha quota activist Jarange's Mumbai march to clash with Ganesh festival",
       "Manoj Jarange To March To Mumbai, Begin Hunger Strike On September 19",
       "Amit Shah's Mumbai Visit Spans Hindi Conference, Lalbaugcha Raja Darshan",
-      "On Camera, Man Throws Chilli Powder At Staff, Robs Bank In Nagpur",
       "Maratha quota activist Manoj Jarange-Patil to hold indefinite hunger strike in Mumbai from Sept. 19",
+      "Bombay is the only city in India which is cosmopolitan: Sooni Taraporevala",
       "Slikk eyes ₹100 crore monthly GMV in Bengaluru, plans Delhi, Mumbai expansion",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
@@ -93,22 +95,7 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
-      "Three held for using mule accounts to receive  ₹1.5 lakh cheated from Gujarat man",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "WB",
@@ -123,20 +110,22 @@
       "West Bengal Govt to stop financial assistance to students to buy mobile phones",
       "Corporal punishment without sexual intent doesn't fall under POCSO: SC quashes case against Bengal teacher"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
     "headlines": [
-      "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
-      "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat",
-      "Balaghat child deaths: CJP convernor Dipke visits tribal villages, demands accountability"
+      "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
+      "Three held for using mule accounts to receive  ₹1.5 lakh cheated from Gujarat man",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "KL",
@@ -149,7 +138,33 @@
       "Children’s imagination knows no bounds, says writer Vaisakhan",
       "M.A. Baby to open CPI(M) extended State committee meeting in Kozhikode on September 13"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Dipke visits families in M.P.’s Balaghat, puts lens on tribal children’s deaths",
+      "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat",
+      "Balaghat child deaths: CJP convernor Dipke visits tribal villages, demands accountability"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 3,
+    "headlines": [
+      "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
+      "Government, private medical colleges to adopt health centres across Karnataka",
+      "190 Raichur students forced outdoors, await safer classrooms month after demolition"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "HR",
@@ -162,7 +177,20 @@
       "27 gangsters brought to India from abroad by Haryana Police: DGP Ajay Singhal",
       "Kulbhushan Bhardwaj elected Gurugram District Bar Association president"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 3,
+    "headlines": [
+      "Namma Chennai app opens volunteer registration ahead of Northeast monsoon",
+      "In major relief, Chennai Airport passenger pick-up plaza to be inaugurated virtually on Sunday",
+      "Tamil Nadu CM Vijay runs to hug Ajith Kumar"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "UP",
@@ -175,31 +203,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 2,
-    "headlines": [
-      "Decomposed body of ‘Pak Jaish terrorist’, M4 rifle found in J&amp;K's Doda",
-      "SIA searches Poonch, Udhampur in J&amp;K 'radicalisation' probe"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Interstate ATM cutting gang leader caught in Nuh, handed over to Bihar Police",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "AP",
@@ -211,7 +215,19 @@
       "Male tiger, Explorer, attacks two buffaloes in Kakinada district",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
+    "headlines": [
+      "Interstate ATM cutting gang leader caught in Nuh, handed over to Bihar Police",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "LA",
@@ -223,43 +239,19 @@
       "Ladakh Lt Governor Rejects Protected Area Report Over Legal, Security Concerns",
       "Former BJP MP for Ladakh accuses Wangchuk and others of misleading the people of the UT"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 2,
     "headlines": [
-      "Namma Chennai app opens volunteer registration ahead of Northeast monsoon",
-      "In major relief, Chennai Airport passenger pick-up plaza to be inaugurated virtually on Sunday"
+      "Decomposed body of ‘Pak Jaish terrorist’, M4 rifle found in J&amp;K's Doda",
+      "SIA searches Poonch, Udhampur in J&amp;K 'radicalisation' probe"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise",
-      "'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 2,
-    "headlines": [
-      "Government, private medical colleges to adopt health centres across Karnataka",
-      "190 Raichur students forced outdoors, await safer classrooms month after demolition"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "TG",
@@ -271,7 +263,19 @@
       "Retd havildar held for theft of assault rifles, pistols from T’gana cantonment",
       "Retd havildar held for theft of assault rifles, pistols from T’gana armoury"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Power cuts paralyse Punjab rice mills; Oppn. slams AAP over ‘Roshan Punjab’ promise",
+      "'AAP deserves no friendly exemption': Congress dares CJP to audit Punjab schools 'with same eyes'"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "AS",
@@ -282,7 +286,7 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "CT",
@@ -293,29 +297,7 @@
     "headlines": [
       "Chhattisgarh BJP Minister's brother Guru Dhaldas Saheb joins Congress"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
-  },
-  {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
-    "news_count": 1,
-    "headlines": [
-      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
-    ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "ML",
@@ -326,18 +308,18 @@
     "headlines": [
       "Meghalaya CM Sangma calls on guv amid reports of 8 UDP MLAs planning to join BJP"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 1,
     "headlines": [
-      "TIPRA Motha leader Tapas Dey dies at 80 in Tripura after prolonged illness"
+      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
   },
   {
     "Code": "RJ",
@@ -348,6 +330,39 @@
     "headlines": [
       "Govt. employee quitting to fight polls can’t seek reinstatement: Rajasthan High Court"
     ],
-    "last_updated": "2026-09-13 06:34:22 AM"
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
+    "news_count": 1,
+    "headlines": [
+      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "TR",
+    "Lat": 23.9408,
+    "Long": 91.9882,
+    "State": "Tripura",
+    "news_count": 1,
+    "headlines": [
+      "TIPRA Motha leader Tapas Dey dies at 80 in Tripura after prolonged illness"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 1,
+    "headlines": [
+      "Couple leaves Singapore for Uttarakhand village to unschool son"
+    ],
+    "last_updated": "2026-09-13 07:35:19 AM"
   }
 ]
