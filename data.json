@@ -6,11 +6,11 @@
     "State": "Delhi",
     "news_count": 64,
     "headlines": [
-      "Google just moved 90 people out of DeepMind, and staff are asking why",
       "Ukraine deploys drone specialists to Africa, Middle East to target Russian interests",
       "6 injured after people jump from building in panic as Delhi factory catches fire",
       "Gun-toting Brics summit reel puts Delhi constable under departmental inquiry",
       "Why Xi Jinping skipped PM Modi’s gala dinner at Brics Summit in Delhi",
+      "PM Modi Holds Bilateral Meeting With Egypt President El-Sisi In Delhi",
       "Video: PM Modi Pauses BRICS Speech To Check On China's Xi Jinping",
       "Ex-Schoolmate Meets PM, Seeks Central Agency Probe Into Land Dispute Case",
       "Congress leader summoned by police for ‘burning’ Bageshwar Baba's photo over Durga Puja remark",
@@ -20,7 +20,7 @@
       "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row",
       "BRICS issues New Delhi Declaration, as UAE and Iran back down from tough positions",
       "Iran President meets Abu Dhabi Crown Prince amid West Asia hostilities",
-      "Had West Bengal  not been created, we would have suffered fate of Chinmoy Das of Bangladesh, says Suvendu Adhikari",
+      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
       "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway",
       "At BRICS 2026, PM Modi warns ‘weaponisation’ of technology, critical minerals can hinder progress",
       "Delhi HC to pass order on Monday on Vimal Elaichi makers’ plea seeking to quash show-cause notices against actors",
@@ -71,18 +71,17 @@
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
       "For decades, scientists thought North America had a cheetah; DNA links it to pumas 2.6M years ago"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
-      "Vikas Samudre's ‘I am committing suicide’ post sparks alarm; Mumbai Cyber Police actor",
       "Woman's Hair Gets Caught In Ferris Wheel At Maharashtra Fair, Scalp Torn Off",
-      "Waterlogging In Mumbai After Heavy Rain, More Showers Predicted",
+      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
       "Severe waterlogging near Mumbai airport as rain lashes city; watch video",
       "Bombay is the only city in India which is cosmopolitan: Sooni Taraporevala",
       "Mumbai gets heavy showers after weeks of lull; IMD forecasts more rains with gusty winds",
@@ -94,54 +93,74 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 7,
-    "headlines": [
-      "'I resign as CM': CJP's Abhijeet Dipke mocks MP govt after Balaghat heckling",
-      "'Bittu Tabahi' finds dog carcasses, medical waste near Turahalli forest in Bengaluru",
-      "'Came to do politics on corpse': Abhijeet Dipke heckled during MP visit; watch",
-      "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway",
-      "MP high court issues notice over dacoity Act as 1,000 booked after dacoits vanished",
-      "Abhijeet Dipke 'resigns as MP CM' after Balaghat heckling, sparks row over 'misuse of letterhead'",
-      "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat"
-    ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 5,
+    "news_count": 8,
     "headlines": [
+      "House break-in attempt: Assam native held in Keralam’s Thrissur",
+      "Young elephant ‘Durga’ from Assam to reach Madurai Meenakshi temple; activists raise concerns over transfer",
       "Third extension of former Assam PCCF challenged; Gauhati High Court issues notice",
       "Former Assam Minister Siddeque Ahmed dies battling cancer at 63",
       "Assam CM highlights ‘big comeback’ of ‘small hog’",
+      "Assam man, 22, who tried to kill himself after murdering his girlfriend, held: Cop",
       "Global one-horned rhino population hits record 4,075; Assam has 80%, says minister",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 5,
+    "news_count": 7,
     "headlines": [
+      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
       "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
       "Three held for using mule accounts to receive  ₹1.5 lakh cheated from Gujarat man",
+      "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 6,
+    "headlines": [
+      "'I resign as CM': CJP's Abhijeet Dipke mocks MP govt after Balaghat heckling",
+      "'Bittu Tabahi' finds dog carcasses, medical waste near Turahalli forest in Bengaluru",
+      "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway",
+      "MP high court issues notice over dacoity Act as 1,000 booked after dacoits vanished",
+      "Abhijeet Dipke 'resigns as MP CM' after Balaghat heckling, sparks row over 'misuse of letterhead'",
+      "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat"
+    ],
+    "last_updated": "2026-09-13 04:34:51 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 6,
+    "headlines": [
+      "Young elephant ‘Durga’ from Assam to reach Madurai Meenakshi temple; activists raise concerns over transfer",
+      "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
+      "AMMK leader Dhinakaran criticises ‘undeclared load shedding’ in Tamil Nadu",
+      "DMK MP Raja regrets remarks against TVK Minister Nirmal Kumar",
+      "Street dog in Chennai’s Besant Nagar ‘adopted’; habitues of the locality in shock",
+      "Tamil Nadu CM Vijay flags off Le Mans Cup at Silverstone during UK visit"
+    ],
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "UP",
@@ -156,51 +175,51 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 5,
-    "headlines": [
-      "Congress leader summoned by police for ‘burning’ Bageshwar Baba's photo over Durga Puja remark",
-      "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row",
-      "Had West Bengal  not been created, we would have suffered fate of Chinmoy Das of Bangladesh, says Suvendu Adhikari",
-      "What’s in a school? A Swiss woman's West Bengal initiative offers new meaning",
-      "West Bengal Govt to stop financial assistance to students to buy mobile phones"
-    ],
-    "last_updated": "2026-09-13 03:42:43 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 5,
-    "headlines": [
-      "AMMK leader Dhinakaran criticises ‘undeclared load shedding’ in Tamil Nadu",
-      "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
-      "DMK MP Raja regrets remarks against TVK Minister Nirmal Kumar",
-      "Street dog in Chennai’s Besant Nagar ‘adopted’; habitues of the locality in shock",
-      "Tamil Nadu CM Vijay flags off Le Mans Cup at Silverstone during UK visit"
-    ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "‘Stepmotherly treatment’: Tejashwi slams Centre over Bihar flood relief",
       "Power Off, Flashlight On: Bihar Doctors Use Torches To Operate On Pregnant Woman",
-      "Bihar Opposition RJD, ruling JD(U) gear up for upcoming polls to eight legislative Council seats",
+      "Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court",
       "‘Murdered’ woman in Bihar turns up alive in Jharkhand, was living with lover",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
+    "headlines": [
+      "House break-in attempt: Assam native held in Keralam’s Thrissur",
+      "Kerala PSC faces legal dilemma over Crime Branch summons in Planning Board exam scam",
+      "Revised design clears hurdle for Pavangad ROB approach road",
+      "M.A. Baby blames ‘creation of false perception’ for CPI(M)’s debacle in Keralam",
+      "Drug-induced gang rape: Four accused remanded in judicial custody in Kozhikode"
+    ],
+    "last_updated": "2026-09-13 04:34:51 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "Congress leader summoned by police for ‘burning’ Bageshwar Baba's photo over Durga Puja remark",
+      "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row",
+      "What’s in a school? A Swiss woman's West Bengal initiative offers new meaning",
+      "West Bengal Govt to stop financial assistance to students to buy mobile phones"
+    ],
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "UT",
@@ -214,21 +233,7 @@
       "Suvendu eats fish offering at Kalighat temple amidst Bageshwar Baba row",
       "Bengal Congress lodges police complaint against Bageshwar Baba over Durga Puja meat diktat"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Revised design clears hurdle for Pavangad ROB approach road",
-      "M.A. Baby blames ‘creation of false perception’ for CPI(M)’s debacle in Keralam",
-      "Drug-induced gang rape: Four accused remanded in judicial custody in Kozhikode",
-      "Health officials sound caution as soaring temperature triggers fresh wave of fever cases in Ernakulam"
-    ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "RJ",
@@ -237,11 +242,11 @@
     "State": "Rajasthan",
     "news_count": 3,
     "headlines": [
+      "Rajasthan SET 2026: Students boycott exam in Jaipur over delayed papers",
       "Air India Bhopal-Delhi flight diverted to Jaipur over technical issue, lands safely",
-      "Debt, poison and one blow each: New chilling details in Jaipur quadruple murder",
       "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "AP",
@@ -254,7 +259,20 @@
       "Three killed as speeding lorry rams auto in Vizianagaram",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 3,
+    "headlines": [
+      "Karnataka Cop's Remarks On Ganesha Procession Near Mosque Spark Row",
+      "800 child labourers, 503 from Bengaluru alone, rescued in two-hour crackdown across Karnataka",
+      "Karnataka Minister Satish Jarkiholi says he was misquoted on ED searches; releases video message"
+    ],
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "TG",
@@ -267,19 +285,19 @@
       "DMK MP Raja regrets remarks against TVK Minister Nirmal Kumar",
       "12th-century Telangana temple, lying in a state of neglect, gets national monument status"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
     "news_count": 2,
     "headlines": [
-      "‘Sense of satisfaction’: Pahalgam victims’ families welcome BRICS terror resolution, thank PM Modi",
-      "NIA court in J-K issues fresh warrant against LeT founder Hafiz Saeed"
+      "9 Deaths In Nagaland's Tuensang After Consuming Toxic Liquor",
+      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "HR",
@@ -291,19 +309,19 @@
       "Man, 50, Was Returning Home When A Speeding Thar Killed Him In Faridabad",
       "Gurugram residents protest illegal dumping along GCER, Sector 23A"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 2,
     "headlines": [
-      "Karnataka Cop's Remarks On Lord Ganesha Procession Near Mosque Spark Row",
-      "Karnataka Minister Satish Jarkiholi says he was misquoted on ED searches; releases video message"
+      "‘Sense of satisfaction’: Pahalgam victims’ families welcome BRICS terror resolution, thank PM Modi",
+      "NIA court in J-K issues fresh warrant against LeT founder Hafiz Saeed"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "MN",
@@ -315,7 +333,7 @@
       "Woman killed; husband, son injured in attack on Manipur village",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "CT",
@@ -326,18 +344,7 @@
     "headlines": [
       "God on Trial: At Chhattisgarh temple, devotees bring grievances against their deities"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
-  },
-  {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
-    "news_count": 1,
-    "headlines": [
-      "Nagaland Christian body takes out rally against FCRA amendments, compulsory 'Vande Mataram' singing"
-    ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   },
   {
     "Code": "OD",
@@ -348,6 +355,6 @@
     "headlines": [
       "Odisha forms technical panel for care of five rescued orangutans"
     ],
-    "last_updated": "2026-09-13 03:42:43 PM"
+    "last_updated": "2026-09-13 04:34:51 PM"
   }
 ]
