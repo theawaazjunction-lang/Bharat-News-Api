@@ -4,12 +4,19 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 46,
+    "news_count": 53,
     "headlines": [
+      "South Korea eyes nuclear submarines to counter North Korea",
+      "NSW fenced out cats and foxes; 13 locally extinct species returned",
       "51 wides! Arshdeep Singh creates big unwanted record in India vs Afghanistan 1st T20I",
       "Fed, crude, dollar and Iran war: 4 factors that could move gold next week",
       "What changed? Why the West is finally acting against Israel's 'settler terrorists'",
+      "PM Modi Holds Bilateral Talks With South Africa, Philippines, Egypt Leaders",
+      "AI Must Not Get Out Of Control: South Africa President At BRICS",
+      "Trinamool Names Candidates For Nandigram, Rejinagar Bypolls",
       "BRICS Summit 2026 LIVE Updates: PM Modi Thanks Leaders For Making BRICS Summit In Delhi \"Productive\"",
+      "Jaishankar discusses West Asia conflict with Saudi Foreign Minister",
+      "India steps up Africa outreach as Modi holds talks with leaders from the continent",
       "Modi’s bilateral meetings on BRICS sidelines put defence, security cooperation in focus",
       "15 bilaterals, 3 days: PM Modi's jam-packed schedule during BRICS Summit",
       "Book Box | Inside Hammock: Literary magazine in an AI age",
@@ -34,7 +41,6 @@
       "‘Room locked from inside’: Air India captain found dead in Delhi hotel; brother alerted staff",
       "From Hormuz to Black Sea, PM Modi pitches BRICS distress network to rescue seafarers",
       "Two-state solution for Palestine, concerns over ‘unilateral tariff’: Highlights from BRICS New Delhi declaration",
-      "How India pulled off BRICS consensus on Delhi declaration amid West Asia crisis",
       "Editorial. BRICS and gaps",
       "BRICS Summit: PM Modi meets with South Africa President Cyril Ramaphosa",
       "BRICS Summit: Weaponisation of tech, critical minerals could hinder shared progress, warns Modi",
@@ -50,20 +56,22 @@
       "Ranveer Singh becomes BMW India brand ambassador, unveils new 7 series range in New Delhi",
       "72nd National Film Awards to be held in Gujarat; President Droupadi Murmu to present honours on September 22",
       "Sajid Nadiadwala’s production house Nadiadwala Grandson Entertainment leases Andheri office for Rs 2.46 crores",
+      "In 2016, NSW began fencing feral cats and foxes out of three reserves; 10 years later...",
       "T. rex walked across North America 66.5 million years ago, fossil tracks show",
       "For decades, scientists thought North America had a cheetah; DNA links it to pumas 2.6M years ago"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 13,
     "headlines": [
       "7 addl cops, 37 DCPs, 16,000+ personnel: How Mumbai Police are securing Ganeshotsav",
       "Govt. raisin processing unit in Vijayapura to help farmers cut down on transportation costs to Maharashtra",
+      "Mumbai Police deny nod for activist Manoj Jarange's September 19 hunger strike at Azad Maidan",
       "Manoj Jarange alleges ‘conspiracy’ to ‘kill him’ amid Maratha quota stir, says ‘will accept death but not surrender’",
       "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
       "Severe waterlogging near Mumbai airport as rain lashes city; watch video",
@@ -75,25 +83,25 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
     "news_count": 8,
     "headlines": [
-      "Ex-Telangana minister Konda Surekha rules out leaving Congress, eyes 2028 polls",
-      "Ex-Army Man Rides Scooty Into Telangana Cantonment, Pulls Off Arms Heist",
-      "Arrangements in place for free power supply to Ganesh pandals in Telangana",
-      "122.9 km ₹38,595-crore Hyderabad Metro Rail expansion plan awaits Centre-State JV",
-      "Telangana Police facilitate ₹139.68 crore refund to 24,189 cyber fraud victims this year",
-      "Unqualified practitioners found treating patients, prescribing allopathic medicines in Hyderabad",
-      "September 13, 1948: Why ‘Operation Polo’ on Hyderabad changed India's map forever",
-      "12th-century Telangana temple, lying in a state of neglect, gets national monument status"
+      "Akash Anand ‘spreading false rumours about my health’, says Mayawati",
+      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
+      "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
+      "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Vijay Deverakonda praises brother Anand’s ‘Epic - First Semester’, calls it a ‘beautiful movie’",
+      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "AS",
@@ -110,40 +118,23 @@
       "Global one-horned rhino population hits record 4,075; Assam has 80%, says minister",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
-      "‘Final decision': Mayawati says no political role for nephews Akash, Ishan in BSP",
-      "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Vijay Deverakonda praises brother Anand’s ‘Epic - First Semester’, calls it a ‘beautiful movie’",
-      "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 6,
     "headlines": [
-      "Pain that persists after healing needs specialised care, say experts",
-      "Second batch of Dasara elephants arrive in Mysuru Palace",
-      "79th martyrdom day of Banavara Ramaswamy observed in Mysuru",
-      "Belagavi police make security arrangements for Ganesh festival",
-      "From Pampa to Karnad: Karnataka Sahitya Academy brings out Kannada compendium to teach human values to youngsters",
-      "Row erupts over Ganesh Chaturthi procession in Karnataka after Mysuru cop's ‘threat’; BJP, Congress trade barbs"
+      "Unchecked effluents mar the coastline; concern mounts over drainage flows into RK beach",
+      "Four struck dead by lightning in separate incidents in Palnadu district",
+      "Three-day wet spell brings down rainfall deficit to 51.7% in Andhra Pradesh",
+      "Teachers’ body seeks increase in rice allocation under mid-day meal scheme in Andhra Pradesh",
+      "Kurnool all set for Ganesh idol immersion amid water shortages, says Bharath",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "KL",
@@ -158,22 +149,66 @@
       "CPI(M)’s extended Keralam State committee meet begins in Kozhikode",
       "M.A. Baby blames ‘creation of false perception’ for CPI(M)’s debacle in Keralam"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 5,
     "headlines": [
-      "Four struck dead by lightning in separate incidents in Palnadu district",
-      "Three-day wet spell brings down rainfall deficit to 51.7% in Andhra Pradesh",
-      "Teachers’ body seeks increase in rice allocation under mid-day meal scheme in Andhra Pradesh",
-      "Kurnool all set for Ganesh idol immersion amid water shortages, says Bharath",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+      "Akash Anand ‘spreading false rumours about my health’, says Mayawati",
+      "'Will teach you journalism': YouTuber thrashed by pradhan's husband in UP’s Bijnor over road videos",
+      "Uttar Pradesh clocks ₹47,484 crore exports to BRICS, partner nations",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
+    "headlines": [
+      "Ex-Telangana minister Konda Surekha rules out leaving Congress, eyes 2028 polls",
+      "Arrangements in place for free power supply to Ganesh pandals in Telangana",
+      "122.9 km ₹38,595-crore Hyderabad Metro Rail expansion plan awaits Centre-State JV",
+      "September 13, 1948: Why ‘Operation Polo’ on Hyderabad changed India's map forever",
+      "12th-century Telangana temple, lying in a state of neglect, gets national monument status"
+    ],
+    "last_updated": "2026-09-13 11:35:47 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 5,
+    "headlines": [
+      "Belagavi police make security arrangements for Ganeshothsava",
+      "Pain that persists after healing needs specialised care, say experts",
+      "Second batch of Dasara elephants arrive in Mysuru Palace",
+      "79th martyrdom day of Banavara Ramaswamy observed in Mysuru",
+      "Row erupts over Ganesh Chaturthi procession in Karnataka after Mysuru cop's ‘threat’; BJP, Congress trade barbs"
+    ],
+    "last_updated": "2026-09-13 11:35:47 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 4,
+    "headlines": [
+      "Masked men open fire at Punjabi singer Gulab Sidhu’s residence; CCTV video emerges",
+      "Punjab Government Claims Power Crisis Over, Opposition Isn't Convinced",
+      "Punjab's Drugs Challenge Shifts, Other States Blamed For Pharma Smuggling",
+      "Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry"
+    ],
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "TN",
@@ -187,21 +222,7 @@
       "Aviation minister Naidu outlines larger transformation plan for Chennai Airport",
       "Tamil Nadu CM Vijay flags off Le Mans Cup at Silverstone during UK visit"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "'Will teach you journalism': YouTuber thrashed by pradhan's husband in UP’s Bijnor over road videos",
-      "Uttar Pradesh clocks ₹47,484 crore exports to BRICS, partner nations",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "MP",
@@ -215,20 +236,20 @@
       "Abhijeet Dipke 'resigns as MP CM' after Balaghat heckling, sparks row over 'misuse of letterhead'",
       "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 3,
     "headlines": [
-      "Bihar to send 100 professors for training at global institutions, including Oxford: CM Choudhary",
-      "‘Murdered’ woman in Bihar turns up alive in Jharkhand, was living with lover",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Trinamool Names Candidates For Nandigram, Rejinagar Bypolls",
+      "Bengal: Purulia man held for killing girlfriend, caught with body on motorcycle",
+      "West Bengal government orders closure of 252 madrassas, sends show-cause notice to 100"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "MN",
@@ -241,20 +262,7 @@
       "Gunmen kill 4 Kuki-Zo civilians in Manipur",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "Masked men open fire at Punjabi singer Gulab Sidhu’s residence; CCTV video emerges",
-      "Punjab's Drugs Challenge Shifts, Other States Blamed For Pharma Smuggling",
-      "Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "GA",
@@ -266,7 +274,31 @@
       "AAP, Goa Forward Party Announce Alliance For 2027 Assembly Polls",
       "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "South Korea eyes nuclear submarines to counter North Korea",
+      "God on Trial: At Chhattisgarh temple, devotees bring grievances against their deities"
+    ],
+    "last_updated": "2026-09-13 11:35:47 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
+    "headlines": [
+      "‘Murdered’ woman in Bihar turns up alive in Jharkhand, was living with lover",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "HR",
@@ -278,19 +310,19 @@
       "‘Body lay on road for hours’: Blinkit delivery worker killed in bike accident",
       "Gurugram residents protest illegal dumping along GCER, Sector 23A"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 2,
     "headlines": [
-      "Bengal: Purulia man held for killing girlfriend, caught with body on motorcycle",
-      "West Bengal government orders closure of 252 madrassas, sends show-cause notice to 100"
+      "L-G announces ₹15 lakh relief for Leh protest victims",
+      "Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "JK",
@@ -302,29 +334,7 @@
       "‘Sense of satisfaction’: Pahalgam victims’ families welcome BRICS terror resolution, thank PM Modi",
       "NIA court in J-K issues fresh warrant against LeT founder Hafiz Saeed"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
-    "headlines": [
-      "God on Trial: At Chhattisgarh temple, devotees bring grievances against their deities"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "There is no such thing as a ‘UN map with borders’: Guterres"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "RJ",
@@ -335,29 +345,7 @@
     "headlines": [
       "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
-    "news_count": 1,
-    "headlines": [
-      "Tripura detects 19 illegal de-addiction, mental health rehabilitation centres"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China"
-    ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   },
   {
     "Code": "UT",
@@ -368,6 +356,6 @@
     "headlines": [
       "UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks"
     ],
-    "last_updated": "2026-09-13 10:35:02 PM"
+    "last_updated": "2026-09-13 11:35:47 PM"
   }
 ]
