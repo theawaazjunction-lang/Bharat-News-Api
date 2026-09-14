@@ -4,7 +4,7 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 51,
+    "news_count": 52,
     "headlines": [
       "South Korea eyes nuclear submarines to counter North Korea",
       "51 wides! Arshdeep Singh creates big unwanted record in India vs Afghanistan 1st T20I",
@@ -46,6 +46,7 @@
       "Gold and silver prices: Analysts warn of volatility ahead",
       "US Fed interest rate decision, inflation data, oil to drive markets in holiday-shortened week: Analysts",
       "All eyes on Warsh as rate-hike fever spreads across G7 central banks",
+      "Gujarat surges ahead of UP in new investor additions, adds 2.3 lakh in August",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -58,7 +59,7 @@
       "In 2016, NSW began fencing feral cats and foxes out of three reserves; 10 years later...",
       "T. rex walked across North America 66.5 million years ago, fossil tracks show"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "MH",
@@ -70,11 +71,11 @@
       "Police Deny Activist Manoj Jarange Permission To Hold Mumbai Hunger Strike",
       "Mumbai on ‘orange’ alert as IMD warns of heavy rain in parts of Maharashtra",
       "Maratha quota protest: Jarange alleges conspiracy to kill him during Mumbai march even as Azad Maidan permission denied",
+      "For Ganeshotsav, Mumbai Police deploy over 16,800 personnel",
       "Mumbai Police deny nod for activist Manoj Jarange's September 19 hunger strike at Azad Maidan",
       "Manoj Jarange alleges ‘conspiracy’ to ‘kill him’ amid Maratha quota stir, says ‘will accept death but not surrender’",
       "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
       "Severe waterlogging near Mumbai airport as rain lashes city; watch video",
-      "Mumbai gets heavy showers after weeks of lull; IMD forecasts more rains with gusty winds",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered",
@@ -82,23 +83,25 @@
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores",
       "SHOCKING: Mumbai’s iconic Gaiety-Galaxy SHUT DOWN temporarily over non-renewal of licence; management races to resolve issue"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 6,
+    "news_count": 8,
     "headlines": [
       "Akash Anand ‘spreading false rumours about my health’, says Mayawati",
       "IMD forecasts heavy rain across Gujarat, Maharashtra and several states",
       "Supply of 40 Airbus aircraft to Defence Ministry taxable; AAR says Gujarat GST registration required",
+      "Gujarat surges ahead of UP in new investor additions, adds 2.3 lakh in August",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "'Irumudi' BO day 24 vs 'Epic: First Semester'",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "AS",
@@ -114,23 +117,7 @@
       "Global one-horned rhino population hits record 4,075; Assam has 80%, says minister",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "High ranges of Kottayam mobilise against Centre’s proposed ESA tag",
-      "Two held for alleged robbery bid in Kozhikode",
-      "Assam native held in Keralam’s Thrissur for house break-in",
-      "Malaysian Prime Minister Anwar Ibrahim meets Kanthapuram",
-      "Man found dead in Kannur",
-      "CPI(M)’s extended Keralam State committee meet begins in Kozhikode"
-    ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "TN",
@@ -140,42 +127,44 @@
     "news_count": 6,
     "headlines": [
       "Left parties to contest in Tamil Nadu bypolls; CPI to field candidate in Dharapuram, CPI(M) in Madurantakam",
+      "Long-awaited cab pick-up plaza at Chennai airport opened after two-year delay",
       "Procession of silk umbrellas leaves for Tirupati from Chennai",
       "Electricity demand peaks this September, unscheduled power cuts return to Tamil Nadu",
       "Over 20 feared trapped after bus plunges 30 feet into Tamil Nadu river",
-      "Aviation minister Naidu outlines larger transformation plan for Chennai Airport",
-      "Tamil Nadu CM Vijay flags off Le Mans Cup at Silverstone during UK visit"
+      "Aviation minister Naidu outlines larger transformation plan for Chennai Airport"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
       "Akash Anand ‘spreading false rumours about my health’, says Mayawati",
       "'Will teach you journalism': YouTuber thrashed by pradhan's husband in UP’s Bijnor over road videos",
       "Uttar Pradesh clocks ₹47,484 crore exports to BRICS, partner nations",
+      "Gujarat surges ahead of UP in new investor additions, adds 2.3 lakh in August",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
     "headlines": [
-      "Procession of silk umbrellas leaves for Tirupati from Chennai",
-      "Unchecked effluents mar the coastline; concern mounts over drainage flows into RK beach",
-      "Four struck dead by lightning in separate incidents in Palnadu district",
-      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+      "High ranges of Kottayam mobilise against Centre’s proposed ESA tag",
+      "Two held for alleged robbery bid in Kozhikode",
+      "Assam native held in Keralam’s Thrissur for house break-in",
+      "Malaysian Prime Minister Anwar Ibrahim meets Kanthapuram",
+      "Man found dead in Kannur"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "MP",
@@ -189,7 +178,7 @@
       "Abhijeet Dipke 'resigns as MP CM' after Balaghat heckling, sparks row over 'misuse of letterhead'",
       "‘Here to do politics on corpses’: Abhijeet Dipke heckled by group of influencers in MP's Balaghat"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "LA",
@@ -203,33 +192,7 @@
       "L-G announces ₹15 lakh relief for Leh protest victims",
       "Congress leader Ghulam Mir welcomes BRICS condemnation of Pahalgam terror attack, questions 'red carpet' for China"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
-      "‘Murdered’ woman in Bihar turns up alive in Jharkhand, was living with lover",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-14 05:37:42 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Murder accused's 'victory march': SC asks Haryana police to produce him in court",
-      "'Op Safed Sagar' Veteran Attacked With Iron Rod By Parking Staff In Gurugram",
-      "Gurugram residents protest illegal dumping along GCER, Sector 23A"
-    ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "WB",
@@ -242,7 +205,46 @@
       "Bengal: Purulia man held for killing girlfriend, caught with body on motorcycle",
       "West Bengal government orders closure of 252 madrassas, sends show-cause notice to 100"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Centre treating Bihar as stepchild: Tejashwi Yadav on flood-related issues",
+      "‘Murdered’ woman in Bihar turns up alive in Jharkhand, was living with lover",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-14 06:35:36 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Murder accused's 'victory march': SC asks Haryana police to produce him in court",
+      "'Op Safed Sagar' Veteran Attacked With Iron Rod By Parking Staff In Gurugram",
+      "Gurugram residents protest illegal dumping along GCER, Sector 23A"
+    ],
+    "last_updated": "2026-09-14 06:35:36 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Procession of silk umbrellas leaves for Tirupati from Chennai",
+      "Unchecked effluents mar the coastline; concern mounts over drainage flows into RK beach",
+      "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
+    ],
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "TG",
@@ -255,7 +257,7 @@
       "September 13, 1948: Why ‘Operation Polo’ on Hyderabad changed India's map forever",
       "12th-century Telangana temple, lying in a state of neglect, gets national monument status"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "PB",
@@ -268,7 +270,7 @@
       "Punjab Government Claims Power Crisis Over, Opposition Isn't Convinced",
       "Coal supply to Punjab power plants remains adequate, state needs to improve offtake from mines, says ministry"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "MN",
@@ -281,7 +283,7 @@
       "Gunmen kill 4 Kuki-Zo civilians in Manipur",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "JK",
@@ -293,7 +295,7 @@
       "‘Sense of satisfaction’: Pahalgam victims’ families welcome BRICS terror resolution, thank PM Modi",
       "NIA court in J-K issues fresh warrant against LeT founder Hafiz Saeed"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "CT",
@@ -305,7 +307,7 @@
       "South Korea eyes nuclear submarines to counter North Korea",
       "God on Trial: At Chhattisgarh temple, devotees bring grievances against their deities"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "KA",
@@ -317,7 +319,7 @@
       "Belagavi police make security arrangements for Ganeshothsava",
       "Row erupts over Ganesh Chaturthi procession in Karnataka after Mysuru cop's ‘threat’; BJP, Congress trade barbs"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "JH",
@@ -329,7 +331,7 @@
       "SIR notices to 38 members of Iranian-origin family in Jharkhand",
       "Jharkhand LoP accuses Soren-led govt. of protecting influential people amid CID probe into job exam ‘irregularities’"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "GA",
@@ -340,7 +342,7 @@
     "headlines": [
       "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "NL",
@@ -351,7 +353,7 @@
     "headlines": [
       "RPF rescues two teens from Nagaland near Katpadi"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "RJ",
@@ -362,7 +364,7 @@
     "headlines": [
       "Air India's Bhopal-Delhi flight diverted to Jaipur due to technical issue, safety checks underway"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   },
   {
     "Code": "UT",
@@ -373,6 +375,6 @@
     "headlines": [
       "UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks"
     ],
-    "last_updated": "2026-09-14 05:37:42 AM"
+    "last_updated": "2026-09-14 06:35:36 AM"
   }
 ]
