@@ -4,16 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 33,
+    "news_count": 34,
     "headlines": [
       "3 Italian passengers fly out of Delhi without immigration clearance: What exactly happened",
-      "Why housing is becoming a major political headache for South Korea’s Lee",
       "Gangster Himanshu Bhau Takes Responsibility In Delhi Gym Trainer Murder Case",
-      "Delhi Panel Defers \"Sheesh Mahal\" Inspection, Alleges Leak Of Confidentiality",
       "Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education",
       "Central team to visit Bihar on September 16 to assess flood damage",
       "West Bengal bypolls: TMC MP urges EC to ensure no eligible voter denied voting right",
       "Three main accused in Goa nightclub fire surrender before Mapusa court two weeks after SC order",
+      "Govt calls urgent meet after 3 Italians board flight to Munich without completing immigration at Delhi airport",
       "Delhi HC rejects Vimal Elaichi's plea over Maharashtra FDA notices to SRK, Ajay Devgn, Tiger Shroff",
       "Delhi airport denies notice over reports of security lapse involving three Air India passengers to Italy",
       "Why Delhi HC rejected Vimal Elaichi makers' plea over FDA notice to SRK, Ajay Devgn, Tiger Shroff",
@@ -24,8 +23,10 @@
       "Leaders back new ‘BRICS CONNECT’ platform to map skills, prepare future-ready workforce",
       "15 bilaterals, 3 days: PM Modi's jam-packed schedule during BRICS Summit",
       "Book Box | Inside Hammock: Literary magazine in an AI age",
+      "What Saudi Arabia’s East-West pipeline closure means for global energy markets",
       "Delhi HC dismisses Vimal Elachi makers’ plea against show cause notice to celebrity actors",
       "IMD update: Monsoon may start to exit North-West India in five days",
+      "SBI Research, IDFC First expect rate hike in October as crude prices climb: Higher oil prices &amp; inflation raise likelihood of policy tightening",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -40,7 +41,7 @@
       "Jackie Chan backed bid to save South China tiger, unseen in the wild for decades",
       "In 2016, NSW began fencing feral cats and foxes out of three reserves; 10 years later..."
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "MH",
@@ -65,16 +66,15 @@
       "Rani Mukerji honoured with Raj Kapoor special contribution award at Maharashtra State Film Awards 2026",
       "Hrithik Roshan’s mother Pinky Roshan buys two luxury apartments in Mumbai for Rs. 67.30 crores"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
-      "\"She Didn't Stop, He Hit Her Bike\": Rider Posts New Gurugram Hit-And-Run Clip",
       "Gurugram woman biker injured in hit-and-run; accused identified, police launch suo motu probe",
       "Retired IAF officer assaulted at a commercial complex in Gurugram",
       "‘She is experiencing something akin to trauma’: Gurugram biker's family breaks silence after hit-and-run incident",
@@ -88,7 +88,27 @@
       "On camera, car chases, rams woman biker on Gurugram road: 'Kept making hand gestures'",
       "RIL-arm Model Economic Township Ltd appoints Manish Jaiswal as CEO"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 10,
+    "headlines": [
+      "Tamil Nadu's Vijay Signs Rs 12,300 Crore UK Deals, 9,000 Jobs Expected",
+      "Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC",
+      "Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay",
+      "Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs",
+      "Vijay meets Ajith Kumar: 4 memorable times the Tamil stars met in the past",
+      "Religious fervour, creativity, colossal offerings mark Vinayaka Chaturthi celebration in Tamil Nadu",
+      "Tamil Nadu Minister S. Ramesh says ‘obscene, derogatory’ remarks are DMK’s DNA",
+      "Tamil Nadu CM Vijay's London Silverstone visit sparks row, Opposition questions 'purpose'",
+      "Over 20 feared trapped after bus plunges 30 feet into Tamil Nadu river",
+      "Tamil Nadu secures major investment commitments from global companies during CM Vijya’s UK visit"
+    ],
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "RJ",
@@ -107,51 +127,16 @@
       "Rajasthan civic polls highlights: BJP secures 4 of 10 municipal corporations; Congress blames 'unfair' delimitation",
       "IMD update: Monsoon may start to exit North-West India in five days"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 9,
-    "headlines": [
-      "Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC",
-      "Tamil Nadu CB-CID nabs Rajasthan scammer who circulated Al-generated deep fake video impersonating CM Vijay",
-      "Tamil Nadu government signs slew of MoUs during CM Vijay’s London visit to attract investment, create high-value jobs",
-      "Vijay meets Ajith Kumar: 4 memorable times the Tamil stars met in the past",
-      "Religious fervour, creativity, colossal offerings mark Vinayaka Chaturthi celebration in Tamil Nadu",
-      "Tamil Nadu Minister S. Ramesh says ‘obscene, derogatory’ remarks are DMK’s DNA",
-      "Tamil Nadu CM Vijay's London Silverstone visit sparks row, Opposition questions 'purpose'",
-      "Over 20 feared trapped after bus plunges 30 feet into Tamil Nadu river",
-      "Tamil Nadu secures major investment commitments from global companies during CM Vijya’s UK visit"
-    ],
-    "last_updated": "2026-09-15 04:23:22 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 7,
-    "headlines": [
-      "Kejriwal-Sardesai Goa gambit: Attack defections, welcome rivals",
-      "Three main accused in Goa nightclub fire surrender before Mapusa court two weeks after SC order",
-      "Former Tehelka editor Tarun Tejpal surrenders before Goa Court; sent to jail to serve 10-year sentence",
-      "Ex-Tehelka editor Tarun Tejpal surrenders before Goa court after 2013 sexual assault conviction",
-      "Goa elevated corridor use restricted after mishaps kill 2, days after opening",
-      "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 assembly polls",
-      "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls"
-    ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
+      "Hyderabad Ganpati covered in gold, 3.8 lakh diamonds becomes big attraction",
       "\"Extremely Heinous\": KTR Alleges Attack On Aides In Hyderabad Police Station",
       "DJ system seized, case booked against Ganesh pandal organisers in Adilabad for violating orders",
       "Rain brings relief to farmers in Telangana’s Karimnagar",
@@ -160,7 +145,7 @@
       "DMK leader A Raja regrets comments on TVK minister Nirmal Kumar after row",
       "September 13, 1948: Why ‘Operation Polo’ on Hyderabad changed India's map forever"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "GJ",
@@ -176,38 +161,39 @@
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2",
       "Nora Fatehi sued for Rs 3 crores by aviation company over alleged “toy” and “Lego airplane” comments: Report"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 6,
     "headlines": [
-      "Rift within NDA over implementation of UCC in Bihar",
-      "Central team to visit Bihar on September 16 to assess flood damage",
-      "Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court",
-      "Bihari youth arrested for alleged murder of colleague from the State in Kochi plywood factory",
-      "Floods hit 49 lakh people in 15 Bihar districts as rivers keep swelling",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Three main accused in Goa nightclub fire surrender before Mapusa court two weeks after SC order",
+      "Former Tehelka editor Tarun Tejpal surrenders before Goa Court; sent to jail to serve 10-year sentence",
+      "Ex-Tehelka editor Tarun Tejpal surrenders before Goa court after 2013 sexual assault conviction",
+      "Goa elevated corridor use restricted after mishaps kill 2, days after opening",
+      "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 assembly polls",
+      "AAP, Goa Forward Party announce ‘Goa First’ alliance for 2027 polls"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 5,
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 6,
     "headlines": [
-      "Kerala HC issues notice to Mani C. Kappan on petition seeking disqualification as Pala MLA",
-      "Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC",
-      "Kerala HC grants police protection to journalist Aparna Kurup following cyberattacks over TV Debate involving Kanthapuram’s remarks",
-      "Ideological clarity may soon be just a tap away for CPI(M) cadre in Keralam",
-      "CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle"
+      "BJP to contest all 117 Punjab assembly seats alone, Satish Poonia says ‘no alliance’",
+      "Bhagwant Mann's \"Fake Turban' Jibe Sparks Fresh Political Row In Punjab",
+      "Farmers start dharna outside Punjab Minister’s office in Hoshiarpur",
+      "Govt calls urgent meet after 3 Italians board flight to Munich without completing immigration at Delhi airport",
+      "Farmers start dharna outside Punjab minister's office in Hoshiarpur",
+      "Pakistan to play in India; hockey team set to travel for Asian Champions Trophy"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "WB",
@@ -222,7 +208,22 @@
       "West Bengal bypolls: TMC MP urges EC to ensure no eligible voter denied voting right",
       "Bengal: Purulia man held for killing girlfriend, caught with body on motorcycle"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 5,
+    "headlines": [
+      "Rift within NDA over implementation of UCC in Bihar",
+      "Central team to visit Bihar on September 16 to assess flood damage",
+      "Justice V. Kameswar Rao takes oath as Chief Justice of Patna High Court",
+      "Bihari youth arrested for alleged murder of colleague from the State in Kochi plywood factory",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "AS",
@@ -237,36 +238,22 @@
       "Mamata Banerjee-led TMC announces candidates for Bengal, Assam bypolls",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 5,
     "headlines": [
-      "BJP to contest all 117 Punjab assembly seats alone, Satish Poonia says ‘no alliance’",
-      "Bhagwant Mann's \"Fake Turban' Jibe Sparks Fresh Political Row In Punjab",
-      "Farmers start dharna outside Punjab Minister’s office in Hoshiarpur",
-      "Farmers start dharna outside Punjab minister's office in Hoshiarpur",
-      "Pakistan to play in India; hockey team set to travel for Asian Champions Trophy"
+      "Kerala HC issues notice to Mani C. Kappan on petition seeking disqualification as Pala MLA",
+      "Underwater survey to be done to assess long-term impact of MSC Elsa 3 sinking, Centre informs Kerala HC",
+      "Kerala HC grants police protection to journalist Aparna Kurup following cyberattacks over TV Debate involving Kanthapuram’s remarks",
+      "Ideological clarity may soon be just a tap away for CPI(M) cadre in Keralam",
+      "CPI(M) in Keralam vows to fix lapses, regain public trust after poll debacle"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "Manipur CM warns against bribery for contractual employees' regularisation",
-      "Manipur: 4 Naga homes set afire in retaliatory attack hours after Kuki killings",
-      "4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong",
-      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
-    ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "CT",
@@ -280,20 +267,21 @@
       "Chhattisgarh CM directs collectors to monitor road conditions, keep them motorable during monsoon",
       "South Korea coach denies ‘extreme’ ChatGPT reliance after former club sacked him"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 4,
     "headlines": [
-      "Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
+      "Manipur CM warns against bribery for contractual employees' regularisation",
+      "Manipur: 4 Naga homes set afire in retaliatory attack hours after Kuki killings",
+      "4 killed, 6-year-old injured after fresh violence breaks out in Manipur's Tamenglong",
+      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "KA",
@@ -306,29 +294,32 @@
       "Karnataka BJP to begin five-day padayatra from Sept 15 over Vande Mataram row",
       "Karnataka faces severe drought, looming water, power shortages: CM Shivakumar"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Former DUTA chief Aditya Narayan Mishra joins Congress, flags ‘crisis’ in education",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Hanuman Ansh team meets Uttar Pradesh Chief Minister Yogi Adityanath amid box office triumph"
+    ],
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "Hyderabad Ganpati covered in gold, 3.8 lakh diamonds becomes big attraction",
       "EXCLUSIVE: Sagar Pictures Entertainment to unveil first teaser poster of Shrimad Bhagavatam on  September 10"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 1,
-    "headlines": [
-      "Army-backed flag centre empowers 140 women in Kashmir’s Kupwara"
-    ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
     "Code": "LA",
@@ -339,17 +330,17 @@
     "headlines": [
       "‘Op Safed Sagar’ veteran attacked over Gurugram parking dispute; FIR says ‘hit with iron rod’"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "UCC implementation in all 21 states ruled by BJP, NDA partners before 2029: Amit Shah's big remarks"
+      "Army-backed flag centre empowers 140 women in Kashmir’s Kupwara"
     ],
-    "last_updated": "2026-09-15 04:23:22 AM"
+    "last_updated": "2026-09-15 06:35:52 AM"
   }
 ]
