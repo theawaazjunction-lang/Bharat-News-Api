@@ -1,20 +1,38 @@
 {
   "general": [
     {
-      "title": "Curtain falls on US-India cultural bridge as Kennedy Center shutters",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134291610,imgsize-1008558.cms",
-      "publishedAt": "Wed, 16 Sep 2026 21:14:27 +0530",
+      "title": "100% tariffs on India? Russia sanctions bill passed by US House; awaits Trump’s sign",
+      "description": "The US House has successfully passed a sanctions bill aimed at Russian officials and the energy sector. This new legislation empowers President Trump to impose tariffs on significant buyers of Russian oil. India might encounter a staggering 100 percent tariff on its imports due to its energy dealing",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/after-senate-us-house-passes-russia-sanctions-bill-100-tariff-threat-looms-for-india/articleshow/134296683.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296695,imgsize-808174.cms",
+      "publishedAt": "Thu, 17 Sep 2026 04:10:24 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "'Inflation too high for too long': US Fed hikes interest rates for first time since 2023",
-      "description": "The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134294074,imgsize-399963.cms",
-      "publishedAt": "Wed, 16 Sep 2026 23:32:03 +0530",
+      "title": "‘We’re the best credit’: Trump fumes after 1st Fed rate hike in over 3 yrs",
+      "description": "The Federal Reserve has set a new target range by increasing its benchmark interest rate, marking its first hike since 2023. President Donald Trump has called for a substantial reduction in interest rates, advocating for lower borrowing costs given the country's robust credit status. However, offici",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/were-the-best-credit-trump-calls-for-lower-us-interest-rates-after-first-fed-hike-in-3-years/articleshow/134296503.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296547,imgsize-81540.cms",
+      "publishedAt": "Thu, 17 Sep 2026 02:43:41 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Indian couple win payout after suing UK home office for 'unlawful' immigration detention",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/nri/other-news/failed-asylum-seeking-indian-couple-win-payout-after-suing-uk-home-office-for-being-kept-separately-in-immigration-detention/articleshow/134296573.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296582,imgsize-94838.cms",
+      "publishedAt": "Thu, 17 Sep 2026 03:08:35 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Gang uses stolen hearse to cart away ATM with Rs 12 lakh",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/gang-uses-stolen-hearse-to-cart-away-atm-with-rs-12-lakh/articleshow/134291728.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296677,imgsize-251430.cms",
+      "publishedAt": "Wed, 16 Sep 2026 21:18:36 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -28,24 +46,6 @@
       "category": "general"
     },
     {
-      "title": "Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test",
-      "description": "Saudi Arabia said on Wednesday that it had intercepted a Houthi drone heading towards Mecca, calling the security of Islam's holiest city a 'red line'. The Houthis flatly denied targeting Mecca and, in the same round of escalation, claimed to have shot down a Saudi F-15 fighter jet over Yemen's Mari",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134289582,imgsize-104648.cms",
-      "publishedAt": "Wed, 16 Sep 2026 18:54:25 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134284347,imgsize-1058246.cms",
-      "publishedAt": "Wed, 16 Sep 2026 15:27:32 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,",
       "description": "After ten years in operation, Priscilla Chan's Primary School in East Palo Alto has shut down. Supported by the Chan Zuckerberg Initiative, the school was designed to provide essential services for low-income families. However, despite substantial funding, student outcomes frequently lagged behind s",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/mark-zuckerbergs-wife-priscilla-chan-founded-a-school-10-years-later-and-after-125-million-in-donation-board-voted-to-close-it-after-learning-that-/articleshow/134276310.cms",
@@ -55,11 +55,128 @@
       "category": "general"
     },
     {
-      "title": "Josh Duhamel turned 52 Minnesota acres into an off-grid family retreat",
-      "description": "Actor Josh Duhamel has acquired a tranquil property in Minnesota, initially featuring just an old cabin. Over the years, he expanded the land to fifty-two acres, modernizing it with essential utilities like electricity and running water. This transformation has provided a beloved retreat for his fam",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2008-actor-josh-duhamel-bought-12-acres-with-a-rustic-fixer-upper-cabin-in-minnesota-with-no-electricity-or-running-water-then-expanded-to-52-acres-now-he-has-built-an-off-grid-family-retreat/articleshow/134258148.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "publishedAt": "Tue, 15 Sep 2026 15:49:19 +0530",
+      "title": "Don’t trust Centre unless it’s a written deal, J&amp;K CM tells Ladakhi delegation",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/dont-trust-centre-unless-its-a-written-deal-omar-tells-ladakhi-delegation/articleshow/134296549.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296565,imgsize-1194088.cms",
+      "publishedAt": "Thu, 17 Sep 2026 02:56:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "23-year-old Georgia mayor removed from office after misconduct allegations",
+      "description": "In a surprising turn of events, Stockbridge's youngest mayor, Jayden Williams, was ousted following a misconduct hearing. The city council uncovered serious concerns surrounding his management of resources and city property. Facing claims of financial impropriety, Williams defended himself by pointi",
+      "url": "https://timesofindia.indiatimes.com/world/us/at-22-jayden-williams-became-stockbridges-youngest-mayor-10-months-later-the-city-council-removed-him-after-a-10-hour-misconduct-hearing/articleshow/134266182.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134266657,imgsize-683278.cms",
+      "publishedAt": "Tue, 15 Sep 2026 19:41:23 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "At board meet, Noel Tata to push to keep Tata Sons private",
+      "description": "Wants To Comply With RBI Order, But Sans Listing",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/at-board-meet-noel-to-push-to-keep-tata-sons-private/articleshow/134296591.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296597,imgsize-34678.cms",
+      "publishedAt": "Thu, 17 Sep 2026 03:24:39 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Meta admits mistake, to alert authorities on child sexual abuse material",
+      "description": "The government is urging Meta to take more accountability for the online content shared on its platform. Following acknowledged shortcomings, Meta risks the loss of its intermediary safe harbour immunity. The company is now mandated to promptly report any instances of child sexual abuse material to ",
+      "url": "https://timesofindia.indiatimes.com/india/child-abuse-content-row-meta-admits-lapses-govt-questions-its-safe-harbour-status/articleshow/134296619.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296664,imgsize-67316.cms",
+      "publishedAt": "Thu, 17 Sep 2026 03:48:28 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Saudi in need, friend Pak missing in 'deed': Islamabad faces ultimate Mecca pact test",
+      "description": "Saudi Arabia said on Wednesday that it had intercepted a Houthi drone heading towards Mecca, calling the security of Islam's holiest city a 'red line'. The Houthis flatly denied targeting Mecca and, in the same round of escalation, claimed to have shot down a Saudi F-15 fighter jet over Yemen's Mari",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-in-need-friend-pakistan-missing-in-deed-islamabad-faces-mecca-pact-test-with-iran-looming/articleshow/134288519.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134289582,imgsize-104648.cms",
+      "publishedAt": "Wed, 16 Sep 2026 18:54:25 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "San Francisco woman invited strangers to picnic; 500 said yes, costs hit $4,000",
+      "description": "What began as a casual picnic invitation in San Francisco has blossomed into a sprawling celebration attracting hundreds. The surge in interest led to the need for permits and enhanced safety measures, resulting in hefty costs for the organizer. Fortunately, Partiful has stepped in to cover these ex",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-san-francisco-woman-invited-strangers-to-a-simple-park-picnic-more-than-500-said-yes-and-city-rules-pushed-the-estimated-cost-to-as-much-as-4000/articleshow/134287251.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134287341,imgsize-1182828.cms",
+      "publishedAt": "Wed, 16 Sep 2026 19:00:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Massachusetts removed 2 old dams; 56 acres of wetlands were rebuilt by 2020",
+      "description": "In a groundbreaking ecological revival, old dams on the Coonamessett River in Massachusetts were dismantled, restoring wetlands and providing passage for migratory fish. This project repurposed industrial farmland into a flourishing coastal ecosystem, allowing fish to ascend to upstream spawning spo",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2018-massachusetts-removed-the-first-of-two-old-dams-from-former-cranberry-bogs-by-2020-56-acres-of-wetlands-had-been-rebuilt-and-200-native-plant-species-had/articleshow/134271451.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134271821,imgsize-1517751.cms",
+      "publishedAt": "Wed, 16 Sep 2026 00:09:11 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Elon Musk’s Starlink mobile plan should be ‘laughed out of the room’, says T-Mobile CEO",
+      "description": "T-Mobile's CFO Peter Osvaldik has raised concerns about the practicality of Starlink in the mobile sector, citing challenges posed by satellites in urban landscapes. He emphasizes the difficulties in deploying numerous small cell stations as envisioned by SpaceX. While Starlink aspires to bridge mob",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-plans-to-shake-up-mobile-industry-with-starlink-t-mobile-ceo-peter-osvaldik-says-that-its-strategy-should-be-laughed-out-of-the-room/articleshow/134268655.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134268683,imgsize-13412.cms",
+      "publishedAt": "Tue, 15 Sep 2026 21:47:55 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Spider-Man' beats 'Star Wars' to become highest-grossing film in North America",
+      "description": "Spider-Man: Brand New Day has now become the highest-grossing film domestically.  It surpassed Star Wars: The Force Awakens' long-standing box office record.  The film has grossed approximately USD 936.773 million in North America.  Globally, Spider-Man: Brand New Day has earned around USD 2.45 bill",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-overtakes-star-wars-the-force-awakens-to-become-highest-grossing-film-in-north-america-eyes-usd-1-billion-mark/articleshow/134296545.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296618,imgsize-319059.cms",
+      "publishedAt": "Thu, 17 Sep 2026 03:38:08 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Meet Benjamin Davis, 16, who turned 3D printer waste into reusable filament",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-benjamin-davis-the-16-year-old-massachusetts-student-who-built-a-machine-that-turns-3d-printer-waste-into-reusable-filament-and-won-75000/articleshow/134243144.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134243164,imgsize-939986.cms",
+      "publishedAt": "Wed, 16 Sep 2026 01:55:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Curtain falls on US-India cultural bridge as Kennedy Center shutters",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/weather/us/sitar-sarod-and-shutdown-curtain-falls-on-a-us-india-cultural-bridge-as-kennedy-center-shutters/articleshow/134291523.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134291610,imgsize-1008558.cms",
+      "publishedAt": "Wed, 16 Sep 2026 21:14:27 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "EPFO raises wage ceiling to Rs 25k, coverage up by Rs 1 crore",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/epfo-raises-wage-ceiling-to-rs-25k-coverage-up-by-rs-1-crore/articleshow/134296603.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296611,imgsize-77296.cms",
+      "publishedAt": "Thu, 17 Sep 2026 03:31:16 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Simone Biles’ $3M mansion: Why did she build her Texas dream home?",
+      "description": "Simone Biles and Jonathan Owens’ Texas lakefront mansion is finally complete after years of planning, approvals and construction delays. The couple started designing the home in 2020 and finished it in November 2025. The reported $3 million property includes a private gym, pool, sports court, large ",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/simone-biles-built-a-custom-3-million-waterfront-mansion-in-texas-after-years-of-planning-and-delays-the-olympian-settled-into-the-lakefront-estate-following-a-prior-1-1-million-property-buy/articleshow/134275595.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134275598,imgsize-1109819.cms",
+      "publishedAt": "Wed, 16 Sep 2026 06:20:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Rafael Nadal vs Maria Francisca Perello net worth: Who is richer in 2026?",
+      "description": "Rafael Nadal and Maria Francisca Perello have built a financially successful household in different ways. Nadal’s fortune is still considerably larger, thanks to tennis prize money, endorsements, investments and businesses built during and after his playing career. Perello has taken a lower-profile ",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/rafael-nadal-vs-maria-francisca-perello-net-worth-comparison-in-2026-tennis-career-earnings-endorsements-investments-business-ventures-and-lifestyle/articleshow/134239904.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134239963,imgsize-2252960.cms",
+      "publishedAt": "Tue, 15 Sep 2026 23:00:00 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -73,6 +190,33 @@
       "category": "general"
     },
     {
+      "title": "From Mecca's red line to the 'Gate of Tears': How US-Iran war is closing in on MBS",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/mecca-red-line-gate-of-tears-saudi-crown-prince-mbs-houthis-iran-us-war/articleshow/134284212.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134284347,imgsize-1058246.cms",
+      "publishedAt": "Wed, 16 Sep 2026 15:27:32 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Josh Duhamel turned 52 Minnesota acres into an off-grid family retreat",
+      "description": "Actor Josh Duhamel has acquired a tranquil property in Minnesota, initially featuring just an old cabin. Over the years, he expanded the land to fifty-two acres, modernizing it with essential utilities like electricity and running water. This transformation has provided a beloved retreat for his fam",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2008-actor-josh-duhamel-bought-12-acres-with-a-rustic-fixer-upper-cabin-in-minnesota-with-no-electricity-or-running-water-then-expanded-to-52-acres-now-he-has-built-an-off-grid-family-retreat/articleshow/134258148.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-47529300.cms",
+      "publishedAt": "Tue, 15 Sep 2026 15:49:19 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "J&amp;K cop accused of sexually exploiting constable gets bail from HC",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/jk-cop-accused-of-sexually-exploiting-constable-gets-bail-from-hc/articleshow/134296570.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296571,imgsize-744366.cms",
+      "publishedAt": "Thu, 17 Sep 2026 02:59:49 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "'Severe damage': Pak vessel limps back to harbour after collision with Indian warship",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/india/pak-vessel-pns-hunain-damaged-after-collision-with-indian-warship-in-north-arabian-sea-returns-to-harbour/articleshow/134291641.cms",
@@ -82,47 +226,11 @@
       "category": "general"
     },
     {
-      "title": "Anonymous donor gives Cincinnati $1.8 million to restore 228 acres of forest",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-anonymous-donor-gave-cincinnati-1-8-million-to-restore-228-acres-of-forest-the-5-year-project-is-the-citys-biggest-park-reforestation-effort-in-nearly-100-years/articleshow/134283772.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134283833,imgsize-150567.cms",
-      "publishedAt": "Thu, 17 Sep 2026 01:55:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Fish unseen by scientists for 40 years rediscovered in Papua New Guinea",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/a-tiny-fish-was-last-recorded-by-scientists-in-1985-40-years-later-an-indigenous-fisherwoman-caught-the-lost-species-in-papua-new-guineas-sepik-river/articleshow/134282255.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134282362,imgsize-93248.cms",
-      "publishedAt": "Wed, 16 Sep 2026 16:00:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "How GPS collars &amp; camera traps changed 'accepted wisdom' about male lions &amp; hyenas",
-      "description": "New research challenges the long-held view of lion and hyena interactions.  Hyenas typically retreat from lions, while male lions often approach and follow them.  This study used GPS collars and direct observations to track these carnivores.  The findings suggest an asymmetric relationship between t",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/how-gps-collars-and-camera-traps-changed-the-long-accepted-wisdom-about-male-lions-and-hyenas-in-african-savannahs-surprising-zoologists/articleshow/134294851.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134295111,imgsize-2104041.cms",
-      "publishedAt": "Thu, 17 Sep 2026 00:01:52 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Trump praises PM Modi’s opium crackdown, but India stays on US drug transit list",
       "description": "President Trump welcomed Prime Minister Modi's efforts to curb opium poppy cultivation in India.  Washington designated India among 23 countries as major drug transit or producing nations.  This designation does not reflect a failure to tackle the drug trade by India.  The US seeks continued coopera",
       "url": "https://timesofindia.indiatimes.com/india/trump-praises-pm-modi-for-curbing-illicit-opium-cultivation-as-india-stays-on-us-drug-transit-list/articleshow/134295296.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134295564,imgsize-93902.cms",
       "publishedAt": "Thu, 17 Sep 2026 00:26:42 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Cabinet approves raising EPFO wage ceiling to Rs 25,000; why it matters",
-      "description": "The EPFO wage limit had remained unchanged between 2004 and 2014. It was raised to Rs 15,000 in September 2014. The latest decision follows the same approach of periodically updating the ceiling, with the new Rs 25,000 limit intended to account for wage growth.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/cabinet-approves-raising-epfo-wage-ceiling-from-rs-15000-to-rs-25000-all-you-need-to-know/articleshow/134284104.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134284196,imgsize-54900.cms",
-      "publishedAt": "Wed, 16 Sep 2026 15:19:32 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -145,24 +253,6 @@
       "category": "general"
     },
     {
-      "title": "Tyreek Hill’s $6.9M mansion: Why did his $7.7M listing disappear?",
-      "description": "Tyreek Hill has taken his Florida mansion off the market amidst a challenging period in his NFL career. Currently without a contract for the 2026 season, doctors have advised him to delay his return until October due to a knee injury. While his agent notes considerable interest from several teams, H",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/tyreek-hill-purchased-a-6-9-million-florida-mansion-after-landing-in-miami-four-years-later-his-nfl-future-changed-and-the-7-7-million-listing-quietly-disappeared/articleshow/134288332.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134288462,imgsize-77491.cms",
-      "publishedAt": "Wed, 16 Sep 2026 21:01:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Coco Gauff vs Emma Raducanu net worth: Who is richer in 2026?",
-      "description": "Coco Gauff and Emma Raducanu have gone on very different journeys to make it financially in pro tennis. Gauff has combined big prize money with a host of sponsorships and business opportunities. Raducanu has cashed in on her US Open breakthrough and global profile, turning them into serious commerci",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/coco-gauff-vs-emma-raducanu-net-worth-comparison-in-2026-career-earnings-prize-money-endorsements-investments-business-ventures-and-lifestyle-compared/articleshow/134288244.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "publishedAt": "Thu, 17 Sep 2026 01:00:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "UPI charges row: Chidambaram among 5 Congress MPs who had backed revenue framework",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/india/upi-charges-row-chidambaram-among-5-congress-mps-who-had-backed-revenue-framework/articleshow/134293943.cms",
@@ -177,6 +267,15 @@
       "url": "https://timesofindia.indiatimes.com/world/middle-east/us-officials-met-houthi-leaders-in-oman-after-red-sea-blitz-got-assurances-report/articleshow/134292300.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134293863,imgsize-61502.cms",
       "publishedAt": "Wed, 16 Sep 2026 23:14:46 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Inflation too high for too long': US Fed hikes interest rates for first time since 2023",
+      "description": "The US Federal Reserve's hike decision comes on the back of persistent inflation and a broader increase in global borrowing costs. Inflation has remained stubbornly elevated, while borrowing costs around the world have moved higher.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-federal-reserve-chair-kevin-warsh-led-fomc-hikes-interest-rate-to-3-75-4-range-first-time-since-2023/articleshow/134292267.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134294074,imgsize-399963.cms",
+      "publishedAt": "Wed, 16 Sep 2026 23:32:03 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -258,105 +357,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ravindra-jadeja-returns-to-odi-squad-dhruv-jurel-pips-rishabh-pant-rohit-sharma-stays/articleshow/134291088.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134291209,imgsize-61754.cms",
       "publishedAt": "Wed, 16 Sep 2026 20:47:09 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Watch: Paratrooper makes unique tandem jump with combat canine, handler",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/defence/news/paws-in-the-sky-paratrooper-makes-unique-tandem-jump-with-combat-canine-handler-video/articleshow/134291314.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134291924,imgsize-198174.cms",
-      "publishedAt": "Wed, 16 Sep 2026 21:31:51 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "ECI schedules Sept 17 hearing with rebel TMC delegation over party representation",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/eci-schedules-september-17-hearing-with-rebel-tmc-delegation-over-party-representation/articleshow/134292297.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134292367,imgsize-123144.cms",
-      "publishedAt": "Wed, 16 Sep 2026 21:58:11 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Govt can't subsidise everything': Niti VC's 'bees &amp; honey' defence for UPI charges",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/govt-cant-subsidise-everything-niti-aayog-vcs-bees-and-honey-take-on-upi-charges/articleshow/134290065.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134290077,imgsize-170506.cms",
-      "publishedAt": "Wed, 16 Sep 2026 19:43:43 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "UPI still free, but there's a catch: Who ultimately pays &amp; could cash make a comeback?",
-      "description": "Recent updates to UPI regulations have introduced a Merchant Discount Rate for certain transactions. While consumers will not incur any fees for their UPI payments, merchants will face a 0.4% charge on transactions above two thousand rupees. However, person-to-person UPI transfers and payments from ",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/upi-still-free-but-theres-a-catch-how-new-mdr-works-could-cash-payments-make-a-comeback/articleshow/134285783.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134290096,imgsize-126344.cms",
-      "publishedAt": "Wed, 16 Sep 2026 19:29:11 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "From bravado to busted bases: Hidden cost of US-Iran war revealed",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/from-bravado-to-busted-bases-hidden-cost-of-us-iran-war-revealed/articleshow/134290064.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134290141,imgsize-1221038.cms",
-      "publishedAt": "Wed, 16 Sep 2026 19:46:48 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Nothing aggressive': Worried Pak rushes to define Mecca pact after Houthi attacks",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/it-is-defensive-nothing-aggressive-pak-scrambles-to-define-mecca-pact-after-houthi-attack/articleshow/134285705.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134285721,imgsize-766761.cms",
-      "publishedAt": "Wed, 16 Sep 2026 16:28:08 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'No question of rollback': Govt defends UPI charges, refutes 'external pressure' charge",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/no-question-of-rollback-govt-digs-in-on-upi-mdr-amid-rahul-gandhis-attack/articleshow/134287348.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134287985,imgsize-63461.cms",
-      "publishedAt": "Wed, 16 Sep 2026 17:41:56 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "‘Never met Disha Salian’: Aaditya Thackeray breaks silence on CBI FIR",
-      "description": "Aaditya Thackeray denied meeting Disha Salian, calling allegations a false campaign. The CBI has registered an FIR into Salian's 2020 death following a court order. Salian died after falling from a building, and Sushant Singh Rajput died a week later. The investigation will examine evidence handling",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/never-met-disha-salian-aaditya-thackeray-breaks-silence-on-cbi-fir-calls-it-character-assassination/articleshow/134288476.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134288675,imgsize-921379.cms",
-      "publishedAt": "Wed, 16 Sep 2026 18:31:10 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Hyderabad man dies in US; family seeks EAM Jaishankar’s help to bring back body",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/hyderabad-man-dies-in-us-family-seeks-eam-jaishankars-help-to-bring-back-body/articleshow/134290748.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134290781,imgsize-69886.cms",
-      "publishedAt": "Wed, 16 Sep 2026 20:20:58 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Indian warship rammed by Pak vessel: How grey-zone tactics are entering Arabian Sea",
-      "description": "A Pakistani Navy ship collided with an Indian Navy vessel in the Northern Arabian Sea. The Indian Navy stated the Pakistani ship maneuvered unsafely, causing the collision. This incident contravenes mutual confidence-building measures between the two nations. India's Ministry of External Affairs sum",
-      "url": "https://timesofindia.indiatimes.com/defence/news/indian-warship-rammed-by-pakistani-naval-vessel-how-grey-zone-tactics-are-entering-the-arabian-sea/articleshow/134283156.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134285469,imgsize-105268.cms",
-      "publishedAt": "Wed, 16 Sep 2026 16:12:17 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Florida man told ChatGPT he wanted to kill ex; private chats led to FBI probe",
-      "description": "A former analyst from Goldman Sachs faces repercussions after admitting to using ChatGPT to threaten his ex-girlfriend. He pleaded guilty to charges of stalking and making written threats to kill. OpenAI intervened by notifying federal officials upon recognizing alarming dialogue. Zhou has been sent",
-      "url": "https://timesofindia.indiatimes.com/world/us/he-told-chatgpt-he-wanted-to-kill-his-ex-girlfriend-how-a-florida-mans-private-ai-conversations-led-to-an-fbi-investigation/articleshow/134288456.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134289074,imgsize-838423.cms",
-      "publishedAt": "Wed, 16 Sep 2026 18:46:39 +0530",
       "source": "Times of India",
       "category": "general"
     }
@@ -1089,6 +1089,33 @@
   ],
   "entertainment": [
     {
+      "title": "Dakota Johnson, MGK ‘vibed’ at Taylor Swift’s NYC apartment before dinner",
+      "description": "Dakota Johnson and Machine Gun Kelly reportedly spent private time at Taylor Swift’s NYC apartment before heading out for dinner. A source said the two ‘vibed’ and had a ‘really nice time’ together. Their low-key meet-up has sparked fresh dating speculation, though neither Johnson nor Kelly has publ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/dakota-johnson-and-machine-gun-kelly-vibed-and-had-a-really-nice-time-at-taylor-swifts-nyc-apartment-for-privacy-before-dinner-there-was-definitely-chemistry-report/articleshow/134296685.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296693,imgsize-123546.cms",
+      "publishedAt": "2026-09-17T04:11:08+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Spider-Man' becomes highest-grossing film in North America",
+      "description": "Spider-Man: Brand New Day has now become the highest-grossing film domestically.  It surpassed Star Wars: The Force Awakens' long-standing box office record.  The film has grossed approximately USD 936.773 million in North America.  Globally, Spider-Man: Brand New Day has earned around USD 2.45 bill",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/spider-man-brand-new-day-overtakes-star-wars-the-force-awakens-to-become-highest-grossing-film-in-north-america-eyes-usd-1-billion-mark/articleshow/134296545.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296618,imgsize-319059.cms",
+      "publishedAt": "2026-09-17T03:38:08+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Travis named VICTIM in USD 35 million Ponzi scheme",
+      "description": "Kansas City Chiefs star Travis Kelce was a victim in a multimillion-dollar Ponzi scheme.  Siddharth Jawahar was sentenced to eleven years for defrauding investors of over thirty-five million dollars.  Jawahar allegedly invested client funds poorly and used new money to pay earlier investors.  He spe",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/taylor-swifts-husband-travis-kelce-named-as-victim-in-multimillion-dollar-ponzi-scheme-investor-losses-exceed-usd-35-million/articleshow/134296687.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134296692,imgsize-224902.cms",
+      "publishedAt": "2026-09-17T04:08:10+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "Delhi HC questions use Of Maharana Pratap tribute song 'Shoorveer' in 'Mirzapur'",
       "description": "In a recent session, the Delhi High Court scrutinized the use of the song 'Shoorveer' in the series 'Mirzapur'. The court directed the film's representatives to view the series and provide reflections. This inquiry stems from a public interest litigation that claims the song's context undermines the",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/delhi-hc-asks-mirzapur-the-movie-makers-lawyer-if-conscience-is-satisfied-over-shoorveer-song-row-you-are-playing-such-a-scene-in-the-background-song-on-maharana-pratap/articleshow/134295193.cms",
@@ -1238,33 +1265,6 @@
       "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/rajinikanths-dharman-enters-third-schedule-as-ashwath-marimuthu-shares-bts-video-with-raashi-khanna-back-with-thalaivar/articleshow/134289078.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134289153,imgsize-1190155.cms",
       "publishedAt": "2026-09-16T18:50:55+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Sameer Anjaan blames industry monotony for Arijit Singh's playback singing exit",
-      "description": "Lyricist Sameer Anjaan shared insights on Arijit Singh's choice to step back from playback singing, highlighting concerns over monotony and insufficient musical diversity. Singh's retirement from new playback projects is officially set for January 2026, although he will pursue independent music crea",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/after-slamming-dhurandhar-for-recreating-old-songs-sameer-anjaan-blames-industry-monotony-and-exhaustion-for-arijit-singhs-playback-singing-exit-every-song-sounds-the-same/articleshow/134288865.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134288954,imgsize-567085.cms",
-      "publishedAt": "2026-09-16T18:41:17+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Rajesh got addicted to alcohol, threw tantrums after success, Bachchan was the same'",
-      "description": "Anandji Virji Shah, the composer, shared insights on Rajesh Khanna's evolving behavior post-stardom. He highlighted the stark difference with Amitabh Bachchan, who stayed down-to-earth despite reaching great heights. Anandji fondly remembered their early collaboration, but noted Khanna's growing arr",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/rajesh-khanna-got-addicted-to-alcohol-had-arrogance-and-threw-tantrums-recalls-veteran-composer-anandji-who-told-him-days-of-his-stardom-are-over-amitabh-bachchan-remained-the-same/articleshow/134284680.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134288458,imgsize-300183.cms",
-      "publishedAt": "2026-09-16T15:48:29+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Quote of the day by Leonardo DiCaprio",
-      "description": "Leonardo DiCaprio places great importance on his craft and the chances he receives in the ever-changing landscape of acting. Acknowledging the transient nature of fame, he encourages embracing each opportunity. Starting with small roles in commercials and TV, his breakthrough came with Titanic, laun",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/quote-of-the-day-by-leonardo-dicaprio-i-just-really-love-doing-what-i-do-i-know-every-career-is-fleeting-and-there-will-be-time-periods-when-i-dont-get-the-opportunities-so-i-am-taking-advantage-of-them-a-powerful-life-lesson-on-making-the-most-of-the-present-loving-your-work-and-knowing-that-no-career-lasts-forever/articleshow/134287466.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134287638,imgsize-877738.cms",
-      "publishedAt": "2026-09-16T18:00:00+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1813,5 +1813,5 @@
       "category": "science"
     }
   ],
-  "last_updated": "2026-09-17 02:12:33 AM"
+  "last_updated": "2026-09-17 04:57:08 AM"
 }
