@@ -4,14 +4,17 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 38,
     "headlines": [
+      "Good El Nino? How a bad monsoon left Delhi drenched",
       "Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,",
+      "Pak Navy vessel collides with Indian Navy ship, MEA summons Islamabad’s diplomat",
       "'Spider-Man' beats 'Star Wars' to become highest-grossing film in North America",
       "Land sold for Rs 6.95cr, sister-in-law got Rs 72l; HC orders Rs 1.01cr plus interest",
-      "US limits visas for South African officials over discrimination against White minorities",
-      "Ravindra Jadeja returns to ODI squad, Dhruv Jurel pips Rishabh Pant; Rohit Sharma stays",
-      "Oil Exports Through Hormuz Rebound Amid Middle East Turmoil",
+      "Mumbai Police seek clarification from Manoj Jarange over 'contradictory' statements on proposed protest",
+      "Central University of Kerala signs pact with CSIR-National Physical Laboratory for research collaboration",
+      "Delhi tops in NITI Aayog’s e-mobility index",
+      "Same-sex, unmarried couple can make emergency medical calls on partner’s behalf: NMC",
       "Pakistan summons Indian diplomat after New Delhi lodges strong protest over naval vessel collision",
       "Supreme Court directs ED, Delhi Police to submit details of cases against Unitech directors",
       "Same-sex partners, unmarried couples can make medical decisions: NMC to Delhi HC",
@@ -25,17 +28,13 @@
       "Centre weighs stronger safeguards for hub-and-spoke flight operations",
       "After ₹1.27-lakh-crore EV push, NITI Aayog asks States to rethink subsidies, focus on fleets",
       "Fortis Healthcare files SLP against forensic audit order in Daiichi Sankyo case",
-      "India stares at potential tariffs as US House prepares to vote on Russia sanctions bill",
-      "US Fed chair Kevin Warsh explains why the Federal Reserve raised interest rates",
-      "Solar Industries shares plunge 17% in 2 days. Why Jefferies, Nuvama still see up to 46% upside",
+      "Oil Price Today (September 17): Crude oil falls below $105 even as Middle East tensions simmer. Here’s why",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Jadeja returns to ODI squad, Dhruv Jurel pips Rishabh Pant; Rohit Sharma stays",
-      "India squad for Windies series: Will Jadeja make an ODI return?",
       "'Spider-Man' becomes highest-grossing film in North America",
       "Delhi HC questions use Of Maharana Pratap tribute song 'Shoorveer' in 'Mirzapur'",
-      "Government reconstitutes CBFC: Preity Zinta, Roopali Ganguly, Pankaj Tripathi &amp; others join",
       "BREAKING: Government of India reconstitutes CBFC; Suniel Shetty, Preity Zinta, Priyadarshan, Pankaj Tripathi among 18 members",
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "EXCLUSIVE: Contrary to recent reports, no CBFC relief yet for Salman Khan’s Maatrubhumi",
@@ -46,7 +45,7 @@
       "BREAKING: Daayra marks Kareena Kapoor Khan’s TENTH film to receive ‘A’ rating from CBFC; Kunal Kemmu’s Vibe also gets adult certificate",
       "Ranveer Singh becomes BMW India brand ambassador, unveils new 7 series range in New Delhi"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "MH",
@@ -55,17 +54,17 @@
     "State": "Maharashtra",
     "news_count": 18,
     "headlines": [
-      "India Goes Digital For Climate Change, Launches Net Zero, Action Plan Platforms",
+      "Mumbai Police seek clarification from Manoj Jarange over 'contradictory' statements on proposed protest",
       "CJP to launch ‘Adivasi School Thik Karo’ campaign from Gadchiroli on Sept. 17: Dipke",
       "Maharashtra farmers hold protests, seek drought aid; doing everything possible, won’t let them suffer: CM",
       "Maratha quota activist firm on march to Mumbai despite health deterioration",
+      "Manoj Jarange ends 20-day fast, gives Maha govt time to consider quota demands: Report",
       "Nagpur woman held after high-speed crash injures 7, including 3 children: Police",
       "CJP launches ‘Adivasi School Thik Karo’ campaign in Maharashtra’s Gadchiroli",
       "CJP to launch ‘Adivasi School Thik Karo’ campaign from Maharashtra on September 17",
       "Maratha activist Manoj Jarange may have to call off Mumbai protest, cites deteriorating health",
       "Navi Mumbai Cardiologist Dr. Amit Singh, Founder of Heartwise Cardiology Named 'Cardiologist of the Year' at ET Healthcare Awards",
       "SEBI freezes ₹28 crore, bars broker from derivatives trading over price rigging",
-      "Medical device trade margins in sharp focus again after Maharashtra FDA survey",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "WPL 2027: BCCI announces auction date, check retention deadline and season schedule",
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
@@ -74,16 +73,18 @@
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered",
       "Rani Mukerji honoured with Raj Kapoor special contribution award at Maharashtra State Film Awards 2026"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 10,
+    "news_count": 11,
     "headlines": [
+      "No Ganesh Idol Immersion In Water Bodies From 2027: Tamil Nadu To Green Court",
       "2 Dead In 2 Days During Clashes Over Ganesh Chaturthi Procession In Tamil Nadu",
+      "Devotees gather for historic consecration of Meenakshi temple in Madurai",
       "Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities",
       "Power cuts have become the norm in State: Anbumani Ramadoss",
       "Decades-old tradition: Tirupati temple umbrellas taken out in procession in Chennai",
@@ -91,10 +92,9 @@
       "‘Pursue mediation’: SC to Boney Kapoor, daughters on Sridevi's disputed Chennai land parcel",
       "BJP says Tamil Nadu CM Vijay’s London trip a ‘pleasure tour’, investments claim a ‘complete lie’",
       "3 DMK leaders booked over remarks against Tamil Nadu CM Vijay, cabinet colleague",
-      "Tamil Nadu CM Vijay's London event called off over 'safety concerns', fans left waiting",
       "CCB searches premises linked to Anbil Mahesh in ₹100-crore school approval fraud case"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "GJ",
@@ -103,46 +103,16 @@
     "State": "Gujarat",
     "news_count": 8,
     "headlines": [
+      "88 lakh diyas to light up Gujarat for PM Modi’s birthday today",
       "Gujarat ATS arrests Congress leader Gitaben Patel’s son in fake passport case",
       "SC asks CJ of Gujarat HC to register case to identify victims of 2022 industrial accident at pesticide plant",
-      "Two arrested as Gujarat police bust inter-state bomb threat network",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "SRK drops update on Mannat, getting a new gallery made to greet fans",
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "Man shoots dead teacher in Bijnor for ‘encouraging love jihad’",
-      "Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities",
-      "Lucknow woman jumps on moving car over dispute with friend, dragged on bonnet: ‘Gaadi roko’ | Video",
-      "BJP partners in Uttar Pradesh yet to open cards on Uniform Civil Code",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-17 04:57:08 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 5,
-    "headlines": [
-      "IIA Kerala chapter office-bearers to assume office on September 19",
-      "Kerala HC raps authorities over road safety failures, reckless driving by heavy vehicles",
-      "'Never asked for its removal': Kerala CM Satheesan on AI dance video",
-      "Kerala police raid Reporter TV office over Messi event financial probe",
-      "CPI(M) meet concludes, no major leadership changes"
-    ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "AS",
@@ -157,7 +127,37 @@
       "Nagaon LS bypoll: First poll tussle in Assam after BJP’s victory in election",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "Man shoots dead teacher in Bijnor for ‘encouraging love jihad’",
+      "Uttar Pradesh ATS arrests Tamil Nadu youth for allegedly planning terror activities",
+      "Lucknow woman jumps on moving car over dispute with friend, dragged on bonnet: ‘Gaadi roko’ | Video",
+      "BJP partners in Uttar Pradesh yet to open cards on Uniform Civil Code",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-17 08:11:39 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
+    "headlines": [
+      "IIA Kerala chapter office-bearers to assume office on September 19",
+      "Central University of Kerala signs pact with CSIR-National Physical Laboratory for research collaboration",
+      "Kerala HC raps authorities over road safety failures, reckless driving by heavy vehicles",
+      "'Never asked for its removal': Kerala CM Satheesan on AI dance video",
+      "Kerala police raid Reporter TV office over Messi event financial probe"
+    ],
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "TG",
@@ -167,37 +167,11 @@
     "news_count": 4,
     "headlines": [
       "6 Minors Drown In Lake Near Hyderabad During Ganesh Idol Immersion",
-      "Telangana CM urges Supreme Court to quash 2015 cash-for-vote FIR",
-      "It took two to tango to set stage for September 17, 1948 in Hyderabad",
-      "7 BRS workers held over ‘purification’ ritual: Cops"
+      "TG SAFE suspends FSSAI licenses of nine food establishments in Hyderabad for food safety violations",
+      "Devotees gather for historic consecration of Meenakshi temple in Madurai",
+      "Telangana CM urges Supreme Court to quash 2015 cash-for-vote FIR"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Gurugram hit-and-run accused Kalyan Bainsla, cousin sent to 2-day police remand",
-      "Gurugram hit-and-run: Biker Sia says 'not satisfied' with Kalyan Bainsla's arrest, demands ‘strictest punishment’",
-      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
-    ],
-    "last_updated": "2026-09-17 04:57:08 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "Rajasthan achieves plantation target ahead of schedule",
-      "Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations",
-      "Four people killed after car collides with dumper in Rajasthan"
-    ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "OD",
@@ -210,19 +184,33 @@
       "Three rescued orangutans in Odisha suffering from anaemia: Officials",
       "HC orders reinstatement of Odisha judge who resigned over autistic son’s care"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 2,
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
     "headlines": [
-      "Decades-old tradition: Tirupati temple umbrellas taken out in procession in Chennai",
-      "Andhra raises upper age limit for govt job hiring to 44 years"
+      "Rajasthan achieves plantation target ahead of schedule",
+      "Rajasthan urban local body elections: Candidates for mayors, chairpersons file nominations",
+      "Four people killed after car collides with dumper in Rajasthan"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Gurugram hit-and-run accused Kalyan Bainsla, cousin sent to 2-day police remand",
+      "Gurugram hit-and-run: Biker Sia says 'not satisfied' with Kalyan Bainsla's arrest, demands ‘strictest punishment’",
+      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
+    ],
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "MN",
@@ -234,18 +222,19 @@
       "5 houses set ablaze as suspected Kuki militants attack Naga village in Manipur",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 1,
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
     "headlines": [
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "J&K MLAs decry 18% representation to Kashmir valley in UT officers’ list",
+      "'No legal basis, completely unacceptable': India rejects 'so-called' Pakistan-China boundary joint commission"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "CT",
@@ -256,7 +245,29 @@
     "headlines": [
       "Indo-Pacific ETF flows hit record highs, led by Taiwan, South Korea"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 1,
+    "headlines": [
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-17 08:11:39 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Decades-old tradition: Tirupati temple umbrellas taken out in procession in Chennai"
+    ],
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "KA",
@@ -267,7 +278,18 @@
     "headlines": [
       "Fuel retailers urge Govt to exempt MDR charges"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "Jharkhand Congress takes out protest march demanding separate OBC column in Census 2027"
+    ],
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "PB",
@@ -278,18 +300,7 @@
     "headlines": [
       "Punjab Ambedkar Statue Row: BJP's Vijay Sampla Injured In Clash With BSP Workers"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 1,
-    "headlines": [
-      "'No legal basis, completely unacceptable': India rejects 'so-called' Pakistan-China boundary joint commission"
-    ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "LA",
@@ -300,7 +311,7 @@
     "headlines": [
       "India rejects Pakistan-China Boundary Joint Commission ‘which is without any legal basis’"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   },
   {
     "Code": "WB",
@@ -311,6 +322,6 @@
     "headlines": [
       "Kolkata Police’s orange T-shirt tender for Durga Puja volunteers sparks row"
     ],
-    "last_updated": "2026-09-17 04:57:08 AM"
+    "last_updated": "2026-09-17 08:11:39 AM"
   }
 ]
