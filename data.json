@@ -4,11 +4,14 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 37,
+    "news_count": 40,
     "headlines": [
       "Why Mark Zuckerberg's wife's school was shut down despite $125 million in donations,",
       "Will Trump's Russia sanctions Bill force India to stop buying crude from Moscow?",
       "Opinion: Opinion | US Has Now Weaponised India's Russia Oil Dependence. Can New Delhi Cope?",
+      "West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata",
+      "No culture of cut-money in Bengal anymore: PM Modi",
+      "Satya Niketan building collapse case: Kiran Bedi moves Delhi HC seeking to intervene; Centre opposes",
       "After brief disruption, officials restart talks for Bangladesh PM Tarique Rahman’s India visit",
       "16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi",
       "'Unacceptable at any cost': Delhi HC raps student unions on violence, vandalism amid DUSU poll campaign",
@@ -44,15 +47,16 @@
       "BREAKING: Daayra marks Kareena Kapoor Khan’s TENTH film to receive ‘A’ rating from CBFC; Kunal Kemmu’s Vibe also gets adult certificate",
       "Ranveer Singh becomes BMW India brand ambassador, unveils new 7 series range in New Delhi"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 14,
+    "news_count": 15,
     "headlines": [
+      "'I'm a ghost': Indian athlete details Asian Games mess, later deletes video",
       "The Secret Diplomacy That Led To Activist Manoj Jarange Ending 20-Day Fast",
       "Facebook Ads, Fake Calls: How 3 Mumbai Residents Lost Over Rs 7 Lakh",
       "Supreme Court notice to Centre, Maharashtra officials over woman ‘pushed out’ into Bangladesh",
@@ -68,7 +72,7 @@
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "TN",
@@ -86,24 +90,38 @@
       "TN CM returns to Chennai after London tour",
       "Apple charters two freighter aircrafts from Chennai to US to ferry iPhones"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "Puthur zoo offers blueprint for relocation of zoo in Keralam’s capital: expert",
       "Kerala HC directs Railways to shift electrical installations near Pachalam overbridge",
       "Migrant worker killed in wild elephant attack in Idukki",
-      "Debate rages over plan to shift Thiruvananthapuram zoo in Keralam",
       "Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length",
       "Kannur University professor gets 6 years in jail for fake appointment",
       "Messi event row: SIT raids TV channel in probe into financial gaps"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
+    "headlines": [
+      "West Bengal govt. participates in PM Modi’s birthday celebrations; life-size statue unveiled at BJP office in Kolkata",
+      "No culture of cut-money in Bengal anymore: PM Modi",
+      "Last surviving Maoist central committee member Asim Mandal arrested in Bengal",
+      "Lokpal finds no merit in allegations against rebel TMC MP Arup Chakraborty",
+      "Narendra Modi birthday highlights: PM inaugurates SEMICON 2026 India, addresses Bengal's 'Annapurna Divas' on birthday"
+    ],
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "HR",
@@ -118,7 +136,7 @@
       "Adidas cuts jobs at tech hub in Gurugram to align operating model",
       "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "KA",
@@ -132,7 +150,7 @@
       "DyCM reiterates caste enumeration concerns",
       "Karnataka MLA’s niece removed from govt post for drawing pay sans work"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "GJ",
@@ -146,47 +164,7 @@
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Flying to Kolkata for Durga Puja? Be ready to pay 71% more on Oct 16",
-      "Last surviving Maoist central committee member Asim Mandal arrested in Bengal",
-      "Lokpal finds no merit in allegations against rebel TMC MP Arup Chakraborty",
-      "Narendra Modi birthday highlights: PM inaugurates SEMICON 2026 India, addresses Bengal's 'Annapurna Divas' on birthday"
-    ],
-    "last_updated": "2026-09-18 03:20:58 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "The crucial Uttar Pradesh test of the BJP’s hegemony",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
-      "Swara says she was upset after Ram Janmabhoomi verdict, texted Aamir, SRK, Salman"
-    ],
-    "last_updated": "2026-09-18 03:20:58 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 3,
-    "headlines": [
-      "It took two to tango to set stage for September 17, 1948 in Hyderabad",
-      "Harvard executive education programme to be offered in Hyderabad from December: Revanth",
-      "Three killed, two injured as car rams parked lorry on NH 563 in Karimnagar district"
-    ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "AS",
@@ -199,31 +177,20 @@
       "Assam Foreigners Tribunal member accused of demanding bribe for bail arrested",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
     "headlines": [
-      "Supreme Court seeks Manipur Chief Secretary report on 25 unnatural deaths in relief camps",
-      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
+      "It took two to tango to set stage for September 17, 1948 in Hyderabad",
+      "Harvard executive education programme to be offered in Hyderabad from December: Revanth",
+      "Three killed, two injured as car rams parked lorry on NH 563 in Karimnagar district"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Cyclone over Odisha soon? Amid developing low-pressure, IMD says do not panic",
-      "Odisha man beaten to death; set afire after fight at girlfriend’s home: Police"
-    ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "CT",
@@ -235,7 +202,31 @@
       "KBC18: Dowry case survivor from Bilaspur opens up about ‘Agni Kaand’",
       "Jhiram Valley massacre: All 10 convicts get death penalty 13 years after Maoist attack in Chhattisgarh"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
+    "headlines": [
+      "Bihar CM, other BJP leaders take part in Ashirwad Ka Diya event to mark PM’s birthday",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-18 05:19:30 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Cyclone over Odisha soon? Amid developing low-pressure, IMD says do not panic",
+      "Odisha man beaten to death; set afire after fight at girlfriend’s home: Police"
+    ],
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "MP",
@@ -247,40 +238,31 @@
       "Rohit's record broken; Virat's equalled: List of Abhishek Sharma's records",
       "BJP chief Nitin Nabin slams Opposition for criticising PM Modi’s birthday celebrations"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
-    "news_count": 1,
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 2,
     "headlines": [
-      "KBC18: Dowry case survivor from Bilaspur opens up about ‘Agni Kaand’"
+      "The crucial Uttar Pradesh test of the BJP’s hegemony",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 1,
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
     "headlines": [
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "2 Jaish terrorists killed in J&amp;K's Udhampur",
+      "On PM’s birthday, J&K CM Omar Abdullah wishes for Statehood restoration"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 1,
-    "headlines": [
-      "Blaze engulfs over 20 shops at Sethi Complex in Jaipur’s Tripolia Bazaar"
-    ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "JH",
@@ -291,18 +273,40 @@
     "headlines": [
       "ED raids locations in four states in Ranchi RSS office bomb attack case"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "2 Jaish terrorists killed in J&amp;K's Udhampur"
+      "KBC18: Dowry case survivor from Bilaspur opens up about ‘Agni Kaand’"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 1,
+    "headlines": [
+      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
+    ],
+    "last_updated": "2026-09-18 05:19:30 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "Blaze engulfs over 20 shops at Sethi Complex in Jaipur’s Tripolia Bazaar"
+    ],
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "TR",
@@ -313,7 +317,7 @@
     "headlines": [
       "Tripura court sentences 5 Bangladeshi nationals to 2 years for illegal entry"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   },
   {
     "Code": "LA",
@@ -324,17 +328,6 @@
     "headlines": [
       "On Modi's birthday, CM Omar Abdullah wishes PM would grant J&K statehood"
     ],
-    "last_updated": "2026-09-18 03:20:58 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 1,
-    "headlines": [
-      "How Uttarakhand construction workers can avail Rs 50,000 house loan"
-    ],
-    "last_updated": "2026-09-18 03:20:58 AM"
+    "last_updated": "2026-09-18 05:19:30 AM"
   }
 ]
