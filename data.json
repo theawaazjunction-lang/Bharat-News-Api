@@ -4,12 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 45,
+    "news_count": 43,
     "headlines": [
       "Jantar Mantar attacker Swatantra Bhardwaj released from Tihar on 3-week interim bail",
-      "India’s first hydrogen train may be extended to Delhi due to low traffic",
-      "North Korea's Nuclear Tests May Have Triggered 1,399 Earthquakes, Study Finds",
-      "Delhi Police Bust 3 Fake International Call Centres, 23 Arrested",
+      "Peculiar Symbol, CCTV Footage: Inside Delhi Police Probe In Rape-Murder Case",
       "South African High Commission official visits Andhra University",
       "India rejects Pakistan’s allegations regarding collision of Indian, Pak ships in Arabian Sea",
       "‘Nava Sankalpa Bakery’ and ‘Bakery on Wheels’ launched at Bengaluru central prison",
@@ -52,7 +50,7 @@
       "Adhyayan Suman and Divita Rai’s Main Na Raha Mera first look out, teaser to release on September 16",
       "BREAKING: Daayra marks Kareena Kapoor Khan’s TENTH film to receive ‘A’ rating from CBFC; Kunal Kemmu’s Vibe also gets adult certificate"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "KA",
@@ -61,8 +59,8 @@
     "State": "Karnataka",
     "news_count": 12,
     "headlines": [
+      "Bangalore Terriers return home after J&K deployment",
       "With southern States in the same boat, Karnataka turns to Assam for power",
-      "Special voter registration drive in Dharwad on September 19 and 20; Over 2.68 lakh electors identified under ASDDO",
       "Karnataka grants Tulu additional official language status in 2 coastal districts",
       "Govt declares 23 more taluks drought-hit, tally rises to 124",
       "Shivakumar unveils several initiatives at Kalyana Karnataka Utsav",
@@ -74,17 +72,16 @@
       "Shruti Hassan says she prayed about thousand times that men get periods",
       "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 11,
+    "news_count": 10,
     "headlines": [
       "Mamata gets 'footballer', but can she win TMC 'khela'? Maharashtra shows a 'red card'",
-      "Papers hidden in shoes for ₹8,000: Charge-sheet traces Maharashtra TET leak to Agra press",
       "20-year-old man kills friend over dispute in Delhi, hides body in a trunk; arrested from Maharashtra",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Maharashtra FDA Commissioner Tukaram Mundhe says, “Shah Rukh Khan, Ajay Devgn and Tiger Shroff not shielded by celebrity status in Vimal ad case”",
@@ -95,39 +92,7 @@
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 6,
-    "headlines": [
-      "Surendra Koli, acquitted for Nithari killings, found dead in Haridwar",
-      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
-      "Nithari victim's father questions Surendra Koli's 'suicide', alleges murder",
-      "12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline",
-      "Uttarakhand to map 100 trekking, hiking routes to improve trekker safety: CM Dhami",
-      "Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 6,
-    "headlines": [
-      "Vijay's 'Gold Ring' Promise To Women, Children Ahead Of October 6 Bypoll",
-      "Tamil Nadu set to get back 40 vacant super speciality seats",
-      "T.N. government writes to PM Modi seeking to change the operator of Chennai airport",
-      "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil Nadu on September 28",
-      "Tami Nadu bypoll: Know schedule, candidates and more in Vijay govt's first electoral test",
-      "Tamil Nadu plans Agricultural Guidance Bureau to strengthen FPOs"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "GJ",
@@ -143,21 +108,36 @@
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
+    "Code": "UT",
+    "Lat": 30.0668,
     "Long": 79.0193,
-    "State": "Telangana",
+    "State": "Uttarakhand",
+    "news_count": 5,
+    "headlines": [
+      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
+      "Nithari victim's father questions Surendra Koli's 'suicide', alleges murder",
+      "12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline",
+      "Uttarakhand to map 100 trekking, hiking routes to improve trekker safety: CM Dhami",
+      "Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar"
+    ],
+    "last_updated": "2026-09-19 03:37:13 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
     "news_count": 4,
     "headlines": [
-      "Telangana took pro-active measures to tackle El Nino, says Deputy CM",
-      "Telangana NRI Commission sought",
-      "SCR aims to enhance connectivity and ease congestion with major railway projects worth ₹50,000 crore in Telangana and beyond",
-      "Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case"
+      "Tamil Nadu set to get back 40 vacant super speciality seats",
+      "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil Nadu on September 28",
+      "Tami Nadu bypoll: Know schedule, candidates and more in Vijay govt's first electoral test",
+      "Tamil Nadu plans Agricultural Guidance Bureau to strengthen FPOs"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "WB",
@@ -171,7 +151,21 @@
       "Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move",
       "Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund",
+      "Every police station in Bihar to have a Child Help Desk from Oct. 2",
+      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "KL",
@@ -185,68 +179,69 @@
       "Former DGP Tomin Thachankary approaches Kerala HC in appeal against disproportionate assets case conviction",
       "Kochi to host 13th edition of Kerala Travel Mart on September 24th"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "Assam Trinamool Pick Pulls Out Of Nagaon Bypoll Over Party Name, Symbol Freeze",
-      "With southern States in the same boat, Karnataka turns to Assam for power",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
       "Smooth take off: Pilot handles Punjab turbulence; can he nail the landing for Cong?",
-      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule"
+      "Punjab Government Announces 8% DA Hike Ahead Of 2027 Polls",
+      "AAP's Dalit Paradox: Ambedkar On The Wall, And A Minister Facing Grave Questions"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
     "headlines": [
-      "CJP questions award to Jaipur school where 9-year-old Amaira died",
-      "Both BJP And Congress Opt For Resort Politics After Civic Polls In Rajasthan"
+      "Over 43,700 Ganesh idols immersed across four commissionerates in Hyderabad",
+      "Telangana took pro-active measures to tackle El Nino, says Deputy CM",
+      "Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 2,
     "headlines": [
-      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "With southern States in the same boat, Karnataka turns to Assam for power",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 2,
     "headlines": [
-      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule",
-      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
+      "Tirupati Prasadam Made From Palm Oil, Ghee Supplier Arrested: Probe Agency ED",
+      "Welcome showers greet devotees ahead of Garuda Seva in Tirupati on Sept. 19"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "31 Conditions On Rahul Gandhi's Indore Event, Rajiv Gandhi Killing Cited",
+      "Coaching centres ‘being threatened’ to keep students away from Rahul Gandhi’s Indore event, alleges Congress"
+    ],
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "UP",
@@ -255,65 +250,34 @@
     "State": "Uttar Pradesh",
     "news_count": 2,
     "headlines": [
-      "Papers hidden in shoes for ₹8,000: Charge-sheet traces Maharashtra TET leak to Agra press",
+      "UP Man Poses As Female Doctor On Social Media, Obtains Private Pics Of Woman",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "Welcome showers greet devotees ahead of Garuda Seva in Tirupati on Sept. 19"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
-    "headlines": [
-      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "Coaching centres ‘being threatened’ to keep students away from Rahul Gandhi’s Indore event, alleges Congress"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "Odisha to set up ‘Silicon Valley’ as part of ISM: CM Majhi"
-    ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "ML",
     "Lat": 25.467,
     "Long": 91.3662,
     "State": "Meghalaya",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "Meghalaya IPS officer injured in ‘deliberate’ hit by two-wheeler",
       "Banks closed today: Check if your state has a holiday on September 18"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Odisha revises schedule for ward delimitation, seat reservation ahead of urban local body polls",
+      "Odisha to set up ‘Silicon Valley’ as part of ISM: CM Majhi"
+    ],
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "MN",
@@ -324,7 +288,29 @@
     "headlines": [
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 1,
+    "headlines": [
+      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
+    ],
+    "last_updated": "2026-09-19 03:37:13 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "Two more women die in Rajasthan after C-sections; probe committee formed"
+    ],
+    "last_updated": "2026-09-19 03:37:13 AM"
   },
   {
     "Code": "JK",
@@ -335,6 +321,6 @@
     "headlines": [
       "Jammu and Kashmir L-G flags off the Harmukh-Gangbal pilgrimage"
     ],
-    "last_updated": "2026-09-19 12:51:12 AM"
+    "last_updated": "2026-09-19 03:37:13 AM"
   }
 ]
