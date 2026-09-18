@@ -4,19 +4,17 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 45,
+    "news_count": 41,
     "headlines": [
       "Jantar Mantar attacker Swatantra Bhardwaj released from Tihar on 3-week interim bail",
-      "India’s hydrogen train gets 40-60 riders vs 2,600 capacity; Delhi extension planned",
-      "Lokayukta police trap GST official with Rs 8 lakh bribe",
-      "‘Are you people students?’ Delhi HC flays ABVP, NSUI over DUSU poll violations",
-      "Watch: Chinese coast guard vessel rams civilian Philippine boat in South China Sea",
-      "\"How Are They Students?\" High Court On Delhi University Polls' Violence",
-      "Mahua Moitra alleges discrimination against Muslim bureaucrats",
-      "Defected MPs 'gaddar team', TMC is led by Mamata: Saugata Roy",
+      "India’s first hydrogen train may be extended to Delhi due to low traffic",
+      "Delhi Police Bust 3 Fake International Call Centres, 23 Arrested",
+      "Tomin J. Thachankary shifted to hospital block at Poojappura Central Prison",
+      "12,000 CISF personnel deployed against coal mafia in Jharkhand, West Bengal",
+      "Delhi Metro records highest-ever footfall of 82.4 lakh amid DTC bus strike",
+      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
       "5,000 residents without water for 50 days amid Bengal’s Jyotinagar eviction row",
       "PM Modi, UAE President discuss West Asia crisis, bilateral ties over phone call",
-      "DUSU elections over the years: From a 50-day strike to court battles over violence",
       "Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move",
       "Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu",
       "Central Board of Film Certification issues new guidelines after nearly 35 years",
@@ -29,20 +27,18 @@
       "HT Morning News Brief Sept 18: Noel Tata's push against IPO listing, DUSU elections today and more",
       "DUSU election: 900 security personnel, anti-riot vehicle deployed for security",
       "CBSE wants 3 languages in Class 6 from this yr; SC says start in ’27",
-      "DUSU Election 2026 LIVE: NSUI alleges BJP, ABVP ‘trying to influence’ students; HC bans victory procession",
+      "DUSU Election 2026 LIVE: ABVP confident of clean sweep in polls; NSUI claims victories at many colleges",
       "Highly decomposed body, attacked by dogs: How Delhi teen's gangrape and murder came to light",
       "Went to see ‘friend’, gang-raped, stabbed over 6 times: Teen found dead in Delhi",
       "‘Not staying DUSU polls, but can stop counting’: Delhi HC warns over violence, vandalism during campaigning",
       "Centre opposes Kiran Bedi's plea to join Delhi PG collapse pleas, HC says her ‘long experience’ could be useful",
       "16-year-old girl gang-raped by 4 teens, found stabbed to death days later in Delhi",
-      "'Unacceptable at any cost': Delhi HC raps student unions on violence, vandalism amid DUSU poll campaign",
-      "Central Warehousing Corporation plans hyperloop freight pilot in Mumbai",
-      "Top States go slow on capex spends in April–July FY27",
-      "Moody’s raises India’s GDP forecast to 7%",
+      "Rebuilding damaged oil & gas infrastructure in West Asia offers EIL over $1 billion opportunity",
+      "South Asian countries explore expanding cross-border electricity trade",
+      "Chairman’s casting vote can’t be used to defeat Tata Trust veto: Former Chief Justice of India DY Chandrachud",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "Nani praises Tamil Nadu CM Vijay, questions ‘pan-India’ tag for South films",
       "BREAKING: Government of India reconstitutes CBFC; Suniel Shetty, Preity Zinta, Priyadarshan, Pankaj Tripathi among 18 members",
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "EXCLUSIVE: Contrary to recent reports, no CBFC relief yet for Salman Khan’s Maatrubhumi",
@@ -52,19 +48,41 @@
       "Adhyayan Suman and Divita Rai’s Main Na Raha Mera first look out, teaser to release on September 16",
       "BREAKING: Daayra marks Kareena Kapoor Khan’s TENTH film to receive ‘A’ rating from CBFC; Kunal Kemmu’s Vibe also gets adult certificate"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 13,
+    "headlines": [
+      "Karnataka Gives 'Tulu' Official Status, Will Rename Dakshina Kannada",
+      "Special voter registration drive in Dharwad on September 19 and 20; Over 2.68 lakh electors identified under ASDDO",
+      "Karnataka HC dismisses appeals by government and Namma Whitefield RWA Foundation claiming certain private lands as Pattandur Agrahara lake bed",
+      "45% rainfall deficit puts Dharwad on water conservation alert",
+      "Karnataka grants Tulu additional official language status in 2 coastal districts",
+      "Govt declares 23 more taluks drought-hit, tally rises to 124",
+      "Shivakumar unveils several initiatives at Kalyana Karnataka Utsav",
+      "Siddaramaiah statue installed by supporters removed ahead of Shivakumar's visit in Karnataka's Kalaburagi",
+      "Karnataka govt to seek public opinion on renaming Dakshina Kannada district",
+      "Karnataka grants Tulu additional administrative language status in two coastal districts",
+      "Karnataka approves Marine Biotechnology Policy",
+      "Karnataka Cabinet approves Sustainable Data Centre Policy with an outlay of ₹1,300 crore",
+      "Shruti Hassan says she prayed about thousand times that men get periods"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
+      "Mamata gets 'footballer', but can she win TMC 'khela'? Maharashtra shows a 'red card'",
+      "Papers hidden in shoes for ₹8,000: Charge-sheet traces Maharashtra TET leak to Agra press",
       "20-year-old man kills friend over dispute in Delhi, hides body in a trunk; arrested from Maharashtra",
-      "Central Warehousing Corporation plans hyperloop freight pilot in Mumbai",
-      "Coca-Cola India Brings Refreshment And Unique Festive Brand Experiences Across Maharashtra and other states",
-      "Juniper Green Energy fully commissions 75 MW Tata hybrid project in Maharashtra",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Maharashtra FDA Commissioner Tukaram Mundhe says, “Shah Rukh Khan, Ajay Devgn and Tiger Shroff not shielded by celebrity status in Vimal ad case”",
       "Ranveer Singh pledges to support education of 1,000 girls: “I hope that this pleases Bappa”",
@@ -74,187 +92,156 @@
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 12,
+    "news_count": 7,
     "headlines": [
-      "Governor Arlekar seeks clarifications from T.N. govt. on Tamil Nadu Private Universities (Amendment) Bill, 2026",
-      "Tamil Nadu govt. firm on two-language policy, not to provide land for Navodaya schools: Minister Rajmohan",
-      "Tamil Nadu CM Vijay reviews preparations for expansion of Perunthalaivar Kamarajar Breakfast Scheme",
-      "Under tight security, ‘divine umbrellas’ from Chennai reach Tirupati for Tirumala Brahmotsavams",
+      "Vijay's 'Gold Ring' Promise To Women, Children Ahead Of October 6 Bypoll",
+      "T.N. government writes to PM Modi seeking to change the operator of Chennai airport",
+      "J. Radhakrishnan appointed Tamil Nadu power regulatory body’s chief",
       "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil Nadu on September 28",
       "Tami Nadu bypoll: Know schedule, candidates and more in Vijay govt's first electoral test",
       "Veteran Congress leader Sudarsana Natchiappan dies at 79",
-      "‘Hindi can’t be barred from Tamil Nadu’: SC on Navodaya schools, gives state 3 months",
-      "US pharma major Walgreens to establish its first-ever GCC in Chennai",
-      "HMPL bags ₹200 cr construction project in Tamil Nadu",
-      "US pharma giant Walgreens to set up GCC in Chennai",
-      "Nani praises Tamil Nadu CM Vijay, questions ‘pan-India’ tag for South films"
+      "Tamil Nadu plans Agricultural Guidance Bureau to strengthen FPOs"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 7,
-    "headlines": [
-      "Andhra Pradesh fire services to hire 305: 147 driver operators and 158 firemen; who can apply and how",
-      "Under tight security, ‘divine umbrellas’ from Chennai reach Tirupati for Tirumala Brahmotsavams",
-      "Andhra Pradesh tops country in patient safety with a score of 86, says Health Department",
-      "Andhra Pradesh Congress party’s Political Affairs Committee to meet in Vijayawada on September 19",
-      "Absconding accused in Sai Krishna alleged custodial death case surrenders before SIT",
-      "SRM University-A.P. signs MoU with University of Rome Tor Vergata for joint research",
-      "Andhra Pradesh SIPB clears IT investment projects worth ₹526 crore"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 5,
-    "headlines": [
-      "Karnataka accords second official language status to Tulu language",
-      "Karnataka grants Tulu additional official language status in 2 coastal districts",
-      "Govt declares 23 more taluks drought-hit, tally rises to 124",
-      "Shivakumar unveils several initiatives at Kalyana Karnataka Utsav",
-      "Siddaramaiah statue installed by supporters removed ahead of Shivakumar's visit in Karnataka's Kalaburagi"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 5,
-    "headlines": [
-      "Video: Fireball engulfs newlywed woman during honeymoon at Darjeeling homestay",
-      "Mahua Moitra alleges discrimination against Muslim bureaucrats",
-      "Defected MPs 'gaddar team', TMC is led by Mamata: Saugata Roy",
-      "Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move",
-      "Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "Gujarat Man Kills Daughter, Stores Body In Fridge, Then Dies By Suicide",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
-      "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 5,
-    "headlines": [
-      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule",
-      "Gurugram Hit-And-Run Accused Kalyan Bainsla Sent To 14-Day Judicial Custody",
-      "Gurugram biker hit-and-run: Bainsla, cousin sent to 14-day judicial custody",
-      "SC awards  ₹12 lakh to Haryana woman denied Indian Oil Corporation job in 1988",
-      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 5,
-    "headlines": [
-      "Surendra Koli, accused in Nithari killings, found dead in his Haridwar tea shop",
-      "Nithari victim's father questions Surendra Koli's 'suicide', alleges murder",
-      "12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline",
-      "Uttarakhand to map 100 trekking, hiking routes to improve trekker safety: CM Dhami",
-      "Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Passengers protest in Thiruvananthapuram airport following cancellation of Air India Express flight to Sharjah",
-      "Keralam government awaits legal advice on ED letter seeking corruption cases against Pinarayi, others: Home Minister",
-      "MDMA trail reaches classroom: college teacher held in Keralam’s Nilambur",
-      "Kerala child rights panel calls for gender-inclusive rules, bars schools from penalising boys over hair length"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Assam Man Beheaded, Body Buried, Severed Head Put In Plastic Bag",
-      "Assam detains 27 Bangladeshi nationals in joint operation with railway police",
-      "Assam Foreigners Tribunal member accused of demanding bribe for bail arrested",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
-      "Organon Announces Two Her Health Grants in India to Support Adolescent Girls’ Health in Bihar and Women’s Contraceptive Access in Uttar Pradesh",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 3,
+    "news_count": 7,
     "headlines": [
-      "Telangana HC sets aside Speaker’s order, declares Khairatabad MLA Danam Nagender disqualified as member of Legislative Assembly",
-      "After Telangana CM’s assurance, govt constitutes high-level committee to resolve impasse over Section 22A lands",
+      "Telangana NRI Commission sought",
+      "SCR aims to enhance connectivity and ease congestion with major railway projects worth ₹50,000 crore in Telangana and beyond",
+      "Telangana State Road Transport Corporation union elections on October 9",
+      "Telangana seeks ₹20K cr. package from Centre to face El Nino impact",
+      "Crackdown on ganja cultivation intensifies in Adilabad district, 385 plants worth ₹38 lakh seized",
+      "Centre approves 2 lakh rural houses for Telangana under PMAY-G",
       "Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 2,
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 6,
     "headlines": [
-      "12 students injured as school van hits road divider in Jharkhand",
-      "ED raids 7 locations in Jharkhand State Co-op bank 'fraud' case"
+      "Surendra Koli, acquitted for Nithari killings, found dead in Haridwar",
+      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
+      "Nithari victim's father questions Surendra Koli's 'suicide', alleges murder",
+      "12 death sentences, 13 acquittals later, Nithari’s Surendra Koli found dead in Haridwar: Timeline",
+      "Uttarakhand to map 100 trekking, hiking routes to improve trekker safety: CM Dhami",
+      "Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 6,
+    "headlines": [
+      "Forest department to establish command centre in Wayanad",
+      "Four get life term for murder in Kannur",
+      "Kerala University imposes blanket ban on campus politics under new code of conduct",
+      "Devikulam range in Keralam’s Idukki witnesses three deaths due to wild elephant attack in four months",
+      "Anto Augustine to remain in custody as Kerala High Court denies him bail in alcohol possession case",
+      "Kochi to host 13th edition of Kerala Travel Mart on September 24th"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found",
+      "Kaynes Semicon ramps up Sanand plant with 2.3-billion-unit annual capacity",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
+      "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "12,000 CISF personnel deployed against coal mafia in Jharkhand, West Bengal",
+      "Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam",
+      "Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move",
+      "Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Bihar Man Strangles Wife To Death After Fight, Pours Hot Oil On Her In Bengaluru",
+      "JD(U) legislators project Nishant Kumar as future Bihar CM",
+      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule",
+      "SC awards  ₹12 lakh to Haryana woman denied Indian Oil Corporation job in 1988",
+      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Smooth take off: Pilot handles Punjab turbulence; can he nail the landing for Cong?",
+      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule",
+      "'Rarest Of Rare': UP Man Gets Death Penalty For Rape, Murder Of Minor Boy In Punjab"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 3,
+    "headlines": [
+      "Day before 2023 Manipur violence started, political settlement was discussed with govt., says insurgent group",
+      "Concern over rising opioid analgesic abuse in Manipur",
+      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "UP",
@@ -263,10 +250,33 @@
     "State": "Uttar Pradesh",
     "news_count": 2,
     "headlines": [
-      "Organon Announces Two Her Health Grants in India to Support Adolescent Girls’ Health in Bihar and Women’s Contraceptive Access in Uttar Pradesh",
+      "Papers hidden in shoes for ₹8,000: Charge-sheet traces Maharashtra TET leak to Agra press",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "Assam Trinamool Pick Pulls Out Of Nagaon Bypoll Over Party Name, Symbol Freeze",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Andhra Pradesh SIPB clears investment proposals worth ₹22,177 crore"
+    ],
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "CH",
@@ -277,18 +287,7 @@
     "headlines": [
       "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "DLF to open Goa shopping mall in Feb-Mar, eyes over ₹150 cr in rentals"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "ML",
@@ -299,40 +298,7 @@
     "headlines": [
       "Banks closed today: Check if your state has a holiday on September 18"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "'Secret' Remark At Indore Event Fuels Talk Of Rivalries Within BJP"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 1,
-    "headlines": [
-      "Raja D King’s ‘iPhone Langar’ in Chandigarh: 10 phones and a ‘Jai Mata Di’ rule"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
     "Code": "RJ",
@@ -343,28 +309,17 @@
     "headlines": [
       "CJP questions award to Jaipur school where 9-year-old Amaira died"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
     "news_count": 1,
     "headlines": [
-      "Tripura court sentences 5 Bangladeshi nationals to 2 years for illegal entry"
+      "Odisha to set up ‘Silicon Valley’ as part of ISM: CM Majhi"
     ],
-    "last_updated": "2026-09-18 06:03:04 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "On Modi's birthday, CM Omar Abdullah wishes PM would grant J&K statehood"
-    ],
-    "last_updated": "2026-09-18 06:03:04 PM"
+    "last_updated": "2026-09-18 10:20:59 PM"
   }
 ]
