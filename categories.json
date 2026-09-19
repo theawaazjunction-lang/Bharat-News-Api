@@ -1,7 +1,187 @@
 {
   "general": [
     {
-      "title": "Trump signs Russia sanctions bill into law, allowing up to 100% tariffs on India",
+      "title": "IIT-Bombay student dies by suicide after being caught using AI; students protest",
+      "description": "A second-year IIT-Bombay student died by suicide on Friday evening.  He had used an AI platform to seek answers during an examination.  Students gathered demanding a probe into mental health concerns and institutional actions.  The institute stated no disciplinary action was initiated against the st",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/second-year-iit-bombay-student-dies-by-suicide-after-being-caught-using-ai-platform-during-exam/articleshow/134346768.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346821,imgsize-1578690.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:17:13 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Hugs, kisses mins before tragedy: Indian woman jumped to save friend, both killed by train",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/hugs-kisses-minutes-before-indian-origin-woman-and-her-friend-get-killed-by-train-in-manhattan-report/articleshow/134347745.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347783,imgsize-4062901.cms",
+      "publishedAt": "Sat, 19 Sep 2026 10:34:06 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Suicide blast at Pakistan police compound: Death toll mounts to 31",
+      "description": "The attack took place on Friday when an explosives-packed car was driven into the police facility as officers and their families were praying at a mosque inside the compound. Around 80 people, mostly police personnel, were taken to hospital after the blast. Several injured people were in critical co",
+      "url": "https://timesofindia.indiatimes.com/world/pakistan/death-toll-mounts-to-31-in-suicide-blast-at-pakistan-police-compound-several-still-critical/articleshow/134347414.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347667,imgsize-221800.cms",
+      "publishedAt": "Sat, 19 Sep 2026 09:46:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Body in car for 2 days, dumped, drowned, cremated: How Delhi exec’s death unfolded",
+      "description": "Authorities are delving into the mysterious death of Yuvraj Singh Manchanda, reportedly murdered by former colleagues Anya Vats and Sanyam Sachdeva, who have both been taken into custody due to their prior criminal histories. Investigators are grappling with contradictory accounts surrounding the ti",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/how-delhi-executive-yuvraj-singh-manchandas-death-unfolded-body-kept-in-car-for-2-days-dumped-drowned-cremated/articleshow/134347287.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347317,imgsize-109255.cms",
+      "publishedAt": "Sat, 19 Sep 2026 09:40:35 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Quimcy: Ronaldinho-inspired Teqball puts her one win away from Asiad history",
+      "description": "Quimcy Joaquim Dsouza is set to vie for the bronze medal in Teqball at the upcoming Asian Games 2026. After a tough semifinal defeat against Indonesia's Ima Sumaya, Dsouza's determination shines through. Her journey is pivotal for Indian Teqball, as she aims to carve her name in history as the first",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/at-13-quimcy-dsouza-was-a-middle-distance-runner-before-football-took-over-11-years-later-ronaldinho-inspired-teqball-has-put-her-one-win-from-asian-games-history/articleshow/134347339.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347392,imgsize-871056.cms",
+      "publishedAt": "Sat, 19 Sep 2026 09:24:24 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Google Gemini AI Agents hack 3 companies in tests similar to OpenAI, Anthropic &amp; Meta",
+      "description": "Google's Gemini AI model breached three real company networks during cybersecurity tests.  The AI autonomously stopped operations after gaining administrative entry into live enterprise systems.  This incident occurred while Gemini underwent pre-deployment red-team vetting by Irregular.  A naming ov",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-gemini-ai-agents-hack-three-companies-in-tests-similar-to-openai-anthropic-and-meta-what-the-company-said/articleshow/134347195.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347204,imgsize-64350.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:55:17 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "B'luru man strangles wife, pours hot oil on her face to stage death as suicide",
+      "description": "A man allegedly murdered his wife after a domestic quarrel in Bengaluru. He then poured hot oil on her face to disfigure her body. The accused attempted to make the death appear as a suicide. However, police noted discrepancies and detained the husband for questioning. The man confessed to the murde",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/domestic-quarrel-turns-fatal-man-held-for-killing-wife-in-bengaluru/articleshow/134342895.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347034,imgsize-1127846.cms",
+      "publishedAt": "Sat, 19 Sep 2026 00:21:36 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Trump’s Greenland deal: How Arctic pact bolsters Golden Dome against Russia, China",
+      "description": "Trump wants Golden Dome fully working by January 2029 at a cost of 175 billion dollars, a timetable and price tag that seems doubtful. It has also been point out that interceptor tests over the past two decades have succeeded only about half the time, and under conditions far kinder than a real atta",
+      "url": "https://timesofindia.indiatimes.com/defence/international/trumps-greenland-deal-how-arctic-pact-bolsters-golden-dome-against-russia-china/articleshow/134346911.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347109,imgsize-91298.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:51:13 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Upset over contact with 1st wife, woman gets husband killed by lover in UP",
+      "description": "Police arrested a woman, her alleged lover, and an aide for murder. They allegedly killed her husband and concealed his body in a wooden box. The body was then dumped under a canal bridge to destroy evidence. Investigators tracked an e-rickshaw and reviewed CCTV footage to crack the case. The accuse",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/husband-stabbed-in-sleep-body-stuffed-in-box-wife-2-aides-held/articleshow/134343372.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346957,imgsize-111321.cms",
+      "publishedAt": "Sat, 19 Sep 2026 00:47:44 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'It does hurt': Neeraj Chopra opens up on missing Asian Games due to injury",
+      "description": "Neeraj Chopra shared his regret about being sidelined from the Asian Games due to an ankle injury, a significant barrier preventing him from defending his javelin throw title in Nagoya. He highlighted the essential role of support systems during his recovery and expressed gratitude for friends who h",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/it-does-hurt-neeraj-chopra-opens-up-on-missing-asian-games-due-to-injury/articleshow/134347362.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347382,imgsize-89008.cms",
+      "publishedAt": "Sat, 19 Sep 2026 09:23:40 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Mayor’s post goes to BJP after contender ‘persuaded’ to quit race",
+      "description": "In a remarkable twist within local politics, Anuradha Singh of the BJP has ascended to the position of mayor for the Bharatpur Municipal Corporation. This came about after independent candidate Vichitra Singh unexpectedly withdrew her nomination, an action that sparked allegations from her family re",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/bharatpur-mayors-post-goes-to-bjp-after-contender-persuaded-to-quit-race/articleshow/134347163.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347259,imgsize-1473295.cms",
+      "publishedAt": "Sat, 19 Sep 2026 09:01:13 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "2,000 acres saved, added to Sumter National Forest",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-conservation-group-bought-nearly-2000-acres-of-south-carolina-forest-before-development-could-reach-it-the-land-has-now-been-transferred-to-the-us-government-and-permanently-added-to-sumter-national-forest/articleshow/134337422.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134337469,imgsize-90109.cms",
+      "publishedAt": "Sat, 19 Sep 2026 10:00:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Washington couple spent $300,000 on home plans; state wants 44 acres surrendered",
+      "description": "Tyler Chambers embarked on an ambitious journey to construct his dream home in Washington. Investing nearly $300,000 into regulatory requirements and necessary studies, he was soon met with neighbor complaints that triggered additional demands. These included extensive environmental assessments and ",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-washington-couple-claims-they-spent-nearly-300000-to-build-a-home-on-their-family-land-after-years-of-permits-and-studies-the-state-demands-they-surrender-44-acres-before-construction-can-begin/articleshow/134282297.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134282400,imgsize-123568.cms",
+      "publishedAt": "Wed, 16 Sep 2026 13:51:09 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "H-1B visa costs rise while America needs over 157,000 engineers and technicians",
+      "description": "The United States faces a significant semiconductor talent deficit by 2030. Immigration policy changes are creating further hiring challenges for chip manufacturers. Domestic engineering graduates show limited interest in the chip industry, exacerbating recruitment issues. Companies are actively bui",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/h-1b-visa-costs-are-rising-for-us-companies-while-america-needs-more-than-157000-engineers-and-skilled-technicians/articleshow/134343035.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134343056,imgsize-167420.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:04:51 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Assam's 'Iron Lady' becomes first woman to lead CRPF's elite CoBRA unit",
+      "description": "Sanjukta Parashar, renowned as the Iron Lady of Assam, has made her mark as the first female Inspector General to lead the elite CoBRA unit of the CRPF. With a commendable background in national security and field postings, her historic appointment signifies a groundbreaking advancement for women in",
+      "url": "https://timesofindia.indiatimes.com/life-style/people/assams-iron-lady-scripts-history-as-the-first-woman-to-lead-crpfs-elite-cobra-unit-meet-sanjukta-parashar-the-ips-officer-known-for-her-fearless-field-career/articleshow/134308951.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134309004,imgsize-161871.cms",
+      "publishedAt": "Thu, 17 Sep 2026 16:05:33 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Almost started a war': How an AI error led to a close call between US and China",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/almost-started-a-war-how-an-ai-error-led-to-a-close-call-between-us-and-china/articleshow/134346649.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346734,imgsize-343550.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:08:09 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Karnataka government bans selfies, reels on college tours",
+      "description": "Government colleges must now get department approval for all educational tours. Students are prohibited from taking selfies and shooting reels during these trips. Tour durations are capped at five days, and faculty must closely monitor students. Risky activities require certified experts and local s",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-bans-selfies-reels-on-college-tours-caps-travel-at-five-days/articleshow/134346676.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346716,imgsize-991490.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:01:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Delhi a terrifying daily story for women': Rahul, Priyanka on teen's gangrape-murder",
+      "description": "In a fervent response to women's safety issues, Congress leaders Rahul Gandhi and Priyanka Gandhi Vadra have raised grave concerns in the wake of a teenage girl's gang rape and murder. They demanded thorough accountability from authorities and condemned recent instances of sexual violence against mi",
+      "url": "https://timesofindia.indiatimes.com/india/delhi-a-terrifying-daily-story-for-women-rahul-priyanka-slam-amit-shah-over-teens-gangrape-murder/articleshow/134347405.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347444,imgsize-72590.cms",
+      "publishedAt": "Sat, 19 Sep 2026 09:41:22 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Lewis Hamilton’s £20m Mission 44 opens opportunities for young people",
+      "description": "Lewis Hamilton, the seven time Formula One World Champion's foundation, Mission 44, has reached over 550,000 youth across the world after he pledged £20 million to it.",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/lewis-hamilton-pledged-20-million-after-remembering-how-school-failed-him-five-years-later-mission-44-is-trying-to-open-opportunities-for-millions-of-young-people-across-continents/articleshow/134338804.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134338850,imgsize-466391.cms",
+      "publishedAt": "Sat, 19 Sep 2026 02:31:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Frankie Muniz turns heartbreak and fatherhood into a NASCAR dream",
+      "description": "Frankie Muniz is facing a difficult period after announcing his split from Paige Price while continuing his NASCAR career. His latest message described the past six weeks as a nightmare and said he had reached rock bottom. Through racing and fatherhood, Muniz has continued building a different life,",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/inspiring-story-of-the-day-life-doesnt-always-go-the-way-you-planned-but-you-keep-moving-forward-how-frankie-muniz-turned-child-stardom-heartbreak-and-fatherhood-into-nascar-dreams/articleshow/134345869.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134345910,imgsize-563854.cms",
+      "publishedAt": "Sat, 19 Sep 2026 05:35:09 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Trump signs Russia sanctions bill, gets power to impose up to 100% tariffs on India",
       "description": "President Trump has officially enacted a new sanctions law aimed at Russia and Iran, empowering the U.S. to impose penalties on nations purchasing Russian energy supplies. Countries like India and China, significant buyers of Russian crude and gas, have raised concerns about the potential impact on ",
       "url": "https://timesofindia.indiatimes.com/business/international-business/trump-signs-russia-sanctions-bill-into-law-gains-authority-to-impose-100-tariff-on-india-and-china/articleshow/134344362.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134345399,imgsize-745779.cms",
@@ -10,8 +190,26 @@
       "category": "general"
     },
     {
+      "title": "Iran war costs US $45.1 bn; fatalities possibly higher than 18 reported by Pentagon",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/iran-war-costs-us-45-1-billion-fatalities-possibly-higher-than-18-reported-by-pentagon/articleshow/134346745.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346755,imgsize-202902.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:19:08 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Lane caked in blood, how row over 'money' turned deadly for 15-year-old in Mumbai",
+      "description": "A man fatally stabbed a minor boy and critically injured another person in Malwani.  The accused, Rizwaan Qureshi, was apprehended by locals after his violent attack.  He had approached a shop seeking money and water from a teenager.  The victim, Bunty Khan, died from his severe neck injuries.  Poli",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-man-on-knifing-spree-lane-caked-in-blood-how-row-over-money-turned-deadly-for-15-year-old/articleshow/134346574.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346617,imgsize-115700.cms",
+      "publishedAt": "Sat, 19 Sep 2026 07:56:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "US reaches deal with Denmark for ‘permanent security control’ over Greenland",
-      "description": "The United States and Denmark are in the final stages of discussions to enhance US military operations in Greenland. This strategic arrangement will not infringe on Greenland's autonomy, affirming its status as a Danish territory. The talks also involve strategies to curb Chinese activity in this vi",
+      "description": "The United States has secured permanent security control over Greenland. This agreement allows Washington to act on the Arctic island for security needs. It prevents adversaries from establishing military bases or making sensitive investments. Denmark and Greenland expect to sign the deal soon. The ",
       "url": "https://timesofindia.indiatimes.com/world/us/us-reaches-deal-with-denmark-for-permanent-security-control-over-greenland-says-donald-trump/articleshow/134343806.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134344011,imgsize-81768.cms",
       "publishedAt": "Sat, 19 Sep 2026 03:25:13 +0530",
@@ -19,20 +217,83 @@
       "category": "general"
     },
     {
-      "title": "Asian Games: Trouble in Japan! Indian athletes face housing, food &amp; transport chaos",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/trouble-in-japan-indian-athletes-face-accommodation-food-and-transport-woes-ahead-of-asian-games-2026/articleshow/134324733.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134324927,imgsize-159504.cms",
-      "publishedAt": "Fri, 18 Sep 2026 08:54:10 +0530",
+      "title": "‘Rained bricks on him’: UK-returned grad kidnaps, kills neighbour’s son in B'luru",
+      "description": "A UK-returned MTech graduate was arrested for kidnapping and killing a 13-year-old boy. The accused planned to extort Rs 1 crore from the boy's father to repay debts. He lured the boy with firecrackers and driving lessons before killing him. The accused then attempted to transport the body to Andhra",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/rained-bricks-on-him-in-custody-uk-returned-grad-kidnaps-and-kills-neighbours-son-in-bengaluru/articleshow/134346727.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346759,imgsize-115850.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:13:17 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Presumption of guilt doesn't make prosecution case 'gospel truth': SC",
+      "title": "‘Want peace for important deal’: Ex-employee, partner texted family from exec’s phone",
+      "description": "Yuvraj Singh Manchanda's family awaits his ashes and belongings after his alleged murder by former colleagues.  His body was found and cremated by police before his family was notified.  The family claims Haryana Police failed to upload his details promptly on police portals.  Suspects sent misleadi",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/want-some-peace-for-important-deal-ex-employee-partner-sent-texts-to-family-from-executives-phone-after-gurgaon-murder/articleshow/134346228.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346250,imgsize-140140.cms",
+      "publishedAt": "Sat, 19 Sep 2026 07:04:39 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Trump to meet Venezuela acting president, first meeting since Maduro’s removal",
+      "description": "President Donald Trump will meet acting Venezuelan President Delcy Rodriguez in New York.  This meeting occurs during a reception for leaders attending the UN General Assembly.  The leaders are expected to discuss Venezuela's energy sector and a recent oil reserves agreement.  This engagement follow",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-to-meet-venezuela-acting-president-delcy-rodriguez-first-since-maduros-removal/articleshow/134346769.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346849,imgsize-909055.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:20:43 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Extremely speedy action by probe agency can create doubt: SC",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/presumption-of-guilt-doesnt-make-prosecution-case-gospel-truth-sc/articleshow/134345571.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345625,imgsize-37658.cms",
-      "publishedAt": "Sat, 19 Sep 2026 04:25:22 +0530",
+      "url": "https://timesofindia.indiatimes.com/india/extremely-speedy-action-by-probe-agency-can-create-doubt-sc/articleshow/134346134.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346139,imgsize-209894.cms",
+      "publishedAt": "Sat, 19 Sep 2026 06:24:25 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'US doing very well with China': Trump ahead of Xi Jinping's first White House visit",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/weather/us/us-doing-very-well-with-china-trump-ahead-of-xi-jinpings-first-white-house-visit-in-a-decade/articleshow/134346700.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346758,imgsize-85324.cms",
+      "publishedAt": "Sat, 19 Sep 2026 08:11:27 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "US clears $2.7 billion Ukraine arms package to bolster air defences",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-clears-2-7-billion-ukraine-arms-package-to-bolster-air-defences/articleshow/134346377.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346403,imgsize-202996.cms",
+      "publishedAt": "Sat, 19 Sep 2026 07:26:17 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "MHA cites internal security issues to defend FCRA tweak",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/mha-cites-internal-security-issues-to-defend-fcra-tweak/articleshow/134346084.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346093,imgsize-46540.cms",
+      "publishedAt": "Sat, 19 Sep 2026 06:14:33 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "HC raps Bengal govt for detaining Murshidabad man on mere suspicion he was Bangladeshi",
+      "description": "The Calcutta High Court is scrutinizing the Bengal government's detention methods following the case of a Murshidabad local who spent over a month in custody without sufficient justification. The court has mandated the state to submit all documentation related to this detention, compelling the polic",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/hc-raps-bengal-govt-for-detaining-murshidabad-man-without-citing-reason/articleshow/134343624.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346296,imgsize-1576152.cms",
+      "publishedAt": "Sat, 19 Sep 2026 01:25:01 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Tata Sons board unanimous on panel for RBI compliance",
+      "description": "Trusts Chairman Noel Opposed IPO, Backed Other Options",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-board-unanimous-on-panel-for-rbi-compliance/articleshow/134346292.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346297,imgsize-61958.cms",
+      "publishedAt": "Sat, 19 Sep 2026 07:06:03 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -42,15 +303,6 @@
       "url": "https://timesofindia.indiatimes.com/business/india-business/sugar-retail-prices-down-10-ahead-of-festive-season-govt-eases-stock-cap/articleshow/134343638.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134343642,imgsize-274434.cms",
       "publishedAt": "Sat, 19 Sep 2026 01:31:05 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Meet Dina McCormick, whom Zuckerberg asked to trade her Meta board seat for a job",
-      "description": "Born in Cairo, Egypt and raised in Texas, Dina Powell McCormick gave up her Meta board seat last December after Mark Zuckerberg asked her to take an operating job instead. Nine months on, the Goldman Sachs veteran and former deputy national security adviser is president, vice chairman and co-leader ",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/born-in-cairo-raised-in-texas-meet-dina-powell-mccormick-the-executive-mark-zuckerberg-asked-to-trade-her-meta-board-seat-for-a-job/articleshow/134331563.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134331753,imgsize-293133.cms",
-      "publishedAt": "Fri, 18 Sep 2026 15:27:36 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -100,42 +352,6 @@
       "category": "general"
     },
     {
-      "title": "Three African wild dogs travelled 4,126km in longest recorded mammal dispersal",
-      "description": "A trio of African wild dog brothers undertook a remarkable odyssey covering 4,126 kilometers across Zambia. This unprecedented trek marks the longest documented dispersal by a mammal in Africa. Their journey through various terrains, including natural reserves and areas impacted by humans, highlight",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/three-african-wild-dog-brothers-left-their-zambian-pack-in-2025-eight-months-later-they-had-travelled-4126-km-the-longest-recorded-dispersal-by-an-african-mammal/articleshow/134306813.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134307103,imgsize-2409734.cms",
-      "publishedAt": "Thu, 17 Sep 2026 15:46:56 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Why too much kindness can feel uncomfortable, according to psychology",
-      "description": "Receiving kindness can be an uncomfortable experience for many, invoking feelings of awkwardness. This unease can originate from various psychological factors and past experiences. Some view kindness as an obligation or believe they must earn affection. Likewise, receiving compliments can conflict w",
-      "url": "https://timesofindia.indiatimes.com/life-style/relationships/psychology-says-people-who-feel-uncomfortable-when-someone-is-too-kind-to-them-arent-ungrateful-what-makes-receiving-affection-difficult/articleshow/134332419.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134332683,imgsize-104984.cms",
-      "publishedAt": "Fri, 18 Sep 2026 16:12:04 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Google cofounder Larry Page’s wife’s company has donated over $120m in ocean projects",
-      "description": "Lucinda Southworth, married to Google co-founder Larry Page, is a passionate advocate for ocean conservation through her organization, Oceankind. Since 2018, Oceankind has generously contributed over $120 million to improve marine ecosystems and support community health. With a focus on addressing p",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-cofounder-larry-pages-wife-a-stanford-trained-scientist-has-built-an-ocean-tech-organisation-company-has-donated-120-million-plus-in-science-projects/articleshow/134321012.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134334361,imgsize-925246.cms",
-      "publishedAt": "Fri, 18 Sep 2026 17:19:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Saree weaver with no engineering degree invented machine replacing 9,000 hand movements",
-      "description": "Chintakindi Mallesham developed a groundbreaking machine designed to assist not only his mother but also fellow weavers in their craft. This innovative Laxmi Asu machine transformed the arduous Asu process involved in saree production, drastically decreasing the time and effort needed for yarn windi",
-      "url": "https://timesofindia.indiatimes.com/life-style/people/in-1992-a-saree-weavers-aging-mother-told-him-i-cant-weave-anymore-7-years-later-the-man-with-no-engineering-degree-invented-an-award-winning-machine-that-replaced-the-9000-hand-movements-needed-to-prepare-a-pochampally-saree/articleshow/134278082.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134278175,imgsize-1059910.cms",
-      "publishedAt": "Wed, 16 Sep 2026 10:06:22 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "CJP joins Rahul, says EC 'fixing' on behalf of BJP",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/india/cjp-joins-rahul-says-ec-fixing-on-behalf-of-bjp/articleshow/134346062.cms",
@@ -143,225 +359,144 @@
       "publishedAt": "Sat, 19 Sep 2026 06:05:18 +0530",
       "source": "Times of India",
       "category": "general"
-    },
-    {
-      "title": "Nitin Nabin donates 3 month's salary for flood relief in Bihar",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/nitin-nabin-donates-3-months-salary-for-flood-relief/articleshow/134345820.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345825,imgsize-75328.cms",
-      "publishedAt": "Sat, 19 Sep 2026 05:25:38 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "New symbols: Mamata gets 'football player', 'envelope' for rebel TMC bloc",
-      "description": "EC Also Allots New Names To TMC Factions",
-      "url": "https://timesofindia.indiatimes.com/india/new-symbols-mamata-gets-football-player-envelope-for-rebel-bloc/articleshow/134345839.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345841,imgsize-157896.cms",
-      "publishedAt": "Sat, 19 Sep 2026 05:30:20 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Simone Biles’ $3M mansion: How did she build her Texas lakefront estate?",
-      "description": "Simone Biles and Jonathan Owens’ Texas lakefront mansion is finally complete after years of planning, approvals and construction delays. The couple started designing the home in 2020 and finished it in November 2025. The reported $3 million property includes a private gym, pool, sports court, large ",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/simone-biles-built-a-custom-3-million-waterfront-mansion-in-texas-after-years-of-planning-and-delays-the-olympian-settled-into-the-lakefront-estate-following-a-prior-1-1-million-property-buy/articleshow/134275595.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134275598,imgsize-1109819.cms",
-      "publishedAt": "Wed, 16 Sep 2026 06:20:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Sophie Cunningham’s inspiring journey: How did she rise to WNBA stardom?",
-      "description": "Sophie Elizabeth Cunningham’s inspirational story is a tapestry of athletic versatility, family support, financial hardship and perseverance. Cunningham’s journey from Columbia, Missouri, to the WNBA and the Indiana Fever has been filled with both success and personal trials. Her college record, her",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/sophie-elizabeth-cunninghams-inspiring-story-from-missouri-hardship-to-indiana-fever-stardom-resilience-basketball-career-family-struggles-and-life-beyond-the-wnba/articleshow/134288243.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134288315,imgsize-545333.cms",
-      "publishedAt": "Thu, 17 Sep 2026 00:15:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Trump extends H-1B visa restrictions, including $100k payment mandate, for another year",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/trump-extends-h-1b-visa-restrictions-including-100000-payment-requirement-for-another-year/articleshow/134345979.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134346014,imgsize-78644.cms",
-      "publishedAt": "Sat, 19 Sep 2026 05:48:39 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Surinder Koli, accused and acquitted in 2006 Nithari killings, found dead",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/city/dehradun/surinder-koli-of-infamous-nithari-case-found-dead-in-haridwar-cops-claim-he-killed-himself/articleshow/134341764.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345707,imgsize-1075001.cms",
-      "publishedAt": "Fri, 18 Sep 2026 23:32:52 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Warren Buffett exits as Berkshire chair, son to take over",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/warren-buffett-exits-as-berkshire-chair-son-to-take-over/articleshow/134345753.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345757,imgsize-74658.cms",
-      "publishedAt": "Sat, 19 Sep 2026 05:09:24 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "FSSAI takes action against Nestle for 'false' baby food tags",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/fssai-takes-action-against-nestle-for-false-baby-food-tags/articleshow/134345685.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345691,imgsize-157254.cms",
-      "publishedAt": "Sat, 19 Sep 2026 04:41:38 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Scottish Sikh gets bail in 7 NIA cases after 8 years behind bars",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/scottish-sikh-gets-bail-in-7-nia-cases-after-8-years-behind-bars/articleshow/134343731.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134343744,imgsize-737372.cms",
-      "publishedAt": "Sat, 19 Sep 2026 02:03:35 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Mamata moves Supreme Court against EC decision to freeze TMC name, symbol",
-      "description": "Mamata Banerjee has challenged the Election Commission's decision in the Supreme Court. The poll panel froze the Trinamool Congress name and symbol for upcoming bypolls. Her faction received a new name and symbol for the October 6 elections. The rival faction was allotted a different name and symbol",
-      "url": "https://timesofindia.indiatimes.com/india/mamata-banerjee-moves-supreme-court-against-eci-decision-to-freeze-tmc-name-symbol/articleshow/134339829.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134339866,imgsize-92848.cms",
-      "publishedAt": "Fri, 18 Sep 2026 22:12:59 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "RBI has record forex reserves, but why is rupee still not out of the woods?",
-      "description": "The currency is now hovering back to its two-month lows. While the RBI is intervening to prevent major volatility, the fact is the rupee is still facing immense pressure, and experts believe the currency is unlikely to appreciate much any time soon.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-has-record-forex-reserves-but-why-is-rupee-still-not-out-of-the-woods/articleshow/134333283.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134333733,imgsize-704423.cms",
-      "publishedAt": "Fri, 18 Sep 2026 16:52:01 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Want mutually beneficial trade with US, says India",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/want-mutually-beneficial-trade-with-us-says-india/articleshow/134345675.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345680,imgsize-543811.cms",
-      "publishedAt": "Sat, 19 Sep 2026 04:34:57 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Asian Games: Karate team leaves without coaches; equestrian riders caught in accred maze",
-      "description": "For the karate contingent, reigning Asian champion Alisha Choudhary’s repeated pleas to sports authorities and Indian Olympic Association (IOA) officials for accreditation for her coach, Vikas Panchal, have gone unheard.",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-karate-team-leaves-without-coaches-equestrian-riders-caught-in-accred-maze/articleshow/134341131.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134341225,imgsize-223319.cms",
-      "publishedAt": "Fri, 18 Sep 2026 23:18:07 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Dengue vaccine to hit market by first half of 2027",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/dengue-vaccine-to-hit-market-by-first-half-of-2027/articleshow/134343715.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134343719,imgsize-60642.cms",
-      "publishedAt": "Sat, 19 Sep 2026 01:52:12 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "From Macaca to MAGA: How one needling remark can become a political thorn for Trump",
-      "description": "A 2006 incident involving Senator George Allen and a racial slur highlights how small remarks can alter election outcomes.  Recent social media posts by Republican Bo French have also drawn significant criticism and condemnation.  These events suggest a growing unease among some Republicans regardin",
-      "url": "https://timesofindia.indiatimes.com/world/us/from-macaca-to-maga-how-one-needling-remark-can-become-a-political-thorn-for-donald-trump/articleshow/134339423.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134339530,imgsize-92192.cms",
-      "publishedAt": "Fri, 18 Sep 2026 21:51:40 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Birthday murder: Man killed for smearing cake on friend’s face; two held",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/birthday-murder-man-killed-for-smearing-cake-on-friends-face-two-held/articleshow/134342356.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134342373,imgsize-15580.cms",
-      "publishedAt": "Fri, 18 Sep 2026 23:55:34 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Graveyard of Saudi ambition': Why the Houthis remain Riyadh's biggest headache",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/graveyard-of-saudi-ambition-why-the-houthis-remain-riyadhs-biggest-headache/articleshow/134334901.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134335695,imgsize-79874.cms",
-      "publishedAt": "Fri, 18 Sep 2026 18:06:47 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Kyiv comes under missile attack, explosions heard across Ukrainian capital",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/kyiv-comes-under-missile-attack-explosions-heard-across-ukrainian-capital/articleshow/134339977.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134340006,imgsize-92758.cms",
-      "publishedAt": "Fri, 18 Sep 2026 22:23:57 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "He wrongly showed Rs 9.6 lakh EPF in ITR, taxman added it; ITAT gives full relief",
-      "description": "The tribunal found that the addition could not stand in the absence of evidence that the taxpayer had actually received the amount from the Employees’ Provident Fund Organisation (EPFO), withdrawn it from his EPF account or received any corresponding credit in his bank account.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rs-9-6-lakh-epf-interest-mistakenly-shown-by-him-in-itr-but-taxman-added-it-to-income-itat-mumbai-orders-full-relief/articleshow/134337856.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134338098,imgsize-579086.cms",
-      "publishedAt": "Fri, 18 Sep 2026 20:08:37 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "UN report finds widespread sexual violence in Ukraine war, 89% of cases linked to Russia",
-      "description": "A UN report documented widespread sexual violence by Russian forces in Ukraine.  These violations included gang rape and genital mutilation against civilians and prisoners.  Ukrainian authorities were responsible for a smaller number of similar human rights abuses.  Most victims of sexual violence i",
-      "url": "https://timesofindia.indiatimes.com/world/europe/un-report-finds-widespread-sexual-violence-in-ukraine-war-89-of-cases-linked-to-russia/articleshow/134340276.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134340553,imgsize-77036.cms",
-      "publishedAt": "Fri, 18 Sep 2026 22:52:39 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Fifteen days is a long time': BCCI plays wait-and-watch on Ajit Agarkar's future",
-      "description": "Agarkar was appointed chairman of the men's senior selection committee in July 2023, and his contract is scheduled to end next month.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/fifteen-days-is-a-long-time-bcci-plays-wait-and-watch-on-ajit-agarkars-future/articleshow/134338343.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134338415,imgsize-107064.cms",
-      "publishedAt": "Fri, 18 Sep 2026 20:34:43 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Lasers to zap missiles? China's 6th gen J-36 jet hints at radical new weapon",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/defence/international/lasers-to-zap-missiles-chinas-6th-gen-j-36-jet-hints-at-radical-new-weapon/articleshow/134338728.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134339582,imgsize-34467.cms",
-      "publishedAt": "Fri, 18 Sep 2026 21:56:19 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Usual BJP formula: Cong slams arrest of Nandigram candidate, Mamata questions timing",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/usual-bjp-formula-congress-slams-arrest-of-nandigram-candidate-in-old-case-mamata-questions-timing/articleshow/134339142.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134339383,imgsize-52004.cms",
-      "publishedAt": "Fri, 18 Sep 2026 21:42:23 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Bristol’s £9.7m Harbour Walkway links Temple Meads to £500m campus",
-      "description": "Bristol City Council spent £9.7 million on a 400-metre floating Harbour Walkway, initially estimated at £2.5 million and designed to connect Temple Meads station to a planned music arena. The arena was later moved to Filton. The walkway now connects the station’s new eastern entrance with the Univer",
-      "url": "https://timesofindia.indiatimes.com/world/uk/bristol-spends-9-7-million-on-400m-harbour-walkway-planned-for-2-5-million-to-link-temple-meads-to-an-arena-now-moved-to-filton-it-instead-connects-the-station-to-bristols-500-million-campus/articleshow/134339873.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134340234,imgsize-132351.cms",
-      "publishedAt": "Fri, 18 Sep 2026 22:39:18 +0530",
-      "source": "Times of India",
-      "category": "general"
     }
   ],
   "business": [
+    {
+      "title": "Reimagining Keralam sets implementation roadmap for 35 transformational projects",
+      "description": "The state government was committed to leveraging the economic potential of Keralam’s coastal ecosystem, which stretches over 500 km",
+      "url": "https://www.thehindubusinessline.com/news/national/reimagining-keralam-sets-implementation-roadmap-for-35-transformational-projects/article71483613.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/3hmfh/article71483718.ece/alternates/LANDSCAPE_1200/K%20Muraleedharan.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 10:34:13 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Trump says US has security deal on Greenland with Denmark",
+      "description": "The deal touted by the US president appears to be a significant pullback from his previous attempts to take over the semi-autonomous Danish territory",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-us-has-security-deal-on-greenland-with-denmark/article71483688.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ytzpr6/article71483696.ece/alternates/LANDSCAPE_1200/2026-01-09T194014Z_509168772_RC2VXIAZBYUT_RTRMADP_3_USA-TRUMP-GREENLAND.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 10:24:17 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Auto industry urges Trump to keep Chinese automakers out ahead of Xi meeting",
+      "description": "US automakers urge President Trump to block Chinese car manufacturers from entering the US market amid escalating trade tensions",
+      "url": "https://www.thehindubusinessline.com/news/world/auto-industry-urges-trump-to-keep-chinese-automakers-out-ahead-of-xi-meeting/article71483609.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/93xtx0/article71483684.ece/alternates/LANDSCAPE_1200/2026-09-19T000307Z_1543419715_RC2WLNA3UJU3_RTRMADP_3_USA-TRUMP-MIGRATION-VISA.JPG",
+      "publishedAt": "Sat, 19 Sep 2026 10:16:57 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Board AGM: BCCI office-bearers 'authorised' to take call on Ajit Agarkar's future",
+      "description": "Along with the future of the chairman of senior selection committee, the BCCI is also looking to fill up all five positions of the junior selection committee",
+      "url": "https://www.thehindubusinessline.com/news/sports/board-agm-bcci-office-bearers-authorised-to-take-call-on-ajit-agarkars-future/article71483608.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/k7oufm/article71483641.ece/alternates/LANDSCAPE_1200/BCCI-set-to-disGA3GHEBJS.3.jpg.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 10:02:49 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Uday Kotak calls for fiscal discipline, reforms to make India developed nation by 2047",
+      "description": "India's position on the global stage is pretty good, but there is no room for complacency, he said",
+      "url": "https://www.thehindubusinessline.com/economy/uday-kotak-calls-for-fiscal-discipline-reforms-to-make-india-developed-nation-by-2047/article71483574.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/cnywcd/article71483584.ece/alternates/LANDSCAPE_1200/Economy-not-farGSRFVJOEB.4.jpg.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 09:30:02 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Trump renews $1,00,000 fee on H-1B visas, tightens scrutiny",
+      "description": "The order sets a 30-day deadline for the Secretary of Labour, acting through the Wage and Hour Division, to begin reviewing data from previously submitted labour condition applications",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-renews-usd-100000-fee-on-h-1b-visas-tightens-scrutiny/article71483554.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/i9u3i/article71441190.ece/alternates/LANDSCAPE_1200/Nearby1_GFEGELD84.1GFEGEM0B9.3.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 09:21:16 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Sustaining E20 in ESY2026-27: India’s ethanol challenge is now about economics, not volume",
+      "description": "India celebrates 20% ethanol blending milestone, but experts warn about sustaining supply, feedstock management, and production efficiency for future success",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/sustaining-e20-in-esy2026-27-indias-ethanol-challenge-is-now-about-economics-not-volume/article71481532.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/m2uelu/article71483565.ece/alternates/LANDSCAPE_1200/IMG_Portion_of_White_Sug_2_1_T2DSI3BJ.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 09:17:08 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Gold versus industrial metals – Not an “either/or”",
+      "description": "A balanced strategy in the portfolio is recommended",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/gold-versus-industrial-metals-not-an-eitheror/article71481975.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nnkf4r/article67958513.ece/alternates/LANDSCAPE_1200/PO17_Gold_bar.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 09:03:21 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "India’s agriculture and geopolitics: A food security outlook",
+      "description": "In an era of intense resource competition, building a sustainable, resilient, and trade-competitive agricultural ecosystem is an indispensable cornerstone of India’s long-term national power",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-agriculture-and-geopolitics-a-food-security-outlook/article71481695.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/rrfnhc/article71449173.ece/alternates/LANDSCAPE_1200/Indian-mill-levG3HGGRJKP.4.jpg.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 08:53:49 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "India’s dairy consumer is changing — And the industry must evolve beyond volume growth",
+      "description": "Realising the potential will require a conscious move beyond volume growth—and a collective commitment to capturing the true value of what we produce",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-dairy-consumer-is-changing-and-the-industry-must-evolve-beyond-volume-growth/article71481606.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/8nhxhv/article70785698.ece/alternates/LANDSCAPE_1200/10-lakh-litres-G15FOUBQ8.4.jpg.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 08:48:37 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Top States go slow on capex spends in April–July FY27",
+      "description": "West Bengal’s capex had the sharpest decline of 52.9% to ₹1,670 crore during April-July 2026, from ₹3,544 crore in the same period last year",
+      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/top-indian-states-by-gdp-go-slow-on-capex-spending-in-apriljuly-fy27/article71480340.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/edoemz/article71480399.ece/alternates/LANDSCAPE_1200/426056355.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 08:37:29 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Jindal Supreme India, SS Retail, Hero Motors IPOs close today; Jindal leads IPO rush",
+      "description": "Jindal Supreme India received the strongest demand, with its IPO subscribed 181.07 times, followed by SS Retail at 103.30 times and Hero Motors at 6.66 times",
+      "url": "https://www.thehindubusinessline.com/markets/jindal-supreme-india-ss-retail-hero-motors-ipos-close-today-jindal-leads-ipo-rush/article71480092.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/uvv311/article71480111.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_ULV4PQUCN_R1538826360_3_36b9bee2-df37-4274-82af-b01418e036df.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 08:34:59 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Sensex, Nifty extend losses to 6th week, crude moderation offers little relief, IT & Tata group stocks weigh",
+      "description": "On a weekly basis, the BSE Sensex declined 0.65%, while the NSE Nifty 50 slipped 0.2%, largely due to Tuesday’s fall",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-extend-losses-to-6th-week-crude-moderation-offers-little-relief-it-tata-group-stocks-weigh/article71480356.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/fsw9oo/article71477827.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 08:33:06 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI",
+      "description": "Xinhua Finance: Robotics Contest Highlights Chongqing District's Push Into Embodied AI",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/xinhua-finance-robotics-contest-highlights-chongqing-districts-push-into-embodied-ai/article71483511.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ytzlmb/article71483510.ece/alternates/LANDSCAPE_1200/20260917091310EDT_image_1.jpg",
+      "publishedAt": "Sat, 19 Sep 2026 08:30:26 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "India sets food production target at 178 million tonnes for rabi season",
+      "description": "Among the other rabi crops, the output target for gram (chana) has been set at 12.33 mt, lentil (masur) at 2.1 mt, mustard at 14.3 mt and barley at 2.42 mt",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-sets-food-production-target-at-178-million-tonnes-for-rabi-season/article71480295.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/bz6fca/article71384031.ece/alternates/LANDSCAPE_1200/2022-12-23T154101Z_1204593418_RC268U9VLIGQ_RTRMADP_3_INDIA-FOOD-PROGRAMME.JPG",
+      "publishedAt": "Sat, 19 Sep 2026 08:29:53 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
     {
       "title": "Who is Howard Buffett, Berkshire Hathaway’s next chairman?",
       "description": "The 71-year-old has spent 33 years on Berkshire’s board and is expected to focus on preserving its distinctive corporate culture.",
@@ -586,150 +721,123 @@
       "publishedAt": "Fri, 18 Sep 2026 20:44:52 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
-    },
-    {
-      "title": "US Car-care brand Turtle Wax steps up India expansion",
-      "description": "The company currently operates 110 Car Care Studios across India and plans to add more than 50 over the next year, besides building a detailing academy and community",
-      "url": "https://www.thehindubusinessline.com/companies/us-car-care-brand-turtle-wax-steps-up-india-expansion/article71480848.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/g9548t/article70574111.ece/alternates/LANDSCAPE_1200/PO04_pg3_bottom_pic.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:44:49 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Karnataka approves Marine Biotechnology Policy",
-      "description": "It will unlock the economic potential of the State’s marine and coastal resources and position it state as a leading hub for marine biotechnology and the blue bio-economy",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/karnataka-approves-marine-biotechnology-policy/article71481076.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/mucwtt/article71481766.ece/alternates/LANDSCAPE_1200/06TH-SCI_OCEAN.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:44:42 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "CAMPARI TURNS SOUTHEAST ASIA RED FOR THE REGION'S BIGGEST NEGRONI WEEK YET",
-      "description": "CAMPARI TURNS SOUTHEAST ASIA RED FOR THE REGION'S BIGGEST NEGRONI WEEK YET",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/campari-turns-southeast-asia-red-for-the-regions-biggest-negroni-week-yet/article71481687.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/fjdgwl/article71481686.ece/alternates/LANDSCAPE_1200/20260918095450EDT_image_1.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:30:42 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "India emerges as key FDE talent hub as AI deployment demand outpaces supply",
-      "description": "According to an UnearthInsight report, India has an estimated 900 experienced FDEs against around 4,650 announced roles by 2027",
-      "url": "https://www.thehindubusinessline.com/info-tech/india-emerges-as-key-fde-talent-hub-as-ai-deployment-demand-outpaces-supply/article71481186.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/fuz5nz/article71481635.ece/alternates/LANDSCAPE_1200/Companies-turn-G55GF5I0I.4.jpg.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:25:31 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "12 companies bid for CDSCO’s new digital drug regulatory system, rollout due next month",
-      "description": "The regulator is also considering changes to the clinical-trial ecosystem",
-      "url": "https://www.thehindubusinessline.com/news/12-companies-bid-for-cdscos-new-digital-drug-regulatory-system-rollout-due-next-month/article71481262.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ornrk/article71481604.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-21%20at%203.38.44%20PM.jpeg",
-      "publishedAt": "Fri, 18 Sep 2026 20:23:52 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "TN Revenue Augmentation Committee held its fourth meeting on Friday",
-      "description": "Further, two Sub-Committees apprised the Committee on the studies made by their respective Sub-Committees",
-      "url": "https://www.thehindubusinessline.com/news/national/tn-revenue-augmentation-committee-held-its-fourth-meeting-on-friday/article71481623.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/5wyuu2/article71481617.ece/alternates/LANDSCAPE_1200/Tamil-Nadus-ReGO7GF1GM7.5.jpg.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:20:26 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "South Asian countries explore expanding cross-border electricity trade",
-      "description": "The ambitious project is led by the South Asia Forum for Infrastructure Regulation",
-      "url": "https://www.thehindubusinessline.com/companies/south-asian-countries-explore-expanding-cross-border-electricity-trade/article71481300.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/sctpgn/article71481591.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U1O2E0MDC_R1504628550_4_079b58e0-8936-4ec8-90d9-c25f1c904368.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:17:53 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Indian cotton arrivals improve, while buyers turn cautious in easing market",
-      "description": "Cotton Corporation of India has reduced the auction prices by Rs 1,600 per candy (356 kg) to about Rs 67,000 this week",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/indian-cotton-arrivals-improve-while-buyers-turn-cautious-in-easing-market/article71481232.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/40h8pa/article71429204.ece/alternates/LANDSCAPE_1200/IMG_cotton_flower_4_1_JSESDAH5.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:16:51 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "FTAs opening new global opportunities for Indian farmers, says Shivraj Singh Chouhan",
-      "description": "Adopt international quality standards to tap global markets, the Agriculture Minister tells southern States",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/ftas-opening-new-global-opportunities-for-indian-farmers-says-shivraj-singh-chouhan/article71481370.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nxd8i4/article71481580.ece/alternates/LANDSCAPE_1200/Indian-Agri-MinG49GH4R2S.4.jpg.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:13:54 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Karnataka Cabinet approves Sustainable Data Centre Policy with an outlay of ₹1,300 crore",
-      "description": "Apart from the expansion of data centres, the policy gives thrust on efficient use of resources such as electricity and water, renewable energy, green technologies",
-      "url": "https://www.thehindubusinessline.com/news/national/karnataka-cabinet-approves-sustainable-data-centre-policy-with-an-outlay-of-1300-crore/article71480941.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/wr3z59/article71464632.ece/alternates/LANDSCAPE_1200/Government-set-GQTGHE4Q5.5.jpg.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:13:22 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "D2C brands, brokers flag concerns over proposed UPI MDR",
-      "description": "Founders said even a 0.4% per cent MDR could become significant when applied to large transaction volumes",
-      "url": "https://www.thehindubusinessline.com/companies/d2c-brands-brokers-flag-concerns-over-proposed-upi-mdr/article71481257.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/j3360d/article71481546.ece/alternates/LANDSCAPE_1200/IMG_IMG_bl-razorpay_4_1__2_1_CEAACQTH.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:09:27 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Takeda’s Qdenga dengue vaccine to be distributed in India by Dr Reddy’s in 2027",
-      "description": "Takeda has an existing supply agreement with Biological E, as part of its strategy to improve access to dengue-endemic countries",
-      "url": "https://www.thehindubusinessline.com/companies/dr-reddys-bags-exclusive-distribution-rights-of-takedas-dengue-vaccine-qdenga-in-india/article71479463.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/d5gtk8/article71479475.ece/alternates/LANDSCAPE_1200/2026-04-10T190605Z_978697111_RC2GMKAJ8A7F_RTRMADP_3_EL-SALVADOR-HEALTH-MEASLES.JPG",
-      "publishedAt": "Fri, 18 Sep 2026 20:08:10 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "India moves closer to ‘product nation’ status as home-grown chips enter global markets: Ashwini Vaishnaw",
-      "description": "Ashwini Vaishnaw said India’s position as a trusted electronics supply-chain destination could also help it attract semiconductor investments as countries seek greater control over the industry",
-      "url": "https://www.thehindubusinessline.com/info-tech/india-moves-closer-to-product-nation-status-as-home-grown-chips-enter-global-markets-ashwini-vaishnaw/article71481294.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/yh4uue/article71481510.ece/alternates/LANDSCAPE_1200/20260918136L.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:07:36 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "India sets food production target at 178 million tonnes for rabi season",
-      "description": "Among the other rabi crops, the output target for gram (chana) has been set at 12.33 mt, lentil (masur) at 2.1 mt, mustard at 14.3 mt and barley at 2.42 mt",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/india-sets-food-production-target-at-178-million-tonnes-for-rabi-season/article71480295.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/bz6fca/article71384031.ece/alternates/LANDSCAPE_1200/2022-12-23T154101Z_1204593418_RC268U9VLIGQ_RTRMADP_3_INDIA-FOOD-PROGRAMME.JPG",
-      "publishedAt": "Fri, 18 Sep 2026 20:06:16 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Banks, RBI set to gain ₹5.5 lakh crore from FCNR(B) deposits",
-      "description": "SBI Research report estimates that the enhanced FCNR(B) liquidity could support nearly ₹25 lakh crore of additional credit in the banking system",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/banks-rbi-set-to-gain-55-lakh-crore-from-fcnrb-deposits/article71481275.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/sgz817/article71481451.ece/alternates/LANDSCAPE_1200/FCNR-B--deluge-GEOGGD9Q1.4.jpg.jpg",
-      "publishedAt": "Fri, 18 Sep 2026 20:03:06 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
     }
   ],
   "sports": [
+    {
+      "title": "Asian Games 2026 Live: Quimcy Dsouza falls in semi-final, bronze medal now in sight",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-live-updates-india-medals-athletics-cricket-teqball-results-scores-live-ceremony-manu-bhaker-20th-asian-games-japan-latest-news/liveblog/134340277.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134340277,imgsize-130074.cms",
+      "publishedAt": "2026-09-19T05:30:00+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Olympiad: Humpy downs 'Greek Goddess' Tsolakidou; Gukesh back above 2700",
+      "description": "Koneru Humpy avenged her recent Global Chess League setbacks against Greece’s Stavroula Tsolakidou, helping India’s women extend their unbeaten run at the Chess Olympiad. In the open section, Gukesh returned to winning ways against Italy’s Sabino Brunello after slipping below 2700. India won the ope",
+      "url": "https://timesofindia.indiatimes.com/sports/chess/chess-olympiad-round-3-koneru-humpy-downs-greek-goddess-tsolakidou-gukesh-back-above-2700/articleshow/134346470.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346836,imgsize-104406.cms",
+      "publishedAt": "2026-09-19T08:20:36+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "What makes Asiad host Nagoya special? A city of cars, football, and sporting legacy",
+      "description": "Nagoya, known for its automobile industry, also boasts a rich sporting heritage. The city’s football culture was transformed by stars Gary Lineker and Dragan Stojkovic, alongside manager Arsene Wenger, who led Nagoya Grampus to major honours. As the Asian Games begin, Nagoya’s sporting legacy is gai",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/what-makes-asian-games-host-nagoya-special-a-city-of-cars-football-and-sporting-legacy/articleshow/134346349.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346401,imgsize-269298.cms",
+      "publishedAt": "2026-09-19T07:51:34+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Zampa becomes only second Australian spinner after Warne to reach 200 ODI wickets",
+      "description": "In a remarkable display of skill, Adam Zampa became the second Australian spinner to achieve 200 ODI wickets. Meanwhile, Travis Head made a significant comeback, scoring a magnificent century of 112 runs. With Australia's defense of a target of 357, they triumphed by 84 runs, securing the series wit",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/adam-zampa-scripts-history-becomes-only-second-australian-spinner-after-shane-warne-to-reach-200-odi-wickets/articleshow/134347706.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347740,imgsize-31212.cms",
+      "publishedAt": "2026-09-19T09:54:01+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "'Haar nahi maanunga': Sujeet's Asian Games gold mission on the road to LA Olympics",
+      "description": "Wrestler Sujeet Kalkal’s Olympic dream was shattered before he could even step on the mat at the Paris qualifiers. Stranded at Dubai airport for three days, he arrived in Kyrgyzstan after the weigh-in had ended. Now, the 23-year-old is looking at the Asian Games as a fresh start. Representing India ",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/haar-nahi-maanunga-sujeet-kalkals-asian-games-2026-gold-mission-on-the-road-to-la-olympics/articleshow/134336297.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134336609,imgsize-25952.cms",
+      "publishedAt": "2026-09-19T06:00:00+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "'It does hurt': Neeraj Chopra opens up on missing Asian Games due to injury",
+      "description": "Neeraj Chopra shared his regret about being sidelined from the Asian Games due to an ankle injury, a significant barrier preventing him from defending his javelin throw title in Nagoya. He highlighted the essential role of support systems during his recovery and expressed gratitude for friends who h",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/it-does-hurt-neeraj-chopra-opens-up-on-missing-asian-games-due-to-injury/articleshow/134347362.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347382,imgsize-89008.cms",
+      "publishedAt": "2026-09-19T09:23:40+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Why Pawan Sehrawat replaced Tajinderpal Singh as India's Asian Games flag-bearer",
+      "description": "Pawan Sehrawat has been chosen as the flag-bearer for India's opening ceremony at the Asian Games, stepping in for Tajinderpal Singh Toor, who faced delays with his official kit. Toor mentioned that his kit would arrive too late to participate in the event. Additionally, the athletics team is still ",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/pawan-sehrawat-replaces-tajinderpal-singh-toor-as-indias-asian-games-flag-bearer/articleshow/134346121.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346127,imgsize-39704.cms",
+      "publishedAt": "2026-09-19T06:23:17+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Asian Games 2026: Quimcy Dsouza loses Teqball semifinal, to battle for bronze",
+      "description": "Quimcy Joaquim Dsouza stands on the brink of making history at the Asian Games as she aims for a bronze medal in Teqball. After a tough semifinal defeat on Saturday, this rookie athlete now has the chance to bring home India's first-ever medal in the sport, which is making its debut at this year's A",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/quimcy-dsouza-loses-teqball-semifinal-one-win-away-from-indias-first-asian-games-2026-medal/articleshow/134346672.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346762,imgsize-79725.cms",
+      "publishedAt": "2026-09-19T08:14:03+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "New Zealand star's India series participation in doubt after freak injury",
+      "description": "Rachin Ravindra's participation in the forthcoming India T20I series is in doubt following a dislocated right shoulder sustained during a promotional event on Wednesday. Initial assessments indicate there are no significant structural injuries to his shoulder. His rehabilitation progress over the ne",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/new-zealand-stars-india-series-participation-in-doubt-after-freak-injury/articleshow/134347172.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347205,imgsize-86436.cms",
+      "publishedAt": "2026-09-19T08:56:09+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "India No. 1 Nagal falls as South Korea take 2-0 lead in Davis Cup tie",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/india-no-1-sumit-nagal-falls-as-south-korea-take-2-0-lead-in-historic-davis-cup-tie/articleshow/134347161.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347188,imgsize-55702.cms",
+      "publishedAt": "2026-09-19T08:52:30+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Star England pacer escapes charges as police drop assault investigation",
+      "description": "Derbyshire Police have concluded their investigation into Brydon Carse's alleged assault, resulting in no charges being filed against the England fast bowler. Previously removed from the England squad for the Pakistan series, Carse faced prior arrest for drunkenness. With the legal proceedings now s",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/star-england-pacer-escapes-charges-as-police-drop-assault-investigation/articleshow/134346589.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346596,imgsize-93006.cms",
+      "publishedAt": "2026-09-19T07:53:20+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
     {
       "title": "BCCI books separate accommodation for men's cricket team at Asian Games",
       "description": "Saikia insisted that the BCCI has faith in the local organisation committee to provide satisfactory on-ground facilities at the match venue despite reports of other Asian cricket boards raising objections about the quality of the ground",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/asian-games-bcci-books-separate-accommodation-for-mens-cricket-team-women-stay-in-games-facilities/articleshow/134338494.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134338536,imgsize-173529.cms",
       "publishedAt": "2026-09-18T20:43:46+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Asian Games 2026: India's full schedule on September 19",
+      "description": "Dsouza will face Indonesia's Sumaya in Saturday's semifinal. A win will guarantee India its first-ever medal in Teqball, one of the six sports making its Asian Games debut.",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-on-september-19-saturday-quimcy-dsouza-in-teqball-semifinal-before-opening-ceremony/articleshow/134339883.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134340035,imgsize-112285.cms",
+      "publishedAt": "2026-09-18T22:36:46+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     },
@@ -770,15 +878,6 @@
       "category": "sports"
     },
     {
-      "title": "Asian Games 2026: India's full schedule on September 19",
-      "description": "Dsouza will face Indonesia's Sumaya in Saturday's semifinal. A win will guarantee India its first-ever medal in Teqball, one of the six sports making its Asian Games debut.",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-on-september-19-saturday-quimcy-dsouza-in-teqball-semifinal-before-opening-ceremony/articleshow/134339883.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134340035,imgsize-112285.cms",
-      "publishedAt": "2026-09-18T22:36:46+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
       "title": "Sehwag shines, Dravid goes ballistic as India beat Australia by seven runs",
       "description": "The match was reduced to 20 overs per side after rain interrupted play at the Niranjan Shah Stadium. India posted 182 for six after being sent in to bat by Aussie skipper Jack Czosnek, with Chauhan making 54 off 34 balls and Anvay, son of former India captain Rahul Dravid, scoring 38 off 18.",
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/dravid-sehwag-and-yashbardhan-chauhan-shine-as-india-u-19-edge-australia-by-seven-runs-in-rajkot-youth-odi/articleshow/134337083.cms",
@@ -802,105 +901,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-indias-quimcy-dsouza-reaches-teqball-semis-one-win-away-from-historic-medal-mixed-doubles-pair-eyes-bronze/articleshow/134334516.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134334985,imgsize-104342.cms",
       "publishedAt": "2026-09-18T17:42:26+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "BCCI to take call on Ajit Agarkar's future, confirms Rajeev Shukla",
-      "description": "Agarkar was appointed chairman of the men's senior selection committee in July 2023, and his contract is scheduled to end next month.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/bcci-to-take-call-on-ajit-agarkars-future-after-agm-authorisation-confirms-rajeev-shukla/articleshow/134331708.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134332088,imgsize-129865.cms",
-      "publishedAt": "2026-09-18T15:40:54+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "100 years of BCCI! Indian cricket board to form committee for year-long celebrations",
-      "description": "The BCCI will celebrate its centenary in 2028 with year-long global events. Celebrations will commence in December 2027 and continue throughout the following year.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/100-years-of-bcci-indian-cricket-board-to-form-committee-for-grand-year-long-celebrations/articleshow/134335751.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134335829,imgsize-123737.cms",
-      "publishedAt": "2026-09-18T18:12:41+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "'Subah Jalandhar, shaam nu Dilli': Abhishek Sharma's pep talk before 30-ball century",
-      "description": "Abhishek tore into the Afghanistan bowling attack, scoring 108 off just 34 balls with 11 sixes. His innings took India to 221 for 7 after Afghanistan chose to field first.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/subah-jalandhar-shaam-nu-dilli-abhishek-sharmas-fiery-punjabi-pep-talk-before-30-ball-century-goes-viral-watch/articleshow/134332850.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134333136,imgsize-131580.cms",
-      "publishedAt": "2026-09-18T16:29:14+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "‘Definitely a shortage’: India’s Chef de Mission admits crisis, reveals additional rooms booked",
-      "description": "India's Chef de Mission acknowledged the struggle with accommodation shortages at the Asian Games. Following a reduction in their allocated rooms, the Indian contingent successfully secured more hotel spaces. Additionally, challenges arose from transport and accreditation logistics, which compounded",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/definitely-a-shortage-indias-chef-de-mission-admits-accommodation-crisis-reveals-additional-rooms-booked/articleshow/134329493.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134329697,imgsize-120656.cms",
-      "publishedAt": "2026-09-18T13:31:12+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Kapur, last to win Asiad gold for India, hopeful golf medal wait will end",
-      "description": "Shiv Kapur hopes India’s golfers can end a 24-year wait for an individual Asian Games gold at Nagoya 2026. India fields six golfers, including Aditi Ashok, Diksha Dagar and Pranavi Urs. Kapur, who won gold at Busan 2002, believes the team’s international experience and recent performances give India",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/shiv-kapur-last-to-win-asian-games-gold-in-golf-for-india-hopeful-two-decade-long-medal-wait-will-end/articleshow/134331815.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134332277,imgsize-50752.cms",
-      "publishedAt": "2026-09-18T15:48:21+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "India script history at Asian Games, register their biggest T20I win",
-      "description": "In a historic display, India Women celebrated their largest T20I win by balls remaining against Japan, successfully chasing down a target of 58 runs in just five overs and leaving 90 balls unused. Their bowling attack was relentless, restricting Japan to a mere 57 runs. Shafali Verma stood out with ",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/india-script-history-at-asian-games-register-their-biggest-t20i-win/articleshow/134330458.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134330504,imgsize-175966.cms",
-      "publishedAt": "2026-09-18T14:24:14+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Asian Games opening ceremony: When and where to watch live in India",
-      "description": "The Asian Games 2026 begin in Aichi-Nagoya, Japan, on September 19, with India aiming to improve on its record 107-medal haul from Hangzhou 2023. Manu Bhaker and Tajinderpal Singh Toor will carry India’s flag at the opening ceremony. In India, the ceremony will be telecast on Sony Sports channels an",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-opening-ceremony-when-and-where-to-watch-live-in-india/articleshow/134331225.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134331348,imgsize-8354726.cms",
-      "publishedAt": "2026-09-18T15:11:57+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "India’s flag bearers revealed: Bhaker, Toor to lead contingent at Asian Games opening",
-      "description": "As the Asian Games opening ceremony approaches, Manu Bhaker and Tajinderpal Singh Toor have been chosen to carry India's flag, symbolising the country's sports spirit. Bhaker, celebrated for her double Olympic medal triumph, recently earned two bronzes at the Paris Olympics. Toor, a leader in shot p",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/indias-flag-bearers-revealed-manu-bhaker-tajinderpal-singh-toor-to-lead-contingent-at-asian-games-opening-ceremony/articleshow/134327751.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134327953,imgsize-135120.cms",
-      "publishedAt": "2026-09-18T12:00:58+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "‘Hardik cannot bowl 10 overs’: Coach Gambhir explains Nitish Reddy's ODI selection",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/afghanistan-tour-of-india/hardik-cannot-bowl-10-overs-coach-gambhir-explains-nitish-kumar-reddys-odi-selection/articleshow/134325277.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134325350,imgsize-152342.cms",
-      "publishedAt": "2026-09-18T09:26:06+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Asian Games: Charani, Shafali help India beat Japan, to face Bangladesh in semis",
-      "description": "In a stunning display of skill, India Women triumphed over Japan with an impressive eight-wicket win in the Asian Games quarter-finals. The Indian bowlers suffocated Japan's innings, allowing them to score just fifty-seven runs. Leading the charge, Shafali Verma's explosive forty runs hastened the c",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-womens-t20/shree-charanis-four-for-shafalis-quick-40-help-india-beat-japan-in-asian-games-quater-finals/articleshow/134328592.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134328747,imgsize-990355.cms",
-      "publishedAt": "2026-09-18T12:41:36+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "One win from history: India’s Quimcy Dsouza storms into Teqball semis at Asian Games",
-      "description": "Quimcy Joaquim Dsouza has advanced to the semifinals of Teqball after a gripping comeback victory over Japan's top seed Yuina Sakamoto. Following this, she showcased her skills by securing a decisive win against Cambodia's Koemyean DY. This outstanding performance not only cements her place in the s",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/one-win-from-history-indias-quimcy-dsouza-stuns-top-seed-to-storm-into-teqball-semis-at-asian-games/articleshow/134326887.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134326948,imgsize-79725.cms",
-      "publishedAt": "2026-09-18T11:04:58+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     }
@@ -1089,6 +1089,159 @@
   ],
   "entertainment": [
     {
+      "title": "Tom Holland and Zendaya spotted going on a date",
+      "description": "Tom Holland and Zendaya were recently seen together in Los Angeles after their Emmy Awards appearance. The couple visited an art gallery, opting for casual yet stylish outfits for their outing. Zendaya wore a black one-shoulder top and a navy skirt, while Holland chose a plaid shirt. This relaxed da",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-and-zendaya-spotted-on-a-casual-art-gallery-date-in-los-angeles-after-walking-the-emmys-red-carpet-together-dune-3-star-shows-off-new-pixie-haircut/articleshow/134348106.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134348232,imgsize-49288.cms",
+      "publishedAt": "2026-09-19T10:34:20+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Gerrit Graham passes away 76, after battle with lung disease",
+      "description": "Gerrit Graham, the esteemed actor known for his roles in horror-comedy and television, has sadly passed away at the age of seventy-six. He transitioned peacefully on September fifteenth after facing lung disease. Fans and colleagues continue to honor his remarkable wit and depth with tributes, ensur",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/phantom-of-the-paradise-star-gerrit-graham-passes-away-at-76-leaves-behind-a-legacy-of-unforgettable-art/articleshow/134347927.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347966,imgsize-199378.cms",
+      "publishedAt": "2026-09-19T10:19:30+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Samay Raina warns Nawazuddin Siddiqui of Ranveer Allahbadia controversy",
+      "description": "Nawazuddin Siddiqui recently appeared on Samay Raina's popular show, India's Got Latent. He discussed his role in the hit series Sacred Games and shared jokes with the host. Raina playfully questioned Siddiqui about his film Thamma, which received mixed reviews. The actor responded humorously to the",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/hindi/samay-raina-warns-nawazuddin-siddiqui-of-ranveer-allahbadia-controversy-during-indias-got-latent-appearance-please-choose-your-words-wisely/articleshow/134347836.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347849,imgsize-343722.cms",
+      "publishedAt": "2026-09-19T10:09:24+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Gondhal' director Santosh Davakhar on Oscars entry",
+      "description": "Filmmaker Santosh Davakhar discussed his vision for 'Gondhal' as India's Oscar entry. He aimed to showcase India's rich cultural identity to international audiences. Davakhar's experiences at global film festivals shaped his approach to the project. He wanted to present Indian traditions and cultura",
+      "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/i-didnt-know-if-people-will-like-this-film-or-not-gondhal-director-santosh-davakhar-on-oscars-entry/articleshow/134347901.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347911,imgsize-171549.cms",
+      "publishedAt": "2026-09-19T10:14:53+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Atlee yet again proves his love for Thalapathy Vijay at 'Baththa' event",
+      "description": "Filmmaker Atlee has expressed deep gratitude towards actor Vijay for his unwavering support throughout his career. This encouragement played a pivotal role in Atlee's choice to helm 'Jawan' featuring Shah Rukh Khan. He also credited Vijay Sethupathi for his integral role in the creation of 'Baththa.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/my-brother-my-thalapathy-atlee-yet-again-proves-his-love-for-thalapathy-vijay-at-baththa-event-raaka-filmmaker-hails-vijays-political-transition/articleshow/134347790.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347793,imgsize-132625.cms",
+      "publishedAt": "2026-09-19T10:01:36+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Nick Reiner has still not been able to access his trust fund while in custody",
+      "description": "Nick Reiner is currently in custody, facing serious murder charges while awaiting trial. His significant trust fund, intended for legal defense, is out of reach due to the Slayer Statute implications. His legal team is seeking court permission to utilize these funds for his commissary and defense co",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/rob-reiner-murder-case-son-nick-reiner-unable-to-access-money-from-trust-fund-for-jail-commissary/articleshow/134347398.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347413,imgsize-521988.cms",
+      "publishedAt": "2026-09-19T09:27:12+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Everyone looked down on N N Pillai and his family'",
+      "description": "Actor Vijayaraghavan shared his childhood experiences with theatre's social stigma.  His family faced societal disapproval for their involvement in acting.  Vijayaraghavan recalled relatives distancing themselves from their theatre-focused household.  He also spoke about his close and friendly relat",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/everyone-looked-down-on-n-n-pillai-and-his-family-vijayaraghavan-recalls-theatre-struggles-my-father-treated-me-like-a-friend/articleshow/134347300.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347307,imgsize-303570.cms",
+      "publishedAt": "2026-09-19T09:10:47+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'I would like to thank my mother, my father...': Jason Sanjay",
+      "description": "At the launch event for the Sigma trailer and audio, filmmaker Jason Sanjay conveyed heartfelt thanks to his family, particularly recognizing the support of his father, the Chief Minister, and his mother. He also expressed appreciation for industry stalwarts like SS Rajamouli and Dulquer Salmaan. Sa",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/i-would-like-to-thank-my-mother-my-father-and-dear-sister-divya-jason-sanjay-thanks-family-at-sigma-audio-launch/articleshow/134347298.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347303,imgsize-194580.cms",
+      "publishedAt": "2026-09-19T09:09:16+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Frankie Muniz shares an emotional update about the struggles he’s facing",
+      "description": "Frankie Muniz recently took to social media to candidly share his emotional journey through a challenging six-week period, describing it as a 'difficult nightmare.' Emphasizing the importance of self-reflection, he expressed optimism that hitting rock bottom could serve as a springboard for personal",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/frankie-muniz-sparks-concern-over-post-on-hitting-rock-bottom-estranged-wife-paige-price-shares-cryptic-note/articleshow/134347143.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347169,imgsize-65116.cms",
+      "publishedAt": "2026-09-19T08:49:46+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Anu Aggarwal recalls coccyx fracture during Dev Anand shoot",
+      "description": "Actress Anu Aggarwal recalled a coccyx fracture during a Dev Anand film shoot. She slipped and fell onto a car, sustaining the painful injury. Production troubles later halted the film's progress due to a lack of funds. Aggarwal had already planned a spiritual retreat in France at that time. This in",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-was-living-alone-and-there-was-no-one-from-the-production-helped-anu-aggarwal-recalls-coccyx-fracture-during-dev-anand-shoot/articleshow/134347044.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134347065,imgsize-175757.cms",
+      "publishedAt": "2026-09-19T08:41:55+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Alienation from children PAINED Brad Pitt: Reports",
+      "description": "Brad Pitt faces headlines regarding his children dropping his surname amid divorce battles. A source claims Jolie created parental alienation, which she disputes. Pitt reportedly struggles with estrangement from his six children, which is very painful. He previously battled alcohol but now drinks in",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-divorce-from-angelina-jolie-was-bad-but-alienation-from-children-was-the-worst-reports/articleshow/134346432.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346940,imgsize-122748.cms",
+      "publishedAt": "2026-09-19T08:31:01+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Dhoomakethu' trailer out: Sajin lead time-loop comedy",
+      "description": "The trailer for Malayalam film Dhoomakethu has been released, promising a unique time travel narrative.  The movie centers on a newly married couple caught in a mysterious repeating cycle.  Sajin Gopu's character searches for answers after a deadly sequence of events occurs.  This intriguing film ex",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/dhoomakethu-trailer-out-sajin-gopu-trapped-in-deadly-time-loop-after-marriage-watch/articleshow/134346652.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346663,imgsize-235640.cms",
+      "publishedAt": "2026-09-19T07:57:39+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "SS Rajamouli launches trailer of Jason Sanjay's 'Sigma,' a fun adventure ride",
+      "description": "Exciting news! The trailer for 'Sigma', directed by Jason Sanjay, has been unveiled, sparking a flurry of anticipation. Renowned filmmaker SS Rajamouli credited the movie as an exhilarating, youthful adventure. Featuring Sundeep Kishan, 'Sigma' explores a gripping heist infused with dark underworld ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/ss-rajamouli-launches-trailer-of-sigma-says-vijays-son-jason-sanjays-film-is-a-fun-adventure-ride-with-gen-z-action/articleshow/134346608.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346619,imgsize-90569.cms",
+      "publishedAt": "2026-09-19T07:52:24+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Oscars 2027: List of International Feature Film submissions",
+      "description": "The Marathi film 'Gondhal' will represent India at the 99th Academy Awards. This film unfolds over a night centered around a traditional ritual. It explores themes of faith, tradition, desire, deception, and fate. The selection marks the fourth time a Marathi film has been chosen. India has never wo",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/oscars-2027-international-feature-film-submissions-indias-gondhal-to-compete-against-romanias-fjord-frances-minotaur-polands-fatherland/articleshow/134346057.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346194,imgsize-237758.cms",
+      "publishedAt": "2026-09-19T06:45:55+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Dorothy' trailer out: Keerthy Suresh in Karthik Subbaraj film",
+      "description": "The much-anticipated trailer for Karthik Subbaraj's 'Dorothy' is finally out, receiving an enthusiastic response from viewers. This poignant film delves into themes of friendship and social discord in the rural landscapes of 1990s India. With Keerthy Suresh and Sananth leading the cast, it made a no",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dorothy-trailer-out-keerthy-suresh-leads-karthik-subbaraj-film-fans-call-it-raw-and-rustic-watch/articleshow/134346177.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346185,imgsize-185054.cms",
+      "publishedAt": "2026-09-19T06:43:50+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "In 1968, Dom DeLuise invested USD 103,000 in a ranch and sold it for USD 6.49 million",
+      "description": "In 1968, actor Dom DeLuise acquired a Pacific Palisades ranch for just USD 103,000. Following his death, the property sold for a remarkable USD 6.5 million, highlighting an impressive appreciation over fifty-three years. The new owners replaced the original structure with a contemporary home, which ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1968-dom-deluise-spent-usd-103000-on-a-ranch-the-property-was-sold-for-a-whopping-usd-6-49-million-after-53-years/articleshow/134346151.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346158,imgsize-202064.cms",
+      "publishedAt": "2026-09-19T06:31:44+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Bethlehem Kudumba Unit' BO day 29 vs 'Im Game'",
+      "description": "Nivin Pauly's film 'Bethlehem Kudumba Unit' earned over one crore rupees on its twenty-ninth day.  The movie's India net collection has now reached one hundred fifty-three crore rupees.  Worldwide gross collections for the film have surpassed three hundred fifteen crore rupees.  Overseas markets con",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/bethlehem-kudumba-unit-box-office-collections-day-29-vs-im-game-nivin-pauly-film-drops-1-9-rs-315-37-cr-worldwide-rs-153-23-cr-india-net/articleshow/134346077.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134346082,imgsize-477629.cms",
+      "publishedAt": "2026-09-19T06:12:10+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "'Mandaadi' BO day 9 vs Karthi's 'Sardar 2'",
       "description": "Soori's film 'Mandaadi' continued its steady theatrical run, showing growth on its ninth day. The movie earned Rs 3.50 crore in India net collections on its second Friday. This collection brought the film's total India net earnings to Rs 60.80 crore. The Tamil version contributed the larger share to",
       "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mandaadi-box-office-collection-day-9-vs-karthis-sardar-2-sooris-film-rises-7-7-rs-84-75-cr-worldwide/articleshow/134346050.cms",
@@ -1116,156 +1269,12 @@
       "category": "entertainment"
     },
     {
-      "title": "'Hanuman Ansh' Day 43 Box Office: Vishal Chaturvedi film records 20.0% drop",
-      "description": "Hanuman Ansh continues its theatrical run, earning Rs 5.00 crore on its forty-third day. The film's total India net collection has now reached Rs 248.38 crore. Its worldwide gross collection has climbed to Rs 316.30 crore after earning overseas. The movie experienced a 20.0 percent drop in earnings ",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-43-vishal-chaturvedi-film-records-20-0-drop-rs-316-30-cr-worldwide-gross-rs-248-38-cr-india-net/articleshow/134345835.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345847,imgsize-260359.cms",
-      "publishedAt": "2026-09-19T05:32:05+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Spider-Man' extends theatrical run to Nov 16; OTT release delayed",
-      "description": "Spider-Man: Brand New Day's theatrical run may extend through November 16. The film has achieved record-breaking box-office success both domestically and globally. Its exclusive theatrical window is reportedly being extended by Sony Pictures and exhibitors. This extension could impact the previously",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-holland-starring-spider-man-brand-new-day-extends-theatrical-run-to-november-16-amid-box-office-success-ott-release-to-be-delayed/articleshow/134345572.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345804,imgsize-357178.cms",
-      "publishedAt": "2026-09-19T05:18:54+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'World War Z 2': Brad Pitt returns as lead in zombie thriller",
-      "description": "Brad Pitt will reprise his role in the long-awaited 'World War Z' sequel. Edward Berger is set to direct the zombie thriller, marking a reunion with Pitt. The project was previously stalled but is now a high priority for Paramount Pictures. Dennis Kelly is attached to write the screenplay for the up",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/brad-pitts-long-awaited-world-war-z-2-finally-in-motion-director-edward-berger-to-helm-high-priority-zombie-thriller/articleshow/134344024.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345504,imgsize-309406.cms",
-      "publishedAt": "2026-09-19T03:53:48+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Lily Collins wraps up final season of 'Emily in Paris'",
-      "description": "Actress Lily Collins shared an emotional farewell to her Emily Cooper character. She posted behind-the-scenes pictures and a heartfelt message on Instagram. Collins expressed gratitude to the cast, crew, and creator Darren Star for the experience. She reflected on the surreal and bittersweet feeling",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lily-collins-wraps-up-final-season-of-emily-in-paris-bids-adieu-to-her-character-au-revoir-emily-cooper/articleshow/134344017.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134345531,imgsize-305383.cms",
-      "publishedAt": "2026-09-19T04:11:13+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Why 'Dhurandhar' lost to 'Gondhal' in Oscar race; jury member EXPLAINS",
-      "description": "The Marathi thriller 'Gondhal' has been chosen to represent India at the 99th Academy Awards following a comprehensive evaluation by a jury. This exceptional film showcases the richness of Indian culture and traditions, which contributed to its selection. In contrast, 'Dhurandhar,' featuring Ranveer",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/why-dhurandhar-lost-to-gondhal-in-oscar-race-jury-member-reveals-ranveer-singh-starrer-got-just-4-votes/articleshow/134340915.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134341102,imgsize-789449.cms",
-      "publishedAt": "2026-09-18T23:13:17+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Prajakta Mali sells her Goregaon flat for Rs 1.12 crore days after...",
-      "description": "Actress Prajakta Mali recently sold her Goregaon East apartment for Rs 1.12 crore. This property transaction occurred after she purchased another apartment in the same locality. The recently sold flat spanned 473 square feet and was registered on September 10, 2026. Mali also has upcoming projects i",
-      "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/prajakta-mali-sells-her-goregaon-flat-for-rs-1-12-crore-days-after-buying-a-rs-6-42-crore-home-report/articleshow/134339815.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134339928,imgsize-267350.cms",
-      "publishedAt": "2026-09-18T22:21:48+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Gondhal' director on film becoming India's Oscar entry: 'We have a rich...'",
-      "description": "In an exciting development, the Marathi film 'Gondhal' has been selected as India's representative for the 99th Academy Awards. Filmmaker Santosh Davakhar expressed his enthusiasm, noting that preparations for an Oscar campaign are already in motion. The film delves into cultural narratives and soci",
-      "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/news/santosh-davakhar-director-of-gondhal-on-film-becoming-indias-official-oscar-entry-we-have-a-rich-culture-and-heritage-and-we-should-represent-india-through-good-cinema/articleshow/134339143.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134339400,imgsize-816756.cms",
-      "publishedAt": "2026-09-18T21:40:52+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Ranbir, Alia, Neetu perform Ganpati Visarjan, hide Raha's face: PICS inside",
-      "description": "In a touching ceremony, Ranbir Kapoor, Alia Bhatt, and Neetu Kapoor proudly took part in Ganpati visarjan. The family engaged in the final rituals and joyfully joined the procession to send off Bappa. Dressed in a kurta, Ranbir barefooted carried the intricately decorated idol, while Alia embraced a",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-alia-bhatt-neetu-kapoor-perform-ganpati-visarjan-hide-rahas-face-while-posing-for-the-paparazzi-chant-ganpati-bappa-morya-pics-inside/articleshow/134338800.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134338848,imgsize-436292.cms",
-      "publishedAt": "2026-09-18T21:07:35+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "KJo, Prince William discuss India's rain crisis ahead of Earthshot Prize",
-      "description": "Karan Johar met Prince William in London ahead of the 2026 Earthshot Prize in Mumbai. The duo discussed India’s inadequate rainfall, farmers facing water stress and environmental solutions. Johar also spoke about the 15 finalists and five winners, who will each receive £1 million to scale their work",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/karan-johar-meets-prince-william-in-london-ahead-of-earthshot-prize-2026-in-mumbai-duo-discuss-indias-rain-crisis-farmers-under-stress-environmental-solutions-15-finalists-and-1-million-prize-for-each-winner/articleshow/134338616.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134338795,imgsize-110677.cms",
-      "publishedAt": "2026-09-18T21:04:12+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Hrithik likes post slamming trolls for body-shaming Katrina",
-      "description": "At the Ambani celebrations, Katrina Kaif caught the eye of social media, but not all attention was flattering, with body-shaming comments surfacing online. Fortunately, fan support was strong, including a like from Hrithik Roshan on an encouraging post. An Instagram creator stood up against the nega",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-faces-trolling-over-post-pregnancy-body-hrithik-roshan-shows-support-as-he-likes-post-calling-out-trolls-your-commentary-on-her-wont-affect-her/articleshow/134337681.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134337755,imgsize-299742.cms",
-      "publishedAt": "2026-09-18T19:48:07+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Tukaram Mundhe says SRK, Ajay Devgn, Tiger Shroff are 'violators of the law'",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tukaram-mundhe-says-shah-rukh-khan-ajay-devgn-tiger-shroff-are-violators-of-the-law-as-he-speaks-on-their-elaichi-ad-row-there-is-a-responsibility-cast-upon-the-person-who-is-advertising-it/articleshow/134330781.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134330862,imgsize-274683.cms",
-      "publishedAt": "2026-09-18T14:37:39+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Shruti Hassan says she prayed about thousand times that men get periods",
-      "description": "Shruti Haasan is championing the cause of menstrual health awareness and advocating for period leave. She expressed her desire for men to understand the challenges of menstruation to build empathy for those who experience it. Sharing her own battles with painful periods caused by PCOS, Haasan emphas",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shruti-hassan-says-she-prayed-about-thousand-times-that-men-get-periods-reveals-having-pcos-it-would-be-so-collaborative-if-you-knew-what-i-was-going-through/articleshow/134336096.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134336174,imgsize-108685.cms",
-      "publishedAt": "2026-09-18T18:26:31+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Marathi film 'Gondhal' selected as India's official entry for Oscars 2027",
-      "description": "The Marathi film 'Gondhal' has been selected to represent India at the 99th Academy Awards. Set against the backdrop of a traditional ritual in rural Maharashtra, this film was chosen from a pool of thirty-three entries by the selection committee. Notably, it is the fourth Marathi film to earn an Os",
-      "url": "https://timesofindia.indiatimes.com/entertainment/marathi/movies/marathi-film-gondhal-selected-as-indias-official-entry-for-oscars-2027-by-film-federation-chosen-from-33-contenders/articleshow/134332821.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134332897,imgsize-363246.cms",
-      "publishedAt": "2026-09-18T16:16:46+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Deepika-Ranveer visit Siddhivinayak ahead of second baby's arrival",
-      "description": "Ranveer Singh and Deepika Padukone visited Siddhivinayak Temple for their second baby. Ranveer also visited Lalbaugcha Raja to offer thanks and seek blessings. He pledged to support the education of one thousand girls during his visit. The couple recently shared maternity photos featuring their daug",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/deepika-padukone-ranveer-singh-twin-in-purple-as-they-visit-siddhivinayak-temple-ahead-of-second-babys-arrival-couple-did-the-same-before-dua-was-born/articleshow/134331608.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134332023,imgsize-365915.cms",
-      "publishedAt": "2026-09-18T15:36:42+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Salman Khan reprimands driver after fan’s foot reportedly gets caught under car",
-      "description": "In a recent incident that occurred during Ganpati festivities outside Ashish Shelar’s residence, Salman Khan was seen scolding his driver after a fan was hurt. Footage captured his frustration as the car pushed through a throng of fans. While some commenters criticized him, others came to his defens",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reprimands-driver-after-fans-foot-reportedly-gets-caught-under-car-during-chaos-due-to-ganpati-celebrations-netizens-react-watch-viral-video/articleshow/134337689.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134337831,imgsize-437873.cms",
-      "publishedAt": "2026-09-18T19:50:57+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Mirzapur The Movie' inches closer to Rs 300 crore in 15 days",
-      "description": "‘Mirzapur The Movie’ has entered Day 15 of its theatrical run after crossing the Rs 200 crore mark in India. The Pankaj Tripathi, Ali Fazal and Ravi Kishan starrer has collected Rs 203.63 crore India net so far. With its worldwide gross at around Rs 292 crore, the Gurmmeet Singh directorial is now w",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/mirzapur-the-movie-box-office-collection-day-15-live-pankaj-tripathi-ali-fazal-and-ravi-kishan-inches-closer-to-rs-205-crore-india-net-and-rs-300-crore-worldwide-gross-milestones/articleshow/134329344.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134329569,imgsize-96779.cms",
-      "publishedAt": "2026-09-18T13:22:55+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Priyadarshan says he still doesn't 'know how to make a successful film'",
-      "description": "Filmmaker Priyadarshan candidly reveals that underlying insecurity propels his cinematic journey. Despite directing ninety-eight films, he grapples with self-doubt regarding his success. His newest endeavor, Haiwaan, featuring Akshay Kumar and Saif Ali Khan, has faced challenges at the box office, a",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/im-a-very-insecure-person-priyadarshan-admits-he-still-doesnt-know-how-to-make-a-successful-film-after-98-movies-amid-akshay-kumar-and-saif-ali-khan-starrer-haiwaans-box-office-failure/articleshow/134337116.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134337225,imgsize-556652.cms",
-      "publishedAt": "2026-09-18T19:14:31+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "title": "CONFIRMED: Ajay Devgn-starrer Ranger pushed to 2027; WON’T clash with Akshay Kumar-Vidya Balan’s comic caper, Eetha",
+      "description": "Ajay Devgn is currently gearing up for the much-awaited Drishyam The Conclusion. The thriller releases in cinemas on October 2 and marks the veteran actor’s second release of the year after the super-hit Dhamaal 4. His next film, tentatively-titled Ranger, co-starring Sanjay Dutt and Tamannaah Bhati",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/confirmed-ajay-devgn-starrer-ranger-pushed-to-2027-wont-clash-with-akshay-kumar-vidya-balans-comic-caper-eetha/",
+      "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/09/Ajay-Devgn-620.jpeg",
+      "publishedAt": "Sat, 19 Sep 2026 10:17:29 +0200",
+      "source": "Latest Bollywood News | Hindi Movie News | Hindi Cinema News | Indian Movies | Films - Bollywood Hungama",
       "category": "entertainment"
     },
     {
@@ -1436,15 +1445,6 @@
       "url": "https://www.bollywoodhungama.com/news/bollywood/diljit-dosanjh-announces-ahmedabad-concert-at-narendra-modi-stadium-on-november-21-after-sold-out-wembley-show/",
       "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/09/DIljit-Dosanjh-Concert.jpeg",
       "publishedAt": "Wed, 16 Sep 2026 16:51:06 +0200",
-      "source": "Latest Bollywood News | Hindi Movie News | Hindi Cinema News | Indian Movies | Films - Bollywood Hungama",
-      "category": "entertainment"
-    },
-    {
-      "title": "Vijay Varma announces Matka King season 2 with first episode script: \"Ek aur baazi\"",
-      "description": "Vijay Varma has confirmed that Matka King will return for a second season. The actor shared the update on social media, putting an end to speculation surrounding a cryptic post he had shared a day earlier.On Tuesday, Vijay had posted a picture expressing gratitude to spiritual leader Gurudev Sri Sri",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/vijay-varma-announces-matka-king-season-2-with-first-episode-script-ek-aur-baazi/",
-      "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/09/Vijay-Varma-confims-Matka-King-Season-2.jpeg",
-      "publishedAt": "Wed, 16 Sep 2026 15:39:08 +0200",
       "source": "Latest Bollywood News | Hindi Movie News | Hindi Cinema News | Indian Movies | Films - Bollywood Hungama",
       "category": "entertainment"
     }
@@ -1633,6 +1633,15 @@
   ],
   "science": [
     {
+      "title": "Human activity adds more nitrogen than nature in a quarter of coastal waterways",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/a-new-study-found-human-activity-adds-more-nitrogen-than-all-natural-sources-combined-in-a-quarter-of-the-worlds-coastal-waterways-with-the-gulf-of-mexico-among-the-major-hotspots/articleshow/134337327.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134337406,imgsize-185147.cms",
+      "publishedAt": "2026-09-19T08:52:32+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "Quote of the day by Albert Einstein: \"Everything should be made as simple as...\"",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/science/discovery/quote-of-the-day-by-albert-einstein-everything-should-be-made-as-simple-as-possible-but-not-simpler/articleshow/134343495.cms",
@@ -1802,16 +1811,7 @@
       "publishedAt": "2026-09-17T16:27:09+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
-    },
-    {
-      "title": "Scientists solve mystery of black hole burps and when they launch jets",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/space/scientists-solve-mystery-of-black-hole-burps-new-study-reveals-when-these-cosmic-objects-launch-powerful-jets-after-eating-stars/articleshow/134310809.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134310955,imgsize-1100359.cms",
-      "publishedAt": "2026-09-18T09:40:00+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
     }
   ],
-  "last_updated": "2026-09-19 06:20:48 AM"
+  "last_updated": "2026-09-19 10:51:14 AM"
 }
