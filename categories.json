@@ -1,17 +1,8 @@
 {
   "general": [
     {
-      "title": "'My son was killed, tortured': Mother of IIT-Bombay student seeks justice after his death",
-      "description": "An IIT Bombay student died by suicide in his hostel room after he was allegedly caught using a mobile phone during an exam, triggering protests on campus. The institute said no disciplinary action had been initiated and that the student had been counselled, while his mother alleged torture and deman",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/my-son-was-killed-tortured-mother-of-iit-bombay-student-seeks-justice-after-his-death/articleshow/134352865.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134353269,imgsize-140090.cms",
-      "publishedAt": "Sat, 19 Sep 2026 17:05:28 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Iran gives US 3 conditions to restart talks, says ‘threats won't achieve results’",
-      "description": "Iran has laid out three key prerequisites for Washington to consider in order to resolve the ongoing conflict. These include halting military actions, unfreezing financial assets, and lifting the naval blockade. Tehran has also voiced its readiness for a decisive confrontation amidst potential US ac",
+      "title": "'Trump's threats won't achieve results’: Iran conveys terms to US for restarting talks",
+      "description": "Iran has officially presented seven demands to Washington for resuming negotiations, emphasizing the need to conclude hostilities and unfreeze assets. Alongside this diplomatic approach, Iran is readying itself for potential US military actions, adapting its military strategy to prioritize naval cap",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-gives-us-3-conditions-to-restart-talks-says-trumps-threats-will-not-achieve-results/articleshow/134360212.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134360239,imgsize-80168.cms",
       "publishedAt": "Sun, 20 Sep 2026 01:45:37 +0530",
@@ -19,11 +10,20 @@
       "category": "general"
     },
     {
-      "title": "PM Modi pushes back on West’s narrative over emissions",
+      "title": "As monsoon withdrawal begins, season may end with 10% deficit",
+      "description": "14 States Have Reported Rain Deficit Of More Than 20% So Far",
+      "url": "https://timesofindia.indiatimes.com/india/as-monsoon-withdrawal-begins-season-may-end-with-10-deficit/articleshow/134360430.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134360437,imgsize-66252.cms",
+      "publishedAt": "Sun, 20 Sep 2026 03:20:59 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "ASI Harjit Singh murdered: Key suspect shot dead in police encounter in Amritsar",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134360295,imgsize-116682.cms",
-      "publishedAt": "Sun, 20 Sep 2026 02:22:39 +0530",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/asi-killing-key-suspect-shot-dead-in-police-encounter-in-amritsar/articleshow/134359728.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134341730,imgsize-73514.cms",
+      "publishedAt": "Sun, 20 Sep 2026 00:33:13 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -37,15 +37,6 @@
       "category": "general"
     },
     {
-      "title": "'Only high IQ individuals need apply': Trump announces 'AI Force'",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134358515,imgsize-64754.cms",
-      "publishedAt": "Sat, 19 Sep 2026 23:18:44 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Atlanta man arrested after phone wipe; new ruling allows border searches",
       "description": "US border agents can now search traveler cellphones without reasonable suspicion or a warrant. A recent court ruling affirmed this broad authority at international borders. This decision follows an incident where a phone was wiped during an airport search. The ruling impacts traveler privacy and gov",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/an-american-citizen-was-arrested-at-atlanta-airport-for-wiping-his-phone-with-pin-during-airport-search-heres-what-new-court-ruling-says-on-phone-and-laptop-searches/articleshow/134350858.cms",
@@ -55,11 +46,128 @@
       "category": "general"
     },
     {
+      "title": "UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap",
+      "description": "The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134356410,imgsize-592720.cms",
+      "publishedAt": "Sat, 19 Sep 2026 21:00:36 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Govt gets moving on monetising surplus realty",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/govt-gets-moving-on-monetising-surplus-realty/articleshow/134362296.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134362301,imgsize-84360.cms",
+      "publishedAt": "Sun, 20 Sep 2026 04:25:16 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Only high IQ individuals need apply': Trump announces 'AI Force'",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/only-high-iq-individuals-need-apply-trump-announces-ai-force/articleshow/134358415.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134358515,imgsize-64754.cms",
+      "publishedAt": "Sat, 19 Sep 2026 23:18:44 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Why parents keep old report cards and childhood drawings, according to psychology",
+      "description": "For parents, childhood drawings and school assignments go beyond mere artifacts of nostalgia; they encapsulate rich autobiographical memories and poignant family moments. Studies reveal that nostalgic feelings can elevate the perceived value of these everyday objects. Furthermore, these keepsakes se",
+      "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/psychology-says-parents-who-keep-old-report-cards-and-childhood-drawings-may-be-preserving-a-part-of-their-own-life-story-not-just-memories/articleshow/134350487.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134350512,imgsize-155412.cms",
+      "publishedAt": "Sat, 19 Sep 2026 14:20:16 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "PM Modi pushes back on West’s narrative over emissions",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/pm-pushes-back-on-wests-narrative-over-emissions/articleshow/134360293.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134360295,imgsize-116682.cms",
+      "publishedAt": "Sun, 20 Sep 2026 02:22:39 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Ken Griffey Jr.'s $2.5M Orlando estate now listed for $27m",
+      "description": "Baseball legend Ken Griffey Jr. has placed his stunning lakeside mansion on the market for $27 million. Acquired in 2004, he dedicated four years to crafting this Mediterranean-style masterpiece, featuring seven luxurious bedrooms and ten bathrooms. The estate boasts exceptional amenities, including",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2004-ken-griffey-jr-paid-2-575-million-for-11-58-lakefront-acres-near-orlando-four-years-later-he-completed-a-22108-sq-ft-custom-mansion-and-the-estate-is-now-listed-for-27-million/articleshow/134343702.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134343745,imgsize-2400860.cms",
+      "publishedAt": "Sat, 19 Sep 2026 02:03:23 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Alaska’s largest recorded gold nugget, found in 1998, later sold for $750,000",
+      "description": "In Alaska, a miner's incredible find of a massive gold and quartz specimen led to the unveiling of the largest gold nugget ever discovered in the state. Weighing over twenty pounds, this extraordinary piece, known as the Alaska Centennial Nugget, was held in a private collection until it hit the auc",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1998-alaska-miner-barry-clay-was-pushing-dirt-with-a-bulldozer-near-ruby-when-he-uncovered-a-294-1-ounce-gold-nugget-23-years-later-the-states-largest-recorded-nugget-sold-for-750000/articleshow/134329083.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134329207,imgsize-2005794.cms",
+      "publishedAt": "Sat, 19 Sep 2026 14:04:29 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Johnny Carson’s Malibu estate once asked $81.5m, finally sold for $40m",
+      "description": "Johnny Carson's iconic Malibu estate has embarked on quite a price adventure. Initially acquired for around nine point five million dollars, the property was later listed at eighty-one point five million dollars. It ultimately sold for forty million dollars in 2019 and has now returned to the market",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-1984-johnny-carson-bought-a-4-acre-malibu-estate-for-about-9-5-million-decades-later-subsequent-owners-asked-81-5-million-before-the-property-finally-sold-for-40-million-after-major-price-cuts/articleshow/134327665.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134350725,imgsize-169824.cms",
+      "publishedAt": "Sat, 19 Sep 2026 14:03:36 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Ellen DeGeneres’ restored Santa Barbara farmhouse relisted for $14.75 million",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/ellen-degeneres-and-portia-de-rossi-paid-6-7-million-for-a-1917-santa-barbara-farmhouse-in-2018-spent-a-year-restoring-it-sold-it-in-2019-and-its-now-relisted-for-14-75-million/articleshow/134350897.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134350962,imgsize-117730.cms",
+      "publishedAt": "Sat, 19 Sep 2026 14:28:11 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "92% plunge in H-1B filings by IT firms after Trump’s $100K fee",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/trump-extends-100k-h-1b-visa-fee-until-sept-2027-but-court-stay-remains-white-house-cites-plunge-in-filings-by-it-cos/articleshow/134350381.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134350556,imgsize-88604.cms",
+      "publishedAt": "Sat, 19 Sep 2026 13:45:39 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "She paid Rs 79l for Rs 2.14cr villa, but it stayed unfinished; RERA orders refund",
       "description": "The Telangana RERA authority noted that the builder had already collected Rs 79 lakh, but had not placed any material on record showing the current status of construction of the villa.",
       "url": "https://timesofindia.indiatimes.com/business/india-business/woman-paid-rs-79-lakh-for-a-rs-2-14-crore-villa-but-construction-remained-unfinished-telangana-rera-orders-full-refund-with-10-7-interest-and-fines-builder-rs-1-03-crore/articleshow/134326814.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134327833,imgsize-653776.cms",
       "publishedAt": "Fri, 18 Sep 2026 11:52:48 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Morning-after pills may get 4 boxed warnings",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/india/morning-after-pills-may-get-4-boxed-warnings/articleshow/134362327.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134362329,imgsize-33758.cms",
+      "publishedAt": "Sun, 20 Sep 2026 04:37:09 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Tom Brady opens up about his mistakes in fatherhood",
+      "description": "Tom Brady, the seven time Super Bowl champion, has opened up about fatherhod and his mistakes.",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/being-a-great-football-player-didnt-make-me-a-great-dad-tom-brady-makes-an-emotional-remark-about-fatherhood-and-the-regrets-he-has-had/articleshow/134360354.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134360356,imgsize-691614.cms",
+      "publishedAt": "Sun, 20 Sep 2026 03:02:22 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Stephen Curry’s Oakland charity shares a milestone",
+      "description": "Stephen Curry, the four time NBA champion, and his wife, Ayesha Curry's charity, Eat, Learn &amp; Play has made an update on their achievemetns.",
+      "url": "https://timesofindia.indiatimes.com/sports/nba/top-stories/stephen-curry-and-ayesha-currys-charity-reflects-on-one-of-their-milestone-moments-in-oakland-ahead-of-the-new-season/articleshow/134360291.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134360294,imgsize-788270.cms",
+      "publishedAt": "Sun, 20 Sep 2026 02:32:10 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -82,6 +190,24 @@
       "category": "general"
     },
     {
+      "title": "'Nothing is wrong': Salman Khan's BB 20 promo sparks health concerns",
+      "description": "Bigg Boss host Salman Khan took to social media to clarify recent concerns about his health following a dramatic promo release. He revealed that the chest pain depicted was merely a message directed at contestant Qazi and expressed his displeasure with how the promo was edited, emphasizing its misle",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/bigg-boss-20-salman-khan-breaks-silence-after-promo-sparks-health-concerns-says-nothing-is-wrong-i-apologise/articleshow/134360355.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134360438,imgsize-518845.cms",
+      "publishedAt": "Sun, 20 Sep 2026 03:16:07 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'My son was killed, tortured': Mother of IIT-Bombay student seeks justice after his death",
+      "description": "An IIT Bombay student died by suicide in his hostel room after he was allegedly caught using a mobile phone during an exam, triggering protests on campus. The institute said no disciplinary action had been initiated and that the student had been counselled, while his mother alleged torture and deman",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/my-son-was-killed-tortured-mother-of-iit-bombay-student-seeks-justice-after-his-death/articleshow/134352865.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134353269,imgsize-140090.cms",
+      "publishedAt": "Sat, 19 Sep 2026 17:05:28 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "SC 'banyan tree' of environmental justice: CJI Surya Kant",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/india/sc-banyan-tree-of-environmental-justice-cji-surya-kant/articleshow/134360298.cms",
@@ -96,42 +222,6 @@
       "url": "https://timesofindia.indiatimes.com/defence/news/army-chiefs-military-talks-in-russia-focus-on-artillery-modernisation-capability-development/articleshow/134360116.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134360127,imgsize-121074.cms",
       "publishedAt": "Sun, 20 Sep 2026 01:13:33 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Harvard students build headset to screen for concussions in about 60 seconds",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/three-harvard-students-built-a-low-cost-infrared-headset-designed-to-screen-athletes-for-possible-concussions-in-about-60-seconds-it-won-the-6500-us-james-dyson-award-but-still-needs-validation/articleshow/134353190.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134353239,imgsize-159504.cms",
-      "publishedAt": "Sun, 20 Sep 2026 02:50:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Human brain tissue grew to fill over 90% of missing cortex in mice",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/stanford-scientists-transplanted-human-brain-tissue-into-mice-missing-most-of-their-cortex-within-months-it-grew-to-occupy-more-than-90-of-the-space/articleshow/134353316.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134353408,imgsize-74758.cms",
-      "publishedAt": "Sun, 20 Sep 2026 02:55:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "H1-B visa price hike extension: How this will impact Indian engineers, technicians",
-      "description": "President Donald Trump has decided to maintain H-1B visa restrictions for an additional twelve months, extending their duration until September 21, 2027. Alongside this, a $100,000 fee will be required for select foreign professionals entering the U.S. This measure poses significant challenges for I",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/h1-b-visa-price-hike-gets-extension-till-september-2027-how-this-will-impact-indian-engineers-technicians-and-others-who-want-to-work-in-the-us/articleshow/134350549.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134350561,imgsize-78644.cms",
-      "publishedAt": "Sat, 19 Sep 2026 13:46:14 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Rod Stewart’s former LA estate sold in two deals totaling $86 million",
-      "description": "A legendary estate in Holmby Hills, previously owned by Rod Stewart, has fetched an impressive $86 million. The sprawling six-acre property was split into two parcels, with television producer David Zander acquiring the main mansion for $57 million. Meanwhile, Nick Kaiser purchased a smaller parcel ",
-      "url": "https://timesofindia.indiatimes.com/real-estate/in-1992-rod-stewart-sold-his-1925-los-angeles-mansion-for-6-25-million-after-a-two-year-restoration-and-estate-expansion-the-nearly-6-acre-compound-sold-in-two-deals-totaling-86-million/articleshow/134341162.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134343028,imgsize-2032708.cms",
-      "publishedAt": "Sat, 19 Sep 2026 01:03:10 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -159,24 +249,6 @@
       "url": "https://timesofindia.indiatimes.com/india/i-knew-this-was-the-end-of-my-career-ajit-doval-recalls-when-his-agents-were-captured-by-china/articleshow/134356490.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134356531,imgsize-544562.cms",
       "publishedAt": "Sat, 19 Sep 2026 21:02:20 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Coco Gauff slammed fake online profiles scamming fans before the China Open",
-      "description": "Coco Gauff, the 22 year old tennis star, has found herself in a mess now as a scammer has been impersonating her.",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/stop-pretending-to-be-me-coco-gauff-dragged-into-a-new-controversy-days-after-losing-in-the-2026-us-open-as-she-eyes-a-win-in-the-china-open/articleshow/134356287.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134356366,imgsize-622726.cms",
-      "publishedAt": "Sun, 20 Sep 2026 02:31:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "17-year-old Liam Anderson breaks bench press record twice with 396, 402 pounds",
-      "description": "Liam Anderson has officially set a new American powerlifting record, and moments later, he astonishingly surpassed his own achievement during the same competition. After one month of dedicated training for this moment, the athlete, who first entered competitive lifting in 2025, is eyeing ambitious n",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/at-17-new-york-student-liam-anderson-breaks-national-bench-press-record-with-396-pounds-then-breaks-his-own-record-again-with-402-pounds/articleshow/134360016.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-47529300.cms",
-      "publishedAt": "Sun, 20 Sep 2026 01:20:35 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -262,15 +334,6 @@
       "category": "general"
     },
     {
-      "title": "UPI MDR: Can Rs 6,000 be split into three Rs 2,000 payments? No daily cap",
-      "description": "The NPCI framework and the FAQs issued with it do not stipulate that multiple payments relating to a single bill must be clubbed together. Such a restriction, if in place, could prevent businesses from breaking up larger payments into multiple transactions of Rs 2,000 or less.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/upi-mdr-is-coming-can-a-rs-6000-bill-be-split-into-three-rs-2000-payments-to-avoid-charges-for-now-npci-has-no-daily-cap/articleshow/134356384.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134356410,imgsize-592720.cms",
-      "publishedAt": "Sat, 19 Sep 2026 21:00:36 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "18 years after the 2008 financial meltdown: How a crisis born in US reshaped India",
       "description": "The 2008 global financial crisis hit India through markets, capital flows and trade, but its banking system remained resilient. The shock exposed gaps in financial resolution and regulation, prompting reforms including the IBC, stronger safeguards for systemically important banks and higher buffers.",
       "url": "https://timesofindia.indiatimes.com/business/india-business/18-years-after-the-2008-financial-meltdown-how-a-crisis-born-in-us-reshaped-india/articleshow/134352862.cms",
@@ -294,69 +357,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/england-sweep-sri-lanka-3-0-replace-india-at-top-of-t20i-rankings/articleshow/134358240.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134358312,imgsize-64749.cms",
       "publishedAt": "Sat, 19 Sep 2026 23:08:01 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "‘Arrogance of power’: Congress calls out Scindia over his viral video",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/arrogance-of-power-congress-calls-out-scindia-over-his-viral-video-with-mp-residents-over-road/articleshow/134353118.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134353376,imgsize-73799.cms",
-      "publishedAt": "Sat, 19 Sep 2026 17:03:02 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Invasive spotted lanternfly reaches Canada after spreading across 18 US states",
-      "description": "Canada confirmed its first spotted lanternfly detection in Windsor, Ontario.  Movement restrictions are now in place to prevent further spread of this invasive species.  Surrounding areas are under surveillance to assess the infestation's extent.  This pest poses significant risks to agriculture and",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/an-invasive-insect-first-found-in-pennsylvania-in-2014-spread-across-18-us-states-canada-has-now-confirmed-its-first-spotted-lanternfly-detection-in-windsor-putting-grape-growing-regions-on-alert/articleshow/134332837.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134332883,imgsize-1776102.cms",
-      "publishedAt": "Sat, 19 Sep 2026 22:04:48 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Couple bought 5 acres for $27,000; three cabins later made over $2.1 million",
-      "description": "Chris Broomfield transformed five acres into a thriving hospitality business. His first A-frame cabin generated significant revenue after its 2018 listing. Subsequent unique cabins, like a treehouse, also achieved substantial financial success. Broomfield's ventures have now earned over $2.1 million",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2015-a-connecticut-carpenter-and-his-wife-bought-5-acres-in-upstate-new-york-for-27000-he-built-three-cabins-and-the-rentals-generated-more-than-2-1-million/articleshow/134338499.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134338667,imgsize-606536.cms",
-      "publishedAt": "Sat, 19 Sep 2026 22:04:53 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Thane man slams 2-year-old son on floor, scalds hand on hot plate for 'ignoring' him",
-      "description": "A Kalyan man allegedly slammed his two-year-old son to the floor and scalded three of his fingers on a hot plate after becoming enraged when the toddler avoided him, police said. The man also allegedly assaulted his wife when she intervened, days after she had moved back in with him following a cour",
-      "url": "https://timesofindia.indiatimes.com/city/thane/slammed-fingers-scalded-thane-father-assaults-2-year-old-son-after-he-avoids-him-amid-marital-dispute/articleshow/134354038.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134354652,imgsize-1107786.cms",
-      "publishedAt": "Sat, 19 Sep 2026 18:24:36 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'We want to go home': Hindu minor sisters abducted, converted, married in Pakistan",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/we-want-to-go-home-hindu-minor-sisters-abducted-converted-married-in-pakistans-sindh/articleshow/134356109.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134356207,imgsize-1508610.cms",
-      "publishedAt": "Sat, 19 Sep 2026 20:32:35 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Carrot Top hospitalized in Las Vegas; rep says comedian is recovering",
-      "description": "Comedian Carrot Top, whose real name is Scott Thompson, has been hospitalized in Las Vegas following a reported suicide attempt. His scheduled Luxor performance was canceled. His representative confirmed that Thompson is recovering in hospital and receiving care and support, while his family has tha",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/carrot-top-whose-real-name-is-scott-thompson-hospitalized-in-las-vegas-after-suicide-attempt-luxor-show-canceled-as-comedians-representative-confirms-he-is-recovering-asks-for-privacy/articleshow/134355976.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134356011,imgsize-112365.cms",
-      "publishedAt": "Sat, 19 Sep 2026 20:14:10 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "LPG Aadhaar rule from Oct 1: Authentication mandatory for these refills",
-      "description": "Consumers who have not undergone BAA will not be stopped from receiving LPG cylinders. However, those who choose not to complete the authentication will have to pay the prevailing market price and will not receive the subsidy.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-aadhaar-rule-from-october-1-authentication-mandatory-for-subsidised-gas-refills-how-to-complete-process-check-steps/articleshow/134356757.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134356801,imgsize-714567.cms",
-      "publishedAt": "Sat, 19 Sep 2026 21:31:06 +0530",
       "source": "Times of India",
       "category": "general"
     }
@@ -752,6 +752,15 @@
       "category": "sports"
     },
     {
+      "title": "Asian Games Live: India eye medals in teqball, shooting; hockey, cricket campaigns begin",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-live-updates-india-schedule-medal-tally-results-scores-latest-news/liveblog/134357804.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-134357804,imgsize-65286.cms",
+      "publishedAt": "2026-09-20T04:00:00+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
       "title": "India’s Asian Games 2026 schedule September 20: Events, timings",
       "description": "India’s medal campaign at the Asian Games 2026 will gather pace on Sunday, with several athletes and teams in action across different events.  With medal events in teqball, a cricket semifinal, shooting action and the start of both hockey campaigns, Sunday will be an important day for the Indian con",
       "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-2026-indias-full-schedule-today-september-20-events-timings/articleshow/134351683.cms",
@@ -892,15 +901,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/both-the-trophies-will-come-bccis-big-update-on-asia-cup-trophies-snubbed-by-mohsin-naqvi/articleshow/134349469.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-134349520,imgsize-63878.cms",
       "publishedAt": "2026-09-19T12:22:57+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "No Dhoni, Kohli or Rohit: Pat Cummins names 'toughest' India player he faced",
-      "description": "Pat Cummins, the Australian cricket captain, named Cheteshwar Pujara as his toughest foe from India. Pujara’s unwavering spirit and resilience during two challenging Border-Gavaskar Trophy series tested the Australians' resolve. Across 25 Tests, he amassed 2,074 runs with a remarkable average of 49.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/no-ms-dhoni-virat-kohli-or-rohit-sharma-pat-cummins-names-toughest-india-player-he-faced/articleshow/134350780.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-134350813,imgsize-54730.cms",
-      "publishedAt": "2026-09-19T14:12:31+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     }
@@ -1813,5 +1813,5 @@
       "category": "science"
     }
   ],
-  "last_updated": "2026-09-20 03:28:40 AM"
+  "last_updated": "2026-09-20 05:26:36 AM"
 }
