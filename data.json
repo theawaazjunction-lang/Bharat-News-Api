@@ -4,25 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 52,
+    "news_count": 48,
     "headlines": [
       "DUSU poll results: ABVP wins 3 posts, NSUI rebel Deepanshu Shokeen bags VP seat",
       "Air India flight bound for Kathmandu turns back to Delhi after 'technical issue'",
       "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
-      "Mamata Banerjee's Rejinagar pick withdraws from bypolls contest, then retracts",
-      "Ladakh Leaders Withdraw Protest Plan Amid Progress In Talks With Centre",
-      "Murdered Delhi Man's Family Got His 'I'm Fine' Text. Killer Couple Sent It",
-      "Delhi International Airport To Reopen Third Runway For Operations From September 20",
-      "Delhi CM flays AAP government in Punjab for failing to curb drug menace",
-      "Arrest of Nandigram Congress candidate lawful step: West Bengal Police",
-      "Delhi  Election Commission publishes names excluded from Delhi electoral roll",
-      "West Bengal SIR: Over 22 lakh excluded voters filed appeals against exclusion from electoral roll",
-      "Congress questions timing of candidate’s arrest ahead of Nandigram bypoll",
-      "ABVP wins 3 DUSU posts; independent candidate Deepanshu Shokeen gets vice-president’s position",
-      "Delhi International Airport to reopen third runway for operations from September 20",
-      "1965 Indo-Pak war hero Flight Lieutenant A.T. Cooke dies, IAF pays tribute",
-      "DTC drivers’ strike over wage increase, other demands enters fifth day",
-      "Delhi SIR: CM Rekha Gupta, Arvind Kejriwal among electors being served notices",
+      "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
+      "No 'Goonj', Only 'Dhamaka': BJP's Dig At Rahul Gandhi After ABVP Sweeps Delhi University Polls",
+      "Karnataka ranks third in NITI Aayog’s electric mobility index 2025",
+      "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link",
+      "Mamata’s Rejinagar bypoll candidate announces withdrawal from contest, retracts later",
+      "IMD forecasts wet spell in coastal Andhra Pradesh up to September 23",
+      "BJP questions Telangana’s El Nino preparedness after Assembly seeks Central aid",
+      "Amid CBFC concerns, NLSIU drops screening of documentary on activist Umar Khalid",
+      "Why was AAP's Arvind Kejriwal issued SIR notice? Poll body clarifies amid row",
+      "Delhi CM Rekha Gupta, Arvind Kejriwal get SIR notices; poll body responds amid row",
       "ABVP sweeps, NSUI falters, Independent grabs key seat: Takeaways from Delhi University polls",
       "HT Evening Brief Sept 19: ABVP sweeps Delhi University polls, Asian Games declared open in Japan",
       "RBI removes Maharashtra minister Babasaheb Patil from Latur cooperative bank board",
@@ -39,17 +35,17 @@
       "Weather Bee: Where is monsoon 2026 ending?",
       "'Assumed genitals were chopped off': Raped Delhi teen's body was mistaken for a man's. Then appeared a tattoo",
       "Telangana CM seeks central aid to mitigate El Niño fallout in state",
+      "DUSU 2026 election results LIVE: Amit Shah says ABVP’s DUSU victory a message to ‘anti-national forces’",
       "Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody",
       "Delhi Metro records highest-ever footfall of 82.4 lakh amid DTC bus strike",
       "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
-      "5,000 residents without water for 50 days amid Bengal’s Jyotinagar eviction row",
-      "PM Modi, UAE President discuss West Asia crisis, bilateral ties over phone call",
+      "Air India flight to Nepal returns to Delhi due to suspected tech issue",
+      "SaffronStays plans big South push with 200 homes in next 2 years",
       "Delhi Int'l Airport to reopen third runway for operations from Sep 20",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Yuki Bhambri provides fitness certificate after missing Davis Cup tie",
-      "India’s Davis Cup campaign ends with 1-3 loss to South Korea",
       "BREAKING: Government of India reconstitutes CBFC; Suniel Shetty, Preity Zinta, Priyadarshan, Pankaj Tripathi among 18 members",
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "EXCLUSIVE: Contrary to recent reports, no CBFC relief yet for Salman Khan’s Maatrubhumi",
@@ -59,18 +55,20 @@
       "Adhyayan Suman and Divita Rai’s Main Na Raha Mera first look out, teaser to release on September 16",
       "Fourteen tail vertebrae found in Spain replaces North America as the only Diplodocus site"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 14,
     "headlines": [
+      "Karnataka ranks third in NITI Aayog’s electric mobility index 2025",
       "RBI removes Maharashtra minister Babasaheb Patil from Latur cooperative bank board",
       "Maharashtra ministers eating dry fruits at drought review meet sparks row",
       "Smuggled in shoe insoles, paid  ₹8,000: How Maharashtra TET paper was leaked",
+      "SaffronStays plans big South push with 200 homes in next 2 years",
       "1-day SPFWA soy conclave 2026 to be held in Mumbai on Sept 30",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "‘Both will come’: BCCI’s update on Asia Cup trophies India refused to take from Naqvi",
@@ -81,19 +79,20 @@
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "Delhi HC dismisses Vimal Elaichi maker’s plea against FDA notices to Shah Rukh Khan, Ajay Devgn, Tiger Shroff"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 11,
+    "news_count": 12,
     "headlines": [
-      "2 Ganesh Idols Decked Up In Rs 2.9 Crore In Cash In Telangana",
+      "Telangana High Court awards one-month jail term to police officer in contempt case",
       "21,000 unfinished 2BHKs in Hyderabad (CURE) completed; beneficiary selection by end of October",
-      "Seven killed in two early-morning road accidents on highways in Hyderabad",
-      "Aircraft maintenance students in Telangana to get hands-on training under new MoU",
+      "Hyderabad roads waterlogged, traffic hit as heavy rain coincides with Ganesh immersion rush",
+      "Centre approves 2 lakh rural houses for Telangana under PMAY-G",
+      "Education reform needed to address infrastructure gaps in Telangana schools, says TPF",
       "Home guard arrested, dismissed from service for assaulting woman in Hyderabad",
       "Telangana: 4 killed, driver critical as SUV overturns on NH-44 near Hyderabad",
       "9 sentenced to life in human trafficking case",
@@ -102,7 +101,7 @@
       "Telangana pegs kharif paddy procurement volume at 65 lakh tons",
       "Telangana CM Reddy invites public to suggest new name for Mamnoor airport"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "GJ",
@@ -111,7 +110,7 @@
     "State": "Gujarat",
     "news_count": 8,
     "headlines": [
-      "Doddaballapur lodge murder: accused husband found dead in village lake",
+      "Why Hilsa Breeding Grounds Are Shifting From Bengal To Gujarat",
       "Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found",
       "Mother Dairy sets up its first butter chiplet line in Gujarat, plans pan-India supply",
       "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August",
@@ -120,42 +119,7 @@
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 8,
-    "headlines": [
-      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
-      "NDTV Special | \"Stay Calm, Don't Stop\": Women Bikers On Road Rage And Confrontations",
-      "Not in favour of FIRs against farmers over stubble burning: Punjab CM Mann",
-      "2 workers die after falling from 19th floor at Gurugram construction site: Cops",
-      "HT exclusive: Gurugram cops uploaded murdered man's info under wrong category on Zipnet portal",
-      "Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner",
-      "Bharat Taxi expands to Chandigarh",
-      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
-    ],
-    "last_updated": "2026-09-19 07:34:02 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 7,
-    "headlines": [
-      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
-      "'Love to Mann': Bittu protests with tomatoes, eggs near Punjab CM cavalcade - watch",
-      "Nihang Group Assaults Woman Cop In Amritsar As She Saves Man From Them",
-      "Delhi CM flays AAP government in Punjab for failing to curb drug menace",
-      "Not in favour of FIRs against farmers over stubble burning: Punjab CM Mann",
-      "Video: BJP's Ravneet Bittu waves liquor bottle, eggs at Punjab CM Mann's convoy, detained",
-      "Bharat Taxi expands to Chandigarh"
-    ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "KA",
@@ -165,89 +129,86 @@
     "news_count": 7,
     "headlines": [
       "Karnataka Congress Leader Flags School Issues, Seeks Public Help To Fix Them",
-      "Namma BMTC 2.0 app now available for iPhone users",
-      "Two minors killed, one injured in Raichur Ganesh procession accident",
-      "Tulu as additional official language of Dakshina Kannada and Udupi districts in Karnataka | Explained",
-      "Karnataka CM D.K. Shivakumar promises to stand by farmers on Kasturirangan report on Western Ghats",
+      "II PU exam, marks card fee and others up by 50% from this academic year in Karnataka",
+      "Karnataka ranks third in NITI Aayog’s electric mobility index 2025",
+      "Karnataka High Court stays circulars withholding payment of salaries based on revised minimum wages for outsourced and contract employees",
+      "Man bludgeoned to death by brother over land dispute in Kalaburagi village",
       "Karnataka fabless centre seals seven semiconductor pacts at SEMICON India: Priyank Kharge",
       "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
     "news_count": 7,
     "headlines": [
-      "Mamata Banerjee's Rejinagar pick withdraws from bypolls contest, then retracts",
-      "Arrest of Nandigram Congress candidate lawful step: West Bengal Police",
-      "West Bengal SIR: Over 22 lakh excluded voters filed appeals against exclusion from electoral roll",
-      "Congress questions timing of candidate’s arrest ahead of Nandigram bypoll",
-      "Mamata’s Rejinagar bypoll candidate announces withdrawal from contest, retracts later",
-      "‘Footballer’, ‘envelope’, new names: Separate identities for TMC camps",
-      "Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam"
+      "Yashasvi Solanki becomes first woman officer to serve as President’s ADC",
+      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
+      "Video: After Fight, Man Repeatedly Rams Thar Into Friends' Cab In Gurugram",
+      "2 workers die after falling from 19th floor at Gurugram construction site: Cops",
+      "HT exclusive: Gurugram cops uploaded murdered man's info under wrong category on Zipnet portal",
+      "Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner",
+      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 5,
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 4,
     "headlines": [
-      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
-      "Youth, teen girl from Kollam found dead on rail track in Angamaly",
-      "Tourists climb holy cross in Keralam’s Munnar, sparking outrage",
-      "Kollam to be developed as Vizhinjam’s satellite port: Minister",
-      "News channel executive denied bail in excise case in Kerala"
+      "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link",
+      "Seven of a family from Odisha among eight killed as car falls into drain in Madhya Pradesh",
+      "Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’",
+      "MP: Man allegedly kills wife, 3 children with axe after argument in Damoh"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
       "'Even prisoner gets chicken biryani': Tamil Nadu minister on CM Vijay's breakfast scheme for school children",
       "Tamil Nadu woman's ‘nude photos’, late-night calls cost her child custody",
       "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil Nadu on September 28",
-      "India set for decades of strong growth, says Tata Sons Chairman N Chandrasekaran",
-      "TN CM Vijay to launch gold ring scheme for newborns on Sep 28"
+      "India set for decades of strong growth, says Tata Sons Chairman N Chandrasekaran"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 4,
     "headlines": [
-      "Uttarakhand Glaciers Melting Rapidly: Study Flags Threats Days After Nepal Disaster",
-      "Nithari case's Surendra Koli, acquitted in all 13 cases, found dead in Haridwar",
-      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
-      "Nithari victim's father questions Surendra Koli's 'suicide', alleges murder"
+      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
+      "Kerala High Court orders TDB to implement proposal to improve security and storage of Thiruvabharanam",
+      "Excise officials destroy 1,566 cannabis plants found deep inside Palakkad forest",
+      "News channel executive denied bail in excise case in Kerala"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 4,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 3,
     "headlines": [
-      "Chief Minister Chandrababu Naidu promises to address drinking water needs of Visakhapatnam",
-      "Entire Bannerghatta Road to be white-topped: Krishna Byre Gowda",
-      "Annamayya Collector calls for transparency, efficiency in registration services",
-      "Chief Minister Chandrababu Naidu asks officials to declare drought-hit mandals in Andhra Pradesh on October 1"
+      "Mamata’s Rejinagar bypoll candidate announces withdrawal from contest, retracts later",
+      "‘Footballer’, ‘envelope’, new names: Separate identities for TMC camps",
+      "Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "AS",
@@ -260,20 +221,33 @@
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
       "Zubeen Garg’s first death anniversary: Wife says 'Still waiting for justice'"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 3,
     "headlines": [
-      "Fine for missing PM Modi's birthday event? Cong claims IIM Jammu sent notice to students",
-      "Congress slams IIM Jammu for fining students absent from PM’s birthday event",
-      "9 years of talks, 2 nations, one deal: India, Pakistan signed Indus Waters Treaty on this day in 1960"
+      "YSR Congress To Approach Centre Over 'FBI' Reference In Andhra Police Order",
+      "IMD forecasts wet spell in coastal Andhra Pradesh up to September 23",
+      "Vijayawada man Sai Krishna beaten to death in police custody, cremated same night: SIT"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
+      "Analysis: As Punjab Rehab Numbers Increase, Politics Intensifies Over Drug Problem",
+      "Video: BJP's Ravneet Bittu waves liquor bottle, eggs at Punjab CM Mann's convoy, detained"
+    ],
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "OD",
@@ -282,24 +256,11 @@
     "State": "Odisha",
     "news_count": 3,
     "headlines": [
-      "828 CCTV cameras non-functional at Odisha’s police stations, outposts",
+      "Seven of a family from Odisha among eight killed as car falls into drain in Madhya Pradesh",
       "Madhya Pradesh: 8 killed after car swept away in drain near Nalkheda temple",
       "Smuggled in shoe insoles, paid  ₹8,000: How Maharashtra TET paper was leaked"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 3,
-    "headlines": [
-      "Jhiram Valley attack that nearly wiped out Chhattisgarh Congress leadership planned months ahead: Court",
-      "Yuki Bhambri provides fitness certificate after missing Davis Cup tie",
-      "India’s Davis Cup campaign ends with 1-3 loss to South Korea"
-    ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "BR",
@@ -308,56 +269,79 @@
     "State": "Bihar",
     "news_count": 2,
     "headlines": [
-      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
+      "Chirag Paswan launches Gen Z outreach to ‘counter’ Rahul Gandhi's campaign",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 2,
+    "headlines": [
+      "Nithari case's Surendra Koli, acquitted in all 13 cases, found dead in Haridwar",
+      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded"
+    ],
+    "last_updated": "2026-09-19 11:07:20 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "Jhiram Valley attack that nearly wiped out Chhattisgarh Congress leadership planned months ahead: Court",
+      "Yuki Bhambri provides fitness certificate after missing Davis Cup tie"
+    ],
+    "last_updated": "2026-09-19 11:07:20 PM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "Political, religious leaders protest against ‘Tantra in Silence’ event in Kashmir; officials clarify no permission granted",
+      "9 years of talks, 2 nations, one deal: India, Pakistan signed Indus Waters Treaty on this day in 1960"
+    ],
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "CH",
     "Lat": 30.7333,
     "Long": 76.7794,
     "State": "Chandigarh",
-    "news_count": 2,
+    "news_count": 1,
     "headlines": [
-      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
-      "Bharat Taxi expands to Chandigarh"
+      "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "HP",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Himachal Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "Meet Neha Thakur, 25, Himachal Pradesh’s first woman truck driver",
-      "Vikrant to open real-life ‘Musafir Cafe’ in Himachal, Uttarakhand: Pic"
-    ],
-    "last_updated": "2026-09-19 07:34:02 PM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
     "news_count": 1,
     "headlines": [
-      "'Realignment' on cards? Congress keeps door open for Kejriwal's Goa ally GFP"
+      "Meet Neha Thakur, 25, Himachal Pradesh’s first woman truck driver"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "SK",
+    "Lat": 27.533,
+    "Long": 88.5122,
+    "State": "Sikkim",
     "news_count": 1,
     "headlines": [
-      "MP: Man allegedly kills wife, 3 children with axe after argument in Damoh"
+      "'They Are In Chinese Custody': Ajit Doval Recalls Sikkim Intelligence Crisis"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "RJ",
@@ -368,7 +352,7 @@
     "headlines": [
       "Weather Bee: Where is monsoon 2026 ending?"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   },
   {
     "Code": "UP",
@@ -379,17 +363,6 @@
     "headlines": [
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-19 07:34:02 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Ladakh Leaders Withdraw Protest Plan Amid Progress In Talks With Centre"
-    ],
-    "last_updated": "2026-09-19 07:34:02 PM"
+    "last_updated": "2026-09-19 11:07:20 PM"
   }
 ]
