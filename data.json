@@ -6,8 +6,8 @@
     "State": "Delhi",
     "news_count": 43,
     "headlines": [
-      "Jantar Mantar attacker Swatantra Bhardwaj released from Tihar on 3-week interim bail",
       "Peculiar Symbol, CCTV Footage: Inside Delhi Police Probe In Rape-Murder Case",
+      "Jhiram Valley Maoist attack case ‘rarest of rare': court order",
       "South African High Commission official visits Andhra University",
       "India rejects Pakistan’s allegations regarding collision of Indian, Pak ships in Arabian Sea",
       "‘Nava Sankalpa Bakery’ and ‘Bakery on Wheels’ launched at Bengaluru central prison",
@@ -50,7 +50,7 @@
       "Adhyayan Suman and Divita Rai’s Main Na Raha Mera first look out, teaser to release on September 16",
       "BREAKING: Daayra marks Kareena Kapoor Khan’s TENTH film to receive ‘A’ rating from CBFC; Kunal Kemmu’s Vibe also gets adult certificate"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "KA",
@@ -72,7 +72,7 @@
       "Shruti Hassan says she prayed about thousand times that men get periods",
       "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "MH",
@@ -92,23 +92,37 @@
       "Ameesha Patel’s parents’ Mumbai home robbed, jewellery worth Rs 5 lakh reportedly stolen",
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found",
-      "Kaynes Semicon ramps up Sanand plant with 2.3-billion-unit annual capacity",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 5,
+    "headlines": [
+      "Nitin Nabin donates 3 month's salary for flood relief in Bihar",
+      "Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund",
+      "Every police station in Bihar to have a Child Help Desk from Oct. 2",
+      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "UT",
@@ -123,49 +137,22 @@
       "Uttarakhand to map 100 trekking, hiking routes to improve trekker safety: CM Dhami",
       "Surendra Koli, acquitted in Nithari serial killing case, found dead in Haridwar"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Court Declines To Restrain Transfer Of 5 Elephants From Assam To Tamil Nadu",
       "Tamil Nadu set to get back 40 vacant super speciality seats",
       "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil Nadu on September 28",
       "Tami Nadu bypoll: Know schedule, candidates and more in Vijay govt's first electoral test",
       "Tamil Nadu plans Agricultural Guidance Bureau to strengthen FPOs"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Woman suffers 60% burns after barbecue fire at Darjeeling homestay",
-      "Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam",
-      "Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move",
-      "Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu"
-    ],
-    "last_updated": "2026-09-19 03:37:13 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
-    "headlines": [
-      "Bihar floods: Nitin Nabin donates three months’ Rajya Sabha MP salary to CM Relief Fund",
-      "Every police station in Bihar to have a Child Help Desk from Oct. 2",
-      "BJP chief Nitin Nabin donates 3 months' MP salary to Bihar CM relief fund",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "KL",
@@ -179,20 +166,21 @@
       "Former DGP Tomin Thachankary approaches Kerala HC in appeal against disproportionate assets case conviction",
       "Kochi to host 13th edition of Kerala Travel Mart on September 24th"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
     "headlines": [
-      "Smooth take off: Pilot handles Punjab turbulence; can he nail the landing for Cong?",
-      "Punjab Government Announces 8% DA Hike Ahead Of 2027 Polls",
-      "AAP's Dalit Paradox: Ambedkar On The Wall, And A Minister Facing Grave Questions"
+      "Woman suffers 60% burns after barbecue fire at Darjeeling homestay",
+      "Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam",
+      "Mamata's TMC faction opts out of Nandigram bypoll, to back Congress in rare move",
+      "Nandigram bypoll: TMC’s Mamata camp candidate withdraws nomination day after meeting Suvendu"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "TG",
@@ -205,19 +193,20 @@
       "Telangana took pro-active measures to tackle El Nino, says Deputy CM",
       "Hyderabad court sentences 9, including 8 Bangladeshis, to life in trafficking case"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "Court Declines To Restrain Transfer Of 5 Elephants From Assam To Tamil Nadu",
       "With southern States in the same boat, Karnataka turns to Assam for power",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "AP",
@@ -229,31 +218,7 @@
       "Tirupati Prasadam Made From Palm Oil, Ghee Supplier Arrested: Probe Agency ED",
       "Welcome showers greet devotees ahead of Garuda Seva in Tirupati on Sept. 19"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "31 Conditions On Rahul Gandhi's Indore Event, Rajiv Gandhi Killing Cited",
-      "Coaching centres ‘being threatened’ to keep students away from Rahul Gandhi’s Indore event, alleges Congress"
-    ],
-    "last_updated": "2026-09-19 03:37:13 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "UP Man Poses As Female Doctor On Social Media, Obtains Private Pics Of Woman",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "ML",
@@ -265,7 +230,7 @@
       "Meghalaya IPS officer injured in ‘deliberate’ hit by two-wheeler",
       "Banks closed today: Check if your state has a holiday on September 18"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "OD",
@@ -277,7 +242,7 @@
       "Odisha revises schedule for ward delimitation, seat reservation ahead of urban local body polls",
       "Odisha to set up ‘Silicon Valley’ as part of ISM: CM Majhi"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "MN",
@@ -288,7 +253,7 @@
     "headlines": [
       "Rohit Chandel walks out on bail in POCSO case — Here's what the court has ordered"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "HR",
@@ -299,7 +264,29 @@
     "headlines": [
       "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Coaching centres ‘being threatened’ to keep students away from Rahul Gandhi’s Indore event, alleges Congress"
+    ],
+    "last_updated": "2026-09-19 06:20:48 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 1,
+    "headlines": [
+      "Smooth take off: Pilot handles Punjab turbulence; can he nail the landing for Cong?"
+    ],
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "RJ",
@@ -310,7 +297,18 @@
     "headlines": [
       "Two more women die in Rajasthan after C-sections; probe committee formed"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-19 06:20:48 AM"
   },
   {
     "Code": "JK",
@@ -321,6 +319,6 @@
     "headlines": [
       "Jammu and Kashmir L-G flags off the Harmukh-Gangbal pilgrimage"
     ],
-    "last_updated": "2026-09-19 03:37:13 AM"
+    "last_updated": "2026-09-19 06:20:48 AM"
   }
 ]
