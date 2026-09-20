@@ -4,14 +4,14 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 44,
+    "news_count": 42,
     "headlines": [
       "Kathmandu-Bound Air India Flight Returns To Delhi Over Suspected Tech Issue",
       "Arvind Kejriwal Missing From Delhi Voter List, Claims AAP. Poll Body Official Responds",
+      "Sugarcane turned bitter for thousands of farmers in North Andhra districts",
       "What is the India-Pakistan conflict at sea about? | Explained",
       "Bihar CM donates one month’s salary to flood victims",
-      "Karnataka ranks third in NITI Aayog’s electric mobility index 2025",
-      "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link",
+      "Delhi CM Rekha Gupta, Arvind Kejriwal among 3.16 mn voters issued notices for SIR ‘discrepancies’",
       "Why was AAP's Arvind Kejriwal issued SIR notice? Poll body clarifies amid row",
       "Delhi CM Rekha Gupta, Arvind Kejriwal get SIR notices; poll body responds amid row",
       "ABVP sweeps, NSUI falters, Independent grabs key seat: Takeaways from Delhi University polls",
@@ -32,16 +32,14 @@
       "Telangana CM seeks central aid to mitigate El Niño fallout in state",
       "DUSU 2026 election results highlights: Amit Shah says ABVP’s DUSU victory a message to ‘anti-national forces’",
       "Delhi HC grants bail to UK national Jagtar Singh Johal in 7 NIA cases after 8 years in custody",
-      "Delhi Metro records highest-ever footfall of 82.4 lakh amid DTC bus strike",
-      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded",
       "Air India flight to Nepal returns to Delhi due to suspected tech issue",
       "SaffronStays plans big South push with 200 homes in next 2 years",
       "Delhi Int'l Airport to reopen third runway for operations from Sep 20",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Windies squad for India tour: Campbell returns; Pooran earns maiden T20I call-up",
       "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
-      "Yuki Bhambri provides fitness certificate after missing Davis Cup tie",
       "BREAKING: Government of India reconstitutes CBFC; Suniel Shetty, Preity Zinta, Priyadarshan, Pankaj Tripathi among 18 members",
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "EXCLUSIVE: Contrary to recent reports, no CBFC relief yet for Salman Khan’s Maatrubhumi",
@@ -51,44 +49,42 @@
       "Adhyayan Suman and Divita Rai’s Main Na Raha Mera first look out, teaser to release on September 16",
       "Fourteen tail vertebrae found in Spain replaces North America as the only Diplodocus site"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 15,
+    "news_count": 14,
     "headlines": [
+      "Nila Vikhe Patil, Maharashtra Minister's Niece, Elected To Sweden Parliament",
       "Iron Barricade From Metro Construction Site Falls On Mumbai Biker, He Dies",
-      "Karnataka ranks third in NITI Aayog’s electric mobility index 2025",
       "RBI removes Maharashtra minister Babasaheb Patil from Latur cooperative bank board",
       "Maharashtra ministers eating dry fruits at drought review meet sparks row",
       "Smuggled in shoe insoles, paid  ₹8,000: How Maharashtra TET paper was leaked",
       "SaffronStays plans big South push with 200 homes in next 2 years",
       "1-day SPFWA soy conclave 2026 to be held in Mumbai on Sept 30",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "‘Both will come’: BCCI’s update on Asia Cup trophies India refused to take from Naqvi",
-      "‘Hanuman Ansh’ team meets Maha CM Fadnavis - Video",
+      "Denied by visa row in 2023, former Asia No. 1 Bayor finally gets her Games shot",
       "Maharashtra FDA Commissioner Tukaram Mundhe says, “Shah Rukh Khan, Ajay Devgn and Tiger Shroff not shielded by celebrity status in Vimal ad case”",
       "Ranveer Singh pledges to support education of 1,000 girls: “I hope that this pleases Bappa”",
       "Alia Bhatt and Ranbir Kapoor pledge to refurbish 20 Mumbai schools on PM Narendra Modi's birthday",
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "Delhi HC dismisses Vimal Elaichi maker’s plea against FDA notices to Shah Rukh Khan, Ajay Devgn, Tiger Shroff"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 11,
+    "news_count": 10,
     "headlines": [
       "She paid Rs 79l for Rs 2.14cr villa, but it stayed unfinished; RERA orders refund",
       "Telangana High Court awards one-month jail term to police officer in contempt case",
       "21,000 unfinished 2BHKs in Hyderabad (CURE) completed; beneficiary selection by end of October",
-      "Hyderabad roads waterlogged, traffic hit as heavy rain coincides with Ganesh immersion rush",
       "Home guard arrested, dismissed from service for assaulting woman in Hyderabad",
       "Telangana: 4 killed, driver critical as SUV overturns on NH-44 near Hyderabad",
       "9 sentenced to life in human trafficking case",
@@ -97,40 +93,26 @@
       "Telangana pegs kharif paddy procurement volume at 65 lakh tons",
       "Telangana CM Reddy invites public to suggest new name for Mamnoor airport"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 7,
+    "news_count": 9,
     "headlines": [
+      "Judiciary at a crossroads, introspection necessary to restore neutrality: Justice Anand Venkatesh",
       "Gujarat man kills daughter, keeps body in fridge, dies by suicide; 3 notes found",
       "Mother Dairy sets up its first butter chiplet line in Gujarat, plans pan-India supply",
       "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "'Hanuman Ansh' box office day 44: Shobhinaw Satyaa's film records 95% growth",
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 6,
-    "headlines": [
-      "Youth stabbed to death over personal enmity in Kalaburagi",
-      "Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas",
-      "II PU exam, marks card fee and others up by 50% from this academic year in Karnataka",
-      "Karnataka ranks third in NITI Aayog’s electric mobility index 2025",
-      "Karnataka fabless centre seals seven semiconductor pacts at SEMICON India: Priyank Kharge",
-      "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
-    ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "PB",
@@ -146,38 +128,36 @@
       "Video: BJP's Ravneet Bittu waves liquor bottle, eggs at Punjab CM Mann's convoy, detained",
       "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
-      "Yashasvi Solanki becomes first woman officer to serve as President’s ADC",
       "2 workers die after falling from 19th floor at Gurugram construction site: Cops",
       "HT exclusive: Gurugram cops uploaded murdered man's info under wrong category on Zipnet portal",
       "Gurugram cops destroyed proof: Family of man allegedly killed by ex-colleague, her partner",
       "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant",
       "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 5,
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 4,
     "headlines": [
-      "Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits",
-      "'Even prisoner gets chicken biryani': Tamil Nadu minister on CM Vijay's breakfast scheme for school children",
-      "Tamil Nadu woman's ‘nude photos’, late-night calls cost her child custody",
-      "CM Vijay to launch one-gram gold ring scheme for newborns in Tamil Nadu on September 28",
-      "India set for decades of strong growth, says Tata Sons Chairman N Chandrasekaran"
+      "Sugarcane turned bitter for thousands of farmers in North Andhra districts",
+      "Fort Catholic Girls’ School celebrates 175 years with fancy drill competition in Visakhapatnam",
+      "Andhra CM seeks steps to mitigate drought-like conditions",
+      "Vijayawada man Sai Krishna beaten to death in police custody, cremated same night: SIT"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "BR",
@@ -191,93 +171,61 @@
       "Chirag Paswan launches Gen Z outreach to ‘counter’ Rahul Gandhi's campaign",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "After Sagar tragedy, Madhya Pradesh Police uncover hooch racket with Delhi link",
-      "Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’",
-      "MP: Man allegedly kills wife, 3 children with axe after argument in Damoh"
-    ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Forest department prepares proposal to develop roads to Edamalakkudy panchayat in Keralam’s Idukki",
       "Tourists climb cross in Keralam’s Munnar, sparking outrage",
       "News channel executive denied bail in excise case in Kerala",
       "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 2,
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 4,
     "headlines": [
-      "Jhiram Valley attack that nearly wiped out Chhattisgarh Congress leadership planned months ahead: Court",
-      "Yuki Bhambri provides fitness certificate after missing Davis Cup tie"
+      "Caste Hindu candidate claims reservation through bogus community certificate, Madras High Court refuses to order release of terminal benefits",
+      "'Even prisoner gets chicken biryani': Tamil Nadu minister on CM Vijay's breakfast scheme for school children",
+      "Tamil Nadu woman's ‘nude photos’, late-night calls cost her child custody",
+      "India set for decades of strong growth, says Tata Sons Chairman N Chandrasekaran"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 2,
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 3,
     "headlines": [
-      "Fort Catholic Girls’ School celebrates 175 years with fancy drill competition in Visakhapatnam",
-      "Vijayawada man Sai Krishna beaten to death in police custody, cremated same night: SIT"
+      "Political, religious leaders protest against ‘Tantra in Silence’ event in Kashmir; officials clarify no permission granted",
+      "IIM Jammu students threatened with  ₹500 fine for missing ‘mandatory’ Modi birthday event",
+      "9 years of talks, 2 nations, one deal: India, Pakistan signed Indus Waters Treaty on this day in 1960"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 3,
     "headlines": [
-      "One year of Zubeen Garg's death: A murder case, 7 accused, conflicting investigations and a legacy beyond all this",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "Youth stabbed to death over personal enmity in Kalaburagi",
+      "Raichur ZP CEO Ishwar Kumar Kandoo instructs officers to conduct crop loss assessment in drought-hit areas",
+      "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 2,
-    "headlines": [
-      "Nithari case's Surendra Koli, acquitted in all 13 cases, found dead in Haridwar",
-      "Manchanda murder case: Family alleges body cremated, belonging given away, ashes discarded"
-    ],
-    "last_updated": "2026-09-20 05:26:36 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Madhya Pradesh: 8 killed after car swept away in drain near Nalkheda temple",
-      "Smuggled in shoe insoles, paid  ₹8,000: How Maharashtra TET paper was leaked"
-    ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "WB",
@@ -289,19 +237,43 @@
       "‘Footballer’, ‘envelope’, new names: Separate identities for TMC camps",
       "Darjeeling honeymoon turns tragic for newlyweds after barbecue fire engulfs woman, incident caught on cam"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
     "news_count": 2,
     "headlines": [
-      "Political, religious leaders protest against ‘Tantra in Silence’ event in Kashmir; officials clarify no permission granted",
-      "9 years of talks, 2 nations, one deal: India, Pakistan signed Indus Waters Treaty on this day in 1960"
+      "Madhya Pradesh: 8 killed after car swept away in drain near Nalkheda temple",
+      "Smuggled in shoe insoles, paid  ₹8,000: How Maharashtra TET paper was leaked"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Rahul Gandhi says ‘system has captured entire country’ at Indore event; MP CM calls him ‘careless politician’",
+      "MP: Man allegedly kills wife, 3 children with axe after argument in Damoh"
+    ],
+    "last_updated": "2026-09-20 08:32:52 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "One year of Zubeen Garg's death: A murder case, 7 accused, conflicting investigations and a legacy beyond all this",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "CH",
@@ -312,7 +284,29 @@
     "headlines": [
       "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "Jhiram Valley attack that nearly wiped out Chhattisgarh Congress leadership planned months ahead: Court"
+    ],
+    "last_updated": "2026-09-20 08:32:52 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Denied by visa row in 2023, former Asia No. 1 Bayor finally gets her Games shot"
+    ],
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "HP",
@@ -323,7 +317,18 @@
     "headlines": [
       "Meet Neha Thakur, 25, Himachal Pradesh’s first woman truck driver"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "Films, podcasts, Meghalaya honeymoon murder: How Siya Goyal and team planned Ketan’s killing at Lohagad Fort"
+    ],
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "RJ",
@@ -334,7 +339,7 @@
     "headlines": [
       "Weather Bee: Where is monsoon 2026 ending?"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
   },
   {
     "Code": "UP",
@@ -345,6 +350,17 @@
     "headlines": [
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-20 05:26:36 AM"
+    "last_updated": "2026-09-20 08:32:52 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 1,
+    "headlines": [
+      "Nithari case's Surendra Koli, acquitted in all 13 cases, found dead in Haridwar"
+    ],
+    "last_updated": "2026-09-20 08:32:52 AM"
   }
 ]
