@@ -4,14 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 37,
+    "news_count": 38,
     "headlines": [
+      "Delhi SIRprises: Jaishankar, Dhankhar, Advani &amp; more issued notices for ‘discrepancies’",
       "Delhi building collapse: 'Why no new hostels, why force into PGs?' Rahul asks govt",
       "How Jordon Hudson became an important part of Bill Belichick’s life",
       "Delhi high court gets 7 new judges",
-      "From BJP veteran Advani to Kejriwal: High-profile names get Delhi SIR notices",
       "North Korea Launches 2 Ballistic Missiles Toward Sea",
       "Delhi High Court To Get 7 New Judges Tomorrow, Total Strength To Jump To 50",
+      "Heavy rains, squally wind likely in West Bengal from September 22",
       "Kurmis to be kept out of UCC, says West Bengal CM; promises to withdraw old cases",
       "HT Evening Brief Sept 20: BMW crash in Mumbai kills 3; Cong's SIR jibe at Amit Shah; Valarivan's silver at Asian Games",
       "LK Advani, Manish Sisodia, Kailash Gahlot among Delhi voters served SIR notices",
@@ -44,7 +45,7 @@
       "West Virginia teen builds low-cost bionic hand, selected for national science competition",
       "Fourteen tail vertebrae found in Spain replaces North America as the only Diplodocus site"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "MH",
@@ -72,21 +73,20 @@
       "Rakesh Roshan to earn Rs 2.76 crore from 3-year lease of 5,574 sq ft Mumbai property: Report",
       "Delhi HC dismisses Vimal Elaichi maker’s plea against FDA notices to Shah Rukh Khan, Ajay Devgn, Tiger Shroff"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
       "Landslide, flash flood kill 6 in Kerala amid heavy rain alert - video",
       "Chennai Tourist Dies In Kerala Landslide, Friend Injured",
       "Human skull recovered from waste heap in Kozhikode",
       "Police officer on the run for ‘stealing’ seized tobacco products nabbed from Ernakulam",
       "State-level conclave to discuss strategy to address human-wildlife conflict: Minister",
-      "Minister P.C. Vishnunadh promises to address architect community’s concerns",
       "Bank holiday tomorrow, September 21: Are banks closed in Kerala and Assam? Check details",
       "Malayalam TV channel MD sent back to jail after 1-day excise custody in Wayanad liquor seizure case",
       "Objections mount over draft Kerala University rules restricting campus political activities",
@@ -94,25 +94,24 @@
       "Thiruvananthapuram to host Social Entrepreneurship Conclave on Sept 30",
       "Bike rental platform Royal Brothers conducts women riding initiative in Kochi"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 8,
+    "news_count": 7,
     "headlines": [
       "How TTD plans to unlock value from land and strengthen its financial systems",
       "Andhra Pradesh CM Naidu calls for eco-friendly constructions to protect environment",
       "IPS officers Kanthi Rana Tata, Vishal Gunni get postings after revocation of suspension",
       "Nearly 300 participate in district-level Yogasana championship in Visakhapatnam",
-      "‘Varuna Yagam’ performed seeking copious rains in State",
       "Tirumala laddu row: UP promoter held, ED alleges  ₹96 crore adulterated ghee manufactured",
       "Andhra CM seeks steps to mitigate drought-like conditions",
       "P4 poverty alleviation initiative gains steady ground in Andhra Pradesh"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "GJ",
@@ -129,7 +128,7 @@
       "Diljit Dosanjh announces Ahmedabad concert at Narendra Modi Stadium on November 21 after sold-out Wembley show",
       "EXCLUSIVE: Anya Singh bags Vikram Bhatt’s 1920: Cold Winter; reunites with Ahan Shetty after Border 2"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "PB",
@@ -146,71 +145,7 @@
       "Punjab ASI murder accused killed in police encounter, 'Pakistan' link emerges",
       "Video: BJP's Ravneet Bittu waves liquor bottle, eggs at Punjab CM Mann's convoy, detained"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 6,
-    "headlines": [
-      "'25,000 CCTVs, 0 Arrests': Faridabad Man Seeks Answers After Father's Death",
-      "India needs multi-partisan approach for next level of development, says Manish Tewari",
-      "Who is ‘Raja D King’? Amritsar businessman announces ‘iPhone Langar’ in Chandigarh",
-      "Military leaders discuss future of warfare, artillery at seminar in Chandigarh",
-      "2 workers die after falling from 19th floor at Gurugram construction site: Cops",
-      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
-    ],
-    "last_updated": "2026-09-21 04:19:54 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 6,
-    "headlines": [
-      "'Gen Z Speed': Jeet Adani Praises Himanta Sarma's Energy, Calls Assam 'Home'",
-      "Himanta Sarma Lays Foundation Stone For Adani Power's 3,200 MW Assam Project",
-      "Assam CM lays foundation stone for  ₹48,000 crore Adani power project",
-      "Bank holiday tomorrow, September 21: Are banks closed in Kerala and Assam? Check details",
-      "Foundation stone laid for Adani Power’s ₹48,000 cr thermal power project in Assam",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-21 04:19:54 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 6,
-    "headlines": [
-      "Rajasthan stakes claim to erstwhile Jaipur state properties across 4 UP cities",
-      "Initial fuel loading begins at Rajasthan Atomic Power Project’s units 7 and 8",
-      "On The Run For 24 Years, Rajasthan Man Arrested From Gujarat For Murder",
-      "Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case",
-      "Rajasthan farmers sell moong below MSP as Govt yet to decide MSP purchase",
-      "IMD: Monsoon exiting Rajasthan as Bay ‘low’ awaits turn to intensify"
-    ],
-    "last_updated": "2026-09-21 04:19:54 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 6,
-    "headlines": [
-      "Chennai Tourist Dies In Kerala Landslide, Friend Injured",
-      "Dengue cases in Tamil Nadu decline for third consecutive year as per government data",
-      "Chennai records 4,600 fever cases so far in September: Corporation",
-      "Five persons held in Ranipet over murder charges",
-      "‘Give Vijay more time’: Prakash Raj urges patience in assessing Tamil Nadu CM",
-      "UP affirms its top position in tax collection, followed by Karnataka, Tamil Nadu"
-    ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "MP",
@@ -226,7 +161,71 @@
       "MP: Man allegedly kills wife, 3 children with axe after argument in Damoh",
       "'Pagal hai kya? Villain kyun karunga?' Akshaye Khanna almost rejected Dhurandhar"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 6,
+    "headlines": [
+      "'Gen Z Speed': Jeet Adani Praises Himanta Sarma's Energy, Calls Assam 'Home'",
+      "Himanta Sarma Lays Foundation Stone For Adani Power's 3,200 MW Assam Project",
+      "Assam CM lays foundation stone for  ₹48,000 crore Adani power project",
+      "Bank holiday tomorrow, September 21: Are banks closed in Kerala and Assam? Check details",
+      "Foundation stone laid for Adani Power’s ₹48,000 cr thermal power project in Assam",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 6,
+    "headlines": [
+      "'25,000 CCTVs, 0 Arrests': Faridabad Man Seeks Answers After Father's Death",
+      "India needs multi-partisan approach for next level of development, says Manish Tewari",
+      "Who is ‘Raja D King’? Amritsar businessman announces ‘iPhone Langar’ in Chandigarh",
+      "Military leaders discuss future of warfare, artillery at seminar in Chandigarh",
+      "2 workers die after falling from 19th floor at Gurugram construction site: Cops",
+      "SHOCKING: Gurugram youth takes inspiration from Vikrant Massey’s Pritam And Pedro character to allegedly con student of Rs. 24.60 lakhs"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 6,
+    "headlines": [
+      "Rajasthan stakes claim to erstwhile Jaipur state properties across 4 UP cities",
+      "Initial fuel loading begins at Rajasthan Atomic Power Project’s units 7 and 8",
+      "On The Run For 24 Years, Rajasthan Man Arrested From Gujarat For Murder",
+      "Ahmedabad Crime Branch arrests man wanted for 24 years in Rajasthan murder case",
+      "Rajasthan farmers sell moong below MSP as Govt yet to decide MSP purchase",
+      "IMD: Monsoon exiting Rajasthan as Bay ‘low’ awaits turn to intensify"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 6,
+    "headlines": [
+      "Chennai Tourist Dies In Kerala Landslide, Friend Injured",
+      "Dengue cases in Tamil Nadu decline for third consecutive year as per government data",
+      "Chennai records 4,600 fever cases so far in September: Corporation",
+      "Five persons held in Ranipet over murder charges",
+      "‘Give Vijay more time’: Prakash Raj urges patience in assessing Tamil Nadu CM",
+      "UP affirms its top position in tax collection, followed by Karnataka, Tamil Nadu"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "TG",
@@ -241,7 +240,7 @@
       "SC rejects presumption of child sale, orders custody to adoptive parents in Telangana",
       "Home guard arrested, dismissed from service for assaulting woman in Hyderabad"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "KA",
@@ -255,20 +254,7 @@
       "Karnataka plans global quantum platform with 2027 Bengaluru summit",
       "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "‘People dying, yet crores spent on PM Modi’s birthday’: Tejashwi on Bihar floods",
-      "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "CH",
@@ -281,7 +267,32 @@
       "Who is ‘Raja D King’? Amritsar businessman announces ‘iPhone Langar’ in Chandigarh",
       "Military leaders discuss future of warfare, artillery at seminar in Chandigarh"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "‘People dying, yet crores spent on PM Modi’s birthday’: Tejashwi on Bihar floods",
+      "Prashant Kishor's JSP announces 5 candidates for Bihar Legislative Council polls",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Heavy rains, squally wind likely in West Bengal from September 22",
+      "Kurmis to be kept out of UCC, says West Bengal CM; promises to withdraw old cases"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "UT",
@@ -293,7 +304,19 @@
       "Uttarakhand glaciers retreat 23m a year on average; some lose 88m: Study",
       "Mimicry of PM Modi at Rahul Gandhi event irks BJP: ‘Mother isn't subject of politics’"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "BJD mounts pressure on BJP government over MMDR amendment act seeking special session of assembly",
+      "Odisha surrenders  ₹76 crore as SC-mandated CCTV system falters, 823 cameras go offline"
+    ],
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "CT",
@@ -304,29 +327,18 @@
     "headlines": [
       "North Korea Launches 2 Ballistic Missiles Toward Sea"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
-    "Code": "NL",
-    "Lat": 26.1584,
-    "Long": 94.5624,
-    "State": "Nagaland",
+    "Code": "HP",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Himachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "Nagaland: Deaths rise to 11 in suspected hooch tragedy, forensic report awaited"
+      "Getting away from gunshots"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 1,
-    "headlines": [
-      "Films, podcasts, Meghalaya honeymoon murder: How Siya Goyal and team planned Ketan’s killing at Lohagad Fort"
-    ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "JH",
@@ -337,29 +349,29 @@
     "headlines": [
       "Jharkhand Maoist commander, with  ₹30 lakh bounty, killed in police encounter in UP's Varanasi"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "NL",
+    "Lat": 26.1584,
+    "Long": 94.5624,
+    "State": "Nagaland",
     "news_count": 1,
     "headlines": [
-      "Odisha surrenders  ₹76 crore as SC-mandated CCTV system falters, 823 cameras go offline"
+      "Nagaland: Deaths rise to 11 in suspected hooch tragedy, forensic report awaited"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
     "news_count": 1,
     "headlines": [
-      "IIM Jammu students threatened with  ₹500 fine for missing ‘mandatory’ Modi birthday event"
+      "Films, podcasts, Meghalaya honeymoon murder: How Siya Goyal and team planned Ketan’s killing at Lohagad Fort"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
     "Code": "UP",
@@ -370,17 +382,17 @@
     "headlines": [
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "Kurmis to be kept out of UCC, says West Bengal CM; promises to withdraw old cases"
+      "IIM Jammu students threatened with  ₹500 fine for missing ‘mandatory’ Modi birthday event"
     ],
-    "last_updated": "2026-09-21 04:19:54 AM"
+    "last_updated": "2026-09-21 06:12:15 AM"
   }
 ]
