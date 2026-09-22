@@ -4,17 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 34,
+    "news_count": 32,
     "headlines": [
       "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
-      "Hayden Panettiere died of accidental overdose involving fentanyl, coroner says",
-      "7pm temple, 7.30 park, 8.45 PCR call: Timeline of how 3 fake cops gang-raped Delhi teen",
-      "PM Modi To Chair 2-Day 'Chintan Shivir' With Cabinet Ministers From Tomorrow",
-      "\"Not A Gram To Enter India\": Amit Shah Sets 2029 Deadline For War Against Drugs",
+      "Delhi Plans Dedicated 'Pink Force' After 4 Sexual Assault Cases In 10 Days",
+      "Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears",
+      "Freezing democracy: On the Election Commission of India and West Bengal",
       "Woman, daughter held for theft in industrialist Sekar Reddy’s house at Katpadi",
       "BJP questions Congress after court order on Sonia’s electoral roll entry",
       "Torpedo jar fragment, ring wells found in underwater archaeological exploration off the Poompuhar coast in  Mayiladuthurai district",
-      "Centre studying plan for 4 new airports in West Bengal",
       "‘Every single day, we hit a new low’: Cong questions Delhi CM over Kalkaji gangrape case",
       "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast",
       "Shastri Bhawan, Krishi Bhawan asked to vacate by Sept end for new Kartavya Bhawan",
@@ -41,18 +39,17 @@
       "Hanuman Ansh team meets Home Minister Amit Shah in New Delhi",
       "South American moth brought to fight prickly pear now threatens native U.S. cacti"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
-      "After Bihar Groping Horror, Shocker From Odisha: Couple Assaulted On Camera",
-      "Tejashwi seeks Samrat Choudhary’s resignation over Jamui incident",
-      "Jamui molestation incident: Prime accused arrested after being shot in police encounter",
+      "Dance, Liquor Videos: Bihar Groping Horror Accused's Facebook Timeline",
+      "Criminals have no caste, says Bihar CM Samrat Choudhary",
       "Tejashwi Yadav slams Bihar CM over Jamui minor assault, demands action against all accused",
       "After Jamui horror, tourist couple harassed on way to Odisha temple; incident caught on camera",
       "Can be done decently, says BJP Jamui MLA Shreyasi Singh on ‘moral policing’; slammed by Opposition",
@@ -63,7 +60,7 @@
       "SIT formed, video takedown initiated after 2 minors harassed in Bihar's Jamui",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "AP",
@@ -82,7 +79,26 @@
       "Rani Mukerji's mother passes away: When she said her daughter got National Award very late",
       "Rani Mukerji's mother Krishna Mukerji passes away at 75; family requests privacy"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 9,
+    "headlines": [
+      "Who is Dinesh Thakkar? Angel One boss who bought a Mumbai tower for Rs 711 crore?",
+      "Why Maharashtra Minister Has Warned Of A Potential 100% Drought Situation",
+      "8th Central Pay Commission to visit Mumbai on October 22-23; set to meet stakeholders",
+      "Who is Dinesh Thakkar? Tycoon who bought Mumbai tower for  ₹711 crore in record home deal",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "EXCLUSIVE: Nani, Raghav Juyal, Sonali Kulkarni and Kayadu Lohar to attend MEGA The Paradise event in Mumbai ahead of release",
+      "Maharashtra FDA Commissioner Tukaram Mundhe says, “Shah Rukh Khan, Ajay Devgn and Tiger Shroff not shielded by celebrity status in Vimal ad case”",
+      "Ranveer Singh pledges to support education of 1,000 girls: “I hope that this pleases Bappa”",
+      "Alia Bhatt and Ranbir Kapoor pledge to refurbish 20 Mumbai schools on PM Narendra Modi's birthday"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "TN",
@@ -101,54 +117,33 @@
       "Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park",
       "Keerthy Suresh 'Da' remark on her 'Dorothy' co-stars stirs up controversy"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 9,
+    "news_count": 8,
     "headlines": [
       "Telangana EAGLE Force earns national recognition for anti-narcotics efforts",
       "Traffic crawls as brief rain spell, idol immersion rush hit Hyderabad roads",
       "New airports, Telangana Bhavan designs should reflect State’s culture: CM",
-      "Govt to develop Nalgonda as smart city: Minister Komatireddy",
       "Rain alert in 19 states tomorrow; Odisha, Andhra, Telangana, Chhattisgarh to see heavy showers",
       "Boyfriend disappears after Vizag woman declared dead at Hyderabad hospital",
       "Hyderabad auto driver beaten to death by customer over fare change dispute",
       "2 infants killed as fire breaks out in newborn care unit in Telangana hospital",
       "Nani’s 'The Paradise' nears Rs 20 crore in advance bookings"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 9,
-    "headlines": [
-      "Who is Dinesh Thakkar? Angel One boss who bought a Mumbai tower for Rs 711 crore?",
-      "'Told Him To Bear It': IIT Bombay Student's Parents Say He Told Them About Caste Abuse",
-      "8th Central Pay Commission to visit Mumbai on October 22-23; set to meet stakeholders",
-      "Who is Dinesh Thakkar? Tycoon who bought Mumbai tower for  ₹711 crore in record home deal",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "EXCLUSIVE: Nani, Raghav Juyal, Sonali Kulkarni and Kayadu Lohar to attend MEGA The Paradise event in Mumbai ahead of release",
-      "Maharashtra FDA Commissioner Tukaram Mundhe says, “Shah Rukh Khan, Ajay Devgn and Tiger Shroff not shielded by celebrity status in Vimal ad case”",
-      "Ranveer Singh pledges to support education of 1,000 girls: “I hope that this pleases Bappa”",
-      "Alia Bhatt and Ranbir Kapoor pledge to refurbish 20 Mumbai schools on PM Narendra Modi's birthday"
-    ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
-      "Assam Woman Alleges Harassment, Forced Confinement By Husband, Brother-In-Law",
       "Congress questions ECI’s silence after attack on leaders’ convoy during Assam bypoll campaign",
       "Assam: Singer Simanta Shekhar quits BJP, won’t join any political party",
       "Lakhimpur Kheri school shooting: Cryptic Instagram post, two pistols among clues for police",
@@ -156,7 +151,7 @@
       "‘Stones, bottles thrown’: Gaurav Gogoi alleges convoy attacked by BJP ‘workers’ in Assam",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "OD",
@@ -165,13 +160,13 @@
     "State": "Odisha",
     "news_count": 5,
     "headlines": [
-      "After Jamui, Odisha tourist couple harassed on way to Kapilash temple; 2 detained",
+      "Monsoon Session of Odisha House witnesses ruckus over textbook errors, mines Act",
       "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast",
       "After Jamui horror, tourist couple harassed on way to Odisha temple; incident caught on camera",
       "Cyclone ‘Arnab’ to form? IMD warns of deep depression, shares landfall update; Odisha schools shut",
       "Odisha schools shut in four districts after heavy rainfall warning for two days"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "UP",
@@ -186,22 +181,21 @@
       "BJP seeks to shore up Dalit support ahead of Uttar Pradesh assembly elections",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
-      "SC notice to Karnataka on Premium FAR scheme",
-      "Kasturirangan report could force Uttara Kannada families to migrate to Goa: Karnataka Assembly Deputy Speaker",
+      "Karnataka Man Murdered In Sharjah In July, Body In 9 Parts Found In A Car",
       "91-year-old woman dies after monkey attack outside home in Karnataka's Koppal",
       "14 years and an acquittal later, SC orders fresh probe in 2012 Karnataka rape-murder case",
       "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "GJ",
@@ -214,7 +208,20 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Gurugram collapses in rains while Greater Noida planned for 30-40 years: SC",
+      "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
+      "Bittu Tabahi, famed for cleaning a trash-filled MP river, now tackles Gurugram roads"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "JK",
@@ -227,7 +234,7 @@
       "Jammu woman found hanging at home, 3 arrested as family alleges murder by husband and in-laws",
       "Lower Mettur storage endangers samba crop, says PMK, demands  ₹25K compensation for farmers"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "CT",
@@ -239,55 +246,7 @@
       "ED files prosecution complaint against former chairman, 6 others in CGPSC case",
       "Rain alert in 19 states tomorrow; Odisha, Andhra, Telangana, Chhattisgarh to see heavy showers"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "Gurugram collapses in rains while Greater Noida planned for 30-40 years: SC",
-      "Bittu Tabahi, famed for cleaning a trash-filled MP river, now tackles Gurugram roads"
-    ],
-    "last_updated": "2026-09-23 12:56:16 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 2,
-    "headlines": [
-      "Bribery case: Kerala govt orders probe into ED report on action against ex-CM Vijayan",
-      "Liquor case: Reporter TV MD Anto Augustine granted bail by Kerala high court"
-    ],
-    "last_updated": "2026-09-23 12:56:16 AM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 2,
-    "headlines": [
-      "Shift 30 foreign nationals to detention centre, orders Meghalaya HC to state",
-      "Meghalaya HC asks govt to shift all foreign nationals who completed jail terms to detention centre"
-    ],
-    "last_updated": "2026-09-23 12:56:16 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "Analysis: BJP's Punjab Challenge Runs Much Longer Than A 4,000-km Yatra",
-      "No advisory for cops to avoid uniforms outside of stations, says Punjab Police"
-    ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "MP",
@@ -299,7 +258,66 @@
       "Yami Gautam reacts to Best Actress National Award win",
       "Aditya Dhar teases ‘Dhurandhar’ with ‘hopefully next year’ at 72nd National Film Awards"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 2,
+    "headlines": [
+      "Bribery case: Kerala govt orders probe into ED report on action against ex-CM Vijayan",
+      "Liquor case: Reporter TV MD Anto Augustine granted bail by Kerala high court"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh",
+      "Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 2,
+    "headlines": [
+      "Shift 30 foreign nationals to detention centre, orders Meghalaya HC to state",
+      "Meghalaya HC asks govt to shift all foreign nationals who completed jail terms to detention centre"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Water wealth: On groundwater exploitation in Punjab",
+      "No advisory for cops to avoid uniforms outside of stations, says Punjab Police"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats"
+    ],
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "SK",
@@ -310,7 +328,7 @@
     "headlines": [
       "Sikkimese rapper UNB attacked with rods in Arunachal; probe underway: Cops"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "TR",
@@ -321,18 +339,7 @@
     "headlines": [
       "Two arrested in separate rape cases in Tripura"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action"
-    ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "UT",
@@ -343,7 +350,7 @@
     "headlines": [
       "Indo-Tibet border force scales 24,100-foot Mt Abi Gamin, unfurls Tricolour at summit"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   },
   {
     "Code": "WB",
@@ -352,8 +359,8 @@
     "State": "West Bengal",
     "news_count": 1,
     "headlines": [
-      "Centre studying plan for 4 new airports in West Bengal"
+      "Freezing democracy: On the Election Commission of India and West Bengal"
     ],
-    "last_updated": "2026-09-23 12:56:16 AM"
+    "last_updated": "2026-09-23 04:04:46 AM"
   }
 ]
