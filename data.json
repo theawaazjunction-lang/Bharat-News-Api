@@ -4,15 +4,14 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 31,
     "headlines": [
       "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
-      "Delhi Plans Dedicated 'Pink Force' After 4 Sexual Assault Cases In 10 Days",
+      "No Yamuna Immersion: Delhi Lists 81 Artificial Ponds For Ganesh Visarjan",
+      "2020 Delhi riots case: Sharjeel Imam gets interim bail to attend cousin’s wedding",
       "Astha Kunj Park gang-rape: LSR suspends classes; students consider leaving Delhi amid safety fears",
       "Freezing democracy: On the Election Commission of India and West Bengal",
       "Woman, daughter held for theft in industrialist Sekar Reddy’s house at Katpadi",
-      "BJP questions Congress after court order on Sonia’s electoral roll entry",
-      "Torpedo jar fragment, ring wells found in underwater archaeological exploration off the Poompuhar coast in  Mayiladuthurai district",
       "‘Every single day, we hit a new low’: Cong questions Delhi CM over Kalkaji gangrape case",
       "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast",
       "Shastri Bhawan, Krishi Bhawan asked to vacate by Sept end for new Kartavya Bhawan",
@@ -39,7 +38,7 @@
       "Hanuman Ansh team meets Home Minister Amit Shah in New Delhi",
       "South American moth brought to fight prickly pear now threatens native U.S. cacti"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "BR",
@@ -60,64 +59,45 @@
       "SIT formed, video takedown initiated after 2 minors harassed in Bihar's Jamui",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 9,
-    "headlines": [
-      "Rani Mukerji's mother's funeral: SRK, Alia, Anil Kapoor arrive to pay last respects",
-      "Ethanol company sues Andhra farmer over pollution claims, seeks ₹1 crore compensation",
-      "Visakhapatnam Collector tells officials to remain alert amid heavy rain warning",
-      "CPI(M) march to Srikakulam over Narayanapuram land grabbing issue",
-      "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast",
-      "Supreme Court affirms that national song mandates cannot infringe on religious freedoms",
-      "Rani Mukerji's mother's funeral: SRK, Alia, Karan Johar, Anil pay last respects",
-      "Rani Mukerji's mother passes away: When she said her daughter got National Award very late",
-      "Rani Mukerji's mother Krishna Mukerji passes away at 75; family requests privacy"
-    ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 9,
+    "news_count": 10,
     "headlines": [
       "Who is Dinesh Thakkar? Angel One boss who bought a Mumbai tower for Rs 711 crore?",
-      "Why Maharashtra Minister Has Warned Of A Potential 100% Drought Situation",
+      "Maharashtra SIR: 30% electorate likely to be disenfranchised, says Congress",
       "8th Central Pay Commission to visit Mumbai on October 22-23; set to meet stakeholders",
       "Who is Dinesh Thakkar? Tycoon who bought Mumbai tower for  ₹711 crore in record home deal",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Govinda SPOTTED with Komal Rani, amid row with wife",
       "EXCLUSIVE: Nani, Raghav Juyal, Sonali Kulkarni and Kayadu Lohar to attend MEGA The Paradise event in Mumbai ahead of release",
       "Maharashtra FDA Commissioner Tukaram Mundhe says, “Shah Rukh Khan, Ajay Devgn and Tiger Shroff not shielded by celebrity status in Vimal ad case”",
       "Ranveer Singh pledges to support education of 1,000 girls: “I hope that this pleases Bappa”",
       "Alia Bhatt and Ranbir Kapoor pledge to refurbish 20 Mumbai schools on PM Narendra Modi's birthday"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 9,
+    "news_count": 8,
     "headlines": [
       "Vietnam to Colombo flight makes emergency landing at Chennai airport",
       "CSK's Vansh Bedi says he is not the unnamed player in sting operation row",
       "Chairperson, Members of National Commission for Scheduled Tribes meet CM Vijay",
       "Regional Round (South) of NTPC Electron quiz held in Chennai",
       "Graduation day held at Annai Mira College of Engineering in Ranipet",
-      "Torpedo jar fragment, ring wells found in underwater archaeological exploration off the Poompuhar coast in  Mayiladuthurai district",
       "Man sets woman on fire at Tamil Nadu hospital, arrested",
       "Capgemini expands presence in Coimbatore with a new office at ELCOT IT Park",
       "Keerthy Suresh 'Da' remark on her 'Dorothy' co-stars stirs up controversy"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "TG",
@@ -135,23 +115,56 @@
       "2 infants killed as fire breaks out in newborn care unit in Telangana hospital",
       "Nani’s 'The Paradise' nears Rs 20 crore in advance bookings"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 7,
+    "headlines": [
+      "DGMA files statement on steps taken for technical assessment of MSC Elsa 3 wreck",
+      "Azhvanchery Thamprakkal announces Keralam’s Mamankam festival dates",
+      "Samastha Mushawara meet in Kerala’s Kozhikode to test ties with IUML",
+      "Police register case over alleged circulation of woman’s nude images through WhatsApp in Keralam’s Kasaragod",
+      "Five arrested with elephant tusks in Keralam’s Wayanad",
+      "Bribery case: Kerala govt orders probe into ED report on action against ex-CM Vijayan",
+      "Liquor case: Reporter TV MD Anto Augustine granted bail by Kerala high court"
+    ],
+    "last_updated": "2026-09-23 06:37:18 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Ethanol company sues Andhra farmer over pollution claims, seeks ₹1 crore compensation",
+      "Visakhapatnam Collector tells officials to remain alert amid heavy rain warning",
+      "Cyclone ‘Arnab’ threat: Which states will be affected as Bay of Bengal weather system nears coast",
+      "Supreme Court affirms that national song mandates cannot infringe on religious freedoms",
+      "Rani Mukerji's mother's funeral: SRK, Alia, Karan Johar, Anil pay last respects",
+      "Rani Mukerji's mother passes away: When she said her daughter got National Award very late",
+      "Rani Mukerji's mother Krishna Mukerji passes away at 75; family requests privacy"
+    ],
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
-      "Congress questions ECI’s silence after attack on leaders’ convoy during Assam bypoll campaign",
       "Assam: Singer Simanta Shekhar quits BJP, won’t join any political party",
       "Lakhimpur Kheri school shooting: Cryptic Instagram post, two pistols among clues for police",
       "Supreme Court directs Yogi govt to replace public prosecutor in Lakhimpur case",
       "‘Stones, bottles thrown’: Gaurav Gogoi alleges convoy attacked by BJP ‘workers’ in Assam",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "OD",
@@ -166,7 +179,7 @@
       "Cyclone ‘Arnab’ to form? IMD warns of deep depression, shares landfall update; Odisha schools shut",
       "Odisha schools shut in four districts after heavy rainfall warning for two days"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "UP",
@@ -175,27 +188,40 @@
     "State": "Uttar Pradesh",
     "news_count": 5,
     "headlines": [
-      "Yash Dayal back in Uttar Pradesh Ranji Trophy camp",
       "On cam: Class 2 student falls unconscious, dies in classroom in UP's Balrampur",
       "Supreme Court directs Yogi govt to replace public prosecutor in Lakhimpur case",
       "BJP seeks to shore up Dalit support ahead of Uttar Pradesh assembly elections",
+      "Yash Dayal back in Uttar Pradesh Ranji Trophy camp",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 4,
+    "headlines": [
+      "‘Must act now’: Kashmiri leader urges UNHRC action over situation in PoJK, PoGB",
+      "Two Cops Found Dead Inside Car In Jammu And Kashmir",
+      "Jammu woman found hanging at home, 3 arrested as family alleges murder by husband and in-laws",
+      "Lower Mettur storage endangers samba crop, says PMK, demands  ₹25K compensation for farmers"
+    ],
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 4,
+    "news_count": 3,
     "headlines": [
-      "Karnataka Man Murdered In Sharjah In July, Body In 9 Parts Found In A Car",
       "91-year-old woman dies after monkey attack outside home in Karnataka's Koppal",
       "14 years and an acquittal later, SC orders fresh probe in 2012 Karnataka rape-murder case",
       "Karnataka High Court quashes 2% cess on movie tickets; big relief for multiplexes and moviegoers"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "GJ",
@@ -208,33 +234,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Gurugram collapses in rains while Greater Noida planned for 30-40 years: SC",
-      "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
-      "Bittu Tabahi, famed for cleaning a trash-filled MP river, now tackles Gurugram roads"
-    ],
-    "last_updated": "2026-09-23 04:04:46 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 3,
-    "headlines": [
-      "‘Must act now’: Kashmiri leader urges UNHRC action over situation in PoJK, PoGB",
-      "Jammu woman found hanging at home, 3 arrested as family alleges murder by husband and in-laws",
-      "Lower Mettur storage endangers samba crop, says PMK, demands  ₹25K compensation for farmers"
-    ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "CT",
@@ -246,43 +246,19 @@
       "ED files prosecution complaint against former chairman, 6 others in CGPSC case",
       "Rain alert in 19 states tomorrow; Odisha, Andhra, Telangana, Chhattisgarh to see heavy showers"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
     "news_count": 2,
     "headlines": [
-      "Yami Gautam reacts to Best Actress National Award win",
-      "Aditya Dhar teases ‘Dhurandhar’ with ‘hopefully next year’ at 72nd National Film Awards"
+      "Haryana police use water cannons, tear gas to disperse farmers protesting paddy procurement delay",
+      "Bittu Tabahi, famed for cleaning a trash-filled MP river, now tackles Gurugram roads"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 2,
-    "headlines": [
-      "Bribery case: Kerala govt orders probe into ED report on action against ex-CM Vijayan",
-      "Liquor case: Reporter TV MD Anto Augustine granted bail by Kerala high court"
-    ],
-    "last_updated": "2026-09-23 04:04:46 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh",
-      "Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action"
-    ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "ML",
@@ -294,7 +270,19 @@
       "Shift 30 foreign nationals to detention centre, orders Meghalaya HC to state",
       "Meghalaya HC asks govt to shift all foreign nationals who completed jail terms to detention centre"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ahead of ‘firing’ deaths anniversary, promise of Article 371 framework for Ladakh",
+      "Sonam Wangchuk slams delay in making public judicial panel report on September 2025 police action"
+    ],
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "PB",
@@ -306,7 +294,18 @@
       "Water wealth: On groundwater exploitation in Punjab",
       "No advisory for cops to avoid uniforms outside of stations, says Punjab Police"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Yami Gautam reacts to Best Actress National Award win"
+    ],
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "RJ",
@@ -317,7 +316,7 @@
     "headlines": [
       "BJP maintains dominance in Rajasthan urban bodies by winning 6 deputy mayor seats"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "SK",
@@ -328,7 +327,7 @@
     "headlines": [
       "Sikkimese rapper UNB attacked with rods in Arunachal; probe underway: Cops"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "TR",
@@ -339,7 +338,7 @@
     "headlines": [
       "Two arrested in separate rape cases in Tripura"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "UT",
@@ -350,7 +349,7 @@
     "headlines": [
       "Indo-Tibet border force scales 24,100-foot Mt Abi Gamin, unfurls Tricolour at summit"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   },
   {
     "Code": "WB",
@@ -361,6 +360,6 @@
     "headlines": [
       "Freezing democracy: On the Election Commission of India and West Bengal"
     ],
-    "last_updated": "2026-09-23 04:04:46 AM"
+    "last_updated": "2026-09-23 06:37:18 AM"
   }
 ]
