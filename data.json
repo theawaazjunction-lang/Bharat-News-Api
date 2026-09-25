@@ -4,11 +4,11 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 36,
+    "news_count": 35,
     "headlines": [
       "Why Trump's F-35 deal with Saudi Arabia unsettles Israel, opens big door for China",
-      "San Antonio oyster shells recycled to rebuild Gulf reefs and marine habitat",
       "Alonzo Mourning’s $37.4M housing project offers seniors apartments from $322",
+      "San Antonio oyster shells recycled to rebuild Gulf reefs and marine habitat",
       "CBSE names Mandeep K Bhandari as new chairman, appointment follows OSM controversy",
       "Mumbai prime home prices rise 6.2%, enter global top 10",
       "Watch: PM Modi grooves at a 'bhajan clubbing' event in Delhi",
@@ -16,9 +16,9 @@
       "PM deepfake pics case: HC orders removal of content, police protection for woman",
       "\"Spectacular\": PM Modi Takes Part In Bhajan Clubbing Event In Delhi",
       "2 Delhi University Students Arrested For Harassing Woman, Trying To Pull Her Into Car",
+      "Polavaram officials sound alert as Sabari river in spate",
+      "IAS officer Mandeep Bhandari appointed chairperson of CBSE",
       "Congress leads protests demanding CEC’s resignation, arrest",
-      "CSIR-NIIST and Tata Consumer Products Ltd to establish Centre of Excellence for Food Fortification in Thiruvananthapuram",
-      "Women wrestlers move Delhi court against Brij Bhushan’s acquittal in sexual harassment case",
       "Demolished 543 properties in 17 days since Satya Niketan collapse: MCD to Delhi HC",
       "Jantar Mantar news: Several protesters seeking CEC Gyanesh Kumar's arrest over ‘dissent’ row detained",
       "Delhi HC issues notice to Dipke, others over 'AI-morphed photo' of woman next to PM Modi, orders takedown",
@@ -30,7 +30,6 @@
       "India reserves rights to join Russia’s CBAM dispute with EU as third party at WTO",
       "Sundaram Home Finance aims to double emerging biz disbursements in Central TN",
       "West Bengal to offer land to industry bodies through limited auction",
-      "Mumbai ranked 8th globally in prime real estate price rise index",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -43,21 +42,19 @@
       "Hanuman Ansh team meets Home Minister Amit Shah in New Delhi",
       "Wasp spider spotted in Cheshire for first time; Chester Zoo says species is moving north"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 13,
+    "news_count": 11,
     "headlines": [
+      "Narrowed posture: On Karnataka and the Kasturirangan Report",
+      "Blood donation camp held in Raichur",
+      "Belagavi firm Aequs gets approval for ₹650-crore equity infusion",
       "BWSSB expands jurisdiction to cover entire Bengaluru Urban district",
-      "Western Ghats protection: Section of residents, environmentalists counter Karnataka politicians’ claims",
-      "GI-tagged Kalaburagi tur dal exported to Maldives",
-      "Acquittal in criminal case can undo departmental penalty only if both rests on substantially identical facts: Karnataka High Court",
-      "Karnataka tries to pass the buck on Centre to hide its financial mismanagement: Joshi",
-      "Governor swears in three new judges of Karnataka High Court",
       "Karnataka govt forms new SIT to reinvestigate Sowjanya murder",
       "K’taka to give  ₹2.5k aid to nearly 5mn farmers",
       "Sharjah Murder Victim’s Remains To Reach Kundapura Friday",
@@ -66,14 +63,14 @@
       "Protecting Western Ghats: K’taka seeks a ground survey, environmentalists back eco-zone",
       "Malaysian Plantation and Commodities minister to lead delegation to India next week"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
       "Mumbai prime home prices rise 6.2%, enter global top 10",
       "CJP's nationwide protest from Oct 2 if CEC Gyanesh Kumar doesn't resign: Abhijeet Dipke",
@@ -81,30 +78,13 @@
       "Malaysian Plantation and Commodities minister to lead delegation to India next week",
       "Anandana – The Coca-Cola India Foundation and Hindustan Coca-Cola Beverages Strengthen Responsible PET Collection During Ganesh Chaturthi Celebrations Across Mumbai and Thane",
       "IndiGo taps 28 bonded stations to connect domestic cargo with global markets",
-      "Mumbai ranked 8th globally in prime real estate price rise index",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Tillotama REACTS to troll saying she has 'anxiety issues'",
       "Sajid Nadiadwala’s Nadiadwala Grandson seals 11-month Andheri office space deal; pays Rs. 55 lakhs upfront",
       "Salman Khan and Arvind Swamy shoot massive train action sequence for Monster; source reveals details of Mumbai schedule",
       "The Paradise Mumbai press meet: Nani BREAKS silence on receiving ‘A’ rating: “Our film doesn’t have violence for the sake of violence…you can watch this film with your families, parents”"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "Actor Raveendran to head Kerala Chalachitra Academy, Priyanka Nair to be vice-chairperson",
-      "CSIR-NIIST and Tata Consumer Products Ltd to establish Centre of Excellence for Food Fortification in Thiruvananthapuram",
-      "Foreign buyers impressed by experiential tourism avenues in Keralam",
-      "Greens stage protest march against alleged illegal laterite mining in Kannur",
-      "18th IDSFFK begins under a cloud of censorship",
-      "Idukki to resume dismantling of illegal fences blocking elephant corridors"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "GJ",
@@ -120,104 +100,124 @@
       "Anjali Anand's mom's BRUTAL REVIEW of her daughter's film 'Dhamaal 4'",
       "Droupadi Murmu urges celebs against harmful endorsements amid Vimal Elaichi Ad row: “A true star is the one who spreads light, not darkness”"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 6,
-    "headlines": [
-      "Declaration part of Form 6 changed since SIR in Bihar",
-      "Election Commission row highlights: Congress hold protests across the country seeking CEC resignations; AISA's Neha among those detained amid Jantar Mantar agitation",
-      "Railway Ministry approves tri-weekly Amrit Bharat Express between Bhuj in Gujarat, Barauni in Bihar",
-      "Woman hit with slipper, forced to transfer  ₹1,500: Bihar sees another harassment case amid outrage",
-      "Bihar sees third harassment case in a week, woman assaulted at tourist spot",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "UP polls: Why Akhilesh’s ‘rath’ show in Raebareli is message for Rahul",
-      "Lucknow bank manager dies by suicide inside car in Jaunpur: Police",
-      "Leopard kills woman in UP's Bahraich",
-      "DJ owner, operator arrested over death of 7-year-old girl in UP",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 4,
+    "news_count": 6,
     "headlines": [
-      "Indian Doll Makers Hub hosts doll exhibition themed around Mahabharata and Krishna Leela",
+      "Food safety inspections expose hygiene lapses at hotels, restaurants in Visakhapatnam",
+      "Polavaram officials sound alert as Sabari river in spate",
+      "Minister assures aid for submerged farmlands in Srikakulam district",
       "Schools closed, train services hit as deep depression, heavy rain grips Odisha, Andhra Pradesh",
       "'15 years ... I waited for long': Krishna Jayasankar set for her India moment at Asiad",
       "Rani Mukerji's mother Krishna Mukerji passes away at 75; family requests privacy"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 3,
-    "headlines": [
-      "Called ‘black-complexioned’ and ‘fatty-shaped’: Why man’s divorce plea failed",
-      "6 Dead After Wheat-Laden Truck Crashes Into Parked Vehicle In Chhattisgarh",
-      "6 killed, 7 injured as wheat truck rams stationary vehicle in Chhattisgarh"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 3,
-    "headlines": [
-      "Odisha reports 24 minor pregnancy cases in tribal school hostels over 2 yrs: Gond",
-      "Odisha proposes holding road builders liable for pedestrian deaths from faulty works",
-      "Odisha: Highest monsoon rainfall in 20 yrs; landslides disrupt roads, rail links"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 3,
+    "news_count": 6,
     "headlines": [
+      "VCK councillors stage walk out over placement of Ambedkar’s photo in Chennai Corporation council hall",
+      "1,671 km of stormwater drains being desilted: Chennai Mayor",
+      "Villagers oppose setting up of sewage treatment plant near Sholinghur town in Ranipet",
       "Karnataka told to release 4,000 cusecs Cauvery water to Tamil Nadu for 15 days; CM to challenge order",
       "HC quashes complaint against Annamalai over his 2023 remarks on Thevar",
       "Tamil Nadu likely to receive normal N-E monsoon rainfall: TNAU"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
+    "headlines": [
+      "Foreign buyers impressed by experiential tourism avenues in Keralam",
+      "KSEB’s Anti Power Theft Squad unearths irregularities in Ernakulam district",
+      "Kerala State Sports Council staff suspended",
+      "18th IDSFFK begins under a cloud of censorship",
+      "Actor Raveendran to head Kerala Chalachitra Academy, Priyanka Nair to be vice-chairperson"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
       "\"Shameless\": AAP Leader On Punjab Congress MLA's 'Living With Manish Sisodia' Claim",
       "Analysis: Mothers, Money And The Punjab Vote",
+      "Congress hopes for calm in Punjab unit but storm clouds remain ahead of 2027 Assembly election",
       "Jantar Mantar, Kolkata, Chandigarh streets: Congress launches nationwide protest against ECI"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "Declaration part of Form 6 changed since SIR in Bihar",
+      "Woman hit with slipper, forced to transfer  ₹1,500: Bihar sees another harassment case amid outrage",
+      "Bihar sees third harassment case in a week, woman assaulted at tourist spot",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 4,
+    "headlines": [
+      "Called ‘black-complexioned’ and ‘fatty-shaped’: Why man’s divorce plea failed",
+      "6 Dead After Wheat-Laden Truck Crashes Into Parked Vehicle In Chhattisgarh",
+      "Heavy rain floods Chhattisgarh; one dead, Bastar villages cut off, schools shut in 8 districts",
+      "6 killed, 7 injured as wheat truck rams stationary vehicle in Chhattisgarh"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "UP polls: Why Akhilesh’s ‘rath’ show in Raebareli is message for Rahul",
+      "Lucknow bank manager dies by suicide inside car in Jaunpur: Police",
+      "Leopard kills woman in UP's Bahraich",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 4,
+    "headlines": [
+      "Royal Bengal tiger cub rescued from house in Odisha’s Mayurbhanj",
+      "Odisha reports 24 minor pregnancy cases in tribal school hostels over 2 yrs: Gond",
+      "Odisha proposes holding road builders liable for pedestrian deaths from faulty works",
+      "Odisha: Highest monsoon rainfall in 20 yrs; landslides disrupt roads, rail links"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "WB",
@@ -229,43 +229,7 @@
       "West Bengal to offer land to industry bodies through limited auction",
       "Sunita Ahuja appeals to Gen Z for support amid Govinda - Komal rumours"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 2,
-    "headlines": [
-      "Telangana Congress to protest against ECI’s SIR handling on September 28",
-      "CITU backs TWU-SWF combine in TGSRTC union elections, combine to hold public meeting in Khammam on September 29"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "Against the odds to Asian Games gold: Journey of Haryana shooters",
-      "Jantar Mantar, Kolkata, Chandigarh streets: Congress launches nationwide protest against ECI"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
-    "headlines": [
-      "Centre extends Manipur's ‘disturbed area’ status for six more months as violence continues",
-      "Manipur: Four killed in armed attack; Naga body announces 24-hr shutdown"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "UT",
@@ -277,7 +241,43 @@
       "Uttarakhand: IMD issues red, orange alerts till September 28 in several districts",
       "95,000 Form 7s auto-generated as voters in Uttarakhand tagged ‘ineligible’ in SIR"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 2,
+    "headlines": [
+      "Centre extends Manipur's ‘disturbed area’ status for six more months as violence continues",
+      "Manipur: Four killed in armed attack; Naga body announces 24-hr shutdown"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "Against the odds to Asian Games gold: Journey of Haryana shooters",
+      "Jantar Mantar, Kolkata, Chandigarh streets: Congress launches nationwide protest against ECI"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "2022 Rajouri IED blast: Police file chargesheet against 4",
+      "IAS officer Mandeep Bhandari appointed chairperson of CBSE"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "NL",
@@ -289,29 +289,7 @@
       "111 MPs, MLAs Switched Parties Since 2022, Nagaland Tops List: Report",
       "111 lawmakers switched sides after elections in 2022-2026, says ADR report"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "SC seeks Goa response to Tarun Tejpal challenging conviction in rape case"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
-    "headlines": [
-      "Jantar Mantar, Kolkata, Chandigarh streets: Congress launches nationwide protest against ECI"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "AS",
@@ -322,7 +300,29 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "SC seeks Goa response to Tarun Tejpal challenging conviction in rape case"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 1,
+    "headlines": [
+      "Jantar Mantar, Kolkata, Chandigarh streets: Congress launches nationwide protest against ECI"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "AR",
@@ -333,7 +333,7 @@
     "headlines": [
       "Centre extends AFSPA in parts of Arunachal Pradesh for another six months"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "MP",
@@ -344,18 +344,7 @@
     "headlines": [
       "BJP names organisational general secretaries in several election-bound states"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
-  },
-  {
-    "Code": "SK",
-    "Lat": 27.533,
-    "Long": 88.5122,
-    "State": "Sikkim",
-    "news_count": 1,
-    "headlines": [
-      "30 houses damaged, roads blocked after landslides hit West Sikkim"
-    ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "RJ",
@@ -366,7 +355,29 @@
     "headlines": [
       "Nitin Nabin Pulls No Punches, Warns Rajasthan BJP Leaders Against 'Arrogance'"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "SK",
+    "Lat": 27.533,
+    "Long": 88.5122,
+    "State": "Sikkim",
+    "news_count": 1,
+    "headlines": [
+      "30 houses damaged, roads blocked after landslides hit West Sikkim"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 1,
+    "headlines": [
+      "Hyderabad Metro Rail Phase-I takeover, Phase-II expansion hit roadblock as funding search drags on"
+    ],
+    "last_updated": "2026-09-26 02:25:31 AM"
   },
   {
     "Code": "LA",
@@ -375,8 +386,8 @@
     "State": "Ladakh",
     "news_count": 1,
     "headlines": [
-      "Defence minister felicitates expedition crew summitting 20 unclimbed peaks in Ladakh"
+      "RGI Mritunjay Kumar Narayan reviews Census work in Ladakh"
     ],
-    "last_updated": "2026-09-25 11:10:09 PM"
+    "last_updated": "2026-09-26 02:25:31 AM"
   }
 ]
