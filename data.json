@@ -4,12 +4,14 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 29,
+    "news_count": 32,
     "headlines": [
       "Delhi bus gang rape: Charge sheet mentions semen, hair strands as key evidence",
-      "Supreme Court Rejects Plea Against SIR Ahead Of West Bengal Bypolls",
+      "Delhi Bans Bus Strikes For 6 Months, Commuters Get Relief",
+      "Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig",
+      "BLAs in Delhi bypassed EC’s 10-form daily limit using poll panel’s own portal, data show",
+      "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
       "CEC row updates: Reward Gyanesh Kumar with Bharat Ratna for delivering West Bengal to BJP, says Jammu and Kashmir CM Omar Abdullah",
-      "Pinarayi calls for government intervention to settle strike by Madhyamam staff",
       "NIA arrests 13 in Assam, Bengal, Keralam over links with IMK terror outfit",
       "NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe",
       "Police can't simply re-arrest accused released from illegal detention: Delhi HC",
@@ -27,6 +29,7 @@
       "India, EFTA to review trade pact a year on, eye new opportunities",
       "Delhi High Court sets aside FSSAI order directing Red Bull to remove energy drink descriptor from labels",
       "Economy strong, but India needs to cut dependence on energy imports, says Shaktikanta Das",
+      "Fed rate hike 'not urgent', says John Williams; Austan Goolsbee warns against 'playing with fire'",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -36,7 +39,7 @@
       "EXCLUSIVE: CBFC clears Drishyam The Conclusion WITHOUT a single cut; is 8 minutes longer than Drishyam 2",
       "Ankur Rathee says Best Of The Best took him back to his college dancer days: “A version of myself I thought I had left behind”"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "MH",
@@ -46,8 +49,8 @@
     "news_count": 10,
     "headlines": [
       "\"Nothing On Record\": Ex-Cop Sachin Waze Gets Bail In Mumbai Bomb Scare Case",
-      "Several Mumbai-Bound Flights Diverted Due To Bad Weather",
       "Democracy without choice: how unopposed Maharashtra rural polls silence dissent",
+      "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
       "Congress accuses Maharashtra govt of excluding Opposition-held regions from drought list",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Gondhal team meets Maharashtra CM Devendra Fadnavis, appeals for financial support ahead of Oscar 2027 journey",
@@ -56,52 +59,17 @@
       "Raza Murad questions Bollywood stars’ absence at Mushtaq Khan’s funeral: “Koi bada chehra nahin aaya”",
       "FDA Chief Tukaram Mundhe REACTS to Preity Zinta’s ‘Team Tukaram Mundhe’ T-shirt: “Actual work must be done”"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 8,
-    "headlines": [
-      "Protest intensifies against large-scale water extraction from Tejaswini river in Keralam’s Kasaragod",
-      "Rahul Gandhi urged to ensure social diversity in Kerala Planning Board",
-      "SFI, KSU claim gains in college union polls in Ernakulam",
-      "Pinarayi calls for government intervention to settle strike by Madhyamam staff",
-      "Seminar on boosting Wayanad coffee held",
-      "NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe",
-      "Kerala to provide free heart attack detection test to BPL families",
-      "Al Fursan-led consortium acquires Kerala Blasters FC from Magnum Group"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
-    "headlines": [
-      "Police Complaints Authority, Karnataka Police bat for better pay, leave benefits for scene of crime officers",
-      "Agniveer recruitment rally to be held in Bidar in January",
-      "Mekedatu project: Karnataka CM Shivakumar to renew invite to TN CM Vijay for talks",
-      "Congress plans 84-day march across lost seats",
-      "3 teams from Centre to assess drought situation in Karnataka",
-      "CM ‘challenges’ BJP to join delegation seeking central drought aid",
-      "Shivakumar presses Centre on Bengaluru infra, water projects",
-      "Karnataka Government approves Global Technology Centres in Belagavi and Hubballi"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
       "Chargesheet Against Accused's Parents Cancelled In Chennai Techie Murder Case",
+      "CMC organises events to mark World Heart Day",
       "R. Veeramani booked for abetting suicide of minor in 2004",
       "SIT arrests seventh accused in fake medicine racket; Chennai link under scanner",
       "Fresh Pocso case filed against granite baron R Veeramani in Tamil Nadu",
@@ -109,54 +77,114 @@
       "Rajinikanth's 'Dharman' wraps its third schedule; Ashwath shares fresh BTS",
       "Arulnithi’s ‘Demonte Colony 3’ clears major release hurdle"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 7,
+    "headlines": [
+      "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
+      "Mekedatu project: Karnataka CM Shivakumar to renew invite to TN CM Vijay for talks",
+      "Congress plans 84-day march across lost seats",
+      "3 teams from Centre to assess drought situation in Karnataka",
+      "CM ‘challenges’ BJP to join delegation seeking central drought aid",
+      "Shivakumar presses Centre on Bengaluru infra, water projects",
+      "Karnataka Government approves Global Technology Centres in Belagavi and Hubballi"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 6,
+    "headlines": [
+      "Protest intensifies against large-scale water extraction from Tejaswini river in Keralam’s Kasaragod",
+      "Rahul Gandhi urged to ensure social diversity in Kerala Planning Board",
+      "SFI, KSU claim gains in college union polls in Ernakulam",
+      "NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe",
+      "Kerala to provide free heart attack detection test to BPL families",
+      "Al Fursan-led consortium acquires Kerala Blasters FC from Magnum Group"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
-      "Reddy's Ram-Shiva remarks: Congress defends Telangana CM as BJP demands apology",
+      "Mammoth protest at Kittur Chennamma Circle by Sugarcane farmers; Farmers agree for talk at Delhi with Joshi after intervention by MLAs Tenginakai, Patil",
       "Ministers Aadhav Arjuna, C.T.R. Nirmal Kumar urge Madras High Court to dismiss DMK’s defamation case",
-      "Telangana High Court directs DGP to identify police officials who misbehaved with woman MLAs",
       "Revanth Reddy's ‘rich God, poor God’ remark faces heat, BJP slams Telangana CM's 'absurd' statement",
       "On 'Har Shikhar Par Tiranga' mission, Telangana man scales Nagaland mountain to cover 11 states",
       "Congress stages rallies against EC-CEC issue in Hyderabad, Vijaywada",
       "Telangana Labour Dept calls Uber, Ola, Rapido, GMR for talks on airport cab row"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "Country has lost its way, but always finds its path back: Murli Manohar Joshi",
-      "Will contest Uttar Pradesh, Punjab polls with or without BJP: Chirag Paswan",
-      "Attempt-to-murder case against UP Cong leaders over Gyanesh Kumar incident in Agra",
-      "Two Congress leaders arrested for ‘Gaddar’ graffiti at Gyanesh Kumar's Agra home",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "JK",
     "Lat": 33.7782,
     "Long": 76.5762,
     "State": "Jammu and Kashmir",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "Budgam encounter: Army kills LeT terrorist in fierce gunfight in Yousmarg",
       "CISF jawan kills 4 colleagues at Kathua hydel plant",
-      "4 CISF personnel killed after colleague opens fire in J&amp;K's Kathua",
+      "Terrorist killed in ongoing operation in Kashmir’s Budgam",
       "CEC row updates: Reward Gyanesh Kumar with Bharat Ratna for delivering West Bengal to BJP, says Jammu and Kashmir CM Omar Abdullah",
       "CISF constable guns down four colleagues in J&K’s Kathua",
       "India rejects Kashmir references in Turkish President’s UNGA address as ‘unwarranted’"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "Mamata in Delhi to participate in INDIA bloc meetings, Suvendu takes a dig",
+      "CEC row updates: Reward Gyanesh Kumar with Bharat Ratna for delivering West Bengal to BJP, says Jammu and Kashmir CM Omar Abdullah",
+      "NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe",
+      "SC declines urgent hearing on WB SIR pleas ahead of bypolls"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 4,
+    "headlines": [
+      "Rajasthan HC cancels FIR against Independent MLA arrested during local body polls",
+      "Rajasthan first State in northern India to complete digital identification of farmers",
+      "CleanMax, Nuvoco to build 46.4 MW wind-solar hybrid plant in Rajasthan",
+      "SCOOP: The Royals Season 2 shoot hits a major roadblock in Jaisalmer"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "Country has lost its way, but always finds its path back: Murli Manohar Joshi",
+      "Attempt-to-murder case against UP Cong leaders over Gyanesh Kumar incident in Agra",
+      "Two Congress leaders arrested for ‘Gaddar’ graffiti at Gyanesh Kumar's Agra home",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "BR",
@@ -170,21 +198,7 @@
       "Amid massive floods, Bihar's Gandak river swells after Nepal rain fury",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "Supreme Court Rejects Plea Against SIR Ahead Of West Bengal Bypolls",
-      "CEC row updates: Reward Gyanesh Kumar with Bharat Ratna for delivering West Bengal to BJP, says Jammu and Kashmir CM Omar Abdullah",
-      "NIA arrests 6 in Assam’s Barpeta, searches 16 sites in Imam Mahmuder Kafila terror probe",
-      "SC declines urgent hearing on WB SIR pleas ahead of bypolls"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "HR",
@@ -197,33 +211,20 @@
       "Haryana DGP admits lapses in handling of Yuvraj Singh Manchanda's body",
       "Parveen Hooda’s redemption hour: From a lost medal to a shot at boxing gold"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
     "news_count": 3,
     "headlines": [
-      "Son died, LIC denied Rs 5 lakh insurance; Commission orders payout with interest",
-      "Drug menace dominates BJP’s poll campaign in Punjab as it cuts across caste, religion, age",
-      "Will contest Uttar Pradesh, Punjab polls with or without BJP: Chirag Paswan"
+      "INDIA bloc announces Odisha bandh on October 8 over new mining law, other issues",
+      "Odisha mining funds spent on stadium, roads, instead of affected areas: CAG",
+      "CAG flags serious lapses in spending of Odisha DMF fund meant for mining-affected areas' benefits"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Exclusive: Bengaluru Minister Krishna Byre Gowda Lists Fixes For Potholes, Traffic Jams, Flooding",
-      "ED interrogates prime accused in Viveka Reddy murder case",
-      "Congress stages rallies against EC-CEC issue in Hyderabad, Vijaywada"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "AS",
@@ -236,7 +237,7 @@
       "Assam Rifles jawan dead, 4 others injured in militant attack in Arunachal Pradesh: Police",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "GJ",
@@ -249,7 +250,31 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Kartik Aaryan returns to Captain India sets after National Award win, receives warm welcome from crew"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Son died, LIC denied Rs 5 lakh insurance; Commission orders payout with interest",
+      "Drug menace dominates BJP’s poll campaign in Punjab as it cuts across caste, religion, age"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "ED interrogates prime accused in Viveka Reddy murder case",
+      "Congress stages rallies against EC-CEC issue in Hyderabad, Vijaywada"
+    ],
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "CT",
@@ -261,31 +286,7 @@
       "CBI to probe BSP scrap theft racket in Chhattisgarh",
       "Asian Games: India's full schedule on September 30; medal events, and timings"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Odisha mining funds spent on stadium, roads, instead of affected areas: CAG",
-      "CAG flags serious lapses in spending of Odisha DMF fund meant for mining-affected areas' benefits"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
-    "headlines": [
-      "CleanMax, Nuvoco to build 46.4 MW wind-solar hybrid plant in Rajasthan",
-      "SCOOP: The Royals Season 2 shoot hits a major roadblock in Jaisalmer"
-    ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "GA",
@@ -296,7 +297,7 @@
     "headlines": [
       "On its 500th anniversary, 16th century Portuguese decree inspires debate in Goa"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "NL",
@@ -307,7 +308,7 @@
     "headlines": [
       "On 'Har Shikhar Par Tiranga' mission, Telangana man scales Nagaland mountain to cover 11 states"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "LD",
@@ -318,7 +319,7 @@
     "headlines": [
       "Centre examining Lakshadweep seaplane launch after UT support withdrawal"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   },
   {
     "Code": "MP",
@@ -329,6 +330,6 @@
     "headlines": [
       "Petitioner challenging CEC, ECI appointments law moves curative plea in Supreme Court"
     ],
-    "last_updated": "2026-09-30 12:31:16 AM"
+    "last_updated": "2026-09-30 04:48:33 AM"
   }
 ]
