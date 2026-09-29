@@ -4,15 +4,13 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 29,
     "headlines": [
-      "'Crushed man's head with stones': How Delhi murder accused evaded arrest for 24 years",
-      "5 South stars whose impressive educational degrees may surprise you",
+      "Collegium picks Delhi high court chief justice, 2 others as SC judges",
       "14 Dead In Fire At Russian Fireworks Factory: Report",
       "In Slapgate Row, Report Filed Against Delhi Minister, Police Case On AAP MLA",
       "Bike Patrols, Surprise Night Checks At Delhi Parks After Kalkaji Gang Rape",
       "Israel Says It Killed Man Seen In Viral Oct 7 Hostage Kidnapping Video",
-      "Three-day Navy Commanders’ Conference to start in New Delhi on September 29",
       "Non-cognisable report filed against Delhi minister Parvesh Verma over slap incident",
       "India, Brazil, South Africa oppose attacks on multilateralism, back West Asia dialogue",
       "HT Evening Brief Sept 28: ‘No PUC, no fuel’ rule in Delhi to curb winter pollution; PV Sindhu flags Asian Games schedule",
@@ -30,7 +28,6 @@
       "India, Canada race to seal trade deal; trade minister to visit New Delhi again in October",
       "Indian refiners buy costly West Asian barrels as Russian supply narrows",
       "Future-ready labour ecosystem needs partnership, not binaries: Mandaviya",
-      "Securing vital energy lines amidst West Asia crisis to figure at Navy Commanders’ Conference",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -39,19 +36,18 @@
       "EXCLUSIVE: CBFC clears Drishyam The Conclusion WITHOUT a single cut; is 8 minutes longer than Drishyam 2",
       "Ankur Rathee says Best Of The Best took him back to his college dancer days: “A version of myself I thought I had left behind”"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 18,
+    "news_count": 17,
     "headlines": [
       "Mumbai Police adds a road safety twist to Ranbir Kapoor's 'Love &amp; War' first-look:",
-      "Homebuyers, take note: These Indian cities saw housing sales rise in Q3",
       "Maharashtra Food Body Suspends 30 Licenses, Seizes Stock Worth A Crore",
-      "Metro Networks, Concrete Roads: Mumbai Civic Chief Ashwini Bhide Shares Timeline At NDTV Yuva",
+      "SIR row: Congress holds protest across Maharashtra seeking Gyanesh Kumar’s removal",
       "120-year-old Kyani cafe in Mumbai, Royal China under Maharashtra FDA's scanner; rat droppings, lizards found",
       "‘Gyanesh Gaddar’: Youth Congress defaces CEC's Agra home during protest",
       "‘Life has humbled Gyanu’: CJP’s Saurav Das jibes at CEC Gyanesh Kumar as team plans Mumbai stir",
@@ -67,27 +63,7 @@
       "Sajid Nadiadwala’s Nadiadwala Grandson seals 11-month Andheri office space deal; pays Rs. 55 lakhs upfront",
       "Salman Khan and Arvind Swamy shoot massive train action sequence for Monster; source reveals details of Mumbai schedule"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 10,
-    "headlines": [
-      "Katrina says mom left London for Tamil Nadu village to help kids",
-      "Homebuyers, take note: These Indian cities saw housing sales rise in Q3",
-      "Tamil Nadu central crime branch registers another Pocso case against R Veeramani",
-      "BJP flags milk crisis in Tamil Nadu as CM Vijay launches gold ring scheme for newborns: 'Nutrition is immediate need'",
-      "Tamil Nadu CM Vijay launches one-gram gold ring scheme for newborns",
-      "Tamil Nadu CM Vijay launches one-gram gold ring scheme for newborns in Madurai: All you need to know",
-      "TVK govt rolls back RTI order after political backlash",
-      "‘Lured poor kids with cash, smartphones’: Police uncover child sex racket in Chennai involving granite baron R Veeramani",
-      "Karur stampede an ‘unhealable’ wound: Vijay on 1st anniversary",
-      "Tamil Nadu's Vijay government revokes order exempting law and order department from RTI Act"
-    ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "KA",
@@ -107,22 +83,41 @@
       "Karnataka counterfeit drug racket kingpin arrested at Bengaluru airport: Police",
       "Karnataka CM seeks faster defence clearances for Bengaluru infra projects"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 8,
+    "headlines": [
+      "Tamil Nadu central crime branch registers another Pocso case against R Veeramani",
+      "BJP flags milk crisis in Tamil Nadu as CM Vijay launches gold ring scheme for newborns: 'Nutrition is immediate need'",
+      "Tamil Nadu CM Vijay launches one-gram gold ring scheme for newborns",
+      "Tamil Nadu CM Vijay launches one-gram gold ring scheme for newborns in Madurai: All you need to know",
+      "TVK govt rolls back RTI order after political backlash",
+      "‘Lured poor kids with cash, smartphones’: Police uncover child sex racket in Chennai involving granite baron R Veeramani",
+      "Karur stampede an ‘unhealable’ wound: Vijay on 1st anniversary",
+      "Tamil Nadu's Vijay government revokes order exempting law and order department from RTI Act"
+    ],
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
       "Congress Moves Candidates To Secret Location Ahead Of Gandhinagar Civic Polls",
       "Cheap Spirits, Premium Bottle: Fake Liquor Scam Unearthed In Dry Gujarat",
+      "USFDA inspection at Zydus Lifesciences’ Ahmedabad facility ends with one observation",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Kartik Aaryan returns to Captain India sets after National Award win, receives warm welcome from crew"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "PB",
@@ -137,7 +132,21 @@
       "LPU protest highlights: Normalcy resumes at LPU campus, Punjab DGP says maximum restraint used against students",
       "Rape claim, university denial, then arson: What we know about Punjab’s LPU protest"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 4,
+    "headlines": [
+      "Coast Guard saves sinking tanker with 23 crew off Odisha coast",
+      "Indirectly mining affected people in Odisha get substantial DMF fund, CAG unearths",
+      "Odisha man beaten to death, body burnt over witchcraft suspicion: Police",
+      "Will not allow MMDR Act to be implemented, says former Odisha CM Naveen Patnaik"
+    ],
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "KL",
@@ -151,20 +160,7 @@
       "Kerala HC grants pre-arrest bail to YouTuber",
       "Ex-chief secretary’s revelations about Gyanesh Kumar “extremely serious”, CEC must step down: Keralam CM"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "CJP workers detained in Assam allege no food for 24 hours: ‘Who can survive on one banana?’",
-      "First cargo vessel since Independence set to sail abroad from Dibrugarh via Brahmaputra",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "UP",
@@ -177,20 +173,20 @@
       "Cong to launch campaign against Ram temple fund theft in October",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 3,
     "headlines": [
-      "Telangana High Court directs  private medical college to return tuition fee to student as university cancels admission",
-      "Telangana Fire Services proposes risk-based classification to simplify industrial Fire NOCs",
-      "Billtrust to invest ₹450 cr in Hyderabad GCC"
+      "CJP workers detained in Assam allege no food for 24 hours: ‘Who can survive on one banana?’",
+      "First cargo vessel since Independence set to sail abroad from Dibrugarh via Brahmaputra",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "AP",
@@ -202,43 +198,7 @@
       "Hospitals in Visakhapatnam mark World Heart Day with focus on early detection",
       "IMD forecasts light showers, strong winds in Andhra Pradesh"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "Odisha man beaten to death, body burnt over witchcraft suspicion: Police",
-      "Will not allow MMDR Act to be implemented, says former Odisha CM Naveen Patnaik"
-    ],
-    "last_updated": "2026-09-29 02:27:59 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Liquor smugglers use code names and clever hiding tricks to evade prohibition in Bihar",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-09-29 02:27:59 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "4 dead, 9 injured after under-construction structure collapses in Haryana's Ambala",
-      "3-year-old girl rescued from Faridabad borewell after 10-hour NDRF operation"
-    ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "RJ",
@@ -250,7 +210,43 @@
       "Rajasthan Police blocks around 15k mobile numbers circulating child sexual abuse material",
       "SCOOP: The Royals Season 2 shoot hits a major roadblock in Jaisalmer"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
+    "headlines": [
+      "Liquor smugglers use code names and clever hiding tricks to evade prohibition in Bihar",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-09-29 06:19:55 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "4 dead, 9 injured after under-construction structure collapses in Haryana's Ambala",
+      "3-year-old girl rescued from Faridabad borewell after 10-hour NDRF operation"
+    ],
+    "last_updated": "2026-09-29 06:19:55 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 2,
+    "headlines": [
+      "Telangana High Court directs  private medical college to return tuition fee to student as university cancels admission",
+      "Telangana Fire Services proposes risk-based classification to simplify industrial Fire NOCs"
+    ],
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "UT",
@@ -262,7 +258,7 @@
       "136 trekkers, mountaineers stranded in Uttarkashi due to snowfall; 5 evacuated",
       "Char Dham Yatra suspended for second day amid heavy rain in Uttarakhand"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "MP",
@@ -273,7 +269,7 @@
     "headlines": [
       "Once known for tree-lined avenues, craters define these posh areas in Bhopal now"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   },
   {
     "Code": "CT",
@@ -284,6 +280,6 @@
     "headlines": [
       "Odisha, Chhattisgarh CMs to meet Amit Shah over Mahanadi water dispute"
     ],
-    "last_updated": "2026-09-29 02:27:59 AM"
+    "last_updated": "2026-09-29 06:19:55 AM"
   }
 ]
