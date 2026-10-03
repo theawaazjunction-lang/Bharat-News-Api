@@ -4,8 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 42,
+    "news_count": 41,
     "headlines": [
+      "Woman bought 94 acres in 1973, then state restricted 10 acres for 20 years",
+      "North Korea fires missile towards South Korea amid DMZ security tensions",
       "Rahul demands CEC Gyanesh Kumar’s resignation as protests erupt in Delhi, Mumbai",
       "700 Detained As Delhi, Mumbai See Big Protests Against Gyanesh Kumar",
       "Deleted, and left in limbo",
@@ -13,7 +15,7 @@
       "Thousands turn up for CJP protest in Mumbai seeking CEC's resignation; CPI(M) condemns detention of youngsters in Delhi | ECI protest updates",
       "Pay the Global South for climate damage, but only if it prices carbon, says economist Greenstone",
       "EC’s post-SIR re-enrolment drive will not include West Bengal cases pending before appellate tribunals",
-      "Heavy police deployment, barricades restrict entry to Jantar Mantar; several protesters detained",
+      "1,000 detained as Delhi cops thwart Jantar Mantar protest against Gyanesh Kumar",
       "Pargat Singh appointed Punjab Congress chief after Warring's exit, takes charge ahead of 2027 Assembly polls",
       "Goldy Brar linked racket busted, 3 held for extortion demands in Delhi",
       "The roar is back in Bengal’s Buxa after 8 years: 3-yr-old tigress from Bihar released into reserve",
@@ -32,31 +34,28 @@
       "Delhi Police says no permission granted for Jantar Mantar protest, gears up security",
       "People will decide country’s fate: AISA’s Neha Bora ahead of Jantar Mantar protests",
       "Jantar Mantar crowd swelled after food deliveries: Delhi Police’s key lesson from July protests",
-      "Delhi traffic advisory: Special arrangements in place near Rajghat, Vijay Ghat on October 2",
       "Saroj Poddar Group, Keventer launch real estate-focussed AIF, target ₹400 crore corpus",
       "Anti-CEC protests erupt across country over SIR, hundreds detained in Delhi",
       "West Bengal’s Keventer, Saroj Poddar groups launch ₹400-cr real estate debt fund",
       "Government extends RELIEF scheme to shield exporters from West Asia logistics disruption",
-      "CJP, student groups to protest, demand Election Commission chief's resignation",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Asian Games Medal Tally: Historic hockey, wrestling golds power India into top 5",
       "Three golds in a day! Ankush completes Indian boxing hat-trick at Asian Games",
-      "Asiad: India add another archery silver as men’s recurve team loses to Korea",
       "EXCLUSIVE: CBFC clears Drishyam The Conclusion WITHOUT a single cut; is 8 minutes longer than Drishyam 2",
       "Ankur Rathee says Best Of The Best took him back to his college dancer days: “A version of myself I thought I had left behind”",
       "After 50+ years of pulp-mill pollution, regulators propose restoring North Carolina's Roanoke River",
       "James West and Gerhard Sessler patented the electret microphone in 1962, now 90% of mics"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 24,
+    "news_count": 22,
     "headlines": [
       "Rahul demands CEC Gyanesh Kumar’s resignation as protests erupt in Delhi, Mumbai",
       "\"New Hero\": Israeli Envoy Puts Up Billboard In Mumbai Praising flydubai Pilot",
@@ -74,8 +73,6 @@
       "Embraer, Mahindra Group plan to invest ₹6,000 crore in Nagpur assembly line",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Nushrratt flown back to Mumbai in air ambulance; videos show actress on stretcher",
-      "Vijay Varma's cut-out outfit grabs attention; netizens say 'Male Uorfi'",
-      "Dino arrested by EOW in Mithi River desilting case over loss of Rs 65.54 crore",
       "Dino Morea summoned again by Mumbai Police EOW in Rs. 65.54 crores Mithi River desilting case; here's what we know",
       "Alia Bhatt joins Rami Malek, Sachin Tendulkar and Simone Ashley for a star-studded Earthshot Prize 2026 night in Mumbai",
       "Who is Lalit Prabhakar? Meet the National Award-winning actor playing Ajmal Kasab in Prahaar",
@@ -83,7 +80,7 @@
       "Gondhal team meets Maharashtra CM Devendra Fadnavis, appeals for financial support ahead of Oscar 2027 journey",
       "BREAKING: Income Tax searches at 12 locations linked to Rakul Preet Singh, Vashu Bhagnani, Panorama Studios, Ali Abbas Zafar"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "PB",
@@ -92,26 +89,27 @@
     "State": "Punjab",
     "news_count": 10,
     "headlines": [
+      "Congress abruptly replaces Ajay Rai as state chief in poll-bound UP",
       "Warring out, Pargat in: Has Congress solved Punjab crisis or set stage for another twist?",
-      "2027 polls: Congress names Pargat Singh as Punjab chief after Warring's exit",
+      "Two suspected Pakistani intruders shot dead in Tarn Taran",
       "2 Arrested For Fake Social Media Posts Triggering Punjab University Protest",
       "Hockey Legend Pargat Singh Named Punjab Congress Chief After Raja Warring Quits",
       "'Charanjit Channi Saheb Has Won': Raja Warring Meets Rahul Gandhi After Exit As Punjab Congress Chief",
       "Two ‘intruders’ shot dead by BSF along Punjab Border, Pakistan Rangers agrees to take back bodies",
       "Congress appoints Pargat Singh as new Punjab chief, Warring resigns",
       "Pargat Singh appointed Punjab Congress chief after Warring's exit, takes charge ahead of 2027 Assembly polls",
-      "Punjab lab owner arrested in US visa fraud case over forged experience certificate",
-      "Why Warring's position in Punjab Congress became untenable once Pilot replaced Baghel"
+      "Punjab lab owner arrested in US visa fraud case over forged experience certificate"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
+      "Hindi on Tamil Nadu highway sign board stirs row, 2 engineers suspended",
       "CPI(M) urges Tamil Nadu government to boycott High-Level Committee on Demographic Changes",
       "BHEL celebrates Gandhi Jayanthi in Ranipet",
       "CMC opens Paediatric Speciality Centre at its Ranipet campus",
@@ -120,7 +118,23 @@
       "R Veeramani booked under Goondas Act as fourth case lodged against him, says Crime Branch",
       "Today’s Gold Rate, Aug 26: Check gold rates in Delhi, Mumbai, Chennai"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "With President’s nod, Gujarat becomes second state after Uttarakhand to get UCC",
+      "President Gives Assent, Gujarat Becomes 2nd State To Get Uniform Civil Code",
+      "Gujarat UCC Bill gets President Murmu’s assent, becomes 2nd state after Uttarakhand",
+      "Mayawati's nephew Akash Anand seeks another chance in BSP after expulsion, rules out joining another party",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "KA",
@@ -136,37 +150,7 @@
       "Urdu festival at Vidhana Soudha faces opposition",
       "Karnataka CEO orders legal action over false Form 7 claims amid SIR row"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 5,
-    "headlines": [
-      "Woman killed, 12 injured as lorry hits autorickshaw near Khammam",
-      "122 cannabis plants seized in two raids in Adilabad district",
-      "Decomposed body of 27-year-old doctor found in Hyderabad apartment, cops suspect foul play as partner missing",
-      "Development works worth ₹52,000 cr in progress in Hyderabad: Deputy CM Bhatti",
-      "IPL retentions: 'Unhappy' Abhishek Sharma wants to leave SRH"
-    ],
-    "last_updated": "2026-10-03 04:12:52 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "President Gives Assent, Gujarat Becomes 2nd State To Get Uniform Civil Code",
-      "Gujarat UCC Bill gets President Murmu’s assent, becomes 2nd state after Uttarakhand",
-      "Mayawati's nephew Akash Anand seeks another chance in BSP after expulsion, rules out joining another party",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "WB",
@@ -181,34 +165,22 @@
       "West Bengal’s Keventer, Saroj Poddar groups launch ₹400-cr real estate debt fund",
       "How Kolkata is gearing up for India vs Brazil after Lionel Messi fiasco"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 4,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
     "headlines": [
-      "Mahanadi row: Odisha, Chhattisgarh CMs meet Amit Shah",
-      "From guns to classrooms: Eight former Maoists clear Class 10 exam in Chhattisgarh’s Bastar",
-      "Asian Games Medal Tally: Historic hockey, wrestling golds power India into top 5",
-      "Asiad: India add another archery silver as men’s recurve team loses to Korea"
+      "Woman killed, 12 injured as lorry hits autorickshaw near Khammam",
+      "122 cannabis plants seized in two raids in Adilabad district",
+      "Decomposed body of 27-year-old doctor found in Hyderabad apartment, cops suspect foul play as partner missing",
+      "Development works worth ₹52,000 cr in progress in Hyderabad: Deputy CM Bhatti",
+      "IPL retentions: 'Unhappy' Abhishek Sharma wants to leave SRH"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "Deleted, and left in limbo",
-      "The roar is back in Bengal’s Buxa after 8 years: 3-yr-old tigress from Bihar released into reserve",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "UP",
@@ -221,7 +193,33 @@
       "Aradhana Misra Mona appointed as new chief of Uttar Pradesh Congress",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 3,
+    "headlines": [
+      "North Korea fires missile towards South Korea amid DMZ security tensions",
+      "Mahanadi row: Odisha, Chhattisgarh CMs meet Amit Shah",
+      "Asian Games Medal Tally: Historic hockey, wrestling golds power India into top 5"
+    ],
+    "last_updated": "2026-10-03 07:05:38 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Deleted, and left in limbo",
+      "The roar is back in Bengal’s Buxa after 8 years: 3-yr-old tigress from Bihar released into reserve",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "LA",
@@ -234,7 +232,7 @@
       "28 geo features in Ladakh formally identified on Survey of India map",
       "Ladakh experiments with saffron cultivation in high-altitude cold desert"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "KL",
@@ -244,10 +242,10 @@
     "news_count": 3,
     "headlines": [
       "Foreign buyers impressed by experiential tourism avenues in Keralam",
-      "Heavy police deployment, barricades restrict entry to Jantar Mantar; several protesters detained",
+      "Broadway’s long wait for firefighting infrastructure continues despite warnings",
       "Keralam: Wife hires men to abduct husband, rape girlfriend"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "HR",
@@ -260,19 +258,33 @@
       "Girl, boy sexually assaulted inside vacant Faridabad building; 3 arrested: Cops",
       "Haryana power plant PM emissions 38.8 times limit, faces  ₹31.46 cr penalty"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 2,
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 3,
     "headlines": [
-      "Two Definitions Of Poverty In Jammu And Kashmir Fuel A Row Over Job Quotas",
-      "After years of crop losses, Kashmir farmers see better paddy harvest"
+      "With President’s nod, Gujarat becomes second state after Uttarakhand to get UCC",
+      "Over 350 pilgrims stopped as landslide blocks Adi Kailash route in Uttarakhand",
+      "Gujarat UCC Bill gets President Murmu’s assent, becomes 2nd state after Uttarakhand"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
+    "headlines": [
+      "Rajasthan Royals star creates history, surpasses Gayle for highest T20 score",
+      "‘Should get to cross-examine SC judge’: Ex-acting Rajasthan CJ accused of corruption",
+      "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities"
+    ],
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "AS",
@@ -284,43 +296,19 @@
       "Assam nightclub horror: Woman stripped, kicked on floor; manager detained",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 2,
     "headlines": [
-      "Join hands to keep Tirupati clean and green, says District Collector",
-      "Andhra Pradesh commercial tax collections rise 18% to ₹30,436 cr in H1"
+      "Two Definitions Of Poverty In Jammu And Kashmir Fuel A Row Over Job Quotas",
+      "After years of crop losses, Kashmir farmers see better paddy harvest"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
-    "headlines": [
-      "‘Should get to cross-examine SC judge’: Ex-acting Rajasthan CJ accused of corruption",
-      "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities"
-    ],
-    "last_updated": "2026-10-03 04:12:52 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 2,
-    "headlines": [
-      "Over 350 pilgrims stopped as landslide blocks Adi Kailash route in Uttarakhand",
-      "Gujarat UCC Bill gets President Murmu’s assent, becomes 2nd state after Uttarakhand"
-    ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "GA",
@@ -331,7 +319,18 @@
     "headlines": [
       "Goa SIR: 88 of 97 left-out voters re-included after Form 6; 3 of remaining 9 hold Portuguese passports"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Andhra Pradesh commercial tax collections rise 18% to ₹30,436 cr in H1"
+    ],
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "HP",
@@ -342,7 +341,7 @@
     "headlines": [
       "Father got 3 bigha in 1972; HC protects married daughter's land claim"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   },
   {
     "Code": "JH",
@@ -353,6 +352,6 @@
     "headlines": [
       "36% voter deletion pleas from single Jharkhand assembly seat in SIR, data shows"
     ],
-    "last_updated": "2026-10-03 04:12:52 AM"
+    "last_updated": "2026-10-03 07:05:38 AM"
   }
 ]
