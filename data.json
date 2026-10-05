@@ -4,16 +4,20 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 29,
+    "news_count": 32,
     "headlines": [
-      "Delhi HC dismisses pleas for fresh probe into 2019 Jamia violence",
-      "Shammi Narang’s grandson hears Dadu’s iconic Delhi Metro voice for the first time",
-      "High Court Hands Punjab Transfer-Posting Case To Central Probe Agency",
-      "Rs 2-Crore Home, Gold Lost: A Cyber Scam In Delhi That Wasn't Just Digital",
+      "Visa doesn't create absolute right to enter India, says Delhi High Court",
+      "Probe sex assault case against Nagina MP Azad, court directs Delhi cops",
+      "Scribes covering protests should carry ID, maintain distance: Delhi Police advisory",
+      "Delhi Cop Vivek Bhagat's Promotion Withheld Amid Sexual Harassment Allegation",
+      "Top Court Tells Delhi Police To Make Women Safe, Even At 11 pm",
+      "19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals",
       "CEC Gyanesh Kumar has lost public trust and must be removed, say former bureaucrats, activists",
-      "Central team visits Bagalkot district",
-      "Central team assesses drought impact in Vijayanagara district",
-      "Set up 24-hour monitoring cells to prevent sexual offences, Supreme Court tells Delhi Police",
+      "West Bengal BLOs write to CEO, seek security ahead of drive to re-enrol voters",
+      "Delhi Govt withholds current duty charge of Additional DCP given to officer accused of sexually harassing journalist",
+      "Admiral Paparo meets top Indian military leadership at U.S. Envoy’s dinner in New Delhi",
+      "Congress campaign against vote chori to help re-enroll voters whose names were deleted in SIR",
+      "‘Females treated with dignity’: Delhi Police reject assault claims, issue journalist guidelines as accused cop gets promoted",
       "Delhi police official, accused of sexually harassing journalist during anti-CEC protest at Jantar Mantar, promoted",
       "Actor Koel Mallick joins BJP, files Rajya Sabha nomination months after quitting",
       "Multiple schools across Delhi receive bomb threats; nothing suspicious, say police",
@@ -31,26 +35,27 @@
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "'Same thing could happen at World Cup': Karthik hails Rohit's measured 92 vs WI",
-      "Why ICC fined India and West Indies after 3rd ODI in New Chandigarh",
       "Honey Singh seeks more time from Maharashtra Cyber after skipping questioning",
       "Vijay Deverakonda 'Dhurandhar' songs play non-stop at gyms in South India",
       "R. Madhavan set to host Game Changers featuring startup founders and global investors; details inside!"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 20,
+    "news_count": 22,
     "headlines": [
-      "Huge fire breaks out near ‘Pati Patni Aur Panga 2’ and Hustle 5 sets in Mumbai",
-      "Navi Mumbai Airport Expands Multimodal Transport Network Ahead Of Winter Schedule",
-      "Massive Fire At Mumbai Depot, CNG-Run Buses Seen Burning",
-      "Mumbai Police arrest software developer from Madhya Pradesh for cyber fraud",
+      "Fire breaks out on reality show set at Goregaon Film City; no injuries reported",
+      "Shinde meets PM Modi over Maharashtra drought, says Centre assures support for farmers",
+      "Supreme Court quashes Bombay HC order directing Maharashtra FDA to pay ₹5 lakh compensation",
+      "Encroachment of land in Mumbai",
+      "Bombay High Court declines to stay deletion of names from voters’ list in Maharashtra",
       "Maharashtra govt orders 10% water cut from October 16 across state amid El Niño concerns",
       "‘No permission taken’: Mumbai police files FIR against organisers of Thackerays' ‘Garjana Morcha’ march",
+      "Maharashtra Charity Commissioner gives Tata Trusts seven days to respond to trustees’ complaints",
       "Shifting flights in twenty days not possible, say airline execs on Mumbai airport flight cut proposal",
       "Shyam Metalics & Energy to invest ₹50,000 cr in 9 mtpa steel plant in Maharashtra",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
@@ -66,16 +71,15 @@
       "Vimal Elaichi row: FDA commissioner says Shah Rukh Khan, Ajay Devgn, and Tiger Shroff have responded to notice; two hearings held",
       "Gondhal team meets Maharashtra CM Devendra Fadnavis, appeals for financial support ahead of Oscar 2027 journey"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 10,
+    "news_count": 9,
     "headlines": [
-      "Tejashwi Yadav alleges electoral fraud in Bihar, says CEC acting at BJP’s behest",
       "Bihar Council polls turn into NDA unity test as JD(U), RLM face rebellion; rift in Oppn too",
       "45-year-old lawyer shot dead in Bihar",
       "Umesh Pal murder wanted accused taken into UP police remand from Bihar jail",
@@ -86,26 +90,24 @@
       "Infighting strains NDA, INDIA bloc ahead of Bihar MLC polls",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 9,
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 7,
     "headlines": [
-      "Karnataka DIG frees murder convict using fake SC papers, 'sexually exploits' his wife",
-      "Karnataka to revise cash incentive for Asian Games medalists",
-      "NIA arrests Bidar man over suspected links with Pakistan-based terrorist",
-      "Murder reported in Kalaburagi district",
-      "Pressure on Karnataka government to withdraw anti-cow slaughter and anti-conversion laws increasing",
-      "3 Pakistani nationals among 7 booked in Karnataka for terror links, ‘radicalising’ state youths",
-      "K’taka seeks  ₹7.5k-crore for drought losses: Dy CM",
-      "Karnataka SIR row: BJP threatens agitation over Form 7 cases across state",
-      "Three Pakistan national among seven arrested for terror links in Karnataka"
+      "Wayanad township: Second-phase house construction to be completed by October 31",
+      "Malappuram to host KSTA State conference in February",
+      "Case registered over FB post using Sudhakaran’s name, photo",
+      "Inadequate hostel facilities continue to haunt medical college students in Kozhikode",
+      "Kozhikode Corporation revises annual Plan; escalator to come up near mofussil bus stand",
+      "4.63 lakh fingerlings to be released in Palakkad reservoirs",
+      "No immediate risk to India, says Kerala medical body expert amid pneumonic plague scare in Russia"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "UP",
@@ -114,75 +116,107 @@
     "State": "Uttar Pradesh",
     "news_count": 7,
     "headlines": [
+      "Kheri case: UP changes PP; SC asks Allahabad HC CJ to decide on trial judge",
       "Chirag Paswan's UP gamble: Why PM Modi's 'Hanuman' is flexing his muscle against allies",
       "BJP drops all 8 Uttar Pradesh Rajya Sabha members - what it means",
       "Umesh Pal murder wanted accused taken into UP police remand from Bihar jail",
       "Rajya Sabha election: BJP expected to announce Uttar Pradesh nominees today",
-      "Election Commission likely to hold special revision of voter rolls ahead of UP assembly elections",
       "In a first, UP opt for split captaincy and coaching for upcoming domestic season",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "Akash Anand’s BSP comeback No. 3: Here's why Mayawati took him back yet again",
-      "Akash Anand back in BSP fold after apology to Mayawati, gets key post again",
-      "Month After Ouster, Mayawati Reappoints Nephew Akash Anand To Key Party Post",
-      "‘Insulting remarks, sexual gestures': Gujarat influencer posts reel on Mahatma Gandhi with  ₹500 note, booked under IT Act",
-      "Gujarat extends MSP registration deadline for four Kharif crops to Oct 24",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 5,
-    "headlines": [
-      "4.63 lakh fingerlings to be released in Palakkad reservoirs",
-      "Kozhikode Corporation revises annual plan; escalator to be installed near mofussil bus stand",
-      "State to unveil ‘Brand Wayanad’ to position Wayanad as a safe, sustainable global destination",
-      "Kerala HC directs State to consider representation to include Rugby as State-level Sports and Games event",
-      "No immediate risk to India, says Kerala medical body expert amid pneumonic plague scare in Russia"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 4,
+    "news_count": 7,
     "headlines": [
+      "Legislative privilege vs free speech: Supreme Court 7-judge bench may close case",
+      "Madurantakam, Dharapuram go to polls for second time in six months",
+      "Ram Madhav takes part in meeting of BJP functionaries in Chennai",
       "Tamil Nadu byelections: why only two of the seven vacant constituencies are going to polls?",
       "Legislative privilege versus free speech: SC may not hear on merits after TN Assembly says resolution was withdrawn",
       "Did SIR deletions change Tamil Nadu assembly election’s outcome?",
       "Casagrand launches new project in Chennai"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 6,
     "headlines": [
-      "Hyderabad tea stall owner walks into police station, sets himself ablaze",
-      "Telangana government faces citizens’ ire over Hyderabad’s KBR flyover fiasco",
-      "Justice P. Sam Koshy appointed as Acting Chief Justice of Telangana High Court",
-      "Telangana Congress alleges coordinated attempt to remove genuine voters from Hyderabad electoral rolls; seek SIT probe"
+      "Kheri case: UP changes PP; SC asks Allahabad HC CJ to decide on trial judge",
+      "2nd Arrest In Assam For Passing Sensitive Information To Pak Intelligence Operative",
+      "First international cargo vessel leaves eastern Assam since 1947",
+      "1st cargo vessel from Assam to Bangladesh flagged off since Independence",
+      "Army veteran among 2 held in Assam for passing defence information to Pakistani operative, were ‘honey-trapped’ via online sex rackets",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 6,
+    "headlines": [
+      "19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals",
+      "West Bengal BLOs write to CEO, seek security ahead of drive to re-enrol voters",
+      "‘They think they can beat us into submission,’ Neha Bora says in Kolkata",
+      "Actor Koel Mallick joins BJP, files Rajya Sabha nomination months after quitting",
+      "Four new airports to be developed in Bengal under UDAN: Civil Aviation Minister K Rammohan Naidu",
+      "Forlan returns to Kolkata looking to instil his managerial philosophy"
+    ],
+    "last_updated": "2026-10-06 05:01:56 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 5,
+    "headlines": [
+      "‘Save Guruganga’ campaign reaches Bidar",
+      "3 Pakistani nationals among 7 booked in Karnataka for terror links, ‘radicalising’ state youths",
+      "K’taka seeks  ₹7.5k-crore for drought losses: Dy CM",
+      "Karnataka SIR row: BJP threatens agitation over Form 7 cases across state",
+      "Three Pakistan national among seven arrested for terror links in Karnataka"
+    ],
+    "last_updated": "2026-10-06 05:01:56 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
+    "headlines": [
+      "Mayawati reappoints Akash Anand as national convener in BSP",
+      "‘Insulting remarks, sexual gestures': Gujarat influencer posts reel on Mahatma Gandhi with  ₹500 note, booked under IT Act",
+      "Gujarat extends MSP registration deadline for four Kharif crops to Oct 24",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-10-06 05:01:56 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Rajaka community stages protest in Visakhapatnam seeking SC status",
+      "Andhra Pradesh special TET for in-service teachers from October 11",
+      "Free 20-day civil defence training in Visakhapatnam"
+    ],
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "AR",
@@ -195,46 +229,7 @@
       "Siang hyropower project aims to regulate waters storage, reduce flood risk: Arunachal deputy CM",
       "Arunachal media bodies flag social media curbs on Siang hypropower reports"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "Actor Koel Mallick joins BJP, files Rajya Sabha nomination months after quitting",
-      "Four new airports to be developed in Bengal under UDAN: Civil Aviation Minister K Rammohan Naidu",
-      "Forlan returns to Kolkata looking to instil his managerial philosophy"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 3,
-    "headlines": [
-      "1st cargo vessel from Assam to Bangladesh flagged off since Independence",
-      "Army veteran among 2 held in Assam for passing defence information to Pakistani operative, were ‘honey-trapped’ via online sex rackets",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Free 20-day civil defence training in Visakhapatnam",
-      "Orders issued for four new police commissionerates in Andhra Pradesh",
-      "Andhra Pradesh government assures financial help, jobs to kin of pharma unit blast victims"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "MP",
@@ -243,37 +238,23 @@
     "State": "Madhya Pradesh",
     "news_count": 3,
     "headlines": [
-      "Mumbai Police arrest software developer from Madhya Pradesh for cyber fraud",
+      "Madhya Pradesh Chief Minister Says Ladli Behna Scheme \"Heavy Financial Burden\"",
       "In a first, cheetahs to roam in tiger territory at Veerangana Durgavati Tiger Reserve",
       "Indore woman, 20, kills grandfather with a bat, says he abused her as a child"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 3,
+    "news_count": 2,
     "headlines": [
       "Gurugram residents question MCG over continued garbage dump in Sector 23A",
-      "Lost crucial evidence in Manchanda murder case due to Gurugram cops delay: Delhi Police tells SC",
-      "Why ICC fined India and West Indies after 3rd ODI in New Chandigarh"
+      "Lost crucial evidence in Manchanda murder case due to Gurugram cops delay: Delhi Police tells SC"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "High Court Hands Punjab Transfer-Posting Case To Central Probe Agency",
-      "High Court orders CBI probe into corruption charges against individuals linked to AAP government",
-      "Why ICC fined India and West Indies after 3rd ODI in New Chandigarh"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "MN",
@@ -285,29 +266,43 @@
       "SC asks CBI, trial court to ensure examination of victim-witnesses in Manipur sexual violence case",
       "Kuki Man found dead after alleged abduction by armed group in Manipur's Kangpokpi district"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
     "headlines": [
-      "Why ICC fined India and West Indies after 3rd ODI in New Chandigarh"
+      "Rajasthan Police Action Inside Gurdwara Hurt Sentiments: Akal Takht Jathedar",
+      "Two captive-bred Great Indian Bustards released into wild in Rajasthan under conservation efforts"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 2,
     "headlines": [
-      "'What are you doing?' Bombay HC's Goa Bench raps EC over voter deletions"
+      "Rawat defies warning by Congress brass, carries on Uttarakhand yatra",
+      "Defiant Harish Rawat goes ahead with outreach campaign in poll-bound Uttarakhand"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 2,
+    "headlines": [
+      "Telangana government faces citizens’ ire over Hyderabad’s KBR flyover fiasco",
+      "Telangana tea seller sets himself ablaze outside police station, cops cite dispute with grocer over cigarettes"
+    ],
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
     "Code": "MZ",
@@ -318,28 +313,17 @@
     "headlines": [
       "ED searches 16 places linked to smuggling of foreign-origin betel nut via the Indo-Myanmar border"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "From the edge of extinction, two captive-bred Great Indian Bustards released into wild in Rajasthan"
+      "J&amp;K HC quashes PSA detention of Shopian man for ‘showing anti-national tendencies’"
     ],
-    "last_updated": "2026-10-05 11:07:50 PM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 1,
-    "headlines": [
-      "Defiant Harish Rawat goes ahead with outreach campaign in poll-bound Uttarakhand"
-    ],
-    "last_updated": "2026-10-05 11:07:50 PM"
+    "last_updated": "2026-10-06 05:01:56 AM"
   }
 ]
