@@ -4,16 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 34,
+    "news_count": 35,
     "headlines": [
       "West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu",
+      "Democracy in peril as voters illegally ousted: Ex-SC judge Nariman",
       "Day 3, bigger showdown: CEC protest sparks clashes, detentions in Delhi",
       "Zelenskyy claims Putin shared jet-drone technology with North Korea",
       "Kashmiri teacher fights period stigma, one village at a time",
       "Jammu and Kashmir: Pakistani prisoner dies by suicide in jail",
       "Asian Games: PT Usha names Kumkum Mohod, Sujeet Kalkal as Team India’s MVPs",
       "‘Beti Bachao Delhi Police Se!’: CJP’s Abhijeet Dipke on Neha Bora’s detention",
-      "‘I want him to reach that mark’: Gavaskar’s special wish for Rohit before retirement",
       "Central teams continue visits to drought-hit areas",
       "500 detained in Delhi on Day 3 of protests seeking CEC’s exit; Thackerays lead Mumbai march",
       "Hundreds, including Neha, woman journalist who alleged sexual harassment by cop, detained as Delhi protest demanding Gyanesh Kumar’s removal enters third day",
@@ -37,11 +37,12 @@
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "‘I want him to reach that mark’: Gavaskar’s special wish for Rohit before retirement",
       "EXCLUSIVE: CBFC clears Drishyam The Conclusion WITHOUT a single cut; is 8 minutes longer than Drishyam 2",
       "Ankur Rathee says Best Of The Best took him back to his college dancer days: “A version of myself I thought I had left behind”",
       "Adult Homo erectus fossil confirms species appeared in Africa 2 million years ago"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "MH",
@@ -70,7 +71,7 @@
       "Gondhal team meets Maharashtra CM Devendra Fadnavis, appeals for financial support ahead of Oscar 2027 journey",
       "BREAKING: Income Tax searches at 12 locations linked to Rakul Preet Singh, Vashu Bhagnani, Panorama Studios, Ali Abbas Zafar"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "PB",
@@ -90,58 +91,39 @@
       "Punjab makeup artist, influencer Mad Sandhu shot dead in Amritsar",
       "India summons Pakistan envoy over infiltration bids, rejects allegation of ‘civilian killings’ by BSF on Punjab border"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 8,
-    "headlines": [
-      "CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case",
-      "Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago",
-      "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
-      "Tusker Pallatt Brahmadathan dies after lightning strike near Erattupetta in Keralam’s Kottayam",
-      "Thiruvananthapuram Corporation’s BJP councillor R. Sreelekha does a U-turn after resignation bid",
-      "Keralam edition of IAF's outreach event SIM 2026 held in Thiruvananthapuram",
-      "Keralam CM slams alleged communal remarks by CPI(M) leader against Malappuram",
-      "Kozhikode set to emerge as Keralam’s next major IT destination"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "Dalit Villagers Served Separate Food At Karnataka Temple On Gandhi Jayanti",
       "Asian Games 2026: Karnataka athletes return with a haul of four gold, three silver and two bronze medals",
       "Rift in Chickballapur and Kolar Congress units spills into the open",
       "Abhinava Gavisiddeshwara formally invited to inaugurate Mysuru Dasara",
-      "Hindu Mahaganpati immersed after 21-day festival in Kalaburagi",
       "Nashik onion wholesale prices fall to  ₹46/kg from  ₹55, retail rates stay high",
       "SBI appoints Deepak Kaushik as Chief General Manager of Bengaluru Circle"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 6,
     "headlines": [
-      "Tirupati police arrest three, recover 24 stolen motorcycles",
-      "31-year-old Indian Navy sailor 'honey-trapped', lured into sharing classified data with Pakistani operative",
-      "Nashik onion wholesale prices fall to  ₹46/kg from  ₹55, retail rates stay high",
-      "Lokesh calls for IIT alumni to aid Andhra’s economic development",
-      "5 killed, 10 injured in boiler blast at pharma unit in Andhra Pradesh’s Tirupati",
-      "Andhra Pradesh invites Kitex to lead 2,000-acre textile park"
+      "CEC Gyanesh Kumar faces fresh Kerala vigilance probe in 2006 case",
+      "Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago",
+      "Keralam government gets legal opinion to proceed against Chief Election Commissioner Gyanesh Kumar in abetment to suicide case",
+      "Keralam edition of IAF's outreach event SIM 2026 held in Thiruvananthapuram",
+      "Keralam CM slams alleged communal remarks by CPI(M) leader against Malappuram",
+      "Kozhikode set to emerge as Keralam’s next major IT destination"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "JK",
@@ -157,7 +139,22 @@
       "Rishabh Pant-led Rest of India clinch Irani Cup, defeat J&K by 167 runs in Srinagar",
       "From 89/3 to 111 all out: Mukesh, Akash trigger J&amp;K collapse as RoI win Irani Cup"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "Tirupati police arrest three, recover 24 stolen motorcycles",
+      "31-year-old Indian Navy sailor 'honey-trapped', lured into sharing classified data with Pakistani operative",
+      "Nashik onion wholesale prices fall to  ₹46/kg from  ₹55, retail rates stay high",
+      "Lokesh calls for IIT alumni to aid Andhra’s economic development",
+      "5 killed, 10 injured in boiler blast at pharma unit in Andhra Pradesh’s Tirupati"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "BR",
@@ -171,7 +168,7 @@
       "₹5 lakh bounty, considered on the run: 2023 Umesh Pal murder accused found in Bihar jail",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "UP",
@@ -185,21 +182,7 @@
       "UP fifth-largest exporting state, Bhadohi carpets making major contribution: CM",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 4,
-    "headlines": [
-      "Adani Group, Kachchh University Launch Green Energy Centre Of Excellence",
-      "Ahmedabad airport imposes new drop-off/visit charge on taxis; raises pick-up fee by 33%",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "HR",
@@ -213,20 +196,7 @@
       "No PUC, no petrol: Haryana NCR pumps told to verify certificates before refuelling from October 1",
       "Money woes, request to return home: Gurugram man's last chat with father before jumping off Noida high-rise"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 3,
-    "headlines": [
-      "West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu",
-      "Uttarakhand electoral base trimmed by over 10% post SIR; final list at 7.16 million electors",
-      "Deputy ECs to visit 5 states as poll body steps up preparedness to hold high stakes elections"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "AS",
@@ -239,33 +209,7 @@
       "11-Year-Old Boy Among 3 Killed As Boat Capsizes In Assam",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "'Pulled out dagger’: 'Drunk' driver attacks BJP MLA in Assam; 2 home guards injured",
-      "2 arrested from Jammu and Kashmir, Rajasthan for duping Delhi man in digital arrest fraud",
-      "Today’s Gold Rate in India October 4: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "Kuki man found dead a day after abduction in Manipur",
-      "71-year-old Kuki man killed in arson in Manipur's Kangpokpi district",
-      "Manipur govt assures action on ‘No NRC, No Census’ demand, seeks cooperation"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "WB",
@@ -278,7 +222,59 @@
       "Hand-written note,  ₹1 lakh for funeral: Elderly couple found dead at Kolkata home",
       "Koel Mallick becomes BJP’s pick for Rajya Sabha from West Bengal two months after TMC exit: Who is she?"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
+    "headlines": [
+      "Adani Group, Kachchh University Launch Green Energy Centre Of Excellence",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
+    "headlines": [
+      "'Pulled out dagger’: 'Drunk' driver attacks BJP MLA in Assam; 2 home guards injured",
+      "From the edge of extinction, two captive-bred Great Indian Bustards released into wild in Rajasthan",
+      "2 arrested from Jammu and Kashmir, Rajasthan for duping Delhi man in digital arrest fraud"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 3,
+    "headlines": [
+      "Kuki man found dead a day after abduction in Manipur",
+      "71-year-old Kuki man killed in arson in Manipur's Kangpokpi district",
+      "Manipur govt assures action on ‘No NRC, No Census’ demand, seeks cooperation"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 3,
+    "headlines": [
+      "Tamil Nadu CM Vijay rides bullock cart during Dharapuram bypoll campaign, interacts with voters | Watch",
+      "Delivering festival season’s joys",
+      "CBI arrests DGCA deputy director in bribery case"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "CT",
@@ -290,7 +286,7 @@
       "Zelenskyy claims Putin shared jet-drone technology with North Korea",
       "Former security camp in Bastar now serves as hostel for tribal schoolboys"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "TR",
@@ -302,7 +298,31 @@
       "Kerala High Court orders CBI probe into soldier’s disappearance 14 years ago",
       "Tripura boy, 12, sustains bullet injury while playing: Police"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "The right to more than a room and roof",
+      "Odisha rape accused injured in police encounter after firing at cops"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 2,
+    "headlines": [
+      "West Bengal: Laws in 6 months to end ‘land jihad’, ‘love jihad’, says CM Suvendu",
+      "Uttarakhand electoral base trimmed by over 10% post SIR; final list at 7.16 million electors"
+    ],
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "TG",
@@ -314,19 +334,7 @@
       "3 Army personnel among 7 held in Telangana arms theft case",
       "3 serving Army personnel among 7 arrested in Telangana arms theft case: Police"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 2,
-    "headlines": [
-      "Tamil Nadu CM Vijay rides bullock cart during Dharapuram bypoll campaign, interacts with voters | Watch",
-      "CBI arrests DGCA deputy director in bribery case"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "MP",
@@ -337,18 +345,7 @@
     "headlines": [
       "'Punishment within 3 years': Amit Shah backs new criminal laws, vows drug-free Madhya Pradesh by 2029"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "Odisha rape accused injured in police encounter after firing at cops"
-    ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   },
   {
     "Code": "LA",
@@ -359,6 +356,6 @@
     "headlines": [
       "'So-called civilian govts at the mercy of Army': India fires back at Pakistan over J&K remark at UN"
     ],
-    "last_updated": "2026-10-05 03:37:46 AM"
+    "last_updated": "2026-10-05 06:56:28 AM"
   }
 ]
