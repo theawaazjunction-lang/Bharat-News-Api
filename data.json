@@ -4,14 +4,15 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 40,
+    "news_count": 37,
     "headlines": [
+      "Punjab govt moves SC against CBI probe into ‘bribe syndicate’ linked to Mann OSD",
+      "'I am already sleepy': Jet-lagged Shreyas Iyer's candid reply after maiden T20I ton",
       "Shreyas Iyer's maiden T20I century powers India to eight-wicket win over West Indies",
-      "Vince Lombardi’s $43,020 sweater: How did a 58-cent thrift find make history?",
       "Humiliation, torn clothes and badges: Delhi women cops allege assault at protest sites",
-      "Uttarakhand Earthquake Live Updates: 4.9-Magnitude Earthquake Hits Uttarakhand, Tremors Felt In Delhi",
       "Home Ministry moves out 3 of 5 officers from division hit by bribery allegations",
       "Bypolls held in five Assembly seats, one Lok Sabha constituency",
+      "Delhi traffic update: Curbs on October 7 as BJP marks PM Modi’s 25 years in public life; check affected routes, timings",
       "'No party sought meeting till 4 pm': EC on INDIA bloc sit-in against CEC Gyanesh Kumar",
       "Delhi ACP Vivek Bhagat sought his promotion order be put on hold, citing enquiry over harassment claim",
       "'Make bodycams mandatory for cops': Plea in Delhi HC after alleged harassment during protests",
@@ -23,40 +24,37 @@
       "Students protest RSS leader’s presence at Vande Mataram event in Central University of Kerala",
       "Middle East crisis likely to delay Delhi’s 70 new mechanical road sweepers from Europe",
       "17 protesters accused of vandalism during anti-SIR protest in Delhi get bail",
-      "CEC Gyanesh Kumar row LIVE: Rahul Gandhi, other Congress leaders released from detention",
+      "CEC Gyanesh Kumar row highlights: Rahul Gandhi, other Congress leaders released from detention",
       "HT Morning Brief October 6: Bypolls underway in Tamil Nadu, West Bengal; Pakistan pulls out of WCL Season 3",
       "India-US trade talks 'still ongoing', but both sides have 'reached a plateau': Finance minister Nirmala Sitharaman",
       "By-polls highlights: Congress seeks re-polling in Bengal over ‘vote-loot’ allegations as voting ends in 4 states and UTs",
       "‘Females treated with dignity’: Delhi Police reject assault claims, issue journalist guidelines as accused cop gets promoted",
+      "4.9-magnitude earthquake hits Uttarakhand’s Chamoli, tremors felt in Delhi",
       "JioHotstar expands to Middle Eastern and North African markets",
       "West Bengal by-elections: High voter turnout for Nandigram and Rejinagar seats, amid allegations of rigging by oppositions",
       "Centre plans faceless assessment for GST payers, to begin with assessees under central formulations",
       "Delhi airport master plan targets 125 mn passengers; APM to link terminals, aerocity",
-      "Current gold prices provide a better entry point as central bank demand supports the outlook, says Tata Mutual Fund",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "'I am already sleepy': Jet-lagged Shreyas Iyer's candid reply after maiden T20I ton",
       "India vs Pak clash fuels ODI WC 2027 ticket frenzy as demand crosses 1.1 million",
       "Naman Dhir makes T20I debut; Sooryavanshi left out as India opt to bowl vs West Indies",
-      "Abhishek, Shafali among 4 Indians nominated for ICC Player of the Month awards",
       "HC sends notice to Salman for his response on plea seeking stay on 'Kala Hiran'",
       "Vishal Dadlani sells Goregaon West commercial unit for Rs. 3.34 crores: Report",
       "Sonu Nigam expands Mumbai property portfolio, buys commercial units in Andheri West for Rs. 16 crores",
-      "R. Madhavan set to host Game Changers featuring startup founders and global investors; details inside!",
-      "Soldiers looking for land mines in South Korea have found the country's oldest gun dating back to more than 600 years",
-      "Chocolate reached east of Mississippi 1,000 years ago; ancient pottery reveals cacao at feasts"
+      "R. Madhavan set to host Game Changers featuring startup founders and global investors; details inside!"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 16,
+    "news_count": 17,
     "headlines": [
-      "Adani Airport Launches Swirl Transit Hotel At Navi Mumbai International Airport",
+      "Gadchiroli 'Naxal Free', But C-60 Should Not Be Disbanded: Ex-Cop Who Set Up Commando Force",
+      "Maharashtra Govt approves to increase scholarship allowance for SC and ST students",
       "Maharashtra Deputy CM Eknath Shinde offers prayers at Puttaparthi",
       "‘Is something already being planned’: CJP’s Dipke flags Maharashtra Police notices ahead of protest",
       "Protesting tribal students detained at Congress office, taken out of Mumbai",
@@ -73,26 +71,7 @@
       "Alia Bhatt joins Rami Malek, Sachin Tendulkar and Simone Ashley for a star-studded Earthshot Prize 2026 night in Mumbai",
       "Who is Lalit Prabhakar? Meet the National Award-winning actor playing Ajmal Kasab in Prahaar"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 9,
-    "headlines": [
-      "He bought an SUV for Rs 13.69 lakh; gets Rs 10.99 lakh refund + interest over issues",
-      "Step up pace of Amaravati construction works, Andhra CM Naidu asks contracting agencies",
-      "Kurnool to clean up legacy waste with ISWM, Waste-to-Energy plants",
-      "Krishna pipeline linkage saves 18 MGD water during maintenance",
-      "Eluru police recover 200 mobile phones worth ₹50 lakh",
-      "Navy staff among 2 arrested in Andhra Pradesh for sharing sensitive defence information with Pakistan: ‘Shared OTP, communicated with them’",
-      "Andhra govt to take integrated approach to manage water: CM",
-      "AP’s planned influencer policy kicks up row in state",
-      "BITS Pilani names Mohan Krishnamoorthy Founding Director of Amaravati campus"
-    ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "KA",
@@ -101,51 +80,17 @@
     "State": "Karnataka",
     "news_count": 9,
     "headlines": [
+      "Milk price in Karnataka may go up by ₹8, but only after Legislative Council polls",
+      "Karnataka to have dedicated single-window interface to promote international tech partnerships",
       "MP youth delegation concludes Karnataka visit under Yuva Sangam Phase VII",
       "Training aircraft makes emergency landing in agricultural field near Kalaburagi Airport",
-      "Karnataka to launch drive to secure unsafe open borewells",
-      "SIR being used to divert attention from failures of Congress govt. in Karnataka, says Vijayendra",
       "Karnataka to launch statewide drive to make state free of unsafe open borewells",
       "CM: AI training in govt schools to start from Class 6",
       "BJP BLA faces search warrant over Form 7",
       "No objection led to deletions so far: CEO",
       "ElevenLabs, Karnataka join hands to advance voice AI adoption"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
-    "headlines": [
-      "Anti-ragging guidelines drawn up, State informs Kerala HC",
-      "Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan",
-      "Bacteria in cocktail: Food Safety dept. files case against outlet in Keralam’s Kannur",
-      "New additions likely in CPI(M) Kozhikode district committee",
-      "Retired teacher killed in bus accident in Idukki",
-      "Students protest RSS leader’s presence at Vande Mataram event in Central University of Kerala",
-      "Former CPI(M) Pallakad secretary Babu faces misbehaviour allegations"
-    ],
-    "last_updated": "2026-10-06 11:10:19 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "7 Killed After SUV Rams Parked Trailer Truck In Gujarat",
-      "Controversy after fire tender sent to Gujarat BJP MLA’s house to wash it",
-      "25 years of Narendra Modi as head of state: From Gujarat to the Centre and the global stage",
-      "After 'sanyas' of his father-in-law, no more need to separate Akash Anand from BSP: Mayawati",
-      "UP, Maharashtra & Gujarat account for 45% of residential rooftop solar capacity in September",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "TN",
@@ -154,64 +99,92 @@
     "State": "Tamil Nadu",
     "news_count": 7,
     "headlines": [
+      "Burglars decamp with 30 sovereigns of gold, ₹5 lakh in Ranipet",
       "Tamil Nadu byelections: Madurantakam and Dharapuram record 86.26% and 80.3% polling",
       "Coimbatore Medical College Hospital changes medicine covers after instructions in Hindi spark controversy",
-      "Four arrested for attack on DCC office",
       "‘Afraid of Vijay?’ DMK takes jibe at Rahul, asks him to clarify stand on SIR in Tamil Nadu",
       "‘Did Rahul and Sonia Gandhi win elections through vote chori’: BJP as poll process row intensifies",
       "Beyond the GI tag, Tamil Nadu looks to build premium farm brands",
       "Did SIR deletions change Tamil Nadu assembly election’s outcome?"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 6,
+    "headlines": [
+      "Rajnath launches first desi fleet support ship ‘Surya’ at Visakhapatnam",
+      "Shree Cement plans ₹6,700 crore investments in A.P.: Minister",
+      "Navy staff among 2 arrested in Andhra Pradesh for sharing sensitive defence information with Pakistan: ‘Shared OTP, communicated with them’",
+      "Andhra govt to take integrated approach to manage water: CM",
+      "AP’s planned influencer policy kicks up row in state",
+      "BITS Pilani names Mohan Krishnamoorthy Founding Director of Amaravati campus"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
-      "'PCS officer’ bride vanishes with 14 tola gold, cash after marrying AAP neta; 6 booked",
-      "CBI conducts raid at Punjab CM Mann’s camp office, FIR filed against OSD",
-      "CBI files corruption case against Punjab CM’s aide after High Court order",
+      "Punjab govt moves SC against CBI probe into ‘bribe syndicate’ linked to Mann OSD",
+      "CBI raids CM Bhagwant Mann’s camp office, his OSD’s home in graft probe",
       "CBI files FIR against Punjab CM Bhagwant Mann’s OSD, 5 others; What are the charges?",
       "CBI raids Punjab CM Bhagwant Mann's camp office, his OSD's home in Chandigarh",
       "SC agrees to hear plea against CBI probe into Punjab CMO-linked graft charges",
       "MDR cannot be passed on to consumers; retail customers to pay only posted price: Punjab & Sind Bank MD"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
     "news_count": 6,
     "headlines": [
-      "Uttarakhand Earthquake Live Updates: 4.9-Magnitude Earthquake Hits Uttarakhand, Tremors Felt In Delhi",
-      "Earthquake Tremors Felt In Delhi, Adjoining Areas",
-      "In Dehradun Triple Murder, Couple And House Help Killed With Screwdriver",
-      "Dehradun triple murder: Plumber held for killing elderly couple, domestic help",
-      "Uttarakhand HC seeks reply on PIL alleging violations in IAS, IPS, IFS transfers",
-      "HC orders SIT probe in Bageshwar Dham rape case after DNA excludes accused"
+      "Controversy after fire tender sent to Gujarat BJP MLA’s house to wash it",
+      "25 years of Narendra Modi as head of state: From Gujarat to the Centre and the global stage",
+      "After 'sanyas' of his father-in-law, no more need to separate Akash Anand from BSP: Mayawati",
+      "UP, Maharashtra & Gujarat account for 45% of residential rooftop solar capacity in September",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "FIR against BJP BLA over 'false' Form-7 applications, first in Telangana",
       "First indoor 33/11 kV substation in Karimnagar under TGNPDCL jurisdiction technically charged",
       "October 7 last date for submission of claims and objections for SIR in Telangana",
-      "Telangana government approves guidelines for regulating temporary and hyper-local advertisements in CURE",
       "ECI orders action over bogus Form 7s in T’gana, says CEO",
       "Telangana tea seller sets himself ablaze outside police station, cops cite dispute with grocer over cigarettes"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "CM Samrat Choudhary directs officials to submit detailed report on flood damage in Bihar",
+      "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
+      "Bihar man believed to be murdered 4 years ago found alive in Delhi",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "UP",
@@ -225,20 +198,48 @@
       "BJP’s new Uttar Pradesh Rajya Sabha team: Who are the eight new faces?",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 4,
+    "headlines": [
+      "Tremors felt across Delhi-NCR as 4.9-magnitude quake hits Uttarakhand’s Chamoli",
+      "Dehradun triple murder: Plumber held for killing elderly couple, domestic help",
+      "Uttarakhand HC seeks reply on PIL alleging violations in IAS, IPS, IFS transfers",
+      "HC orders SIT probe in Bageshwar Dham rape case after DNA excludes accused"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Kerala High Court sets aside detention order of Thiruvananthapuram councillor R. Sugathan",
+      "Anti-ragging guidelines drawn up, State informs Kerala HC",
+      "Students protest RSS leader’s presence at Vande Mataram event in Central University of Kerala",
+      "Former CPI(M) Pallakad secretary Babu faces misbehaviour allegations"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
     "news_count": 3,
     "headlines": [
-      "RLM MLAs dare Kushwaha not to ignore party sentiments; JD-U crisis far from over",
-      "Bihar man believed to be murdered 4 years ago found alive in Delhi",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Passenger bus, running under recently launched M.P. govt service, gutted in fire; passengers evacuated safely",
+      "Ladli Behna scheme has turned out to be ‘very expensive’, says Madhya Pradesh CM",
+      "'Don't attend Garba for reels and views': Madhya Pradesh Islamic body tells Muslim youth"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "HR",
@@ -251,31 +252,7 @@
       "Amit Shah to attend ‘Seva Jyoti Yatra’ in Gurugram on October 7",
       "Masked man slashes teen girl's throat with blade after barging inside home in Haryana's Faridabad"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 2,
-    "headlines": [
-      "Sunstream Green to invest ₹1,500 crore in RE projects in Chhattisgarh",
-      "Soldiers looking for land mines in South Korea have found the country's oldest gun dating back to more than 600 years"
-    ],
-    "last_updated": "2026-10-06 11:10:19 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "By-polls highlights: Congress seeks re-polling in Bengal over ‘vote-loot’ allegations as voting ends in 4 states and UTs",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "WB",
@@ -287,7 +264,19 @@
       "Bypolls held in five Assembly seats, one Lok Sabha constituency",
       "West Bengal by-elections: High voter turnout for Nandigram and Rejinagar seats, amid allegations of rigging by oppositions"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "By-polls highlights: Congress seeks re-polling in Bengal over ‘vote-loot’ allegations as voting ends in 4 states and UTs",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "CH",
@@ -298,7 +287,7 @@
     "headlines": [
       "CBI raids Punjab CM Bhagwant Mann's camp office, his OSD's home in Chandigarh"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "GA",
@@ -309,7 +298,29 @@
     "headlines": [
       "26-year-old man claims name deleted from Goa voter list despite SIR mapping; to move HC"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "Sunstream Green to invest ₹1,500 crore in RE projects in Chhattisgarh"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "Gajendra Singh Patel accuses Hemant Soren government of encouraging infiltration in Jharkhand"
+    ],
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "HP",
@@ -320,7 +331,7 @@
     "headlines": [
       "‘Did Rahul and Sonia Gandhi win elections through vote chori’: BJP as poll process row intensifies"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "MZ",
@@ -331,29 +342,29 @@
     "headlines": [
       "Mizoram cracks down on codeine syrup abuse, warns of licence cancellations"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
     "news_count": 1,
     "headlines": [
-      "'Don't attend Garba for reels and views': Madhya Pradesh Islamic body tells Muslim youth"
+      "Fertiliser hoarding, black marketing to be curbed in rabi crop season in Rajasthan"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "Defence Minister Rajnath Singh pitches indigenous aero-engine capability for AMCA"
+      "Jammu and Kashmir: Arms &amp; drugs seized in cross-border smuggling case; 4 held"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   },
   {
     "Code": "LA",
@@ -364,6 +375,6 @@
     "headlines": [
       "DRDO conducts maiden live jump of advanced high-altitude parachute in Ladakh"
     ],
-    "last_updated": "2026-10-06 11:10:19 PM"
+    "last_updated": "2026-10-07 03:34:15 AM"
   }
 ]
