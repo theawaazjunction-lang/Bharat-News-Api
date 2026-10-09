@@ -4,24 +4,19 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 48,
+    "news_count": 45,
     "headlines": [
+      "Jharkhand should 'revisit' DGP appointment rules, says Supreme Court",
+      "IPS quota in CAPF posts comes into force",
       "CJP claims Deepak Baliyan assaulted, brother injured; Rajasthan Police deny action",
-      "Shopper paid C$5 for painting; David Bowie original later sold for C$108,120",
-      "Arnold Schwarzenegger donated $250,000 to build 25 shelters for homeless veterans",
-      "Palestine factions could postpone elections amid Israeli complications, internal feud",
-      "Bengal, Tamil Nadu, Assam and Puducherry brace for closely watched bypoll verdicts",
+      "Delhi Government Transfers Health Secretary Amid Procurement Lapses Probe",
       "INDIA Bloc Protest Highlights: INDIA Bloc Protesters Meet At Delhi Cafe To Discuss Forward Strategy",
-      "Delhi Metro Shining Example Of India-Japan Partnership: Lt-Governor Taranjit Sandhu",
+      "Bypoll results LIVE: Vote counting to start soon for five Assembly seats, one Lok Sabha constituency",
+      "Four Cockroach Janta Party volunteers from Telangana detained in Bhopal ahead of October 10 Delhi protest",
       "Adequate response: on the RBI and inflation",
       "Deleted West Bengal voters move SC against SIR",
       "Journalist alleging harassment by Delhi Police ACP had to endure 25-point questionnaire by Crime Branch",
       "Delhi Police ramp up ‘perception’ campaign, identifies 500 people, 200 social media channels ahead of October 10 protest",
-      "Mamata Banerjee likely to join CJP protests on October 10",
-      "Central University of Kerala suspends five students over protests at Vande Mataram seminar",
-      "7,000 CRPF personnel pulled from Chattisgarh, Bengal deployed in Delhi ahead of CJP’s October 10 protest",
-      "Opposition leaders ‘pray’ at Rajghat for government to ‘get wisdom’ to remove CEC; say protest will continue",
-      "Kangana Ranaut moves Delhi HC against obscene, AI-generated content",
       "CAPF Act notified two days before SC special bench hearing pleas against it",
       "CAPF Act that governs officer posts, deputation comes into force",
       "Suvendu Adhikari warns against forced religious conversions, cow slaughter in Bengal",
@@ -42,9 +37,11 @@
       "Akhilesh’s SP skips Kharge’s lunch for INDIA bloc MPs",
       "Jantar Mantar protest: Delhi shuts liquor vends for two days citing police inputs",
       "WTO raises 2026 goods trade forecast to 3.9% on AI boom, supply chain resilience",
+      "US stocks: S&amp;P 500, Nasdaq end lower as crude prices jump, chip stocks weigh",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Abhishek Sharma on the cusp of breaking Suryakumar Yadav’s unique T20I record",
       "Nortje brings the pace back as SA face AUS without Rabada in Durban",
       "IFA Shield Final: Zeljkovic goal seals 1-0 win for Mohun Bagan over East Bengal",
       "India vs West Indies in Ranchi brings back an Ajit Agarkar memory",
@@ -55,7 +52,7 @@
       "R. Madhavan set to host Game Changers featuring startup founders and global investors; details inside!",
       "Coastal Forest Loss Speeds Up: Albemarle Peninsula trees retreat 21%; ghost forests spread faster"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "MH",
@@ -74,9 +71,9 @@
       "bp chief meets PM, Oil Minister; to bid in OALP rounds",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Nana Patekar cremated with state honours in Pune, thousands of fans gather to bid farewell",
+      "Nana Patekar's son reveals why funeral was held at night - WATCH",
       "Nana Patekar funeral: Maharashtra CM Dev Fadnavis, Eknath Shinde, Anees Bazmee pay last respects",
       "Salman Khan flies to Pune following Nana Patekar's demise",
-      "Nana Patekar was to reach Mumbai tomorrow, reveals 'The Confession' co-producer",
       "Salman Khan postpones Mumbai event after the death of Khamoshi co-star Nana Patekar: Report",
       "Nana Patekar’s funeral to be held with full state honours, confirms Maharashtra CM Devendra Fadnavis",
       "Shraddha Kapoor, Shakti Kapoor lease Mumbai apartment for Rs 2.5 lakhs monthly rent: Report",
@@ -87,44 +84,61 @@
       "Rakul Preet Singh BREAKS silence on Income Tax searches, DENIES involvement in illegal foreign remittances: \"Have been paying my due taxes since the age of 20\"",
       "Shabana Azmi backs CJP’s Mumbai protest; says, “We don’t have to tolerate anything wrong”"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "GA",
     "Lat": 15.2993,
     "Long": 74.124,
     "State": "Goa",
-    "news_count": 9,
+    "news_count": 10,
     "headlines": [
+      "Nana Patekar death: Goa Police register 'unnatural death' case",
       "Ratan Tata’s beloved pet dog 'Goa' survives car accident outside Bombay House",
+      "Nana Patekar’s last rites conducted at his Pune farmhouse with full State honours",
       "Nana Patekar passes away: Actor's last rites carried out with full State honours",
-      "Mumbai-based activist and AISF delegation allege detention by State police",
       "‘Uday Shetty will live on forever’: Iran embassy's tribute to Nana Patekar",
       "Nana Patekar’s family reaches Goa hospital, three-doctor team to conduct post-mortem",
       "Nana Patekar, the actor who made intensity his signature, dies at 75",
+      "Nana Patekar's death: Goa Police register 'unnatural death' case",
       "Nana Patekar last rites: Mortal remains to reach Pune, security tightened ahead of state funeral",
-      "Nana danced dekhni in Goa, played shamel, three days before he passed away",
       "Nana Patekar passes away at 75 after severe cardiac arrest at Goa residence"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 8,
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 7,
     "headlines": [
-      "Deleted West Bengal voters move SC against SIR",
-      "Mamata Banerjee likely to join CJP protests on October 10",
-      "10 of 20 rebel TMC MPs skip Kolkata meeting to discuss disqualification notice by LS Speaker",
-      "Suvendu Adhikari warns against forced religious conversions, cow slaughter in Bengal",
-      "West Bengal to merge Madrasah Service Commission with WBSSC, bill likely after Durga Puja",
-      "Can Bengal deport all who crossed Bangladesh border in 1970s? Calcutta HC asks state govt",
-      "Bengal govt to provide  ₹1.8 lakh aid for each fully damaged house in flood-hit Malda",
-      "Amid 'vote chori' row, poll body's Bengal data points to seats TMC won despite SIR deletions"
+      "Bhagwant Mann Aide Goes To Court, Says Raid Illegal, Agency Had No Approval",
+      "CBI raid at Punjab CM camp office a BJP campaign tactic, says Mann; BJP says don’t give political colour to HC order",
+      "Four Bengal workers, detained on Bangladeshi suspicion, released from Chandigarh",
+      "Haryana CEO launches three-day drive to clear pending SIR notices",
+      "Haryana Human Rights Commission orders structural audit of all govt schools",
+      "2 more held for HR manager's murder after argument over banana prices in Faridabad",
+      "Indri launches Ruby Port Cask Diwali Collector’s Edition 2026, limited to 600 bottles"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 7,
+    "headlines": [
+      "Proof of 21 'compromised transfers', 11 policy changes part of CBI's Punjab file",
+      "Bhagwant Mann Aide Goes To Court, Says Raid Illegal, Agency Had No Approval",
+      "CBI raid at Punjab CM camp office a BJP campaign tactic, says Mann; BJP says don’t give political colour to HC order",
+      "Four Bengal workers, detained on Bangladeshi suspicion, released from Chandigarh",
+      "Punjab CBI probe: SC puts off state’s plea, declines interim order",
+      "Op Sindoor showed how fast IAF can move into combat: Air chief",
+      "Indri launches Ruby Port Cask Diwali Collector’s Edition 2026, limited to 600 bottles"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "TG",
@@ -133,160 +147,147 @@
     "State": "Telangana",
     "news_count": 7,
     "headlines": [
-      "Inside waqf land grab in Telangana: Fake NOCs, forged ORCs",
+      "Pakistani Lawyer Sets Courtroom Seat On Fire Over Delayed Judgment",
+      "Four Cockroach Janta Party volunteers from Telangana detained in Bhopal ahead of October 10 Delhi protest",
       "Ponguleti Srinivas Reddy condemns alleged lathicharge on Khammam MP",
       "SIR: Telangana may witness net deletion of 70 lakh names or more from electoral rolls",
-      "51 booked for DJ sound violations during Ganesh festival in Hyderabad",
       "'Women only fit to give birth, be in kitchen': 2 professors claim Hyderabad university VC made sexist remarks",
       "Telangana Congress MLA faces flak for touching girl on bus, BJP takes ‘smash the patriarchy’ dig",
       "Telangana advises farmers to opt for crops requiring less water in rabi"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 7,
     "headlines": [
-      "Madras High Court permits observance of first death anniversary of prime accused Nagendran in BSP leader Armstrong murder case",
-      "Tamil Nadu govt. honours 319 villages for becoming TB-free in Vellore, nearby districts",
-      "Cauvery Water Management Authority upholds Cauvery Water Regulation Committee direction to Karnataka to release 3,000 cusecs a day to Tamil Nadu for 15 days",
-      "Tamil Nadu may encounter El Niño differently from rest of India",
-      "‘Get out of film mode’: Stalin demands Vijay take action after 5-year-old girl raped by migrant worker in Tamil Nadu",
-      "Cargo traffic handled by major ports rises 8% in Apr-Sep 2026",
-      "Rajinikanth meets Asian Games medalist Vithya Ramaraj, congratulates her"
+      "Deleted West Bengal voters move SC against SIR",
+      "10 of 20 rebel TMC MPs skip Kolkata meeting to discuss disqualification notice by LS Speaker",
+      "Suvendu Adhikari warns against forced religious conversions, cow slaughter in Bengal",
+      "West Bengal to merge Madrasah Service Commission with WBSSC, bill likely after Durga Puja",
+      "Can Bengal deport all who crossed Bangladesh border in 1970s? Calcutta HC asks state govt",
+      "Bengal govt to provide  ₹1.8 lakh aid for each fully damaged house in flood-hit Malda",
+      "Amid 'vote chori' row, poll body's Bengal data points to seats TMC won despite SIR deletions"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "World Sight Day: glaucoma awareness camp for elderly held in Srikakulam on",
-      "SHAR Deputy Director urges educational institutions to set up Space Cells on campus",
-      "National SARAS Mela to be held in Vijayawada from October 13",
-      "CM Naidu meets PM Modi, seeks Central help for Andhra Pradesh to tackle El Niño impact",
-      "From Navy sailors to a DRDO scientist: Visakhapatnam case adds to string of ‘honey-trap’ spy cases",
-      "‘Play more cricket’: Kapil Dev’s blunt take on Hardik Pandya’s injury woes"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 6,
-    "headlines": [
-      "Bengal, Tamil Nadu, Assam and Puducherry brace for closely watched bypoll verdicts",
-      "57 Suspected Bangladesh Nationals Detained In Assam",
-      "'Lot Of Men Around Me': Last Text By Assam Dancer Found Dead In Andhra",
-      "Retired Assam Forest officer’s extension in key post challenged",
-      "Raijor Dal stages protests over delayed flood compensation in Assam",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 6,
-    "headlines": [
-      "Haryana CM’s chopper parked in Gurgaon stadium, athletes lost access to tracks for 4 days",
-      "Bhagwant Mann Aide Goes To Court, Says Raid Illegal, Agency Had No Approval",
-      "Haryana CEO launches three-day drive to clear pending SIR notices",
-      "Haryana Human Rights Commission orders structural audit of all govt schools",
-      "2 more held for HR manager's murder after argument over banana prices in Faridabad",
-      "Indri launches Ruby Port Cask Diwali Collector’s Edition 2026, limited to 600 bottles"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 4,
-    "headlines": [
-      "Bhagwant Mann Aide Goes To Court, Says Raid Illegal, Agency Had No Approval",
-      "Punjab CBI probe: SC puts off state’s plea, declines interim order",
-      "Op Sindoor showed how fast IAF can move into combat: Air chief",
-      "Indri launches Ruby Port Cask Diwali Collector’s Edition 2026, limited to 600 bottles"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "‘Attire is a citizen’s choice’: Kerala HC backs school headmistress over attire row",
-      "Central University of Kerala suspends five students over protests at Vande Mataram seminar",
-      "Case filed against Thiruvananthapuram Mayor V.V. Rajesh over Sugathan’s ‘forged’ signatures",
-      "Is Keralam’s better healthcare a handicap in allotting AIIMS, HC asks Centre"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 4,
+    "news_count": 6,
     "headlines": [
       "'Contest UP polls from Ayodhya': Akhilesh Yadav dares CM Yogi Adityanath",
+      "Akhilesh dares CM Yogi to contest from Ayodhya in assembly election",
       "SP chief targets BJP on development, challenges CM to contest from Ayodhya",
       "Village in Agra tense after vandalisation of Ambedkar’s statue",
+      "Can mobile procurement gain traction?",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 3,
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 5,
     "headlines": [
+      "57 Suspected Bangladesh Nationals Detained In Assam",
+      "'Lot Of Men Around Me': Last Text By Assam Dancer Found Dead In Andhra",
+      "Retired Assam Forest officer’s extension in key post challenged",
+      "Raijor Dal stages protests over delayed flood compensation in Assam",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "World Sight Day: glaucoma awareness camp for elderly held in Srikakulam on",
+      "SHAR Deputy Director urges educational institutions to set up Space Cells on campus",
+      "CM Naidu meets PM Modi, seeks Central help for Andhra Pradesh to tackle El Niño impact",
+      "From Navy sailors to a DRDO scientist: Visakhapatnam case adds to string of ‘honey-trap’ spy cases",
+      "‘Play more cricket’: Kapil Dev’s blunt take on Hardik Pandya’s injury woes"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 5,
+    "headlines": [
+      "Madras High Court permits observance of first death anniversary of prime accused Nagendran in BSP leader Armstrong murder case",
+      "Tamil Nadu govt. honours 319 villages for becoming TB-free in Vellore, nearby districts",
       "Cauvery Water Management Authority upholds Cauvery Water Regulation Committee direction to Karnataka to release 3,000 cusecs a day to Tamil Nadu for 15 days",
-      "Fake pharma racket in Karnataka sourced Pfizer labels from Türkiye, reveals SIT probe",
-      "Court gives ED custody of suspended KPSC chairman"
+      "‘Get out of film mode’: Stalin demands Vijay take action after 5-year-old girl raped by migrant worker in Tamil Nadu",
+      "Cargo traffic handled by major ports rises 8% in Apr-Sep 2026"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 3,
-    "headlines": [
-      "SEA elects Angshu Mallick as its President",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 2,
+    "news_count": 4,
     "headlines": [
+      "Bihar teen hits Candy Crush Level 22,222, enters International Book of Records",
+      "INDIA bloc leaders submit memorandum to Bihar Governor, demand CEC removal and re-election in State",
       "Bihar EOU recovers  ₹52 lakh cash,  ₹35 lakh ornaments from executive engineer’s premises",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 4,
+    "headlines": [
+      "KPSC scam candidates taken to resorts, provided with Q&amp;A: ED",
+      "Cauvery Water Management Authority upholds Cauvery Water Regulation Committee direction to Karnataka to release 3,000 cusecs a day to Tamil Nadu for 15 days",
+      "Fake pharma racket in Karnataka sourced Pfizer labels from Türkiye, reveals SIT probe",
+      "Court gives ED custody of suspended KPSC chairman"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 4,
+    "headlines": [
+      "‘Reckless’ use of NSA has made it ordinary: MP HC",
+      "Four Cockroach Janta Party volunteers from Telangana detained in Bhopal ahead of October 10 Delhi protest",
+      "CBI arrests two school principals in separate bribery cases in Madhya Pradesh, Odisha",
+      "Madhya Pradesh HC dismisses plea challenging CAT order for IPS cadre review"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 2,
+    "headlines": [
+      "Four Bengal workers, detained on Bangladeshi suspicion, released from Chandigarh",
+      "Indri launches Ruby Port Cask Diwali Collector’s Edition 2026, limited to 600 bottles"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "CT",
@@ -298,19 +299,19 @@
       "Four CRPF personnel injured in accidental blast while disposing explosives in Chhattisgarh",
       "Chhattisgarh court awards death penalty to three for killing cop’s wife, minor daughter"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
     "news_count": 2,
     "headlines": [
-      "CBI arrests two school principals in separate bribery cases in Madhya Pradesh, Odisha",
-      "Madhya Pradesh HC dismisses plea challenging CAT order for IPS cadre review"
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "OD",
@@ -319,43 +320,46 @@
     "State": "Odisha",
     "news_count": 2,
     "headlines": [
-      "Patient Dead As Ambulance Oxygen Cylinder Explodes At Odisha Hospital",
+      "Odisha bandh by INDIA Bloc evokes mixed response",
       "CBI arrests two school principals in separate bribery cases in Madhya Pradesh, Odisha"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
-  },
-  {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 1,
-    "headlines": [
-      "Indri launches Ruby Port Cask Diwali Collector’s Edition 2026, limited to 600 bottles"
-    ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "JH",
     "Lat": 23.6102,
     "Long": 85.2799,
     "State": "Jharkhand",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "Jharkhand should 'revisit' DGP appointment rules, says Supreme Court",
       "India vs West Indies in Ranchi brings back an Ajit Agarkar memory"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 1,
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 2,
     "headlines": [
-      "Burmese network behind large-scale areca nut smuggling via Mizoram: ED probe"
+      "‘Attire is a citizen’s choice’: Kerala HC backs school headmistress over attire row",
+      "Is Keralam’s better healthcare a handicap in allotting AIIMS, HC asks Centre"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "CJP claims Deepak Baliyan assaulted, brother injured; Rajasthan Police deny action",
+      "CJP, Left groups allege supporters detained from across the country, ahead of October 10 protest"
+    ],
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
     "Code": "MN",
@@ -366,28 +370,28 @@
     "headlines": [
       "Amit Shah meets Manipur CM Khemchand in Delhi, says he will visit state later this month"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
     "news_count": 1,
     "headlines": [
-      "CJP claims Deepak Baliyan assaulted, brother injured; Rajasthan Police deny action"
+      "Burmese network behind large-scale areca nut smuggling via Mizoram: ED probe"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   },
   {
-    "Code": "PY",
-    "Lat": 11.9416,
-    "Long": 79.8083,
-    "State": "Puducherry",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "Bengal, Tamil Nadu, Assam and Puducherry brace for closely watched bypoll verdicts"
+      "J&amp;K: High court orders passport revival for student purusing MBBS in Iran"
     ],
-    "last_updated": "2026-10-09 01:54:46 AM"
+    "last_updated": "2026-10-09 06:23:01 AM"
   }
 ]
