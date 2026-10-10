@@ -4,28 +4,38 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 65,
+    "news_count": 70,
     "headlines": [
-      "'Unprecedented security': How Delhi is bracing for October 10 protests against CEC",
+      "Delhi Qila ahead of CJP’s ‘Jantar Mantar 2.0’: 35,000-strong force in security plan",
+      "'New Delhi modelled after new J&amp;K': Omar Abdullah on internet curbs for CJP protest",
+      "Watch: Drones take to Delhi skies ahead of CJP protest against CEC Gyanesh Kumar",
+      "Only second ever! Hope scripts history against India with record-breaking ton",
+      "'You cannot put a number': Captain Iyer blames heavy dew after India's defeat",
+      "'Gambhir is chopping and changing': Ex-Australia player calls India 'unsettled'",
+      "First time in 149 years: Australia make unique record in first Test vs South Africa",
       "'City can't be brought to a halt': Delhi Police's rationale for restrictions",
       "Hope springs eternal as West Indies pull off highest chase in T20Is in Ranchi",
       "2026 bypoll results: Vijay’s TVK sweeps Tamil Nadu, BJP wins Bengal, Assam",
       "MHA orders states to prevent CJP supporters from mobilising towards Delhi",
-      "Delhi traffic police issues advisory ahead of Oct 10 protests; check affected routes",
-      "149.5kmph thunderbolt! Mayank Yadav leaves West Indies reeling in chase",
-      "'This govt will fall': Rahul's 'guarantee' to allies amid protests against CEC",
-      "India smash highest T20I total vs WI as Samson, Iyer and Tilak go berserk in Ranchi",
-      "'Nothing can stop India's youth': Chirag on travel curbs ahead of CJP stir in Delhi",
-      "Railways lose appeal over Rs 1.45 lakh payout for stolen bag",
-      "Man Arrested With Marijuana Worth Rs 4.5 Crore At Delhi Airport",
-      "Delhi Protests Highlights: Number Of Delhi Metro Stations Shut Cut From 57 To 45, Hours After Supreme Court Order",
+      "Delhi CJP Protest News LIVE: CJP's Abhijeet Dipke Leaves Mumbai Hotel For Delhi",
+      "Delhi Metro Closes 45 Stations Due To CJP Protest Today: Full List",
+      "More Than 250 Trains Cancelled Ahead Of CJP Protest In Delhi Today",
       "Metro, Rail Curbs, 20,000 Personnel: Delhi Gears Up For CJP's Jantar Mantar 2.0",
-      "Delhi protest LIVE updates: CJP's call for 'Jantar Mantar 2.0' turns capital into a fortress",
+      "2 Vans, 30,000 Bottles: 6 Thieves Carry Out Italy's Biggest Wine Robbery",
+      "Delhi protest against CEC LIVE updates: At least two detained near Jantar Mantar as protesters begin to gather; Dipke on his way to capital",
+      "Delhi Police expects 7,000 protesters; security personnel told to exercise restraint",
+      "Delhi Police detain at least 100 with criminal records in overnight ops. ahead of CJP protest",
+      "Delhi braces for CJP protest: 45 metro stations shut, trains cancelled, 23,000 security personnel deployed",
       "Three CJP activists detained in Rajasthan ahead of Delhi protest",
       "TMC MP writes to UNHCR over denial of drinking water in Kolkata colony",
       "J&K Waqf chairperson Andrabi condemns assault on Kashmiri youth in Delhi",
       "Units grappling with rising costs, says expert at Vettri Tamil Nadu MSME Summit 2026",
-      "Delhi braces for CJP protest: 45 metro stations shut, trains cancelled, 23,000 security personnel deployed",
+      "‘PM Modi is scared of youth’: Abhijeet Dipke on way to Delhi for Jantar Mantar protest",
+      "Delhi traffic curbs from 6 am: Dhaula Kuan, CP outer circle among key affected routes",
+      "6 special trains arranged to bring 10k CAPF personnel for Delhi protest",
+      "CJP protest LIVE: Cops remove ‘suspicious’ people near Jantar Mantar, more than 1,000 detained overnight",
+      "Trains to Delhi cancelled, metro shut even as Supreme Court tells Centre, cops to lift blanket curbs",
+      "3 stadiums to be used as temporary detention centres in Delhi during Jantar Mantar protest",
       "Public safety, past lapses: Why Delhi Police denied CJP permission for Jantar Mantar protest",
       "ECI fortified, 254 trains cancelled, metro affected, internet shut: Delhi braces for CJP's October 10 protest against CEC Gyanesh Kumar",
       "'Final call': Dipke releases video message ahead of CJP protest, anticipates arrest upon landing in Delhi",
@@ -46,24 +56,19 @@
       "Delhi HC stays order mandating Aadhaar biometrics-enabled attendance for prosecutors",
       "Delhi Jantar Mantar protest: What's open, what's closed on October 10? Metro, trains, liquor stores, CP",
       "Supreme Court summons CJP, student organisations at 2pm today amid row over Delhi curbs",
-      "No permission for Jantar Mantar protest, Delhi Police say CJP's intimation came 'too late'",
-      "57 Delhi metro stations shut from 9pm today as cops tighten security ahead of CJP's Jantar Mantar protest tomorrow",
-      "West Bengal by-elections result highlights: BJP wins in Rejinagar and Nandigram with huge margins",
-      "Nandigram bypoll result: BJP's Hasirani Rath leads in early trends for key West Bengal seat",
-      "Delhi Customs busts gold smuggling syndicate at IGI airport, seizes 6.5kg gold worth  ₹9.9 crore",
       "Delhi on high alert ahead of protest against CEC",
       "BJP sweeps Bengal Assembly bypolls by winning both Nandigram and Rejinagar by record margin",
       "Global refining shock lifts India’s diesel exports to a 12-month high in September",
       "South India set to play a key role in India’s next phase of steel growth: Experts",
       "Grim situation in South",
-      "SC backs right to protest, urges govt against blanket transit ban in Delhi",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "‘Olympic gold jeetna hai’: Kumkum’s dream after ending Korea’s stranglehold in archery",
+      "149.5kmph thunderbolt! Mayank Yadav leaves West Indies reeling in chase",
+      "India smash highest T20I total vs WI as Samson, Iyer and Tilak go berserk in Ranchi",
       "Sanju Samson matches Virat Kohli’s record with whirlwind fifty against West Indies",
       "Keegan Allen ATTACKED and robbed at gunpoint - WATCH",
-      "Ronit Roy leases his Andheri West office for nearly Rs 1.39 cr",
       "Ronit Roy leases Andheri west office space for Rs 1.39 crores over five years",
       "Prasanna Bisht starrer Bokshi release postponed to December 4 after CBFC review over witchcraft and gruesome violence",
       "Salman Khan vs Kala Hiran: Delhi High Court seeks reply from actor on Amit Jani’s plea seeking stay on proceedings",
@@ -72,15 +77,16 @@
       "R. Madhavan set to host Game Changers featuring startup founders and global investors; details inside!",
       "Coastal Forest Loss Speeds Up: Albemarle Peninsula trees retreat 21%; ghost forests spread faster"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 14,
+    "news_count": 15,
     "headlines": [
+      "Delhi CJP Protest News LIVE: CJP's Abhijeet Dipke Leaves Mumbai Hotel For Delhi",
       "PIL in Bombay HC seeks filling of posts in 14 Maharashtra government bodies",
       "Two police constables among five arrested by Mumbai Police in illegal telecom data racket",
       "'Final call': Dipke releases video message ahead of CJP protest, anticipates arrest upon landing in Delhi",
@@ -96,28 +102,27 @@
       "Fire breaks out near the sets of Pati Patni Aur Panga and MTV Hustle 5, no casualties reported",
       "Rakul Preet Singh BREAKS silence on Income Tax searches, DENIES involvement in illegal foreign remittances: \"Have been paying my due taxes since the age of 20\""
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 11,
+    "news_count": 10,
     "headlines": [
+      "Karnataka govt. writes to SLBC instructing against adjusting Gruha Lakshmi amount for loans",
       "Karnataka Chief Minister has credible information on ‘sting operation’: Deputy CM",
-      "Karnataka Govt. writes to SLBC instructing against adjusting Gruha Lakshmi amount for loans",
       "More taluks to be added to drought list by Karnataka",
       "Form 7 objections rise by 19,376 in four days during SIR in Karnataka",
       "Karnataka HC stays probe into FIRs against two BJP booth-level agents in Form 7 row",
-      "Karnataka HC notice to govt. on BDA’s plan to construct new building for its headquarters by demolishing existing one",
+      "Karnataka receives 110k Form 7 applications amid row over SIR",
       "Karnataka SIR gets 1.1 lakh Form 7 objections amid SIR voter list controversy",
       "Karnataka HC quashes orders bringing Hanuman birthplace temple under Muzrai department",
       "Karnataka seizes 565 tonnes of subsidised rice meant for public distribution",
-      "Expired products, unhygienic conditions: Karnataka FDA uncovers violations at several ice cream units",
-      "Karnataka vendor, 7 others declared ‘dead’ for SIR deletion, expelled BJP leader booked"
+      "Expired products, unhygienic conditions: Karnataka FDA uncovers violations at several ice cream units"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "GJ",
@@ -134,7 +139,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "TN",
@@ -148,56 +153,57 @@
       "Rahul Gandhi to address students in Chennai today",
       "Five-tier security for Prime Minister’s Chennai visit",
       "Units grappling with rising costs, says expert at Vettri Tamil Nadu MSME Summit 2026",
-      "Ruling parties sweep bypolls as BJP bags Bengal seats, TVK wins in Tamil Nadu",
+      "Ruling parties sweep all 6 bypoll seats; BJP wins Bengal, Assam and TVK takes Tamil Nadu",
       "Karnataka seizes 565 tonnes of subsidised rice meant for public distribution"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 6,
     "headlines": [
-      "2026 bypoll results: Vijay’s TVK sweeps Tamil Nadu, BJP wins Bengal, Assam",
-      "TMC MP writes to UNHCR over denial of drinking water in Kolkata colony",
-      "TMC worker held, CPI(M) leader cannot blame Hindus for vandalism, says CM Adhikari",
-      "West Bengal by-elections result highlights: BJP wins in Rejinagar and Nandigram with huge margins",
-      "Nandigram bypoll result: BJP's Hasirani Rath leads in early trends for key West Bengal seat",
-      "BJP sweeps Bengal Assembly bypolls by winning both Nandigram and Rejinagar by record margin"
+      "100 Senior Jammu And Kashmir Police Officers Transferred In Major Reshuffle",
+      "CISF Jawan Dies Of Gunshot Injuries In Jammu And Kashmir, Probe Ordered: Cops",
+      "Passengers stranded in Jammu, Katra after train cancellations",
+      "In a rare bid to save Kashmiri language, clerics to deliver sermons in vernacular language on October 16",
+      "NIA files chargesheet against 4 in Kishtwar terror attack case, traces conspiracy to Pakistan",
+      "Delhi court acquits three in 2017 Rajouri Garden shooting case as victim turns hostile"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
       "SC criticises Patna HC ruling that removing salwar does not constitute rape attempt",
       "Tejashwi Yadav has no merit; he is desperate to become Bihar CM: alleges Independent MP Pappu Yadav",
       "DMs-SPs must respond within two hours to any sensitive social media-related issues: Bihar CM",
+      "SC flags insensitive language used in 3 high court orders",
       "NIA, others raid 11 premises over narcotics and fake currency syndicate case in Bihar's Madhubani",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 5,
     "headlines": [
-      "Kerala Postal Circle launches ‘Assured Next Day Delivery’ service",
-      "UDF, LDF working together to corner ruling BJP in Thiruvananthapuram Corporation, says Mayor V.V. Rajesh",
-      "Supreme Court raps Kerala govt for not detailing steps to protect state's tallest captive elephant",
-      "Kerala HC allows plea to register FIR against Vijayan based on ED report in CMRL 'bribery' case",
-      "SC pulls up Kerala govt over failure to detail steps to protect State’s tallest captive elephant"
+      "2026 bypoll results: Vijay’s TVK sweeps Tamil Nadu, BJP wins Bengal, Assam",
+      "Ruling parties sweep all 6 bypoll seats; BJP wins Bengal, Assam and TVK takes Tamil Nadu",
+      "‘Gaurav Gogoi failed completely, should resign’: Akhil Gogoi slams Congress after Nagaon Lok Sabha bypoll setback",
+      "Assam CM writes to Vaishnaw, Naidu seeking probe into dancer’s death in Andhra Pradesh",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "RJ",
@@ -211,49 +217,73 @@
       "Rajasthan orders weapons, vehicles for forest staff amid attacks linked to illegal sand mining",
       "Student’s death triggers protests at Kota’s Rajasthan Technical University"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 4,
-    "headlines": [
-      "Judge recuses from Punjab government appeal case",
-      "Summons on the wall: CBI pastes notice outside residence of Punjab CM's OSD",
-      "Delhi HC shifts Patiala House, Rouse Avenue court proceedings online amid Jantar Mantar protest",
-      "‘One does not know where attack will come from’: SC judge recuses from Punjab CBI probe"
-    ],
-    "last_updated": "2026-10-10 05:17:32 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 4,
     "headlines": [
       "2026 bypoll results: Vijay’s TVK sweeps Tamil Nadu, BJP wins Bengal, Assam",
-      "‘Gaurav Gogoi failed completely, should resign’: Akhil Gogoi slams Congress after Nagaon Lok Sabha bypoll setback",
-      "Assam CM writes to Vaishnaw, Naidu seeking probe into dancer’s death in Andhra Pradesh",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "TMC MP writes to UNHCR over denial of drinking water in Kolkata colony",
+      "TMC worker held, CPI(M) leader cannot blame Hindus for vandalism, says CM Adhikari",
+      "BJP sweeps Bengal Assembly bypolls by winning both Nandigram and Rejinagar by record margin"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Huge quantity of PDS rice seized in crackdown",
+      "Madhya Pradesh High Court strikes down 27% OBC quota, says it will stay at 14%",
+      "Supreme Court seeks Centre, states’ response on deaths of 32 tribal children in MP"
+    ],
+    "last_updated": "2026-10-10 09:06:58 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "UP cabinet nod to rename Jewar airport after Modi",
+      "CJP protest in Delhi on October 10: Trains from UP, Mumbai cancelled or rescheduled; check list",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 4,
+    "news_count": 3,
     "headlines": [
       "Breakfast scheme brings more students to schools in Telangana",
-      "Telangana farmers shift to horticulture crops in Kharif",
       "Hyderabad police arrest 10 for attempting to grab 100 acres of govt land worth  ₹700 crore",
       "Invest Telangana Global Summit: Deputy CM Bhatti directs all departments to work in coordination"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "Kerala HC order against former CM Pinarayi Vijayan and others raises a larger question of natural justice, say legal experts",
+      "Kerala Police to collaborate with Kochi start-up to try robots in traffic management",
+      "SC pulls up Kerala govt over failure to detail steps to protect State’s tallest captive elephant"
+    ],
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "JH",
@@ -263,49 +293,22 @@
     "news_count": 3,
     "headlines": [
       "Hope springs eternal as West Indies pull off highest chase in T20Is in Ranchi",
-      "India smash highest T20I total vs WI as Samson, Iyer and Tilak go berserk in Ranchi",
-      "Jharkhand tribal woman alleges brutal custodial assault"
+      "Jharkhand tribal woman alleges brutal custodial assault",
+      "India smash highest T20I total vs WI as Samson, Iyer and Tilak go berserk in Ranchi"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
     "headlines": [
-      "MLA, officials review public grievances in Visakhapatnam",
-      "Assam CM writes to Vaishnaw, Naidu seeking probe into dancer’s death in Andhra Pradesh",
-      "CDS offers 5-year defence procurement roadmap, admits to policy gaps in tech procurement"
+      "Judge recuses from Punjab government appeal case",
+      "Delhi HC shifts Patiala House, Rouse Avenue court proceedings online amid Jantar Mantar protest"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 3,
-    "headlines": [
-      "In a rare bid to save Kashmiri language, clerics to deliver sermons in vernacular language on October 16",
-      "NIA files chargesheet against 4 in Kishtwar terror attack case, traces conspiracy to Pakistan",
-      "Delhi court acquits three in 2017 Rajouri Garden shooting case as victim turns hostile"
-    ],
-    "last_updated": "2026-10-10 05:17:32 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Madhya Pradesh's OBC Quota Hike Struck Down, 3-Month Deadline To Fill Posts",
-      "Huge quantity of PDS rice seized in crackdown",
-      "Supreme Court seeks Centre, states’ response on deaths of 32 tribal children in MP"
-    ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "GA",
@@ -317,19 +320,19 @@
       "Nana Patekar death: Goa Police register “unnatural death” case, to begin further enquiry",
       "Nana Patekar passes away at 75 after severe cardiac arrest at Goa residence"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 2,
     "headlines": [
-      "CJP protest in Delhi on October 10: Trains from UP, Mumbai cancelled or rescheduled; check list",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+      "Assam CM writes to Vaishnaw, Naidu seeking probe into dancer’s death in Andhra Pradesh",
+      "CDS offers 5-year defence procurement roadmap, admits to policy gaps in tech procurement"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "MN",
@@ -341,19 +344,7 @@
       "Bamboo replacing poppy patches in Manipur jungles: PCCF",
       "CRPF head constable injured in grenade attack on RAF outpost in Manipur’s Imphal East"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 2,
-    "headlines": [
-      "Court boycott invites contempt notices for 26 lawyers in Meghalaya",
-      "Meghalaya HC sends contempt notices to bar association leaders over abstinence from judicial work"
-    ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "CT",
@@ -364,7 +355,18 @@
     "headlines": [
       "Supreme Court seeks Centre, states’ response on deaths of 32 tribal children in MP"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "Court boycott invites contempt notices for 26 lawyers in Meghalaya"
+    ],
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "OD",
@@ -375,7 +377,7 @@
     "headlines": [
       "ED raids 9 locations in Odisha in probe over sub-inspector recruitment case"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   },
   {
     "Code": "UT",
@@ -386,6 +388,6 @@
     "headlines": [
       "BJP’s Dinesh Arya elected unopposed to Rajya Sabha from Uttarakhand"
     ],
-    "last_updated": "2026-10-10 05:17:32 AM"
+    "last_updated": "2026-10-10 09:06:58 AM"
   }
 ]
