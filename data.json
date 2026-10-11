@@ -6,22 +6,22 @@
     "State": "Delhi",
     "news_count": 83,
     "headlines": [
-      "Mass detentions, political showdown &amp; a vow to fight on: How Delhi protests unfolded",
-      "‘Where is he?’ CJP seeks Dipke’s release ahead of grandma’s last rites on Sunday",
       "Landlord wanted tenant out for law office; Delhi HC rejects tenant's objections",
+      "‘Where is he?’ CJP seeks Dipke’s release ahead of grandma’s last rites on Sunday",
       "Delhi protests: CJP stir against CEC triggers political face-off - top developments",
       "'Ab jawaab bhi dena padega': CJP claims member ‘brutally assaulted’ by Delhi Police",
       "'Modi destroying democracy': Rahul slams PM over Delhi protest crackdown",
       "Delhi protests: SC to hear plea seeking contempt action against authorities on Sunday",
-      "‘Team forcefully detained’: CJP accuses Delhi cops of pushing, dragging protesters",
-      "All 3,000 Detainees Released, Except Abhijeet Dipke, Dhruv Rathee, 2 Others",
       "\"Unwarranted Interference\": India Slams UN's Remarks On Delhi Detentions",
+      "All 3,000 Detainees Released, Except Abhijeet Dipke, Dhruv Rathee, 2 Others",
       "Delhi CJP Protest News Highlights: Delhi Metro Gates Reopened, Internet Services Restored Around Jantar Mantar",
       "Leaders In Custody, CJP Announces Another Jantar Mantar Protest At 10 am",
       "Top Court To Hold Special Hearing On Metro Closure, Protest Detentions Today",
       "'CJP Their B-Team': Rekha Gupta's Dig At Rahul Gandhi, Arvind Kejriwal",
       "Protesters Take Shelter At Delhi Gurdwara, Then A Viral Cop Video Sparks Row",
+      "Mass detention of Delhi protesters draws scrutiny from legal experts",
       "Anti-CEC protest LIVE updates: CJP calls for another protest at Jantar Mantar on Sunday; UNHRC demands immediate release of demonstrators | LIVE",
+      "Ladakh activist Sonam Wangchuk warns of fresh protest if detained people not released in Delhi",
       "Multiple ‘Jantar Mantars’ spring up as Delhi shuts",
       "UN human rights body expresses concern over Delhi detentions, urges immediate release",
       "Delhi protest: AISA leader Neha Bora released from detention",
@@ -90,7 +90,7 @@
       "Vishal Dadlani sells Goregaon West commercial unit for Rs. 3.34 crores: Report",
       "Sonu Nigam expands Mumbai property portfolio, buys commercial units in Andheri West for Rs. 16 crores"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "MH",
@@ -119,7 +119,7 @@
       "Sonu Nigam expands Mumbai property portfolio, buys commercial units in Andheri West for Rs. 16 crores",
       "Fire breaks out near the sets of Pati Patni Aur Panga and MTV Hustle 5, no casualties reported"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "TN",
@@ -136,22 +136,22 @@
       "Ruling parties sweep all 6 bypoll seats; BJP wins Bengal, Assam and TVK takes Tamil Nadu",
       "PM Narendra Modi in Chennai on Sunday for a series of engagements"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 5,
     "headlines": [
-      "'Fight should be face-to-face': CM Yogi accepts Akhilesh's Ayodhya challenge",
-      "‘Hung upside down, beaten’: UP BJP MLA accused of holding 3 men hostage over ‘gold bangle theft’",
-      "Driver burnt alive as moving CNG car catches fire in UP's Barabanki",
-      "UP cabinet nod to rename Jewar airport after Modi",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+      "Manipur MP calls his dismissal as JNU prof 'witch hunt'",
+      "At least five killed in fresh Manipur violence",
+      "9 killed in separate incidents in communal clash across 3 districts in Manipur",
+      "Five killed in fresh violence in strife-torn Manipur",
+      "Manipur: Kuki woman killed in crossfire, restrictions imposed near Chassad police gate junction"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "TG",
@@ -166,21 +166,7 @@
       "‘Scrap SIR, Gyanesh Kumar must resign’: Protesters take to Hyderabad streets, seek accountability over voter deletions",
       "Telangana ACB arrests civil supplies manager over  ₹9.41 crore disproportionate assets"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "At least five killed in fresh Manipur violence",
-      "9 killed in separate incidents in communal clash across 3 districts in Manipur",
-      "Five killed in fresh violence in strife-torn Manipur",
-      "Manipur: Kuki woman killed in crossfire, restrictions imposed near Chassad police gate junction"
-    ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "HR",
@@ -194,21 +180,21 @@
       "YouTuber Dhruv Rathee detained in Gurugram ahead of CJP's Jantar Mantar protest",
       "Faridabad teen dies by suicide at classmate’s home, 9 family members held for violence, 2 cops injured"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 4,
     "headlines": [
-      "Minister Bindu Krishna pledges full support to survivor of alleged  gang rape in Kochi",
-      "Visakhapatnam’s air breached national standard on 259 of 382 days; data show winter brings the worst",
-      "Rajya Sabha member highlights role of chess in improving concentration, decision-making",
-      "‘Jailer 2’ ticket prices hiked in Andhra Pradesh for opening week"
+      "‘Hung upside down, beaten’: UP BJP MLA accused of holding 3 men hostage over ‘gold bangle theft’",
+      "Driver burnt alive as moving CNG car catches fire in UP's Barabanki",
+      "UP cabinet nod to rename Jewar airport after Modi",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "BR",
@@ -221,7 +207,20 @@
       "SC flags insensitive language used in 3 high court orders",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Minister Bindu Krishna pledges full support to survivor of alleged  gang rape in Kochi",
+      "Visakhapatnam’s air breached national standard on 259 of 382 days; data show winter brings the worst",
+      "‘Jailer 2’ ticket prices hiked in Andhra Pradesh for opening week"
+    ],
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "UT",
@@ -234,7 +233,7 @@
       "Magnitude 4.2 earthquake jolts Uttarakhand, epicenter in Uttarkashi",
       "BJP’s Dinesh Arya elected unopposed to Rajya Sabha from Uttarakhand"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "RJ",
@@ -247,20 +246,20 @@
       "Akasa Air enters Rajasthan, direct flights connecting Jaipur with Mumbai, Bengaluru from Sunday",
       "Today’s Gold Rate in India October 10: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur (Other Cities)"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 3,
     "headlines": [
-      "Gujarat to release water from Kadana Dam to protect Kharif crops amid rainfall deficit",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
+      "Former Mayor alleges bid to move Thiruvananthapuram Zoo animals to Vantara, Puthur",
+      "Thiruvananthapuram Corporation to remove unscientific overhead cables",
+      "Healthy Wayanad project to focus on needs of vulnerable groups"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "GA",
@@ -273,19 +272,20 @@
       "Nana Patekar death: Goa Police register “unnatural death” case, to begin further enquiry",
       "Nana Patekar passes away at 75 after severe cardiac arrest at Goa residence"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
     "headlines": [
-      "INDIA bloc to hold mega protest in Delhi on October 12, TMC says Mamata Banerjee to join",
-      "SEPC inks ₹854 cr-order with SAIL in West Bengal"
+      "Gujarat to release water from Kadana Dam to protect Kharif crops amid rainfall deficit",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "AS",
@@ -297,7 +297,19 @@
       "Ruling parties sweep all 6 bypoll seats; BJP wins Bengal, Assam and TVK takes Tamil Nadu",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "INDIA bloc to hold mega protest in Delhi on October 12, TMC says Mamata Banerjee to join",
+      "SEPC inks ₹854 cr-order with SAIL in West Bengal"
+    ],
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "KA",
@@ -309,19 +321,19 @@
       "Belagavi man loses ₹21.94 lakh in online investment fraud",
       "Karnataka receives 110k Form 7 applications amid row over SIR"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 2,
     "headlines": [
-      "Thiruvananthapuram Corporation to remove unscientific overhead cables",
-      "Healthy Wayanad project to focus on needs of vulnerable groups"
+      "Ladakh activist Sonam Wangchuk warns of fresh protest if detained people not released in Delhi",
+      "Ajay Devgn begins shooting for Chauhaan in Kargil; returns to Ladakh 23 years after LOC: Kargil"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "AR",
@@ -332,7 +344,7 @@
     "headlines": [
       "Siang group calls for boycott of Arunachal CM's meeting with Adi bodies on hydropower project"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "MP",
@@ -343,7 +355,7 @@
     "headlines": [
       "Madhya Pradesh High Court strikes down 27% OBC quota, says it will stay at 14%"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   },
   {
     "Code": "JK",
@@ -354,17 +366,6 @@
     "headlines": [
       "Huge Cache Of Arms, Ammunition Recovered From Cave In Jammu And Kashmir"
     ],
-    "last_updated": "2026-10-11 01:54:53 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Ajay Devgn begins shooting for Chauhaan in Kargil; returns to Ladakh 23 years after LOC: Kargil"
-    ],
-    "last_updated": "2026-10-11 01:54:53 AM"
+    "last_updated": "2026-10-11 05:31:44 AM"
   }
 ]
