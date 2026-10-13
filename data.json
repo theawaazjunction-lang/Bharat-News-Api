@@ -4,20 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 56,
+    "news_count": 58,
     "headlines": [
-      "Ramlila Maidan: The ground where protests dealt blows to Congress, twice",
-      "'Can't beat us, threaten us': Rahul thanks protesters after INDIA bloc march to SC",
-      "23 days without food, then a sprint through heart of Delhi: Meet Neha Bora",
-      "Delhi SIR: 20 Lakh Cases Resolved After 33 Lakh Voters Get Notices",
-      "Booth Level Officers To Revisit Homes Of Voters Excluded During Bengal SIR",
+      "60% of 33 lakh who received SIR notices in Delhi are now verified",
+      "29-Year-Old Man Beaten To Death By Bouncers Over Spilled Beer At Delhi Club",
+      "Delhi Records Highest October Rainfall In 4 Years",
+      "West Bengal bypolls proved that BJP does not draw support from just one community: CM Suvendu",
+      "Govt. move to de-notify Jantar Mantar follows SC suggestion that protest sites need more space, open air",
+      "Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry",
+      "India poised to woo global investments amid US curbs: INMECC",
       "Delhi protests against CEC: What the law says about preventive detention | Explained",
       "Delhi Police mentally tortured me and my family, says CJP fouder Abhijeet Dipke",
       "Delhi Police de-notifies Jantar Mantar as protest site; activists slam decision",
       "Delhi police accused of beating, assaulting detainees, denying them basic rights",
       "SIT examines ADGP Arun and other IPS officers in Veeramani case",
-      "Northeast monsoon likely to set in over south peninsula in the net two to three days",
-      "Four including a toddler die after electric car hits wall and catches fire on Vijayawada West bypass",
+      "Iran security chief and NSA Ajit Doval hold phone call, discuss West Asia conflict, bilateral issues",
       "'Batman Mode On': Rahul Gandhi, Kharge pose with superhero masks during Opposition march to SC",
       "'Mini-India', a space for all: Jantar Mantar's special place on Delhi's protest map",
       "Delhi Police take down 300 social media posts in crackdown on ‘misinformation’ amid protests",
@@ -44,9 +45,10 @@
       "Delhi protest highlights: INDIA bloc plea challenges ECI's SIR decisions, seeks independent panel to audit deletions",
       "Traffic curbs continue in Delhi amid anti-CEC protests; new advisories issued | Check routes, diversions here",
       "K’taka CM to lead Cong legislators to Delhi for stir against SIR",
-      "Supreme Court stresses due process as detentions continue; Opposition and CJP vow to press on with protests in Delhi",
       "Rajasthan pollution board orders closure of Carlsberg’s manufacturing facility ahead of IPO",
       "Rahul Gandhi leads Opposition march as Delhi Police denotifies Jantar Mantar as protest site",
+      "Global Market Today: Asian Markets slide as chip stocks tumble; investors eye US earnings, CPI",
+      "Bond yields rise to 3-year high on RBI liquidity cut",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -63,23 +65,20 @@
       "Prasanna Bisht starrer Bokshi release postponed to December 4 after CBFC review over witchcraft and gruesome violence",
       "Salman Khan vs Kala Hiran: Delhi High Court seeks reply from actor on Amit Jani’s plea seeking stay on proceedings"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 17,
+    "news_count": 14,
     "headlines": [
-      "Maharashtra Man Takes Lover On Date To Waterfall, Then Pushes Her Into It",
-      "MPSC paper leak case: Mumbai Crime Branch arrests another accused",
       "Maharashtra FDA chief Tukaram Mundhe refutes reports of transfer: 'Fight against unsafe food, spurious drugs goes on'",
       "Aaditya, Amit Thackeray booked day after leading sit-in against Gyanesh Kumar",
       "Tukaram Mundhe gets key role as Maharashtra forms MPSC reform committee; panel gets 60-day deadline",
       "Charity Commissioner of Maharashtra gives Tata Trusts one more week to reply to Venu Srinivasan, Vijay Singh’s complaint",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Radhika Apte's Mumbai home: Colourful doors, vintage decor, heirlooms, cozy balcony",
       "Akshay Kumar’s Samuk wraps UK schedule, heads to Mumbai for final 20-day shoot",
       "FIR register against Imran Khan and others over August Kranti Maidan protest: REPORT",
       "Imran Khan detained by Mumbai Police during protest at August Kranti Maidan; says, “I am here to see why people’s voices are being suppressed”",
@@ -90,26 +89,45 @@
       "Income Tax searches at Ramayana producer Prime Focus’ Mumbai offices; shares FALL 8%",
       "Don’t Be Shy cast to meet college students for FIRST post-release Gen-Z interaction"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 10,
+    "headlines": [
+      "Karnataka will continue with probe into efforts to illegally delete names of genuine voters, says Chief Minister",
+      "Drought report: On southwest monsoon, drought in  Karnataka and Andhra Pradesh",
+      "Upper Bhadra water release acquires electoral overtones in Karnataka",
+      "Karnataka gets its second woman Governor with appointment of Sudha Yadav",
+      "Karnataka High Court strikes down law to increase reservation for SCs/STs, declares it unconstitutional",
+      "Arlekar new full-time Governor of T.N., Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
+      "Karnataka considering law for action against pvt hospitals withholding bodies",
+      "K’taka CM to lead Cong legislators to Delhi for stir against SIR",
+      "Karnataka High Court strikes down enhanced SC/ST quota, upholds 50% reservation ceiling",
+      "How can Karnataka clear Cauvery backlog amid drought conditions, SC asks Tamil Nadu"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 9,
+    "news_count": 8,
     "headlines": [
       "Kerala crash: Old video shows accused teen’s Mini Cooper speeding at 220kmph",
       "'Resign now': Kerala Congress deletes 'dear' CJI post after backlash, BJP fury",
-      "Kerala Congress Sacks Worker, Takes Down 'Chief Justice' Post After BJP Jibe",
       "Kannur Corporation introduces double-decker bus for sightseeing during Dasara",
-      "CPI(M) calls hartal on Oct. 24 in 7 Pathanamthitta villages over ESA",
+      "13,505 girls get HPV vaccine in Kozhikode",
       "RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments",
       "‘Give way, listen to the thunderous sounds’: Tharoor quotes poem, backs Rahul over Gyanesh Kumar protests",
       "CMRL payoffs case: Pinarayi Vijayan, daughter, son-in-law booked for corruption",
       "'Father will handle everything': Eyewitness recalls Mini Cooper driver's reaction after crash killed 3 in Kerala"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "TN",
@@ -118,58 +136,29 @@
     "State": "Tamil Nadu",
     "news_count": 6,
     "headlines": [
-      "DMK says no need for it to join Congress-led protests after exit from INDIA bloc",
+      "Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry",
       "RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments",
       "BJP hits back at Rahul Gandhi over Tamil language remarks, rejects Emergency comparison",
       "PM Modi urges youth to ‘dream big, think differently’; unveils  ₹13,000 crore projects in Tamil Nadu",
       "How can Karnataka clear Cauvery backlog amid drought conditions, SC asks Tamil Nadu",
       "Rajinikanth and Nelson’s 'Jailer 2' crosses Rs 22 crore in advance sales"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 5,
-    "headlines": [
-      "Bangla Sahib Row: Police Case Aganst Arvind Kejriwal, AAP Goes To Akal Takht",
-      "13.6 Lakh Names Deleted During SIR. Punjab Now Has 2 Crore Voters",
-      "13.60 lakh names dropped from final electoral rolls after SIR in Punjab",
-      "Corruption case: SC directs no coercive action be taken against people linked to Punjab govt",
-      "SC shields Mann government from ED, CBI's coercive actions in graft case but probe to continue"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 5,
-    "headlines": [
-      "Karnataka High Court strikes down law to increase reservation for SCs/STs, declares it unconstitutional",
-      "Arlekar new full-time Governor of T.N., Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
-      "Karnataka considering law for action against pvt hospitals withholding bodies",
-      "K’taka CM to lead Cong legislators to Delhi for stir against SIR",
-      "How can Karnataka clear Cauvery backlog amid drought conditions, SC asks Tamil Nadu"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "GA",
     "Lat": 15.2993,
     "Long": 74.124,
     "State": "Goa",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Bombay HC orders accused in Goa fire case to deposit interim compensation of ₹20 lakh each",
       "In special sitting, Bombay high court in Goa orders release of anti-EC protesters",
       "Nana Patekar’s autopsy CONFIRMS heart attack caused by blood clot in left main coronary artery: Report",
       "Nana Patekar death: Goa Police register “unnatural death” case, to begin further enquiry",
       "Nana Patekar passes away at 75 after severe cardiac arrest at Goa residence"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "AP",
@@ -178,79 +167,26 @@
     "State": "Andhra Pradesh",
     "news_count": 4,
     "headlines": [
-      "4 Pakistani Terrorists Killed In PoK Blast During Infiltration Attempt",
-      "SPMVV partners with NIELIT Tirupati to boost digital learning, industry-ready skills development",
-      "Telangana man arrested for impersonating DSP in Andhra’s Eluru",
+      "Drought report: On southwest monsoon, drought in  Karnataka and Andhra Pradesh",
+      "Low pressure over Bay of Bengal may bring rain to Andhra Pradesh from October 15",
+      "Andhra Pradesh RTI Commission earns national recognition for speedy case disposal",
       "4 of family charred to death as EV catches fire after crash in Andhra: Police"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 4,
     "headlines": [
-      "Suspected IED explodes in J&amp;K's Poonch; security heightened",
-      "4 Pakistani Terrorists Killed In PoK Blast During Infiltration Attempt",
-      "Casualties feared in explosion near LoC in Poonch",
-      "4 suspected infiltrators killed in landmine blast along LoC in J&K's Poonch"
+      "SC refuses to stay graft FIR linked to Punjab CMO but restrains CBI from coercive action",
+      "Pak Handlers Behind Gang That Attacked Punjab Cop, Accused Shot While Escaping",
+      "Corruption case: SC directs no coercive action be taken against people linked to Punjab govt",
+      "SC shields Mann government from ED, CBI's coercive actions in graft case but probe to continue"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
-    "headlines": [
-      "Results of Telangana Assistant Public Prosecutors recruitment written exam declared, certificate verification on October 17",
-      "Telangana man arrested for impersonating DSP in Andhra’s Eluru",
-      "Telangana to procure 5,800 MW renewable energy to meet high demand",
-      "Hyderabad man killed in missile attack on airport in Saudi Arabia's Riyadh while on Umrah trip with family"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "Booth Level Officers To Revisit Homes Of Voters Excluded During Bengal SIR",
-      "Kolkata Cops Summon Abhishek Banerjee On Wednesday In Billboard Case",
-      "Billboard with Goddess Durga beside pot of biryani sparks row in Hooghly"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 3,
-    "headlines": [
-      "CM Dhami performs Ganga Aarti at Haridwar to mark PM’s 25 years in public service",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Supreme Court directs UGC to issue public advisories on fake institutions after Etah medical college case",
-      "Man arrested over azan above noise limit in UP",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "RJ",
@@ -263,67 +199,46 @@
       "Ex-BJP MLA killed by villagers over mining dispute in Rajasthan's Bharatpur",
       "Rajasthan pollution board orders closure of Carlsberg’s manufacturing facility ahead of IPO"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
     "headlines": [
-      "Detained In Assam, 12 Bangladeshis Claim They Were Promised Work In India",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "CM Dhami performs Ganga Aarti at Haridwar to mark PM’s 25 years in public service",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "SK",
-    "Lat": 27.533,
-    "Long": 88.5122,
-    "State": "Sikkim",
-    "news_count": 2,
-    "headlines": [
-      "Arlekar new full-time Governor of T.N., Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
-      "RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "On Run For 3 Years, Madhya Pradesh Mass Shooting Accused Caught In Gurugram",
-      "SC shields Mann government from ED, CBI's coercive actions in graft case but probe to continue"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 2,
-    "headlines": [
-      "IIIT Ranchi suicide: Students continue protest; seek director’s resignation",
-      "Shikhar Mohan, another boy from Ranchi, who is making himself count"
-    ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "UT",
     "Lat": 30.0668,
     "Long": 79.0193,
     "State": "Uttarakhand",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
       "Arlekar new full-time Governor of T.N., Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
-      "CM Dhami performs Ganga Aarti at Haridwar to mark PM’s 25 years in public service"
+      "CM Dhami performs Ganga Aarti at Haridwar to mark PM’s 25 years in public service",
+      "Rajendra Arlekar moves to Tamil Nadu, Om Prakash Mathur appointed Keralam Governor"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Supreme Court directs UGC to issue public advisories on fake institutions after Etah medical college case",
+      "Man arrested over azan above noise limit in UP",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "LA",
@@ -335,19 +250,79 @@
       "Ladakh records 4.6 lakh tourist arrivals in nine months, up 37% from 2025",
       "Ajay Devgn begins shooting for Chauhaan in Kargil; returns to Ladakh 23 years after LOC: Kargil"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 2,
     "headlines": [
-      "On Run For 3 Years, Madhya Pradesh Mass Shooting Accused Caught In Gurugram",
-      "Abhishek Sharma's bat, three fours! Prince Yadav reveals secret behind Indore cameo"
+      "Enforcement Directorate Searches 8 Locations In Kolkata In Laundering Case",
+      "West Bengal bypolls proved that BJP does not draw support from just one community: CM Suvendu"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 2,
+    "headlines": [
+      "Odisha student polls: BJD, Congress accuse BJP government of manipulations",
+      "Rajendra Arlekar moves to Tamil Nadu, Om Prakash Mathur appointed Keralam Governor"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 2,
+    "headlines": [
+      "IIIT Ranchi suicide: Students continue protest; seek director’s resignation",
+      "Shikhar Mohan, another boy from Ranchi, who is making himself count"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "Heavy Rain Triggers Waterlogging In Gurugram, Faridabad, Traffic Disrupted",
+      "SC shields Mann government from ED, CBI's coercive actions in graft case but probe to continue"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "SIR needed every five years to check influx: Assam CM",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "SK",
+    "Lat": 27.533,
+    "Long": 88.5122,
+    "State": "Sikkim",
+    "news_count": 2,
+    "headlines": [
+      "Arlekar new full-time Governor of T.N., Sudha Yadav to take charge in Karnataka in new gubernatorial appointments",
+      "RV Arlekar named Tamil Nadu governor, Kerala gets Om Prakash Mathur as President Murmu makes fresh appointments"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "MN",
@@ -359,7 +334,19 @@
       "Naga group seeks return of man's severed head after fresh Manipur violence, issues 48-hr ultimatum",
       "Manipur hill districts remain tense after Kamjong clashes, bodies of victims handed to kin"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 2,
+    "headlines": [
+      "Results of Telangana Assistant Public Prosecutors recruitment written exam declared, certificate verification on October 17",
+      "Hyderabad man killed in missile attack on airport in Saudi Arabia's Riyadh while on Umrah trip with family"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "HP",
@@ -370,7 +357,7 @@
     "headlines": [
       "Tyeb Mehta’s 2002 painting sold for a record  ₹69.1 crore at auction"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "BR",
@@ -381,18 +368,51 @@
     "headlines": [
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 1,
     "headlines": [
-      "Odisha student polls: BJD, Congress accuse BJP government of manipulations"
+      "Global Market Today: Asian Markets slide as chip stocks tumble; investors eye US earnings, CPI"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "PY",
+    "Lat": 11.9416,
+    "Long": 79.8083,
+    "State": "Puducherry",
+    "news_count": 1,
+    "headlines": [
+      "Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Abhishek Sharma's bat, three fours! Prince Yadav reveals secret behind Indore cameo"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 1,
+    "headlines": [
+      "4 suspected infiltrators killed in landmine blast along LoC in J&K's Poonch"
+    ],
+    "last_updated": "2026-10-13 06:32:59 AM"
   },
   {
     "Code": "TR",
@@ -403,6 +423,6 @@
     "headlines": [
       "Tripura: Two held for attacking on-duty hospital staff members in Agartala"
     ],
-    "last_updated": "2026-10-12 11:55:06 PM"
+    "last_updated": "2026-10-13 06:32:59 AM"
   }
 ]
