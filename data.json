@@ -4,20 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 50,
+    "news_count": 52,
     "headlines": [
+      "Jeff Bezos's Spaceport: Ranch deal built Blue Origin base; space tourism costs stay high",
+      "West Bengal BJP must get rid of its 'garbage': RSS magazine",
+      "Australian homeowner wins A$6,253.50 after neighbour’s bamboo blocked sewer",
       "Hope's ton, Paul's five-for sink India; West Indies level series in Hyderabad",
       "Shai Hope scripts history, surpasses Chris Gayle in major T20I milestone for West Indies",
       "'Why are you ruining nation?' Dipke heckled, called 'CIA agent' at Delhi airport",
       "India's WPI inflation surges to 11.39% in September on higher food, fuel prices",
       "After High Court Rap, Central Agency Probes Alleged Illegal Mining In Punjab's Hoshiarpur",
-      "In Numbers: Shortfall In Oil Stocks And Saudi's Critical Supply Role",
       "Petitions in Supreme Court allege police excesses during Delhi CEC protests",
       "Delhi HC seeks FSSAI’s stand in PIL case against non-dairy, analogue paneer",
       "Anti-CEC protest highlights: Anti-SIR protests rock Delhi for the fifth day, hundreds detained",
       "Delhi journalist who accused ACP of sexual harassment slapped with SC/ST Act over ‘casteist remarks’",
       "Questions over publicly unavailable prohibitory orders amid Delhi protest detentions",
-      "People’s vote and voice cannot be taken away easily: Prabir Purkayastha",
       "Delhi Half Marathon on Oct 18 to have ‘minor refinements’ as Open 10K route changed, metro to start at 3.30 am",
       "‘She takes better selfies’: Shashi Tharoor praises activist Neha Bora after INDIA bloc’s Delhi march",
       "Delhi ACP Vivek Bhagat, accused of sexual harassment by journalist, claims she made casteist remarks",
@@ -51,13 +52,14 @@
       "Vaibhav Sooryavanshi drops two-word message ahead of India vs West Indies 4th T20I",
       "India's tour of NZ: Prasidh Krishna, Harshit Rana's fitness delays team selection",
       "WTC table: SA crash out of top two after Durban defeat; Where are India?",
+      "Matthew spent two days in a West Texas desert reading 20 years of bad reviews",
       "Vidya on being labelled a 'jinx' in South cinema: 'I was replaced even before..'",
       "Vijay Deverakonda vows to make a comeback with ‘Ranabaali’",
       "Guru Randhawa announces The Sirra Era Live In Concert in Delhi on December 12; details inside",
       "Ronit Roy leases Andheri west office space for Rs 1.39 crores over five years",
       "Prasanna Bisht starrer Bokshi release postponed to December 4 after CBFC review over witchcraft and gruesome violence"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "MH",
@@ -66,7 +68,7 @@
     "State": "Maharashtra",
     "news_count": 18,
     "headlines": [
-      "Man Kills Lover, Burns Body With Room Heater. She Asked Him For Marriage",
+      "Man Kills Lover, Burns Body With Room Heater Over Marriage Demand",
       "Marco Rubio to skip Delhi, visit Mumbai and Jamnagar next week",
       "Delhi HC seeks FSSAI’s stand in PIL case against non-dairy, analogue paneer",
       "Centre sets up panel to study problems of sugarcane farmers",
@@ -85,24 +87,23 @@
       "Nana Patekar’s funeral to be held with full state honours, confirms Maharashtra CM Devendra Fadnavis",
       "Shraddha Kapoor, Shakti Kapoor lease Mumbai apartment for Rs 2.5 lakhs monthly rent: Report"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "TVK to join INDIA bloc's anti-CEC protest in Chennai as Congress-DMK rift deepens",
       "Northeast monsoon to set in over Tamil Nadu on October 15, bring widespread rain till October 20: Regional Meteorological Centre",
-      "Madras High Court adjourns Pallikaranai interim zone of influence case to November 11",
       "Madras HC asks Tamil Nadu police why RSS annual route march permission is denied every year",
       "‘What is your fear?': Madras HC pulls up Tamil Nadu govt over denying RSS march",
       "People in Tamil Nadu face the highest consumer inflation in September",
       "JLR India bullish on higher growth, driven by rising consumer aspirations, electrification"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "GJ",
@@ -118,23 +119,7 @@
       "Ranji: Bengal crush Delhi by 9 wickets; Desai spins Gujarat to bonus-point win",
       "EXCLUSIVE: Shah Rukh Khan's birthday to witness a KING-sized BLAST; Siddharth Anand gears up to launch EXPLOSIVE teaser on November 2"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "Kerala Boy Dies By Suicide After Police 'Torture', Child Rights Body Takes Note",
-      "Cardiology dept. in Kozhikode MCH in need of critical care",
-      "Aluva DySP Baiju Paulose to investigate Nedumbassery car accident case",
-      "Kerala HC denies temporary stay on toll collection at Nattika Fee Plaza",
-      "People’s vote and voice cannot be taken away easily: Prabir Purkayastha",
-      "Keralam: Seven held for suspected mob lynching of man in Palakkad"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "UP",
@@ -150,37 +135,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 5,
-    "headlines": [
-      "Hope's ton, Paul's five-for sink India; West Indies level series in Hyderabad",
-      "TNPDCL will incur additional cost of ₹5 crore to ₹7 crore per day for purchase of gas power: Nirmal Kumar",
-      "Prime accused in major inter-State investment fraud case arrested in Adilabad",
-      "IPL Trade: T Natarajan returns to SRH for Rs 5 crore; Zeeshan Ansari moves to DC",
-      "Vaibhav Sooryavanshi drops two-word message ahead of India vs West Indies 4th T20I"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 5,
-    "headlines": [
-      "Delhi-bound Air India flight issues ‘squawk’ hijack alert, diverted to Jaipur",
-      "No 'personal animosity' with Gehlot, have to work unitedly to defeat BJP in Rajasthan: Pilot",
-      "'Were told can't land in Delhi due to security reasons': Frankfurt-Delhi Air India passengers recall hijacking scare",
-      "Rajasthan man runs over son, daughter-in-law with SUV for opposing his sarpanch poll bid: Cops",
-      "Frankfurt-Delhi Air India flight diverted to Jaipur after hijacking alert, probe on"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "KA",
@@ -195,7 +150,52 @@
       "Farmers' protest at Karnataka toll plaza disrupts NH-48 traffic, Maharashtra Police suggest alternative routes",
       "Sonu Nigam’s October 24 Bengaluru concert in trouble as KRV warns of statewide protests"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 5,
+    "headlines": [
+      "Delhi-bound Air India flight issues ‘squawk’ hijack alert, diverted to Jaipur",
+      "No 'personal animosity' with Gehlot, have to work unitedly to defeat BJP in Rajasthan: Pilot",
+      "'Were told can't land in Delhi due to security reasons': Frankfurt-Delhi Air India passengers recall hijacking scare",
+      "Rajasthan man runs over son, daughter-in-law with SUV for opposing his sarpanch poll bid: Cops",
+      "Frankfurt-Delhi Air India flight diverted to Jaipur after hijacking alert, probe on"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 5,
+    "headlines": [
+      "Cross-Border Racket Busted, Woman Among 2 Arrested With 8 kg Heroin In Punjab",
+      "'No One Will Be Spared': Bhagwant Mann On Punjab Anti-Drug Activist's Murder",
+      "After High Court Rap, Central Agency Probes Alleged Illegal Mining In Punjab's Hoshiarpur",
+      "Medical store owner accused of killing Punjab anti-drug activist Jhota arrested in Rajasthan: Police",
+      "Asian Champions Trophy brings international hockey back to Punjab after long gap"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
+    "headlines": [
+      "Hope's ton, Paul's five-for sink India; West Indies level series in Hyderabad",
+      "TNPDCL will incur additional cost of ₹5 crore to ₹7 crore per day for purchase of gas power: Nirmal Kumar",
+      "Prime accused in major inter-State investment fraud case arrested in Adilabad",
+      "IPL Trade: T Natarajan returns to SRH for Rs 5 crore; Zeeshan Ansari moves to DC",
+      "Vaibhav Sooryavanshi drops two-word message ahead of India vs West Indies 4th T20I"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "AP",
@@ -209,34 +209,34 @@
       "ECI extends Andhra Pradesh SIR deadline to October 30, final voter list delayed",
       "India's tour of NZ: Prasidh Krishna, Harshit Rana's fitness delays team selection"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 4,
     "headlines": [
-      "'No One Will Be Spared': Bhagwant Mann On Punjab Anti-Drug Activist's Murder",
-      "After High Court Rap, Central Agency Probes Alleged Illegal Mining In Punjab's Hoshiarpur",
-      "Medical store owner accused of killing Punjab anti-drug activist Jhota arrested in Rajasthan: Police",
-      "Asian Champions Trophy brings international hockey back to Punjab after long gap"
+      "Cardiology dept. in Kozhikode MCH in need of critical care",
+      "Aluva DySP Baiju Paulose to investigate Nedumbassery car accident case",
+      "Kerala HC denies temporary stay on toll collection at Nattika Fee Plaza",
+      "Keralam: Seven held for suspected mob lynching of man in Palakkad"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 3,
     "headlines": [
-      "‘No resolution without Tibet’: Tibetan parl calls China's Ladakh claims 'baseless'",
-      "PM Modi to inaugurate Ladakh projects worth  ₹3,350 crore tomorrow, Leh airport terminal among them",
-      "Ajay Devgn begins shooting for Chauhaan in Kargil; returns to Ladakh 23 years after LOC: Kargil"
+      "West Bengal BJP must get rid of its 'garbage': RSS magazine",
+      "West Bengal offers ₹5,000 and 50 kg rice to families hit by tea garden closures",
+      "NLC to set up BESS projects at multiple locations in West Bengal"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "AS",
@@ -249,7 +249,20 @@
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
       "Adivi Sesh writes to Assam government over reported resort development near Kaziranga National Park"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "‘No resolution without Tibet’: Tibetan parl calls China's Ladakh claims 'baseless'",
+      "PM Modi to inaugurate Ladakh projects worth  ₹3,350 crore tomorrow, Leh airport terminal among them",
+      "Ajay Devgn begins shooting for Chauhaan in Kargil; returns to Ladakh 23 years after LOC: Kargil"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "CT",
@@ -262,7 +275,7 @@
       "Chhattisgarh: CRPF sub-inspector dies by suicide at camp in Bastar's Bijapur",
       "CRPF sub-inspector dies by suicide in Chhattisgarh's Bijapur"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "BR",
@@ -274,31 +287,7 @@
       "Bihar boat capsize: Raghopur death toll rises to 13; state administration launches probe into incident",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
-    "headlines": [
-      "Nana Patekar’s autopsy CONFIRMS heart attack caused by blood clot in left main coronary artery: Report",
-      "Nana Patekar death: Goa Police register “unnatural death” case, to begin further enquiry"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "West Bengal offers ₹5,000 and 50 kg rice to families hit by tea garden closures",
-      "NLC to set up BESS projects at multiple locations in West Bengal"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "JH",
@@ -310,7 +299,19 @@
       "IIIT Ranchi director sent on leave amid stir after student's suicide",
       "Jharkhand man arrested for allegedly killing two sisters in ritual to ‘cure’ himself"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 2,
+    "headlines": [
+      "Nana Patekar’s autopsy CONFIRMS heart attack caused by blood clot in left main coronary artery: Report",
+      "Nana Patekar death: Goa Police register “unnatural death” case, to begin further enquiry"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "SK",
@@ -322,19 +323,7 @@
       "Rahul, Priyanka Gandhi meet murdered Ankita Bhandari’s parents as they protest Sikkim Governor appointment",
       "Rahul, Priyanka join Ankita Bhandari's family's protest against ‘VIP’ Sikkim governor's appointment"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
-    "headlines": [
-      "Congress MP's Supporters March In Manipur Over Sexual Harassment At JNU",
-      "Missing head, a 48-hour deadline: Manipur races to avert fresh Kuki-Naga tension"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "HP",
@@ -345,7 +334,7 @@
     "headlines": [
       "Meerut ‘blue drum’ murder case: Court sentences victim’s wife, her partner to death"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "OD",
@@ -356,18 +345,7 @@
     "headlines": [
       "'Shocked': Odisha governor's 'will work for BJP' remark sparks political row"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
-    ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
   },
   {
     "Code": "MZ",
@@ -378,6 +356,28 @@
     "headlines": [
       "Mizoram to build tourism sector on culture, adventure, nature: CM Lalduhoma"
     ],
-    "last_updated": "2026-10-15 01:23:19 AM"
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 1,
+    "headlines": [
+      "Missing head, a 48-hour deadline: Manipur races to avert fresh Kuki-Naga tension"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
+    ],
+    "last_updated": "2026-10-15 04:23:43 AM"
   }
 ]
