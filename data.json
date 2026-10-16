@@ -4,13 +4,21 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 36,
+    "news_count": 35,
     "headlines": [
+      "6,000 cops, 2 notices, Dipke among 150 detained: How unrest unfolded in central Delhi",
+      "'Once again, an abduction': Aides claim Neha Bora taken to unknown location by cops",
       "'I am alone, broke no law': Dipke argues with Delhi cops as they detain him - watch",
+      "Israeli Settlers In West Bank Burn Trees, Throw Rocks During Olive Harvest",
+      "Delhi Metro Restrictions Highest Since 2017 Amid Rising Protests, Data Shows",
       "Abhijeet Dipke Detained Before March, Neha Bora Picked Up Near Jantar Mantar",
       "Food Body Issues Notice To Radisson Blu Delhi Operator Over Hygiene Lapses",
-      "CJP Tiranga protest LIVE | Abhijeet Dipke, Neha Bohra detained on way to 'Lehra Do Tiranga' protest",
-      "19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals",
+      "Anti-CEC protest: Farmers to march to Delhi on October 23",
+      "Central drought assessment team visits KRS, gathers information on rainfall deficit in Mandya",
+      "Supreme Court issues notice on plea to transfer Twisha Sharma death case to Delhi",
+      "'Bhaag Neha Bhaag, Jantar Mantar Chalo': Delhi protests inspire online games where players take on roles of protesters, cops",
+      "‘I'm alone, how is this a violation': Dipke asks Delhi Police before detention on way to Connaught Place",
+      "HT Evening Brief October 16: Abhijeet Dipke detained ahead of Delhi march; police deny claims of Dhruv Rathee's arrest",
       "'Food handlers with long nails, fungus on veggies': Top Delhi hotel operator gets FSSAI notice",
       "Abhijeet Dipke, Neha Bora detained by Delhi Police amid CJP's protest call",
       "Delhi HC allows activist Natasha Narwal to travel to UK for academic work",
@@ -24,83 +32,125 @@
       "From insects to peacocks: Seven children's theme parks to open in Delhi over next three months",
       "SC nudges Bengal to ensure Mahua Moitra can visit constituency without hurdles",
       "Defence company may face ban over arrest of CEO for bribery",
-      "CJP protest LIVE: Neha Bora, Dipke detained; drones deployed to monitor crowd near Connaught Place",
+      "CJP protest LIVE: 150 detained in Delhi; Stalin seeks release of Abhijeet Dipke, Neha Bora",
       "Over 6,000 cops on duty, barricades in place: Delhi gears up for CJP march",
-      "Dead fish in Yamuna near Burari raise alarm over Delhi river’s water quality",
-      "Woman can face gang rape charge without personally committing the act, says Delhi HC",
-      "Delhi class 12 student stabbed to death outside school over uniform shoes; 5 held",
-      "Central Park in Delhi's Connaught Place shut for two days as court refuses to block Abhijeet Dipke's protest",
-      "South Korea's KOSPI triggers circuit breaker in tech-led selloff",
-      "Sharp sell-off in tech stocks drags Asian stocks lower as markets in South Korea, Japan sink",
+      "Delhi to ban BS-IV and older commercial goods vehicles from November 1",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Para-shuttlers challenge Para Asian Games non-selection in Delhi HC",
-      "‘Batting till No.8 is not bravery’: Ex-India batter slams Iyer’s team selection",
-      "‘Too ambitious’: Ex-India cricketer flags concerns over Gambhir’s India game plan",
-      "‘Series in India brings nothing to Windies’: Cricket’s revenue model sparks debate",
-      "Kriti personality rights plea: Delhi HC seeks detailed case law",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores",
       "Guru Randhawa announces The Sirra Era Live In Concert in Delhi on December 12; details inside"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 14,
     "headlines": [
       "MEA confirms Jaishankar-Rubio talks in Mumbai after Rahul’s jibe over India visit",
-      "Jaishankar, Rubio to hold meeting in Mumbai on October 20: MEA",
-      "Rahul questions govt over Rubio’s proposed meeting with Indian officials in Mumbai",
+      "Jaishankar to meet Rubio, UAE Foreign Minister, in back-to-back separate visits in Mumbai next week",
+      "Govt defends Jaishankar-Rubio meet in Mumbai amid Oppn criticism: 'Practice for last decade or so'",
       "‘Marco Rubio summoned his employee’: Rahul Gandhi’s dig at Modi govt over ‘expected’ meeting in Mumbai",
       "Mumbai's Siddhivinayak Temple gets nod to buy 20 adjoining units for  ₹94 crore",
       "SC refuses to list Maha SIR and Rahul Gandhi’s plea together",
-      "‘Dictatorship’ vs ‘Aasteen ka Saanp’: Mixed political reactions on Imran Khan being asked to leave India",
+      "India’s latest FDI trends: Here’s what data reveals",
+      "Gadchiroli stands out for exemplary work in water conservation under PMDDKY scheme",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Honey Singh appears before Maha Cyber Cell in concert remarks case; records statement for TWO HOURS",
       "Honey Singh’s request to appear later before Maharashtra Cyber REJECTED",
-      "Kareena and Saif share 14-year love journey",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores",
       "Akshay Kumar’s Samuk wraps UK schedule, heads to Mumbai for shoot",
       "FIR register against Imran Khan and others over August Kranti Maidan protest: REPORT"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 9,
+    "headlines": [
+      "Dravid slams 151 as Karnataka chase down 358; Sehwag scores 173 in losing cause",
+      "NY firm ElevenLabs partners with Karnataka govt. to boost Voice AI adoption",
+      "Karnataka High Court dismisses petition challenging appointment of administrator to Kannada Sahitya Parishat",
+      "Karnataka seeks Centre’s intervention to resume new LPG connections, with 36,000 applications pending",
+      "Central drought assessment team visits KRS, gathers information on rainfall deficit in Mandya",
+      "Rahul and Priyanka opposing SIR to avert internal dissent, says Basavaraj Bommai",
+      "Karnataka HC recalls order in land grab case linked to Kharge family, fresh hearing on Oct 30",
+      "K’taka cabinet rejects mercy pleas of convicts in 2003 techie murder",
+      "India’s latest FDI trends: Here’s what data reveals"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Dravid slams 151 as Karnataka chase down 358; Sehwag scores 173 in losing cause",
+      "56 Ayushman Arogya Mandirs launched in Kurnool and Anantapur",
+      "BJP to hold ‘Seva Jyothi Yatra’ across Andhra Pradesh on October 7",
+      "Official apathy and civic indifference blamed for garbage-filled drains in Tirupati",
+      "Andhra Pradesh govt. steps up legal battle for 34 per cent BC quota in local bodies",
+      "Krishna Byre Gowda sets October 31 deadline for replacement of streetlights",
+      "Aurobindo Pharma Foundation lays ₹60 lakh new CC road in Srikakulam"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 7,
+    "headlines": [
+      "Shubman Gill returns to Ranji Trophy, set to play Punjab's next match",
+      "3 Coaches Of Goods Train Carrying Cars Derail In Punjab's Bathinda",
+      "Analysis: Why Akali Dal Still Has Much To Answer On Punjab Drugs Crisis",
+      "After Drug Activist's Killing, Centre Sends 3 Letters To Punjab Government",
+      "Disproportionate Assets case: High Court issues notice to Punjab Chief Secretary",
+      "Centre seeks Punjab govt report on activist Jhota’s murder, measures to prevent drug trafficking",
+      "How a Ludhiana teenager is bringing pollinators and inclusive green spaces together"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
-      "Kerala Lost Rs 13,104 Crore Through Flagship Funding Model: Report",
-      "Kerala Man Bludgeons 18-Year-Old Lover With Stone, Sets Body On Fire",
-      "State to unveil ‘Brand Wayanad’ to position Wayanad as a safe, sustainable global destination",
-      "Wayanad township: Second-phase house construction to be completed by October 31",
-      "Inadequate hostel facilities continue to haunt medical college students in Kozhikode",
-      "Audit by fire and rescue dept. flags safety gaps in Ernakulam civil station complex",
+      "QR code fraud: police register case against six toll plaza employees in Kozhikode",
+      "Only Kerala University land being surveyed, not of AKG Centre: Revenue Minister",
+      "Steps to be taken to help people quickly contact Indian embassies",
+      "Union Minister Suresh Gopi, Keralam Health Minister Muraleedharan in verbal duel over AIIMS",
+      "Keralam Health Minister K. Muraleedharan pushes for disease prevention through vaccination",
       "Palakkad mob lynching: Chennithala condemns killing, 7 arrested"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 5,
     "headlines": [
-      "Mayawati reappoints Akash Anand as national convener in BSP",
-      "Rahul questions govt over Rubio’s proposed meeting with Indian officials in Mumbai",
-      "Four workers killed in explosion at chemical manufacturing unit in Gujarat’s Gandhinagar",
-      "India, Canada push to conclude trade pact as Jaishankar meets Anita Anand",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "EXCLUSIVE: Shah Rukh Khan's birthday to witness a KING-sized BLAST; Siddharth Anand gears up to launch EXPLOSIVE teaser on November 2"
+      "Dehradun to host the Times of India Sports Awards on December 6",
+      "Dushyant Gautam’s gubernatorial role puts Uttarakhand BJP in a bind amid Ankita Bhandari murder row",
+      "Uttarakhand minister accuses husband of conspiring to murder her, bigamy",
+      "Dehradun to host TOISA 2026 on December 6",
+      "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "TG",
@@ -109,28 +159,42 @@
     "State": "Telangana",
     "news_count": 5,
     "headlines": [
-      "Telangana government faces citizens’ ire over Hyderabad’s KBR flyover fiasco",
-      "Mining poses no threat to Ramappa Temple: Singareni",
-      "Telangana CM Revanth seeks film stars’ help to prepare people for El Nino challenges",
+      "Hyderabad court sentences two men to four days imprisonment for public nuisance",
+      "FSSAI licences of nine restaurants in Telangana’s Medak, Kamareddy and Nizamabad suspended over food safety violations",
+      "NHM employees’ strike in Telangana continues as 17,541 staff demand regularisation, equal pay",
       "BLOs to conduct voter reverification for over 47 lakh electors excluded in Delhi draft roll",
-      "KTR alleges ₹10,000-crore irregularities in Singareni, demands CBI probe"
+      "Sobhita Dhulipala teases new project, says she is ‘cooking something’"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
     "news_count": 5,
     "headlines": [
-      "Uncertainty over second round of PGCET counselling makes aspirants anxious",
-      "Here are the big stories from Karnataka today",
-      "Bengaluru Police Order 2021 ‘unconstitutional’, must be revoked: Vinay Sreenivasa | Decode Karnataka",
-      "K’taka cabinet rejects mercy pleas of convicts in 2003 techie murder",
-      "Karnataka Cabinet rejects mercy pleas of fiancé, her partner in 2003 Bengaluru techie murder case"
+      "Tamil Nadu Cops To Allow RSS Centenary Rallies In 128 Locations",
+      "Madras HC allows RSS route marches on Oct 25, Nov 1; slams TN police over repeated rejections",
+      "‘TVK against EC, SIR': VCK leader claims Vijay's party to join INDIA bloc protest ‘at national level’ soon",
+      "Breaking down the share of social groups among religions | Number Theory",
+      "India’s latest FDI trends: Here’s what data reveals"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 4,
+    "headlines": [
+      "Four workers killed in explosion at chemical manufacturing unit in Gujarat’s Gandhinagar",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "EXCLUSIVE: Shah Rukh Khan's birthday to witness a KING-sized BLAST; Siddharth Anand gears up to launch EXPLOSIVE teaser on November 2"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "AS",
@@ -139,12 +203,12 @@
     "State": "Assam",
     "news_count": 4,
     "headlines": [
-      "Guwahati gets northeast’s first visa application centre, will ease travel hassles, says CM Himanta",
-      "Assam University assistant professor booked for molesting woman researcher in Bengaluru: Police",
+      "Zubeen Garg death case: Gauhati HC grants bail to suspended DSP Sandipon Garg",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
+      "Zubeen Garg death case: Gauhati High Court grants bail to suspended DSP Sandipon Garg",
       "Adivi Sesh writes to Assam government over reported resort development near Kaziranga National Park"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "UP",
@@ -158,47 +222,7 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 4,
-    "headlines": [
-      "19,000 West Bengal voters to miss bypolls as appeals remain pending in tribunals",
-      "West Bengal minister accuses CJP of disrupting Navratri, Durga Puja festivities with Tiranga march",
-      "SC nudges Bengal to ensure Mahua Moitra can visit constituency without hurdles",
-      "Kolkata court directs AITC MP Mahua Moitra to delete her “vote chor” X-posts against WB chief secretary"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 3,
-    "headlines": [
-      "Dushyant Gautam’s gubernatorial role puts Uttarakhand BJP in a bind amid Ankita Bhandari murder row",
-      "Uttarakhand minister accuses husband of conspiring to murder her, bigamy",
-      "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "BJP Rajasthan chief Madan Rathore says he will ‘stand with Pakistan’ in war with US, issues clarification later",
-      "'Even Minister's son doesn't trust BJP': Rajasthan LoP on leader's son fighting independently",
-      "Air India Frankfurt-Delhi flight resumes journey after checks"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "MP",
@@ -211,81 +235,81 @@
       "Herbicide paraquat dichloride, used for quicker ripening of green gram, banned in India; MP issues orders",
       "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Quantum computing to create more jobs: Visakhapatnam MP Sribharat",
-      "IMF backs India's updated GDP methodology, calls revision 'welcome development'",
-      "Andhra govt, AM/NS India sign LoI for skill development centre in Anakapalli"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 3,
-    "headlines": [
-      "‘TVK against EC, SIR': VCK leader claims Vijay's party to join INDIA bloc protest ‘at national level’ soon",
-      "Breaking down the share of social groups among religions | Number Theory",
-      "Karur Vysya Bank shares rally 6% after Q2 profit jumps 37% YoY"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Bihar: Viral video shows three women, man consuming liquor inside Darbhanga hospital; police probe underway",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "Thieves break into Ambala government school twice, steal gas cylinders, food supplies, utensils",
-      "Sonipat’s golden harvest: How Haryana city became India’s medal factory"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "MN",
     "Lat": 24.6637,
     "Long": 93.9063,
     "State": "Manipur",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
-      "Manipur: Kuki body demands probe into killing of woman in Kamjong district",
-      "Kuki woman killed, two missing after gunfight breaks out in Manipur’s Kamjong"
+      "Kuki-Naga Clashes Shift Manipur Violence To New Hill Districts",
+      "ECI orders Special Summary Revision of electoral rolls in Manipur",
+      "Manipur: Kuki body demands probe into killing of woman in Kamjong district"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bihar: Viral video shows three women, man consuming liquor inside Darbhanga hospital; police probe underway",
+      "Festive airfares shoot through the roof, with some domestic tickets touching ₹35,000",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 2,
     "headlines": [
-      "Bought Hyundai Eon in 2016 but got no RC or invoice; commission orders Rs 22,500 payout",
-      "How a Ludhiana teenager is bringing pollinators and inclusive green spaces together"
+      "Shubman Gill returns to Ranji Trophy, set to play Punjab's next match",
+      "Chaos at Chhattisgarh garba event as right-wing workers create ruckus over presence of Muslims"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "West Bengal minister accuses CJP of disrupting Navratri, Durga Puja festivities with Tiranga march",
+      "SC nudges Bengal to ensure Mahua Moitra can visit constituency without hurdles"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "Supreme Court grants bail to former Rajasthan Minister in Jal Jeevan Mission case",
+      "BJP Rajasthan chief Madan Rathore says he will ‘stand with Pakistan’ in war with US, issues clarification later"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ladakh talks end without breakthrough; next round in Delhi on October 22",
+      "Ladakh talks with Home Ministry inconclusive, next round scheduled for October 22"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "GA",
@@ -296,29 +320,18 @@
     "headlines": [
       "Nana Patekar’s autopsy CONFIRMS heart attack caused by blood clot in left main coronary artery: Report"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
     "news_count": 1,
     "headlines": [
-      "Indian stocks stare at weak opening as Korea crashes over 7%, Nikkei plunges 4%"
+      "Delhi to ban BS-IV and older commercial goods vehicles from November 1"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "BJP, BJD spar over student union elections in Odisha"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "HP",
@@ -327,9 +340,20 @@
     "State": "Himachal Pradesh",
     "news_count": 1,
     "headlines": [
-      "CJP Tiranga protest LIVE | Abhijeet Dipke, Neha Bohra detained on way to 'Lehra Do Tiranga' protest"
+      "'Waving Tiranga Is No Crime': Opposition Rallies Behind Neha Bora, Abhijeet Dipke"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "ABVP wins 7 universities, BJD’s BCJD secures 4 in Odisha student union polls after 8-year gap"
+    ],
+    "last_updated": "2026-10-16 10:36:52 PM"
   },
   {
     "Code": "JK",
@@ -338,19 +362,8 @@
     "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "Missing J&K Special Police Officer Found Dead Near His Home In Kishtwar"
+      "Kashmir homestay investment hinges on peace, policy support"
     ],
-    "last_updated": "2026-10-16 06:24:08 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "Ladakh talks end without breakthrough; next round in Delhi on October 22"
-    ],
-    "last_updated": "2026-10-16 06:24:08 PM"
+    "last_updated": "2026-10-16 10:36:52 PM"
   }
 ]
