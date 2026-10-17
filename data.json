@@ -4,7 +4,7 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 54,
+    "news_count": 52,
     "headlines": [
       "'Saw my mother die before my own eyes': Eyewitness recalls Kolkata stampede horror",
       "'There's an aura': South Africa call on KG to bring the heat against Australia",
@@ -17,12 +17,10 @@
       "Delhi Traders Warn Protests Could Cause Rs 10,000-Crore Loss By Diwali",
       "Israeli Settlers Attack European Diplomats In West Bank, French Mayor Beaten",
       "Delhi Food Body Finds Lizard At Reliance Retail, Cockroaches At Zepto Store",
-      "Kolkata pandal stampede LIVE | At least 19 dead in stampede at north Kolkata community Durga Puja pandal; PM announces ₹2 lakh ex-gratia",
-      "Loans for SIR hearing, lost wages, but no clarity on voter status for Bengali workers in Bengaluru",
-      "West Bengal has to become self-reliant from being dependent on doles says CM Suvendu Adhikari",
-      "Congress files complaint against BJP councillor R. Sreelekha over alleged derogatory comments against Rahul Gandhi",
-      "AAP Delhi chief files complaint over 'life-threatening' assault by police during protest",
-      "Delhi police accused of beating, assaulting detainees, denying them basic rights",
+      "Kolkata pandal stampede LIVE | At least 19 dead, 25 others injured; CM Adhikari announces ₹25 lakh ex gratia",
+      "Alipore court bars Mahua Moitra from posting defamatory content against West Bengal Chief Secretary",
+      "Fresh talks between MHA, Ladakh groups remain ‘inconclusive’; next round in Delhi on October 22",
+      "Watch: When a man becomes god: The story of Kathivanoor Veeran Theyyam",
       "'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede",
       "All nine Indian seafarers on board chemical tanker YARA J safe in Romania: Embassy",
       "Congress gets Delhi Police nod for Ramlila Maidan rally amid SIR protests",
@@ -61,7 +59,7 @@
       "Guru Randhawa announces The Sirra Era Live In Concert in Delhi on December 12; details inside",
       "South Wales peatlands recorded signs of recovery after restoration work"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "WB",
@@ -70,17 +68,17 @@
     "State": "West Bengal",
     "news_count": 19,
     "headlines": [
+      "Kolkata stampede: How hour-long downpour turned Chorbagan pandal into a death trap",
       "'Saw my mother die before my own eyes': Eyewitness recalls Kolkata stampede horror",
-      "Kolkata stampede: 10 detained, including Durga Puja organisers; 19 dead",
       "19 killed in Kolkata stampede; CM Suvendu announces jobs, Rs 25 lakh for kin",
+      "Kolkata stampede: 12 detained, including pandal organisers; 19 dead",
       "'Thoughts with those who have lost their loved ones': PM Modi on Kolkata stampede",
       "Kolkata pandal stampede: Heavy rush amid rain led to deadly incident - top developments",
       "Darkness, Rush, And An Announcement: What We Know About Kolkata Stampede",
       "Kolkata Durga Puja Stampede: Examining CCTV, Won't Spare Anyone, Says Suvendu Adhikari",
       "'Mother Died Right Before My Eyes': Witnesses Recount Kolkata Durga Puja Pandal Stampede",
-      "Kolkata pandal stampede LIVE | At least 19 dead in stampede at north Kolkata community Durga Puja pandal; PM announces ₹2 lakh ex-gratia",
-      "West Bengal has to become self-reliant from being dependent on doles says CM Suvendu Adhikari",
-      "17 dead after stampede breaks out at Kolkata Durga Puja Pandal",
+      "Kolkata pandal stampede LIVE | At least 19 dead, 25 others injured; CM Adhikari announces ₹25 lakh ex gratia",
+      "Alipore court bars Mahua Moitra from posting defamatory content against West Bengal Chief Secretary",
       "SIT headed by sitting judge to probe Kolkata pandal stampede; CM announces  ₹25 lakh aid, government job",
       "'Extremely distressing': PM Modi mourns Kolkata stampede deaths, assures all possible aid to victims",
       "'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede",
@@ -90,17 +88,18 @@
       "Kolkata Durga Puja pandal stampede: 17 feared dead",
       "Kolkata restaurants ride Durga Puja rush, stay open well past midnight"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 16,
+    "news_count": 17,
     "headlines": [
       "'Not An Ordinary Foreigner': Imran Khan In Challenge To 'Leave India' Notice",
-      "Centre sets up panel to study problems of sugarcane farmers",
+      "Maharashtra SIR: Lists of ‘logical discrepancies’, ‘unmapped persons’ yet to be published",
+      "Actor Imran Khan asked to leave India, days after protesting in Mumbai  against CEC Gyanesh Kumar",
       "Imran Khan challenges ‘leave India’ notice: ‘No reasons disclosed, no chance to respond’",
       "Nana Patekar or Smit Machchhar? Row erupts in Mumbai over naming Vidyavihar bridge",
       "Mumbai shipping manager among 3 sanctioned by EU for Russia trade",
@@ -116,7 +115,7 @@
       "EXCLUSIVE: Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari to join Falguni Pathak for Navratri celebrations in Mumbai",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "GJ",
@@ -125,7 +124,7 @@
     "State": "Gujarat",
     "news_count": 7,
     "headlines": [
-      "‘Enormous potential’ for India-Canada ties amidst global uncertainty: Canadian Foreign Minister",
+      "Jamnagar on Rubio's two-day itinerary: Musk mellows on Reliance, ‘appreciates’ post",
       "Five workers killed, as many injured in blast at chemical unit in Gujarat's Bharuch",
       "1 killed, several injured as DTC bus hits people in Delhi's Anand Parbat",
       "Rubio’s Jamnagar visit may focus on Reliance’s Texas refinery deal, boost Trump’s midterm prospects: Expert",
@@ -133,168 +132,137 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "EXCLUSIVE: Shah Rukh Khan's birthday to witness a KING-sized BLAST; Siddharth Anand gears up to launch EXPLOSIVE teaser on November 2"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 6,
-    "headlines": [
-      "Loans for SIR hearing, lost wages, but no clarity on voter status for Bengali workers in Bengaluru",
-      "Police head constable and daughter die in road accident in Belagavi",
-      "Centre sets up panel to study problems of sugarcane farmers",
-      "Mysuru court sentences man to death for rape and murder of 9-year-old during 2025 Dasara festival",
-      "Karnataka HC recalls order in land grab case linked to Kharge family, fresh hearing on Oct 30",
-      "Sathya Agencies completes acquisition of Bengaluru-based Unilet Appliances"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 6,
-    "headlines": [
-      "'An evening in Paris': Opposition questions 'nature' of Punjab CM Mann's France visit",
-      "Film producer Amardeep Grewal, a relative of Punjab CM Bhagwant Mann's wife, detained at Delhi airport",
-      "Centre seeks Punjab reports on drug-linked killings, suicide",
-      "Centre seeks Punjab govt report on activist Jhota’s murder, measures to prevent drug trafficking",
-      "Punjab & Sind Bank records 40% rise in net profit in Q2",
-      "How a Ludhiana teenager is bringing pollinators and inclusive green spaces together"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 6,
-    "headlines": [
-      "Watch: Congress workers vandalise BJP Ajmer office over Madan Rathore's Pak remark",
-      "Delhi-bound Air India flight issues hijack alert, diverted to Jaipur",
-      "Delhi-bound Air India flight issues ‘squawk’ hijack alert, diverted to Jaipur",
-      "Government doctor among 3 arrested as Rajasthan ANTF seizes 3.764 kg of raw MD",
-      "Rajasthan boy, 9, dies after falling into 1,050-foot-deep borewell in Phalodi: Police",
-      "At least 8 killed, 9 injured as vehicle plunges 20 feet off Delhi-Mumbai Expressway in Rajasthan"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
-      "Work together to win local body polls, Janardhan Reddy tells alliance leaders in Annamayya",
-      "Visakhapatnam Port handles 50 million tonnes of cargo in 196 days in financial year 2026–27",
-      "Northeast Monsoon may trigger wet spell in Andhra Pradesh till October 19",
+      "90,000 devotees throng Vijayawada Kanaka Durga temple on fifth day of Dasara celebrations",
+      "Local body polls: Andhra Pradesh SEC appoints 28 IAS officers as general observers",
+      "APPCB member secretary reviews pollution control measures at pharma units in Srikakulam district",
+      "IMD forecasts heavy rain in coastal and Rayalaseema regions till October 19",
       "North-east monsoon storms into the South Peninsula, heavy rain in the offing",
       "Naga Vamsi says Nelson Dilipkumar agreed to make a film for him"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
     "news_count": 5,
     "headlines": [
-      "Weeks after judicial panel held him responsible for Indore water tragedy, IAS officer made Collector",
-      "Indore BJP official booked under POCSO for misbehaving with girl at Garba venue",
-      "At least 8 killed, 9 injured as vehicle plunges 20 feet off Delhi-Mumbai Expressway in Rajasthan",
-      "Apex court stays Bhopal trial in Twisha death case",
-      "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
+      "Karnataka HC shocked as staff nurse gets ₹10,000 salary for 16 years despite court orders",
+      "Why claim for more even after recovering ₹14,131 cr. vs. ₹6,203-cr. Kingfisher Airlines debt? Karnataka HC asks bank consortium",
+      "Mysuru court sentences man to death for rape and murder of 9-year-old during 2025 Dasara festival",
+      "Karnataka HC recalls order in land grab case linked to Kharge family, fresh hearing on Oct 30",
+      "Sathya Agencies completes acquisition of Bengaluru-based Unilet Appliances"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 5,
-    "headlines": [
-      "Madras HC: Covid ‘destroyed’ marriage, pandemic disputes need separate treatment",
-      "Thirumavalavan says he cautioned Stalin on likelihood of ‘targeted’ voter deletions in Kolathur before T.N. Assembly poll",
-      "CBI arrests SFIO official and two others in alleged ₹1 crore graft case",
-      "Madras HC allows RSS route marches on Oct 25, Nov 1; slams TN police over repeated rejections",
-      "Tamil Nadu north-east monsoon: Will El Niño bring more rain?"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
-    "headlines": [
-      "A search for BLOs during ECI’s special camps",
-      "Telangana govt. giving less than 8 hours power supply with interruptions to farm needs: Harish Rao",
-      "Telangana invites tenders to excavate megalithic Menhirs of Mudumal where ancient stones align with Sun",
-      "Telangana to complete comprehensive land resurvey in 3 phases: Minister"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
-      "Woman social media influencer among 4 arrested with MDMA in Keralam’s Malappuram",
-      "Disproportionate assets’ case: Kerala HC suspends sentence of former DGP Tomin J. Thachankary",
-      "Keralam Assembly: Opposition walks out over removal of fences in Chinnakkanal; Forest Minister says only illegal ones are dismantled",
-      "161 confirmed measles cases, one death reported in Kozhikode"
+      "New research station to be set up in Idukki to ensure productivity in plantation sector",
+      "College union polls: SFI claims victory on 30 campuses in Kozhikode",
+      "Vice-President’s visit: tight security arrangements in place in Kozhikode",
+      "Man gets 47 years’ rigorous imprisonment in POCSO case in Malappuram",
+      "CM cites hurdles in Kannur airport runway expansion plan"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 5,
     "headlines": [
-      "Ex-customs official shot dead in Bihar's Bhojpur district",
-      "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence",
-      "JDU MLA Anant Singh clarifies on ‘9 murders’ remark",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Film producer Amardeep Grewal, a relative of Punjab CM Bhagwant Mann's wife, detained at Delhi airport",
+      "Centre seeks Punjab reports on drug-linked killings, suicide",
+      "Centre seeks Punjab govt report on activist Jhota’s murder, measures to prevent drug trafficking",
+      "Punjab & Sind Bank records 40% rise in net profit in Q2",
+      "How a Ludhiana teenager is bringing pollinators and inclusive green spaces together"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 4,
     "headlines": [
-      "Mayawati demands regularisation of contractual employees working in Uttar Pradesh departments",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Indore BJP official booked under POCSO for misbehaving with girl at Garba venue",
+      "At least 8 killed, 9 injured as vehicle plunges 20 feet off Delhi-Mumbai Expressway in Rajasthan",
+      "Apex court stays Bhopal trial in Twisha death case",
       "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "UT",
     "Lat": 30.0668,
     "Long": 79.0193,
     "State": "Uttarakhand",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Uttarakhand Minister Rekha Arya’s husband accuses her of amassing ₹210 crore in illegal assets",
       "Uttarakhand minister Rekha Arya's husband denies murder plan allegation, accuses her of habitual graft",
       "Rekha Arya’s husband denies allegations, accuses her of corruption",
       "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 4,
+    "headlines": [
+      "70 religious congregations in J&K, Ladakh delivered Friday sermons on common theme: Muttahida Majlis-e-Ulema",
+      "Centre committed to meeting demands of the region,  says Ladakh Chief Secretary",
+      "Fresh talks between MHA, Ladakh groups remain ‘inconclusive’; next round in Delhi on October 22",
+      "Ladakh adds Sankoo as 8th district; five new tehsils announced"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 4,
+    "headlines": [
+      "Madras HC: Covid ‘destroyed’ marriage, pandemic disputes need separate treatment",
+      "Madras High Court sets aside order to take over 7.44 acres of prime land in Chennai from Sri Ramachandra Educational and Health Trust",
+      "Madras HC allows RSS route marches on Oct 25, Nov 1; slams TN police over repeated rejections",
+      "Tamil Nadu north-east monsoon: Will El Niño bring more rain?"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
+    "headlines": [
+      "Government doctor among 3 arrested as Rajasthan ANTF seizes 3.764 kg of raw MD",
+      "Rajasthan boy, 9, dies after falling into 1,050-foot-deep borewell in Phalodi: Police",
+      "At least 8 killed, 9 injured as vehicle plunges 20 feet off Delhi-Mumbai Expressway in Rajasthan"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "AS",
@@ -307,19 +275,33 @@
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
       "Adivi Sesh writes to Assam government over reported resort development near Kaziranga National Park"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
     "headlines": [
-      "‘In recorded history, Ladakh was never a part of China’: Ladakh leaders reject China’s recent statement",
-      "Ladakh adds Sankoo as 8th district; five new tehsils announced"
+      "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence",
+      "JDU MLA Anant Singh clarifies on ‘9 murders’ remark",
+      "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "War of words in Haryana: CM Saini pitches prosperity, Congress alleges rising crime, debt",
+      "Woman murdered at Gurugram home, husband finds body in bathroom with hands tied, mouth taped",
+      "DLF acquires 7.5 acres in Gurugram to expand luxury housing project"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "MN",
@@ -331,52 +313,19 @@
       "Man killed, four injured in suspected militant attack on Kuki village in Manipur",
       "Manipur: Naga village guard sustains bullet injuries in Kamjong near Indo-Myanmar border"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 2,
     "headlines": [
-      "Woman murdered at Gurugram home, husband finds body in bathroom with hands tied, mouth taped",
-      "DLF acquires 7.5 acres in Gurugram to expand luxury housing project"
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
+      "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
-    "headlines": [
-      "Chaos at Chhattisgarh garba event as right-wing workers create ruckus over presence of Muslims"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
-  },
-  {
-    "Code": "PY",
-    "Lat": 11.9416,
-    "Long": 79.8083,
-    "State": "Puducherry",
-    "news_count": 1,
-    "headlines": [
-      "North-east monsoon storms into the South Peninsula, heavy rain in the offing"
-    ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "HP",
@@ -387,7 +336,40 @@
     "headlines": [
       "Abhijeet Dipke, Neha Bora among 150 detained in Delhi; Oppn slams police action amid anti-CEC protests"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "Chaos at Chhattisgarh garba event as right-wing workers create ruckus over presence of Muslims"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "PY",
+    "Lat": 11.9416,
+    "Long": 79.8083,
+    "State": "Puducherry",
+    "news_count": 1,
+    "headlines": [
+      "North-east monsoon storms into the South Peninsula, heavy rain in the offing"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
   },
   {
     "Code": "OD",
@@ -398,6 +380,28 @@
     "headlines": [
       "Odisha engineer detained after late-night chase,  ₹21.89 lakh seized in vigilance raid"
     ],
-    "last_updated": "2026-10-18 03:24:31 AM"
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 1,
+    "headlines": [
+      "70 religious congregations in J&K, Ladakh delivered Friday sermons on common theme: Muttahida Majlis-e-Ulema"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 1,
+    "headlines": [
+      "Telangana to complete comprehensive land resurvey in 3 phases: Minister"
+    ],
+    "last_updated": "2026-10-18 05:10:21 AM"
   }
 ]
