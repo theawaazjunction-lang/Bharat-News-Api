@@ -4,13 +4,18 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 41,
     "headlines": [
+      "AAP's Saurabh Bharadwaj claims Delhi Police harassing Bengali community in CR Park",
       "After CJP, New Group Formed In Delhi Names Itself 'Lal Hit Janata Party'",
       "'Pandal Is Collapsing': On Camera, Kolkata Puja Crowd Scrambles, Then An Announcement",
-      "Hubballi Chalo padayatra by sugarcane farmers likely to temporarily halt today",
-      "West zone districts witness large-scale movement of butterflies; roadkill ends migration of hundreds midway",
-      "Shillong locality honours first West Bengal CM as one of Meghalaya’s trailblazers",
+      "Woman undertrial caught while trying to smuggle ₹11,500 cash into Parappana Agrahara Central Prison",
+      "85 books by inmates released at Cuddalore Central Prison",
+      "Man held for smuggling ganja on government bus at Katpadi",
+      "Active monsoon likely to bring heavy rain in many districts",
+      "Sammakka Sarakka Central Tribal University Vice Chancellor urges students to embrace emerging technologies",
+      "CRPF chief lauds woman personnel for showing ‘resilience’ after being slapped during CJP protest",
+      "'Dirty tricks to prolong illegal arrest': Dipke as CJP awaits Ashutosh Ranka and Saurav Das' release",
       "CJP alleges Ashutosh, Saurav not being released; Delhi Police file FIR over threats to magistrate",
       "BJP leader's role in puja committee under scanner amid Kolkata Chorbagan pandal stampede that killed 19",
       "From Delhi to Dehradun, Congress intensifies protests seeking fair probe in Ankita Bhandari murder case",
@@ -19,14 +24,12 @@
       "Delhi court convicts man for shooting at wife outside hospital where she worked as security guard",
       "CARA referral doesn’t give enforceable right to adopt child if legally ineligible: Delhi HC",
       "Delhi Police lodge 3 FIRs over CJP's Tiranga march; Abhijeet Dipke, Neha Bora released",
-      "Delhi protest LIVE: CJP's Ashutosh Ranka, Saurav Das yet not released; police say magistrate threatened",
+      "Delhi protest LIVE: CJP's Ashutosh Ranka, Saurav Das yet to be released; police say magistrate was threatened",
       "'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede",
-      "Kolkata stampede LIVE updates: 9 IPS officers get charge of Durga Puja crowd management; accused sent to custody",
+      "Kolkata stampede highlights: 9 IPS officers get charge of Durga Puja crowd management; accused sent to custody",
       "All nine Indian seafarers on board chemical tanker YARA J safe in Romania: Embassy",
       "Congress gets Delhi Police nod for Ramlila Maidan rally amid SIR protests",
       "Emirates flight from Delhi to Dubai suffers 'bird strike', delayed by over 14 hours",
-      "Women's groups protest outside Delhi Police headquarters against alleged sexual violence during anti-SIR stir",
-      "Film producer Amardeep Grewal, a relative of Punjab CM Bhagwant Mann's wife, detained at Delhi airport",
       "Protests in Delhi put daily business worth over ₹400 crore at risk, estimates CAIT",
       "Chennai gears up for northeast monsoon with 1,189 vehicles, 133 boats on standby",
       "Gold and silver head for volatile week amid crude oil spike, West Asia worries",
@@ -39,57 +42,29 @@
       "Delhi World Book fair: A fair like no other",
       "'You have to wait': Iyer explains why Sooryavanshi missed all 5 T20Is",
       "'Success doesn't have to be series wins': Hope after rain washes out 5th T20I",
-      "‘We've matched the defending champions’: Sammy after 2-2 India T20I draw",
       "Yo Yo Honey Singh records statement in alleged obscene remarks case, questioned for over two hours: Reports",
       "Kriti Sanon approaches Delhi High Court seeking protection against AI-generated impersonation, unauthorised use of identity",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores",
       "Guru Randhawa announces The Sirra Era Live In Concert in Delhi on December 12; details inside",
       "South Wales peatlands recorded signs of recovery after restoration work"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 18,
-    "headlines": [
-      "Narrow space, single gate: Home guards’ role under lens in Kolkata stampede; 7 remanded",
-      "Rain, poor crowd control likely led to Kolkata Durga Puja stampede: What we know so far",
-      "10-Day Police Custody For 7 Accused In Kolkata Durga Puja Pandal Stampede",
-      "'Pandal Is Collapsing': On Camera, Kolkata Puja Crowd Scrambles, Then An Announcement",
-      "Death toll rises to 19 in Kolkata Durga Puja stampede; CM issues crowd managment directives",
-      "Kolkata pandal stampede LIVE | Nine IPS officers assigned for Durga Puja crowd management; police issues 11-point advisory",
-      "Shillong locality honours first West Bengal CM as one of Meghalaya’s trailblazers",
-      "‘Not enough police, govt hospital lacked facilities’: Kolkata pandal tragedy raises questions over emergency response",
-      "BJP leader's role in puja committee under scanner amid Kolkata Chorbagan pandal stampede that killed 19",
-      "Kolkata stampede: Mamata faction alleges Durga Puja pandal panel has ‘links’ to CM's nephew, BJP hits back",
-      "‘Pandal will collapse, please leave’: Warning over mic set off Kolkata stampede, 19 dead",
-      "HT Morning News Brief October 18: 19 dead in Kolkata Durga Puja pandal stampede; CJI says youth questioning is healthy",
-      "Kolkata Durga Puja pandal stampede kills 19, organisers among 7 arrested, TMC targets BJP | Top updates",
-      "SIT headed by sitting judge to probe Kolkata pandal stampede; CM announces  ₹25 lakh aid, government job",
-      "'Extremely distressing': PM Modi mourns Kolkata stampede deaths, assures all possible aid to victims",
-      "'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede",
-      "Kolkata pandal stampede: Mamata Banerjee expresses 'shock and grief', TMC alleges poor crowd management",
-      "Kolkata stampede LIVE updates: 9 IPS officers get charge of Durga Puja crowd management; accused sent to custody"
-    ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 17,
+    "news_count": 18,
     "headlines": [
       "'Unacceptable': Paswan defends 'Leave India' notice to Imran Khan over Mumbai stir",
       "Gunshot Video Emerges After Tiger Shroff Assassination Attempt In Mumbai",
       "Tiger Shroff Assassination Bid Updates: Tiger Shroff Safe, Driver Shot In Chest After Firing In Mumbai",
       "Lawrence Bishnoi Gang's \"Salman Khan\" Note After Firing At Tiger Shroff",
+      "Actor safe, multiple probe teams formed, forensic team on ground: Mumbai Police on Tiger Shroff assassination bid",
+      "Maharashtra CM speaks to Tiger Shroff after assassination bid, dy CM Shinde says 'no gang will be spared'",
       "'Foreign nationals protesting in India a matter of concern': Chirag Paswan on Imran Khan's participation in Mumbai stir",
       "Imran Khan challenges ‘leave India’ notice: ‘No reasons disclosed, no chance to respond’",
-      "Nana Patekar or Smit Machchhar? Row erupts in Mumbai over naming Vidyavihar bridge",
       "Birla Estates to enter office leasing this year, eyes Mumbai",
       "Airlines have not agreed to shift flights to Navi Mumbai airport, says committee",
       "Reliance Consumer Director, Blinkit officials among 10 booked in expired-food probe",
@@ -101,35 +76,44 @@
       "EXCLUSIVE: Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari to join Falguni Pathak for Navratri celebrations in Mumbai",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 9,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 16,
     "headlines": [
-      "8 workers killed as speeding car runs them over in Punjab’s Sangrur",
-      "Road Horror In Punjab Village: 8 Labourers Run Over By Speeding Car, Witnesses Say Died Waiting For Ambulance",
-      "Speeding car kills 8 MGNREGA labourers, injures 12 others in Punjab's Sangrur",
-      "Chandigarh heritage furniture: Plea to halt auction of nine articles in France",
-      "‘Birthday vacation in Paris?’ Opposition questions Punjab CM Bhagwant Mann’s France trip",
-      "Film producer Amardeep Grewal, a relative of Punjab CM Bhagwant Mann's wife, detained at Delhi airport",
-      "Credit growth likely to see addition up to 2% in the ongoing quarter, says PNB MD Chandra",
-      "Gill falls for 1 run: India Test captain fails on Ranji return ahead of NZ Tests",
-      "Sidhu Moosewala’s 2.5-year-old brother seen making gun gesture, child rights body files complaint in Punjab"
+      "Narrow space, single gate: Home guards’ role under lens in Kolkata stampede; 7 remanded",
+      "10-Day Police Custody For 7 Accused In Kolkata Durga Puja Pandal Stampede",
+      "'Pandal Is Collapsing': On Camera, Kolkata Puja Crowd Scrambles, Then An Announcement",
+      "Majority of victims in Kolkata Durga Puja stampede are women, children",
+      "Kolkata stampede: Accused sent to 10-day custody, officials suspended as blame game erupts after Chorbagan tragedy",
+      "‘Not enough police, govt hospital lacked facilities’: Kolkata pandal tragedy raises questions over emergency response",
+      "BJP leader's role in puja committee under scanner amid Kolkata Chorbagan pandal stampede that killed 19",
+      "Kolkata stampede: Mamata faction alleges Durga Puja pandal panel has ‘links’ to CM's nephew, BJP hits back",
+      "‘Pandal will collapse, please leave’: Warning over mic set off Kolkata stampede, 19 dead",
+      "HT Morning News Brief October 18: 19 dead in Kolkata Durga Puja pandal stampede; CJI says youth questioning is healthy",
+      "Kolkata Durga Puja pandal stampede kills 19, organisers among 7 arrested, TMC targets BJP | Top updates",
+      "SIT headed by sitting judge to probe Kolkata pandal stampede; CM announces  ₹25 lakh aid, government job",
+      "'Extremely distressing': PM Modi mourns Kolkata stampede deaths, assures all possible aid to victims",
+      "'Swelling crowd, situation worsened by rain': What we know so far about Kolkata pandal stampede",
+      "Kolkata pandal stampede: Mamata Banerjee expresses 'shock and grief', TMC alleges poor crowd management",
+      "Kolkata stampede highlights: 9 IPS officers get charge of Durga Puja crowd management; accused sent to custody"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 8,
+    "news_count": 10,
     "headlines": [
-      "Heavy overnight rain batters Chennai as Northeast monsoon gets active in Tamil Nadu",
+      "Nagenthran criticises TVK-led government over lack of monsoon preparedness",
+      "Release recommendations of Thiruppugazh Committee,   Anbumani urges T.N. government",
+      "85 books by inmates released at Cuddalore Central Prison",
       "Heavy rainfall batters Chennai as northeast monsoon brings rain fury, over 20 cm recorded in 24 hours",
       "Rain lashes Chennai as northeast monsoon gets active in Tamil Nadu; roads flooded, traffic snarls | Visuals",
       "Chennai gears up for northeast monsoon with 1,189 vehicles, 133 boats on standby",
@@ -138,25 +122,25 @@
       "Southern Railway introduces Vistadome coach on Madurai–Guruvayur Express",
       "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 8,
     "headlines": [
-      "Haveri University circular on compulsory attendance for Ayudha Puja draws protest",
-      "Karnataka extends ration card e-KYC deadline to November 10",
-      "Dharwad Dasara to be celebrated tomorrow",
-      "Prison inmates set up stall at Dasara exhibition in Mysuru",
-      "Karnataka extends online RTI filing to all Bengaluru One, Karnataka One and Grama One centres",
-      "Mysuru court sentences man to death for rape and murder of 9-year-old during 2025 Dasara festival",
-      "IMD update: Heavy rain belt may shift to Kerala, parts of Karnataka this week",
-      "Karnataka expands offline RTI services through Sakala, Gram One centres"
+      "8 workers killed as speeding car runs them over in Punjab’s Sangrur",
+      "Road Horror In Punjab Village: 8 Labourers Run Over By Speeding Car, Witnesses Say Died Waiting For Ambulance",
+      "Speeding car kills 8 MGNREGA labourers, injures 12 others in Punjab's Sangrur; driver arrested",
+      "Chandigarh heritage furniture: Plea to halt auction of nine articles in France",
+      "‘Birthday vacation in Paris?’ Opposition questions Punjab CM Bhagwant Mann’s France trip",
+      "Credit growth likely to see addition up to 2% in the ongoing quarter, says PNB MD Chandra",
+      "Gill falls for 1 run: India Test captain fails on Ranji return ahead of NZ Tests",
+      "Sidhu Moosewala’s 2.5-year-old brother seen making gun gesture, child rights body files complaint in Punjab"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "KL",
@@ -165,32 +149,76 @@
     "State": "Kerala",
     "news_count": 7,
     "headlines": [
-      "IIT Palakkad to lead 48-member team to U.P.",
-      "Political, organisational work must evolve with changing times: Sadiq Ali Shihab Thangal",
-      "Thiruvananthapuram airport to  suspended flights for five hours on October 20",
+      "Two-year-old boy dies of suspected malnutrition in Alappuzha",
+      "SMA flays Waqf Board reconstitution in Keralam",
+      "Couple on scooter crushed between trucks on NH 66 in Malappuram",
       "Clear  ₹9.73 cr of pending victim compensation dues in 5 weeks: Kerala HC to govt",
       "Thiruvananthapuram airport to suspend flights for 5 hours on October 20 for Padmanabhaswamy Temple’s Arattu procession",
       "Kerala HC seeks Centre stand on plea challenging blocking of BitChat messaging app",
       "Kerala HC temporarily halts further construction at beach near Vizhinjam by VISL"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "MP",
     "Lat": 22.9734,
     "Long": 78.6569,
     "State": "Madhya Pradesh",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "Google Maps route likely led truck to Gwalior temple: Police",
-      "Gwalior temple tragedy: CM Yadav orders City SP’s removal, 8 others after 14 deaths",
       "'Hired crane to pull out siblings': Victims' kin allege delay in help after 15 killed in Gwalior temple tragedy",
       "Gwalior temple tragedy: Police official removed, 8 others suspended after truck mows down 15 near Sheetla Mata Mandir",
       "15 killed as truck hits devotees, crashes into Gwalior temple gate; mechanical failure suspected; 2 arrested",
       "Indore BJP official booked under POCSO for misbehaving with girl at Garba venue",
       "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 5,
+    "headlines": [
+      "Dharwad girl selected for 2027 Deaflympics",
+      "Karnataka High Court directs authorities to protect Hubballi’s Mayuri estate residents from impacts of sugarcane farmers’ protest",
+      "Scheduled Caste federation welcomes Karnataka High Court decision",
+      "Mysuru court sentences man to death for rape and murder of 9-year-old during 2025 Dasara festival",
+      "IMD update: Heavy rain belt may shift to Kerala, parts of Karnataka this week"
+    ],
+    "last_updated": "2026-10-19 12:37:38 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
+    "headlines": [
+      "DSC 2008: Telangana High Court upholds 30% reservation for D.Ed. candidates",
+      "El Nino concerns: Hyderabad tanker bookings double; households told to cut water use by 20%",
+      "Task Force seizes explosives at well-digging site in Karimnagar district",
+      "Woman killed, husband critical as two racing SUVs hit two-wheeler in Mahabubnagar",
+      "Hyderabad engineering student killed, 14 others injured after lighting arch stand collapses during college dandiya event"
+    ],
+    "last_updated": "2026-10-19 12:37:38 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 5,
+    "headlines": [
+      "Assam Police To Challenge High Court Relief To 2 Accused In Zubeen Garg Death Case",
+      "Assam Police to move SC against bail for Mahanta, Sandipon in Zubeen Garg death case",
+      "'A proud dad': Assam CM Himanta Biswa shares emotional note as son receives law degree, posts photo with CJI Surya Kant",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
+      "Adivi Sesh writes to Assam government over reported resort development near Kaziranga National Park"
+    ],
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "HR",
@@ -204,48 +232,47 @@
       "DLF to launch projects worth ₹58,000 crore in 2-3 yrs in Delhi-NCR, Mumbai amid luxury housing demand",
       "JLR India expands retail presence in Delhi, Gurugram; sees NCR as key market"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 4,
+    "headlines": [
+      "Bimol Akoijam willing to contest Manipur Assembly polls if Congress offers ticket",
+      "Manipur in turmoil again: 15 houses torched; 1 killed, several injured in gun attack",
+      "Manipur violence escalates in Kamjong, 3 injured in gunfight, 2 Tangkhul Naga villages set ablaze",
+      "36-year-old man killed, 4 injured in Manipur armed group attack as violence continues"
+    ],
+    "last_updated": "2026-10-19 12:37:38 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Odisha Vigilance seizes ₹21.88 lakh from engineer accused of collecting bribes",
+      "ED to probe OPRB officials' role in 2024 Odisha Police SI exam paper 'leak' case",
+      "Odisha engineer detained after late-night chase,  ₹21.89 lakh seized in vigilance raid"
+    ],
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 4,
+    "news_count": 3,
     "headlines": [
       "Seva Is Sadhana: Gautam Adani Visits Shrimad Rajchandra Ashram In Gujarat",
-      "Five workers killed, many injured in blast at chemical unit in Gujarat’s Bharuch",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 4,
-    "headlines": [
-      "Assam Police to move SC against bail for Mahanta, Sandipon in Zubeen Garg death case",
-      "'A proud dad': Assam CM Himanta Biswa shares emotional note as son receives law degree, posts photo with CJI Surya Kant",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls",
-      "Adivi Sesh writes to Assam government over reported resort development near Kaziranga National Park"
-    ],
-    "last_updated": "2026-10-18 09:46:19 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "Some families lost more than one member in Durga Puja pandal stampede, 2 victims from Bihar: Suvendu Adhikari",
-      "Lying on woman, covering her mouth not enough to prove attempt to rape, holds Patna HC; limits sentence",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "RJ",
@@ -258,33 +285,7 @@
       "Today’s Gold Rate in India October 18: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur (Other Cities)",
       "‘RR are at the top of the list’: Ashwin makes big revelation on Hardik Pandya trade"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 3,
-    "headlines": [
-      "Telangana’s El Niño contingency plan for uninterrupted water supply in rural areas",
-      "Telangana issues guidelines for management of road safety funds",
-      "Hyderabad engineering student killed, 14 others injured after lighting arch stand collapses during college dandiya event"
-    ],
-    "last_updated": "2026-10-18 09:46:19 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "Manipur in turmoil again: 15 houses torched; 1 killed, several injured in gun attack",
-      "Manipur violence escalates in Kamjong, 3 injured in gunfight, 2 Tangkhul Naga villages set ablaze",
-      "36-year-old man killed, 4 injured in Manipur armed group attack as violence continues"
-    ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "UT",
@@ -296,19 +297,19 @@
       "SIT formed to probe Uttarakhand minister's husband on claims of forgery, caste-based harassment, murder plot",
       "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
     "news_count": 2,
     "headlines": [
-      "Local body polls: Andhra Pradesh High Court rejects YSRCP’s plea seeking more time for filing nominations",
-      "Keralam govt. looks to emulate Tirupati model to manage pilgrim rush at Sabarimala"
+      "Some families lost more than one member in Durga Puja pandal stampede, 2 victims from Bihar: Suvendu Adhikari",
+      "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "UP",
@@ -320,30 +321,18 @@
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily",
       "Sadhu Tiwari to perform Nayyi Navelli song ‘Awadhiya Ke Raja’ at Ram Ki Paidi in Ayodhya"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 2,
-    "headlines": [
-      "ED to probe OPRB officials' role in 2024 Odisha Police SI exam paper 'leak' case",
-      "Odisha engineer detained after late-night chase,  ₹21.89 lakh seized in vigilance raid"
-    ],
-    "last_updated": "2026-10-18 09:46:19 PM"
-  },
-  {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 1,
     "headlines": [
-      "Chandigarh heritage furniture: Plea to halt auction of nine articles in France"
+      "NDA candidate Vangaveeti Radha Krishna files nomination for Vijayawada Mayor post"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "HP",
@@ -354,18 +343,18 @@
     "headlines": [
       "Delhi Police lodge 3 FIRs over CJP's Tiranga march; Abhijeet Dipke, Neha Bora released"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
     "news_count": 1,
     "headlines": [
-      "Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18"
+      "Chandigarh heritage furniture: Plea to halt auction of nine articles in France"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "CT",
@@ -376,18 +365,18 @@
     "headlines": [
       "Gill falls for 1 run: India Test captain fails on Ranji return ahead of NZ Tests"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
     "news_count": 1,
     "headlines": [
-      "Shillong locality honours first West Bengal CM as one of Meghalaya’s trailblazers"
+      "Rahul Gandhi to address public meeting in Goa as Congress concludes outreach yatra on October 18"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "PY",
@@ -398,7 +387,7 @@
     "headlines": [
       "Heavy rainfall batters Chennai as northeast monsoon brings rain fury, over 20 cm recorded in 24 hours"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "SK",
@@ -409,7 +398,7 @@
     "headlines": [
       "From Delhi to Dehradun, Congress intensifies protests seeking fair probe in Ankita Bhandari murder case"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "JK",
@@ -420,7 +409,7 @@
     "headlines": [
       "Delhi-Srinagar bus ‘attacked’ in Haryana, elderly passenger injured; J&K CM Omar Abdullah urges action"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   },
   {
     "Code": "LA",
@@ -431,6 +420,6 @@
     "headlines": [
       "CJI announces virtual access to Supreme Court for Leh, Kargil lawyers"
     ],
-    "last_updated": "2026-10-18 09:46:19 PM"
+    "last_updated": "2026-10-19 12:37:38 AM"
   }
 ]
