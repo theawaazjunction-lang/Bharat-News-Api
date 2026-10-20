@@ -4,10 +4,9 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 35,
+    "news_count": 34,
     "headlines": [
       "Why students are on strike at 3 universities in Delhi",
-      "Security scare at Delhi Metro: CISF jawan chases down NRI hiding ‘semi-solid substance’",
       "57-Year-Old Man Jumps In Front Of Delhi Metro, Dies",
       "CISF jawan nabs ‘suspicious’ man in escalator-stairs chase at Delhi Metro station",
       "Jaishankar meets Swift CEO in Delhi",
@@ -16,7 +15,6 @@
       "Delhi SIR: Public audit in two booths finds over 100 voters wrongly marked absent, shifted, or dead",
       "Delhi High Court permits 16-year-old rape survivor to terminate 31-week pregnancy",
       "Neha Bora moves Delhi High Court against peace bond notice",
-      "CM Vijay’s negligence is costing lives, alleges M.K. Stalin",
       "CJP leaders Saurav Das, Ashutosh Ranka’s judicial custody extended by two days; Delhi Police cite ‘peace, tranquillity’ concerns",
       "AISA president Neha Bora moves Delhi HC, challenges police notice to execute bond",
       "Delhi court grants bail to Nigerian national accused of possessing forged passports",
@@ -34,6 +32,7 @@
       "CJP alleges Ashutosh, Saurav not being released; Delhi Police file FIR over threats to magistrate",
       "IMD update: Heavy rain outlook for Kerala, South Interior Karnataka retained",
       "India rice exporters' conference books 2,038 buyer meetings ahead of Oct 23 opening",
+      "Maharajah Bonds gain investor appeal with TDS exemption",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -42,14 +41,14 @@
       "Kriti Sanon approaches Delhi High Court seeking protection against AI-generated impersonation, unauthorised use of identity",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 27,
+    "news_count": 26,
     "headlines": [
       "Tiger Shroff shooting: The Salman connection &amp; a trail of threats linked to Bishnoi",
       "Jaishankar welcomes UAE’s Foreign Minister Al Nahyan in Mumbai",
@@ -66,7 +65,6 @@
       "SAS Airlines Mumbai bound aircraft returns to Denmark after six hours due to technical issues",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Tiger Shroff firing case: 3 accused sent to transit remand in Kota; handed over to Mumbai Police",
-      "Tiger Shroff firing case: Mumbai Police say none of three accused is a minor",
       "Aamir Khan met Raj Thackeray for THIS reason; childhood friendship and family milestone behind the visit",
       "Tiger Shroff Firing Incident: Three accused arrested by Kota police while travelling on Pune-Jaipur express",
       "Imran Khan’s plea against ‘Leave India’ notice to be heard on October 26; Bombay High Court seeks Maharashtra government’s inclusion",
@@ -79,7 +77,7 @@
       "EXCLUSIVE: Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari to join Falguni Pathak for Navratri celebrations in Mumbai",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "WB",
@@ -98,23 +96,25 @@
       "Kolkata stampede toll at 19; 7 held as Bengal govt orders SIT amid blame game over crowd control lapses",
       "Kolkata stampede: Accused sent to 10-day custody, officials suspended as blame game erupts after Chorbagan tragedy"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 6,
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 8,
     "headlines": [
-      "'O Captain, My Captain': Should Congress make room for Amarinder Singh again?",
-      "Former Punjab MLA Simarjeet Bains sentenced to one year in defamation case",
-      "Political mercury rises in Punjab ahead of Amit Shah’s visit",
-      "Anti-drug activist murder: Diljit Dosanjh says Jhota's family should get justice",
-      "Madhya Pradesh leads farm fires with 354 incidents; Punjab at 2nd with 220",
-      "Speeding car kills 8 MGNREGA labourers, injures 12 others in Punjab's Sangrur; driver arrested"
+      "How an SUV carrying 27kg of mephedrone exposed a clandestine drug factory",
+      "Telangana plans 14-month foodgrain buffer to cover over 3 crore people amid El Niño threat",
+      "Left parties, BRS to stage a dharna in Khammam over alleged political bias in Indiramma housing allotments",
+      "El Nino effect: Prepare micro level contingency plans to avert drinking water, electricity shortages, says Telangana Chief Secretary",
+      "Over 2,000 attend TAUK’s handloom-themed Bathukamma, Dasara celebrations in London",
+      "More veggies from Telangana on plate: El Nino changes crop choices, farmers receive returns from harvest",
+      "Hyderabad airport regains X account access after cryptocurrency promotion posts by hackers",
+      "FIRST LOOK at Hanuman in 'Ramayana' spin-off revealed! - WATCH"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "MN",
@@ -130,23 +130,23 @@
       "Three killed in Manipur attack, bodies left outside CM’s bungalow",
       "Manipur: Man dies from pellet injuries; 3 CRPF personnel injured in bomb attack"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 6,
     "headlines": [
-      "Telangana plans 14-month foodgrain buffer to cover over 3 crore people amid El Niño threat",
-      "Left parties, BRS to stage a dharna in Khammam over alleged political bias in Indiramma housing allotments",
-      "El Nino effect: Prepare micro level contingency plans to avert drinking water, electricity shortages, says Telangana Chief Secretary",
-      "Over 2,000 attend TAUK’s handloom-themed Bathukamma, Dasara celebrations in London",
-      "More veggies from Telangana on plate: El Nino changes crop choices, farmers receive returns from harvest",
-      "Hyderabad airport regains X account access after cryptocurrency promotion posts by hackers"
+      "'O Captain, My Captain': Should Congress make room for Amarinder Singh again?",
+      "Former Punjab MLA Simarjeet Bains sentenced to one year in defamation case",
+      "Political mercury rises in Punjab ahead of Amit Shah’s visit",
+      "Anti-drug activist murder: Diljit Dosanjh says Jhota's family should get justice",
+      "Madhya Pradesh leads farm fires with 354 incidents; Punjab at 2nd with 220",
+      "Speeding car kills 8 MGNREGA labourers, injures 12 others in Punjab's Sangrur; driver arrested"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "KA",
@@ -161,37 +161,7 @@
       "Teen detained in Karnataka's Kalaburagi over suspected Lashkar-e-Taiba contacts",
       "IMD update: Heavy rain outlook for Kerala, South Interior Karnataka retained"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 5,
-    "headlines": [
-      "Odisha vs Andhra over Kotia: Naveen Patnaik turns up heat on Mohan Majhi govt",
-      "Naveen Patnaik Slams \"Silence\" On Andhra Poll Notice In 3 Disputed Villages",
-      "Naveen Patnaik questions Odisha government’s 'silence' on Andhra's poll notification for disputed Kotia villages",
-      "Three rescued orangutans in Odisha suffering from anaemia: Officials",
-      "7 years on, Similipal eco-sensitive zone notification remains pending; Centre blames Odisha for delays"
-    ],
-    "last_updated": "2026-10-20 04:12:40 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 5,
-    "headlines": [
-      "Row erupts over Daler Mehndi’s performance at Kunjapuri Fair in Uttarakhand",
-      "Uttarakhand minister confronts Daler Mehndi on stage, alleges singer was drinking alcohol: ‘You cannot even speak’",
-      "Dr Dhal Singh Bisen sworn in as Uttarakhand Governor",
-      "Social media user booked over posts questioning Uttarakhand Global Investors Summit",
-      "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
-    ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "GJ",
@@ -206,7 +176,22 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 5,
+    "headlines": [
+      "Row erupts over Daler Mehndi’s performance at Kunjapuri Fair in Uttarakhand",
+      "Uttarakhand minister confronts Daler Mehndi on stage, alleges singer was drinking alcohol: ‘You cannot even speak’",
+      "Dr Dhal Singh Bisen sworn in as Uttarakhand Governor",
+      "Social media user booked over posts questioning Uttarakhand Global Investors Summit",
+      "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
+    ],
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "AP",
@@ -220,7 +205,21 @@
       "Veteran BJP leader LK Advani, admitted to Delhi hospital over chest infection, discharged after improvement in health",
       "BJP wary as YSRCP's Jagan Mohan Reddy hints at shift towards INDIA bloc in Andhra Pradesh"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 4,
+    "headlines": [
+      "Odisha vs Andhra over Kotia: Naveen Patnaik turns up heat on Mohan Majhi govt",
+      "Naveen Patnaik questions Odisha government’s 'silence' on Andhra's poll notification for disputed Kotia villages",
+      "Three rescued orangutans in Odisha suffering from anaemia: Officials",
+      "7 years on, Similipal eco-sensitive zone notification remains pending; Centre blames Odisha for delays"
+    ],
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "HR",
@@ -234,7 +233,7 @@
       "Madhya Pradesh leads farm fires with 354 incidents; Punjab at 2nd with 220",
       "Maruti Suzuki expands Integrated Traffic Management System initiative in Gurugram"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "KL",
@@ -247,7 +246,7 @@
       "Child rights panel files case over Keralam boy’s malnutrition death",
       "Kerala govt scraps bakery’s new ‘horti-wine’ licence, transfers excise officer"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "UP",
@@ -260,7 +259,7 @@
       "Madhya Pradesh leads farm fires with 354 incidents; Punjab at 2nd with 220",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "TN",
@@ -272,7 +271,7 @@
       "SC upholds cancellation of patta over Tamil Nadu water body, orders alternative site for 20 flat owners",
       "Heavy rainfall likely across Tamil Nadu till Oct 24"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "RJ",
@@ -284,7 +283,7 @@
       "Today’s Gold Rate in India October 19: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur (Other Cities)",
       "Tiger Shroff firing case: 3 accused sent to transit remand in Kota; handed over to Mumbai Police"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "BR",
@@ -296,7 +295,7 @@
       "Bihar council polls: 3 FIRs against JD(U) MLA Anant Singh, Jan Suraaj nominee Anuj Singh",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "MP",
@@ -308,7 +307,7 @@
       "Madhya Pradesh leads farm fires with 354 incidents; Punjab at 2nd with 220",
       "Hours after the Gwalior truck accident, no police helped, says victims’ kin"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "GA",
@@ -319,7 +318,7 @@
     "headlines": [
       "POSH compliance in public sector banks: CIC remands RTI appeal for ‘fair hearing’"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "AS",
@@ -330,7 +329,7 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "ML",
@@ -341,7 +340,7 @@
     "headlines": [
       "Meghalaya identifies 3.4 lakh hectares of cultivable wasteland: Study"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "MZ",
@@ -352,7 +351,7 @@
     "headlines": [
       "Chinmay Sutar breaks Prithvi Shaw’s record, becomes 2nd Indian to score FC 400"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "SK",
@@ -363,7 +362,7 @@
     "headlines": [
       "Dushyant Kumar Gautam sworn in as Sikkim governor, Congress vows stir"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "TR",
@@ -374,7 +373,7 @@
     "headlines": [
       "Indian air ambulance makes emergency landing in Bangladesh; patient dies"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "JK",
@@ -385,7 +384,7 @@
     "headlines": [
       "MEA rejects OIC’s ‘anti-India’ references, accuses Pakistan of orchestrating them"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   },
   {
     "Code": "LA",
@@ -396,6 +395,6 @@
     "headlines": [
       "MEA rejects OIC’s ‘anti-India’ references, accuses Pakistan of orchestrating them"
     ],
-    "last_updated": "2026-10-20 04:12:40 AM"
+    "last_updated": "2026-10-20 06:54:00 AM"
   }
 ]
