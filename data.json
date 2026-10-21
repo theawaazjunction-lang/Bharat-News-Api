@@ -6,18 +6,19 @@
     "State": "Delhi",
     "news_count": 50,
     "headlines": [
+      "Delhi HC cites national security, junks CIC order to IAF on PMs’ foreign trips",
+      "No double standards on terror, need unified action to dismantle its entire ecosystem: Rajnath at SCO; says members will have to work together on resilient supply chains",
       "Tiger Shroff firing case: Delhi Police arrests 4 accused, including 2 women",
       "Trump’s tariff waiver on Russian oil: India gets relief for now, but is it credible?",
       "Delhi BJP leader burns cockroach effigy; Dipke responds with SRK’s 'Swades' song",
       "AAP demands FIR over 30ft cockroach effigy burned alongside Ravan in Delhi",
       "'Where are the fans?' Warner calls out lack of fans at South Africa-Australia Tests",
       "65-year old swimmer killed in shark attack off South African coast; 2 beaches shut",
-      "CJP's Das, Ranka seek urgent night hearing against extension of judicial custody",
-      "PM Modi invokes 'Ram Rajya' on Dussehra, warns against people hurting India's image",
       "Delhi Police Transfers CJP Leaders' Case To Crime Branch Ahead Of Hearing",
       "'Thank You For Free Publicity': Abhijeet Dipke On Cockroach Effigy In Delhi",
       "Bhagwant Mann Stopped At Delhi Airport, Fined Rs 50,000, AAP Reacts",
       "Delhi Air Quality Set To Deteriorate To 'Poor' Category From Wednesday",
+      "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
       "AAP claims Punjab CM Mann detained for three hours at Delhi airport, fined ₹50,000",
       "CJP’s Abhijeet Dipke thanks Delhi Ramlila organisers for ‘free publicity’ over cockroach effigy",
       "CJP leaders Saurav Das, Ashutosh Ranka move Delhi HC against judicial custody",
@@ -26,7 +27,6 @@
       "Samiti urges Centre to appoint Kannadiga as Central University Vice-Chancellor",
       "Special trains between Thiruvananthapuram North and Mangaluru on October 20th and 21st",
       "Dussehra 2026: Traffic curbs in Dwarka, security tightened in Delhi-NCR and more",
-      "Top news of the day: Jaishankar, Rubio hold talks on trade deal in Mumbai; CJP seeks urgent Delhi HC hearing against judicial custody of Saurav Das, Ashutosh Ranka; and more",
       "Tiger Shroff shooting case: Four more arrested for supplying weapons to assailants",
       "Rubio hails New Delhi as 'powerful, influential', says India-US ties will help shape 21st century",
       "HT Evening News Brief October 20: US secretary of state Marco Rubio in India, CJP leaders move Delhi HC and more",
@@ -57,25 +57,24 @@
       "Kriti Sanon approaches Delhi High Court seeking protection against AI-generated impersonation, unauthorised use of identity",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 25,
+    "news_count": 24,
     "headlines": [
       "Tiger Shroff firing case: Delhi Police arrests 4 accused, including 2 women",
       "Tiger Shroff wasn’t original target, shooters switched due to tight security: Cops",
-      "After days on the run, influencer Shraddha Dubey arrested in UP bizman death case",
       "4 More People, Including 2 Women, Arrested In Tiger Shroff Shooting Case",
       "Marco Rubio to skip Delhi, visit Mumbai and Jamnagar next week",
       "Tiger Shroff shooting case: Four more arrested for supplying weapons to assailants",
       "Rubio hails New Delhi as 'powerful, influential', says India-US ties will help shape 21st century",
       "Rubio hails ‘great’ meeting with Jaishankar, UAE foreign minister on regional energy security",
       "‘We want to be closer’: UAE minister meets Jaishankar to review strategic ties",
-      "Marco Rubio India visit LIVE: Rubio emphasizes India-US partnership on ‘superintelligence’ at Mumbai event",
+      "Marco Rubio India visit highlights: Rubio emphasizes India-US partnership on ‘superintelligence’ at Mumbai event",
       "Marco Rubio hears firsthand account of 26/11 attacks from Taj Hotel security chief",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Salman Khan makes first appearance after gun fire on Tiger Shroff, with heavy security",
@@ -92,16 +91,17 @@
       "EXCLUSIVE: Yeh Prem Mol Liya stars Ayushmann Khurrana and Sharvari to join Falguni Pathak for Navratri celebrations in Mumbai",
       "Saif Ali Khan leases two Mumbai office units for Rs. 22.76 lakhs a month; security deposit stands at Rs. 2.36 crores"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 10,
+    "news_count": 11,
     "headlines": [
-      "1998 Coimbatore Blasts Convicts Get Parole, BJP Hits Out At Vijay Government",
+      "Chennai Mayor alleges online harassment; lodges complaint with police",
+      "Thermal power plants must undergo annual fly ash audits, CPCB submits before NGT",
       "Cardiologists from across the globe discuss angioplasty complications at meet in Chennai",
       "Collector reviews flood mitigation works in Cuddalore",
       "State Highways Dept. to complete widening of BHEL Feeder Road in Ranipet by December",
@@ -112,26 +112,7 @@
       "More air connections between Chennai and Bangkok",
       "Does keeping payments in arrears count as savings, asks TN’s former finance minister; questions TVK govt’s claims of lower borrowing"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 9,
-    "headlines": [
-      "Dussehra celebrated in Belagavi",
-      "Karnataka HC refuses to drop charge of culpable homicide not amounting murder against father in fatal accident caused by minor son",
-      "Greater Bengaluru Authority receives over 1,500 objections to tree felling for Hebbal Short Tunnel",
-      "Sugarcane farmers crisis: Karnataka CM Shivakumar seeks Centre’s intervention",
-      "Samiti urges Centre to appoint Kannadiga as Central University Vice-Chancellor",
-      "Dalit outfit demands apology from Kumaraswamy over remarks against Priyank Kharge",
-      "All stakeholders must work together to resolve sugarcane growers’ issues: Karnataka CM D. K. Shivakumar",
-      "Fast tracking strategic petroleum reserves critical for India’s energy security",
-      "AstraZeneca Pharma set to move its registered office to Maharashtra, from Karnataka"
-    ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "GJ",
@@ -149,16 +130,32 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 7,
+    "headlines": [
+      "Dussehra celebrated in Belagavi",
+      "Karnataka HC refuses to drop charge of culpable homicide not amounting murder against father in fatal accident caused by minor son",
+      "Greater Bengaluru Authority receives over 1,500 objections to tree felling for Hebbal Short Tunnel",
+      "Sugarcane farmers crisis: Karnataka CM Shivakumar seeks Centre’s intervention",
+      "Samiti urges Centre to appoint Kannadiga as Central University Vice-Chancellor",
+      "Fast tracking strategic petroleum reserves critical for India’s energy security",
+      "AstraZeneca Pharma set to move its registered office to Maharashtra, from Karnataka"
+    ],
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
-      "After days on the run, influencer Shraddha Dubey arrested in UP bizman death case",
       "Uttar Pradesh elections: Samajwadi Party to release election manifesto on November 26",
       "Lucknow murder: Shiva Sharma's mother welcomes Shraddha Dubey's arrest, claims 'videos of harassment' exist",
       "Model Shraddha Dubey, sister and driver arrested in Lucknow cafe owner Shiva Sharma's death case",
@@ -166,7 +163,7 @@
       "Pay disparity: Why young MBBS doctors are protesting in Lucknow",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "UT",
@@ -182,7 +179,7 @@
       "Mika Singh DEFENDS Daler Mehndi amid Uttarakhand event controversy, reveals he had a big operation recently: “Have you ever seen a glass of alcohol in his hand”",
       "Janhvi Kapoor, Sreeleela and Siddharth Gupta team up for Umesh Bisht’s thriller, first schedule begins in Nainital"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "PB",
@@ -197,46 +194,35 @@
       "Punjab activist Jhota's kin refuse to cremate him; Amit Shah vows ‘drug-free’ state after meeting family",
       "AAP claims Punjab CM Bhagwant Mann stopped at airport for 3 hrs: 'Centre's arrogance must end'"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "West Bengal CM meets families of deceased in Kolkata puja pandal stampede",
-      "Kolkata Durga Puja stampede: Bengal CM meets families of 3 deceased, hands over  ₹25 L ex gratia",
-      "RSS, Bengal finance minister condemn vandalism at Left book stalls during Durga Puja"
-    ],
-    "last_updated": "2026-10-21 02:33:42 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "3 Arrested In After Fresh Manipur Violence, 12 Firearms, Explosives Recovered",
-      "Kuki man killed in Manipur; shutdown paralyses Imphal Valley",
-      "Gunmen kill 3 in Imphal east, angry locals leave 2 bodies outside CM's residence"
-    ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Police lens on Lawrence Bishnoi’s aide Randeep Malik in Tiger Shroff shooting case",
       "Haryana power staff call 3-day strike against giving licence to private discom",
       "Gurugram woman murdered over property dispute, army deserter among 3 held: Police",
       "Security tightened for Dussehra in Delhi-NCR, crowd management and traffic plan in place"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "Left parties should sell books from party offices, not at Durga Puja pandals, says West Bengal CM",
+      "West Bengal CM meets families of deceased in Kolkata puja pandal stampede",
+      "Kolkata Durga Puja stampede: Bengal CM meets families of 3 deceased, hands over  ₹25 L ex gratia",
+      "RSS, Bengal finance minister condemn vandalism at Left book stalls during Durga Puja"
+    ],
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "GA",
@@ -249,7 +235,20 @@
       "Faecal coliform levels beyond permissible limits in Mandovi: Goa pollution board to HC",
       "Sameera Reddy’s 3-storey Goa home surrounded by lush tropical gardens"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 3,
+    "headlines": [
+      "3 Arrested In After Fresh Manipur Violence, 12 Firearms, Explosives Recovered",
+      "Kuki man killed in Manipur; shutdown paralyses Imphal Valley",
+      "Gunmen kill 3 in Imphal east, angry locals leave 2 bodies outside CM's residence"
+    ],
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "KL",
@@ -262,7 +261,7 @@
       "Special trains between Thiruvananthapuram North and Mangaluru on October 20th and 21st",
       "Child rights panel files case over Keralam boy’s malnutrition death"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "AS",
@@ -274,7 +273,7 @@
       "Over hundred people gather in front of Assam Secretariat to press for 'justice for Zubeen'",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "TG",
@@ -286,7 +285,7 @@
       "Air Chief Marshal A.P. Singh completes final IAF sortie in Hyderabad with instructor who first taught him to fly",
       "Dil Raju calls Ranbir Kapoor ‘Ranveer Singh’ at Ramayana’s grand Hyderabad event; immediately apologizes: “Sorry, Ranbir Kapoor garu!”"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "BR",
@@ -297,7 +296,7 @@
     "headlines": [
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "CT",
@@ -308,7 +307,7 @@
     "headlines": [
       "Why has Shafali Verma been reprimanded by ICC after India's win over Zimbabwe?"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "MP",
@@ -319,7 +318,7 @@
     "headlines": [
       "Protests barred at 3 Bhopal sites for 2 months, no alternative site designated"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "OD",
@@ -330,7 +329,7 @@
     "headlines": [
       "Fast tracking strategic petroleum reserves critical for India’s energy security"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "PY",
@@ -341,7 +340,7 @@
     "headlines": [
       "IMD update: Isolated very heavy rain for TN, Puducherry for two more days"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "SK",
@@ -352,7 +351,7 @@
     "headlines": [
       "Sikkim Adventure Tourism Festival from Nov 1-7"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "JK",
@@ -363,7 +362,7 @@
     "headlines": [
       "J&K government announces annual shifting of capital from Srinagar to Jammu"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   },
   {
     "Code": "LA",
@@ -374,6 +373,6 @@
     "headlines": [
       "President promulgates LAHDC Regulation, paves the way for hill council polls in all eight districts of Ladakh"
     ],
-    "last_updated": "2026-10-21 02:33:42 AM"
+    "last_updated": "2026-10-21 05:46:34 AM"
   }
 ]
