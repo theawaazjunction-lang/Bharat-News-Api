@@ -1,11 +1,29 @@
 {
   "general": [
     {
-      "title": "Tiger shooters got weapons via ‘dead drop’; couriers delivered guns a day earlier",
-      "description": "Kunal, who has also been arrested, has emerged as a key character who had been in touch with gangsters Anil Pandit and Randeep Malik for over two months. He had also figured as the source of the weapon used for the murder of a forex-hawala trader in Sonipat last year, sources said.",
-      "url": "https://timesofindia.indiatimes.com/india/tiger-shooters-got-weapons-via-dead-drop-couriers-delivered-guns-a-day-earlier/articleshow/135100409.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135100677,imgsize-146088.cms",
-      "publishedAt": "Thu, 22 Oct 2026 02:31:48 +0530",
+      "title": "‘Badr MoU’ won’t put New Delhi-Jakarta missile contracts in jeopardy, experts say",
+      "description": "Will 'Badr MoU' put India’s recent defence agreements with Indonesia on advanced weaponry in jeopardy? Talking to TOI, Sudhir Kumar Mishra, DRDO chair (emeritus) and former director general, CEO &amp; MD of BrahMos Aerospace, said, “Defence agreements with Indonesia have been done with enough safegu",
+      "url": "https://timesofindia.indiatimes.com/defence/news/pak-turkiye-qatar-indonesia-sign-def-pact-experts-say-badr-mou-wont-put-new-delhi-jakarta-missile-contracts-in-jeopardy/articleshow/135100751.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135100816,imgsize-87812.cms",
+      "publishedAt": "Thu, 22 Oct 2026 03:23:01 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "French riots and Indian protests linked in same ecosystem: Report",
+      "description": "Senior editor Asra Nomani’s investigation says it has identified 101 organisations across nine countries in a “red-green protest ecosystem” (referring to Islamist and communist groups) that are coordinating, organising or amplifying protests in Europe in an expanding protest ecosystem. Her story als",
+      "url": "https://timesofindia.indiatimes.com/world/uk/french-riots-and-indian-protests-linked-in-same-ecosystem-report/articleshow/135103474.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103494,imgsize-268784.cms",
+      "publishedAt": "Thu, 22 Oct 2026 06:17:46 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "One killed, 8 injured in Saudi airport attack amid US order for diplomats to leave",
+      "description": "The United States ordered some of its diplomats and the family members of US government employees to leave Saudi Arabia late on Wednesday. The move followed a series of deadly attacks attributed to Yemen's Iran-backed Houthi rebels and growing concerns that the conflict could escalate further. The l",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/one-killed-8-injured-in-saudi-airport-attack-amid-us-order-for-diplomats-to-leave/articleshow/135103435.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103447,imgsize-49890.cms",
+      "publishedAt": "Thu, 22 Oct 2026 06:01:14 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -28,6 +46,24 @@
       "category": "general"
     },
     {
+      "title": "Decades-old flaw discovered in PHP forces govt websites to go offline globally",
+      "description": "Multiple government portals and public institutions experienced outages due to the revelation of PHP vulnerabilities. In an immediate response, IT teams mobilized to patch critical servers and thwart potential malicious attacks. Security analysts alerted that hackers swiftly targeted systems lacking",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/decades-old-flaw-discovered-by-google-openai-ai-tools-forces-government-and-public-websites-to-go-offline-globally/articleshow/135097877.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135097913,imgsize-1142720.cms",
+      "publishedAt": "Wed, 21 Oct 2026 23:12:36 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Missouri court overturns ruling giving couple ownership of neighbour's road",
+      "description": "In a notable case from Missouri, a couple gained legal rights to their isolated property via their neighbor's land. Although the court initially granted them ownership of the access road, it later corrected this decision. Ultimately, they received a permanent easement, illustrating the difference be",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-missouri-a-couple-bought-land-with-no-road-access-and-sought-a-40-foot-strip-through-their-neighbours-property-a-2026-appeals-court-reversed-the-ruling-that-would-have-given-them-ownership-of-the-road/articleshow/135087381.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135087456,imgsize-2141415.cms",
+      "publishedAt": "Wed, 21 Oct 2026 14:40:07 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "Drug menace next target, says Amit Shah; eyes 2029 deadline",
       "description": "Stating that an environment conducive to development has emerged in Kashmir, Northeast and LWE-hit regions, Shah particularly thanked CRPF and its CoBRA battalion as well as Chhattisgarh Police for their role in the decisive fight against LWE. The home ministry will dedicate the remaining part of 20",
       "url": "https://timesofindia.indiatimes.com/india/drug-menace-next-target-says-union-home-minister-amit-shah-eyes-2029-deadline/articleshow/135100416.cms",
@@ -37,11 +73,11 @@
       "category": "general"
     },
     {
-      "title": "Decades-old flaw discovered in PHP forces govt websites to go offline globally",
-      "description": "Multiple government portals and public institutions experienced outages due to the revelation of PHP vulnerabilities. In an immediate response, IT teams mobilized to patch critical servers and thwart potential malicious attacks. Security analysts alerted that hackers swiftly targeted systems lacking",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/decades-old-flaw-discovered-by-google-openai-ai-tools-forces-government-and-public-websites-to-go-offline-globally/articleshow/135097877.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135097913,imgsize-1142720.cms",
-      "publishedAt": "Wed, 21 Oct 2026 23:12:36 +0530",
+      "title": "SBI confirms data leak, says 4,000 customer records identified on dark web",
+      "description": "The disclosure follows a claim by cybersecurity monitoring account CyberPulse that a threat actor using the name Siriusim had leaked documents and personal data allegedly linked to SBI. The post claimed the dataset contained 3,75,000 rows in CSV files and 2,722 PDF documents, including customer info",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sbi-confirms-data-leak-says-4000-customer-records-identified-on-dark-web/articleshow/135103369.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103380,imgsize-93322.cms",
+      "publishedAt": "Thu, 22 Oct 2026 05:40:09 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -55,11 +91,38 @@
       "category": "general"
     },
     {
-      "title": "Texas family sells 650-acre lakeside ranch for over $10m for new state park",
-      "description": "The Texas Parks and Wildlife Foundation has acquired a family-run ranch in East Texas for future park development. This historic land, held by the Pollard family since 1940 and boasting valuable lakefront access, is set to transition to the Texas Parks and Wildlife Department by late 2027. The park ",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-1940-a-texas-family-acquired-the-ranch-where-generations-grew-pecan-trees-and-spent-holidays-86-years-later-they-sold-its-650-lakefront-acres-for-more-than-10-million-so-the-land-can-become-a-state-park/articleshow/135061787.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135061805,imgsize-1330271.cms",
-      "publishedAt": "Thu, 22 Oct 2026 03:55:00 +0530",
+      "title": "Dolly Parton's former West Hollywood retreat listed for $12K monthly rent",
+      "description": "Dolly Parton’s former West Hollywood home has been taken off the rental market after being listed for $12,000 a month. The singer bought the two-bedroom property in 2007 for $1.2 million, later listing it for sale at $1.4 million in 2014. Records show the home changed hands in 2023 for $1.2 million.",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2007-dolly-parton-bought-a-west-hollywood-retreat-for-1-2-million-after-a-1-4-million-sale-listing-and-a-2023-transfer-the-former-home-was-offered-for-12000-a-month-before-leaving-the-rental-market/articleshow/135100466.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135100523,imgsize-129945.cms",
+      "publishedAt": "Thu, 22 Oct 2026 01:53:50 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "MrBeast builds 5 medical clinics across 4 countries to help 10,000 annually",
+      "description": "MrBeast and nonprofit BUILD established five medical clinics using shipping containers across the US, Nigeria, Ukraine and Kenya. The initiative aims to help more than 10,000 people annually by improving access to healthcare. The project addresses emergency care, heart surgery screening, war-related",
+      "url": "https://timesofindia.indiatimes.com/world/us/mrbeast-builds-5-medical-clinics-using-shipping-containers-across-the-us-nigeria-ukraine-and-kenya-in-2026-aims-to-help-10000-people-annually-us-heart-surgery-costs-range-from-50000-to-117000/articleshow/135100857.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135100873,imgsize-94722.cms",
+      "publishedAt": "Thu, 22 Oct 2026 03:28:47 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Jeff Bezos and Lauren Sanchez gave $3 million to rebuild Maui homes after wildfires",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-and-lauren-sanchez-gave-3-million-to-habitat-for-humanity-maui-the-donation-backed-affordable-housing-and-efforts-to-repair-and-rebuild-homes-after-the-islands-devastating-fires/articleshow/135090516.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135090937,imgsize-349186.cms",
+      "publishedAt": "Wed, 21 Oct 2026 23:04:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Delhi HR professional quits corporate job for Goa, faces financial uncertainty",
+      "description": "After leaving her stable job in HR, Arpita Sahu embraced a new beginning in Goa, sharing her heartfelt journey on social media. As she expressed her concerns about financial security and belonging, her followers responded with a range of insights on fulfillment. Sahu's experience captures the comple",
+      "url": "https://timesofindia.indiatimes.com/life-style/people/former-delhi-hr-professional-quits-her-corporate-job-and-moves-to-goa-in-search-of-purpose-but-faces-financial-worries-and-uncertainty-in-her-new-life/articleshow/135068794.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135068848,imgsize-114652.cms",
+      "publishedAt": "Tue, 20 Oct 2026 19:44:15 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -69,6 +132,33 @@
       "url": "https://timesofindia.indiatimes.com/india/india-deal-pretty-close-will-be-different-trump-pact-to-exclude-unresolved-sectors/articleshow/135100411.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135100498,imgsize-74164.cms",
       "publishedAt": "Thu, 22 Oct 2026 01:49:28 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Maria Sharapova’s $25M mansion sale: How her $4.1M land became a record deal",
+      "description": "Maria Sharapova bought a Manhattan Beach lot for $4.1 million in 2012 and built a three-story home with Japanese-inspired design. In 2025, NBA star Luka Dončić bought the property for $25 million, setting a local residential sale record. The deal marked a major rise in the home’s reported value, alt",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/maria-sharapova-bought-a-manhattan-beach-lot-for-4-1-million-and-built-a-three-story-japanese-inspired-mansion-after-13-years-it-sold-for-a-record-25-million/articleshow/135038033.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135038041,imgsize-1277210.cms",
+      "publishedAt": "Mon, 19 Oct 2026 21:30:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Andre Agassi and Steffi Graf lose $3M on $23M Tiburon mansion after four years",
+      "description": "In 2006, tennis legends Andre Agassi and Steffi Graf agreed to sell their luxurious Tiburon estate for $20 million, taking a reported $3 million loss. The 3.5-acre property featured a sprawling mansion, two swimming pools, a tennis court and stunning Golden Gate Bridge views. After nearly four years",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/andre-agassi-and-steffi-graf-lost-3-million-on-23-million-tiburon-mansion-after-four-years-of-searching-for-a-buyer/articleshow/135028168.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135028272,imgsize-137860.cms",
+      "publishedAt": "Mon, 19 Oct 2026 06:02:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Tiger shooters got weapons via ‘dead drop’; couriers delivered guns a day earlier",
+      "description": "Kunal, who has also been arrested, has emerged as a key character who had been in touch with gangsters Anil Pandit and Randeep Malik for over two months. He had also figured as the source of the weapon used for the murder of a forex-hawala trader in Sonipat last year, sources said.",
+      "url": "https://timesofindia.indiatimes.com/india/tiger-shooters-got-weapons-via-dead-drop-couriers-delivered-guns-a-day-earlier/articleshow/135100409.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135100677,imgsize-146088.cms",
+      "publishedAt": "Thu, 22 Oct 2026 02:31:48 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -91,42 +181,6 @@
       "category": "general"
     },
     {
-      "title": "Subway co-founder's relative bought $6.75m warehouse; plans $1.8m revamp",
-      "description": "A member of the Buck family has purchased a Danbury warehouse previously owned by the Salame family. This transaction, completed for $6.75 million, signals a commitment to modernizing the site while preserving its industrial purpose. Plans include extensive renovations and the construction of an off",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2025-a-relative-of-subway-co-founder-peter-buck-bought-a-connecticut-warehouse-held-by-another-family-for-three-generations-for-6-75-million-now-a-1-8-million-renovation-and-10000-square-foot-office-are-planned/articleshow/135069984.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135070036,imgsize-207193.cms",
-      "publishedAt": "Thu, 22 Oct 2026 03:53:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Kirsten Dunst bought LA home for $2.6m, sold it for $4.55m in 2019",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-2001-kirsten-dunst-bought-a-lakefront-los-angeles-house-for-2-6-million-18-years-later-the-4333-square-foot-property-sold-for-4-55-million-to-another-actress-after-finding-a-buyer-in-just-nine-days/articleshow/135091015.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135091212,imgsize-593707.cms",
-      "publishedAt": "Wed, 21 Oct 2026 20:19:30 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Jeff Bezos and Lauren Sanchez gave $3 million to rebuild Maui homes after wildfires",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/in-2024-jeff-bezos-and-lauren-sanchez-gave-3-million-to-habitat-for-humanity-maui-the-donation-backed-affordable-housing-and-efforts-to-repair-and-rebuild-homes-after-the-islands-devastating-fires/articleshow/135090516.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135090937,imgsize-349186.cms",
-      "publishedAt": "Wed, 21 Oct 2026 23:04:45 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Jeff Gordon-backed Rwanda cancer centre saw over 18,000 patients by 2025",
-      "description": "In 2012, Rwanda launched the Butaro Cancer Center of Excellence to fill the gap in cancer care services. Since then, it has treated over 18,000 individuals, greatly enhancing local healthcare. The center plays a crucial role by establishing vital diagnostic programs and training healthcare staff. Ho",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2012-jeff-gordons-foundation-helped-open-a-cancer-centre-in-rwanda-by-2025-it-had-seen-more-than-18000-patients-and-helped-build-care-where-treatment-had-once-been-almost-out-of-reach/articleshow/135068203.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135068306,imgsize-1917346.cms",
-      "publishedAt": "Thu, 22 Oct 2026 01:58:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Rosatom completes ESFAS equipment supply for Kudankulam N-plant units 3, 4",
       "description": "In total, about 300 items of equipment were manufactured and delivered to the plant – four sets of ESFAS CS in accordance with the number of safety instrumentation and control trains, per each power unit featuring VVER-1000 reactors. ESFAS is the system that monitors the process parameters of a powe",
       "url": "https://timesofindia.indiatimes.com/india/rosatom-completes-supply-of-engineered-safety-features-actuation-systems-for-kudankulam-n-plant-units-3-and-4/articleshow/135100849.cms",
@@ -141,24 +195,6 @@
       "url": "https://timesofindia.indiatimes.com/india/delhi-protests-indias-internal-matter-wont-comment-rubio-calls-un-experts-an-oxymoron/articleshow/135100408.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135100598,imgsize-57942.cms",
       "publishedAt": "Thu, 22 Oct 2026 02:21:15 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Maria Sharapova’s $25M mansion sale: How her $4.1M land became a record deal",
-      "description": "Maria Sharapova bought a Manhattan Beach lot for $4.1 million in 2012 and built a three-story home with Japanese-inspired design. In 2025, NBA star Luka Dončić bought the property for $25 million, setting a local residential sale record. The deal marked a major rise in the home’s reported value, alt",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/maria-sharapova-bought-a-manhattan-beach-lot-for-4-1-million-and-built-a-three-story-japanese-inspired-mansion-after-13-years-it-sold-for-a-record-25-million/articleshow/135038033.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135038041,imgsize-1277210.cms",
-      "publishedAt": "Mon, 19 Oct 2026 21:30:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Andre Agassi and Steffi Graf lose $3M on $23M Tiburon mansion after four years",
-      "description": "In 2006, tennis legends Andre Agassi and Steffi Graf agreed to sell their luxurious Tiburon estate for $20 million, taking a reported $3 million loss. The 3.5-acre property featured a sprawling mansion, two swimming pools, a tennis court and stunning Golden Gate Bridge views. After nearly four years",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/andre-agassi-and-steffi-graf-lost-3-million-on-23-million-tiburon-mansion-after-four-years-of-searching-for-a-buyer/articleshow/135028168.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135028272,imgsize-137860.cms",
-      "publishedAt": "Mon, 19 Oct 2026 06:02:00 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -323,45 +359,54 @@
       "publishedAt": "Wed, 21 Oct 2026 17:41:09 +0530",
       "source": "Times of India",
       "category": "general"
-    },
-    {
-      "title": "At 69, Delhi’s ‘stuntman’ continues Ramleela tradition of setting himself on fire",
-      "description": "Ram Prasad Tiwari is a 69-year-old performer who has been doing a dangerous stunt for nearly 50 years. He sets himself on fire before jumping into a pool of water from about fifty feet high. Tiwari performs during the Ramleela season and travels to various locations for his acts. For each performanc",
-      "url": "https://timesofindia.indiatimes.com/city/meerut/at-69-delhis-stuntman-continues-50-year-ramleela-tradition-of-setting-himself-on-fire-jumping-50ft-watch/articleshow/135095524.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135096253,imgsize-16288050.cms",
-      "publishedAt": "Wed, 21 Oct 2026 21:48:42 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Germany on alert for Russian sabotage after drone spotted near air base",
-      "description": "Germany has raised the threat level concerning Russian sabotage targeting its military to the second-highest rank, following the alarming discovery of an explosive drone near the Wunstorf air base. Authorities are investigating the incident amid fears of further sabotage against military sites natio",
-      "url": "https://timesofindia.indiatimes.com/world/europe/germany-on-alert-for-russian-sabotage-after-drone-with-explosives-spotted-near-air-base/articleshow/135096131.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135096145,imgsize-156888.cms",
-      "publishedAt": "Wed, 21 Oct 2026 21:39:04 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Watch: 'Inquilab Zindabad', CJP leaders Das &amp; Ranka come out of Tihar Jail",
-      "description": "After a week in judicial custody, Saurav Das and Ashutosh Ranka were granted release from Tihar Jail by a special executive magistrate court in Delhi. Das joyfully declared that truth has prevailed, while Ranka chanted a memorable revolutionary slogan. CJP leader Abhijeet Dipke recognized their lead",
-      "url": "https://timesofindia.indiatimes.com/india/watch-inquilab-zindabad-cjp-leaders-saurav-das-ashutosh-ranka-come-out-of-tihar-jail/articleshow/135095842.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135096071,imgsize-1149318.cms",
-      "publishedAt": "Wed, 21 Oct 2026 21:29:59 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Pakistan signs Badr accord with Turkey, Qatar &amp; Indonesia; what it means for India",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/turkey-pakistan-qatar-and-indonesia-sign-defence-pact-to-boost-joint-arms-production/articleshow/135089701.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135090037,imgsize-81444.cms",
-      "publishedAt": "Wed, 21 Oct 2026 16:22:24 +0530",
-      "source": "Times of India",
-      "category": "general"
     }
   ],
   "business": [
+    {
+      "title": "Comcast plans significant job cuts ahead of NBCUniversal spin-off",
+      "description": "The media and telecom company is reshaping its operations amid subscriber losses, growing competition and efforts to strengthen its independent business",
+      "url": "https://www.thehindubusinessline.com/info-tech/comcast-plans-significant-job-cuts-ahead-of-nbcuniversal-spin-off/article71609853.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/n9q6lb/article71609854.ece/alternates/LANDSCAPE_1200/2026-10-21T235450Z_1055724223_RC2W9GAU361A_RTRMADP_3_COMCAST-LAYOFFS.JPG",
+      "publishedAt": "Thu, 22 Oct 2026 05:50:07 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Meta ordered to pay $25 billion in New Mexico privacy lawsuit",
+      "description": "The judgment follows years of litigation over consumer protection claims and adds to mounting legal challenges facing the technology company.",
+      "url": "https://www.thehindubusinessline.com/info-tech/meta-ordered-to-pay-25-billion-in-new-mexico-privacy-lawsuit/article71609473.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/daxnq6/article71609852.ece/alternates/LANDSCAPE_1200/2026-10-20T172543Z_1434439757_RC2JHMAW47W6_RTRMADP_3_BRAZIL-ELECTION-META-PLATFORMS.JPG",
+      "publishedAt": "Thu, 22 Oct 2026 05:38:34 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Mukesh Ambani hosts Marco Rubio at Reliance’s Jamnagar refinery",
+      "description": "The visit featured discussions on energy security, advanced manufacturing, digital infrastructure and opportunities for commercial collaboration between Indian and American companies.",
+      "url": "https://www.thehindubusinessline.com/companies/mukesh-ambani-hosts-marco-rubio-at-reliances-jamnagar-refinery/article71609159.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/tnnibv/article71609848.ece/alternates/LANDSCAPE_1200/PTI10_21_2026_000444B.jpg",
+      "publishedAt": "Thu, 22 Oct 2026 05:27:13 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Walmart launches AI tools to let agents shop and complete purchases",
+      "description": "The retailer is expanding its AI commerce strategy with new tools designed to connect digital assistants directly to its shopping systems.",
+      "url": "https://www.thehindubusinessline.com/news/world/walmart-launches-ai-tools-to-let-agents-shop-and-complete-purchases/article71609558.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/swlulw/article71609847.ece/alternates/LANDSCAPE_1200/2025-07-24T090147Z_2143102603_RC2GIEABV5IV_RTRMADP_3_WALMART-AI.JPG",
+      "publishedAt": "Thu, 22 Oct 2026 05:17:16 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "eBay to cut 9% of workforce, eliminating around 1,000 jobs",
+      "description": "The online marketplace is refocusing its business on high-growth segments, including luxury goods, collectibles and refurbished products, amid ongoing restructuring",
+      "url": "https://www.thehindubusinessline.com/news/world/ebay-to-cut-9-of-workforce-eliminating-around-1000-jobs/article71609399.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ayo64f/article71609751.ece/alternates/LANDSCAPE_1200/2026-09-08T101455Z_220989286_RC2LSCADPR3O_RTRMADP_3_EBAY-INDIA-GENDER-PREDICTION.JPG",
+      "publishedAt": "Thu, 22 Oct 2026 05:12:36 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
     {
       "title": "Persistent Systems opens $450 million QIP, sets floor price at ₹5,550 per share",
       "description": "The IT company has secured board approval for the issue, while the final share price will be determined with its book-running lead managers",
@@ -624,6 +669,33 @@
       "category": "business"
     },
     {
+      "title": "A trade deal mired in uncertainty",
+      "description": "Cautious approach. The US mid-term polls, the Section 301 probe and the US Presidential authority to impose tariffs are factors that India must weigh",
+      "url": "https://www.thehindubusinessline.com/opinion/a-trade-deal-mired-in-uncertainty/article71608032.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/oupocd/article71608042.ece/alternates/LANDSCAPE_1200/iStock-1089423548.jpg",
+      "publishedAt": "Wed, 21 Oct 2026 20:47:17 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Fixed-term employment needs a guardrail",
+      "description": "Worker protection. Labour reforms must look beyond the contract to protect workers in substance",
+      "url": "https://www.thehindubusinessline.com/opinion/fixed-term-employment-needs-a-guardrail/article71607992.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2bo6wq/article71608021.ece/alternates/LANDSCAPE_1200/iStock-950229764.jpg",
+      "publishedAt": "Wed, 21 Oct 2026 20:46:04 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Railways’ safety strides",
+      "description": "Focus must now turn to track infra, Kavach",
+      "url": "https://www.thehindubusinessline.com/opinion/railways-safety-strides/article71608385.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/anx08s/article71608410.ece/alternates/LANDSCAPE_1200/IMG_20261017_173040.jpg",
+      "publishedAt": "Wed, 21 Oct 2026 20:45:24 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
       "title": "Artha Bharat plans to shift $125 million in funds to Abu Dhabi, recast GIFT City funds as feeders",
       "description": "The funds being restructured are the Artha Global Multiplier Fund, a long-short fund investing in US equities with assets of more than $100 million and the Artha Bharat Absolute Returns Fund, an arbitrage fund managing approximately $25 million",
       "url": "https://www.thehindubusinessline.com/markets/artha-bharat-plans-to-shift-125-million-in-funds-to-abu-dhabi-recast-gift-city-funds-as-feeders/article71607562.ece",
@@ -649,81 +721,18 @@
       "publishedAt": "Wed, 21 Oct 2026 20:42:06 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
-    },
-    {
-      "title": "Uno Minda bets on EV drives, seating, and electronics to nearly double revenue to ₹40,000 crore by FY30",
-      "description": "Uno Minda is expanding into electric drives, complete seating, sunroofs, and advanced electronics, backed by ₹1,750 crore in FY27 capital expenditure. Chairman Nirmal Minda expects India’s passenger-vehicle market to cross five million units as premiumisation and tighter regulations increase compone",
-      "url": "https://www.thehindubusinessline.com/companies/uno-minda-bets-on-ev-drives-seating-and-electronics-to-nearly-double-revenue-to-40000-crore-by-fy30/article71597841.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/oeii64/article71597840.ece/alternates/LANDSCAPE_1200/NIRMAL%20MINDA.jpg",
-      "publishedAt": "Wed, 21 Oct 2026 20:33:34 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "R&D must move beyond in-house investments to external partners : Kris Gopalakrishnan",
-      "description": "The event recognised outstanding startups in domains like biotech, semiconductors, mobility and agriculture",
-      "url": "https://www.thehindubusinessline.com/economy/rd-must-move-beyond-in-house-investments-to-external-partners-kris-gopalakrishnan/article71608171.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/ssoe9t/article71608211.ece/alternates/LANDSCAPE_1200/DSC_3480.jpeg",
-      "publishedAt": "Wed, 21 Oct 2026 20:33:32 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Persona targets December shipments of AI wearable",
-      "description": "The Persona Band is designed to bring a voice-enabled personal assistant into everyday activities without requiring users to interact with a screen",
-      "url": "https://www.thehindubusinessline.com/info-tech/persona-targets-december-for-shipments-of-ai-wearable/article71607692.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/info-tech/q5ag4s/article71607688.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-10-21%20at%206.40.06%20PM.jpeg",
-      "publishedAt": "Wed, 21 Oct 2026 20:25:30 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "IIT Madras launches UDYOG programme for biotech industry skill development",
-      "description": "The UDYOG programme combines online courses, intensive laboratory training, pilot-scale exposure and opportunities for industry internships.",
-      "url": "https://www.thehindubusinessline.com/news/education/iit-madras-launches-udyog-programme-for-biotech-industry-skill-development/article71607197.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/8heh2w/article71607196.ece/alternates/LANDSCAPE_1200/Prof.%20V.%20Kamakoti%20C%20Director%20IIT%20Madras%20launches%20%E2%80%98UDYOG%E2%80%99%20Biofoundry%20finishing%20school%20course%20at%20campus%20on%2021%20Oct%202026.jpg",
-      "publishedAt": "Wed, 21 Oct 2026 20:24:28 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Sundaram MF enters SIF business with launch of Select Equity Ex-Top 100 Long Short Fund",
-      "description": "The strategy will primarily invest in equities, with limited short exposure through derivatives in stocks outside the Top 100",
-      "url": "https://www.thehindubusinessline.com/markets/sundaram-mf-enters-sif-business-with-launch-of-select-equity-ex-top-100-long-short-fund/article71607685.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/ldyw8/article71607859.ece/alternates/LANDSCAPE_1200/MR_Mutual%20fund.jpeg",
-      "publishedAt": "Wed, 21 Oct 2026 20:21:23 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Indian Army to gets updated Land Warfare Doctrine for future conflicts",
-      "description": "The LWD, to be released by the Defence Minister, will provide an overarching framework to prepare the Indian Army to meet the challenges posed by the evolving character of warfare and next-generation conflicts",
-      "url": "https://www.thehindubusinessline.com/news/indian-army-to-gets-updated-land-warfare-doctrine-for-future-conflicts/article71607649.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/lnw1rz/article71608271.ece/alternates/LANDSCAPE_1200/Screenshot%202026-10-16%20112513.png",
-      "publishedAt": "Wed, 21 Oct 2026 20:21:13 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Unauthorised HTBt cotton cultivation makes up about 30% of the area, says study",
-      "description": "Shortage of labour, high weed management costs forcing farmers to go for unapproved HtBt seeds",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/unauthorised-htbt-cotton-cultivation-makes-u-up-about-30-of-the-area-says-study/article71607669.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/k3zpru/article32144630.ece/alternates/LANDSCAPE_1200/RBJ-Pune-HTBT-cGA17JR64M3jpgjpg",
-      "publishedAt": "Wed, 21 Oct 2026 20:21:01 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Pocket",
-      "description": "",
-      "url": "https://www.thehindubusinessline.com/opinion/cartoons/pocket/article71608095.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/6w2l4n/article71608097.ece/alternates/LANDSCAPE_1200/Cartoon%20Oct22.jpg",
-      "publishedAt": "Wed, 21 Oct 2026 20:19:40 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
     }
   ],
   "sports": [
+    {
+      "title": "Asian Para Games: Silver for Swati Chaudhary! Indian archer loses 4-6 in gold medal match",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-nagoya-live-updates-india-schedule-results-medal-tally/liveblog/135096898.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135096898,imgsize-46288.cms",
+      "publishedAt": "2026-10-22T05:25:37+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
     {
       "title": "Where India stands in Asian Para Games medal tally after 27-medal haul on Day 3",
       "description": "In an impressive showing at the Aichi-Nagoya Asian Para Games, India has claimed 27 medals, comprising five gold, pushing their total count to 62 after three days. Standing in fifth place, Indian athletes showcased their prowess, with athletics leading the charge and bringing home 18 medals along wi",
@@ -752,20 +761,20 @@
       "category": "sports"
     },
     {
-      "title": "Gary Stead warns New Zealand against taking home advantage for granted",
-      "description": "Stead, currently head coach of Andhra’s Ranji Trophy team, believes India’s ability to adapt to New Zealand’s bouncy surfaces will be crucial to their chances.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/everyone-has-shown-the-competence-to-beat-everyone-else-gary-stead-warns-new-zealand-against-taking-home-advantage-for-granted/articleshow/135097439.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135097439,imgsize-199828.cms",
-      "publishedAt": "2026-10-21T23:10:17+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
       "title": "Asian Para Games 2026: India's full schedule for October 22",
       "description": "India have won 62 medals so far and will look to add to their tally on Thursday. Para-athletics has contributed 13 of the country's 14 gold medals, with athletes such as Dilip Gavit among those aiming to help India improve their position in the standings.",
       "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-2026-indias-full-schedule-for-october-22-medal-events-and-timings/articleshow/135096460.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135096460,imgsize-139729.cms",
       "publishedAt": "2026-10-21T22:16:43+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Gary Stead warns New Zealand against taking home advantage for granted",
+      "description": "Stead, currently head coach of Andhra’s Ranji Trophy team, believes India’s ability to adapt to New Zealand’s bouncy surfaces will be crucial to their chances.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/everyone-has-shown-the-competence-to-beat-everyone-else-gary-stead-warns-new-zealand-against-taking-home-advantage-for-granted/articleshow/135097439.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135097439,imgsize-199828.cms",
+      "publishedAt": "2026-10-21T23:10:17+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     },
@@ -892,15 +901,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/harmanpreet-kaur-breaks-down-on-live-tv-after-sensational-91-reveals-what-has-changed/articleshow/135081899.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135082020,imgsize-228338.cms",
       "publishedAt": "2026-10-21T09:49:37+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "'We have plans for Vaibhav Sooryavanshi': Santner sends warning to India",
-      "description": "New Zealand captain Mitchell Santner believes Vaibhav Sooryavanshi could be a tough batter to stop if he gets a chance in India's playing XI for the five-match T20I series. The series begins on Thursday, and Santner said his team has already worked on plans to deal with the young left-hander.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/we-have-plans-for-vaibhav-sooryavanshi-new-zealand-captain-mitchell-santner-ahead-of-t20i-series-vs-india/articleshow/135084431.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135084519,imgsize-43146.cms",
-      "publishedAt": "2026-10-21T12:08:05+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     }
@@ -1089,6 +1089,87 @@
   ],
   "entertainment": [
     {
+      "title": "'Hanuman Ansh' day 77: Vishal's film earns Rs 451 cr worldwide",
+      "description": "Hanuman Ansh, released on August 7, 2026, achieved a worldwide gross collection of Rs 451 cr. Its domestic net earnings reached Rs 341.04 cr, while overseas markets contributed Rs 48.60 cr. The film's collections during its 11th week showed a noticeable decline, with daily earnings fluctuating signi",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-77-vishal-chaturvedis-film-earns-rs-451-cr-worldwide-india-net-collection-reaches-rs-341-04-cr-overseas-gross-stands-at-rs-48-60-cr/articleshow/135103456.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103462,imgsize-295168.cms",
+      "publishedAt": "2026-10-22T06:09:12+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Daler Mehndi controversy: FWICE writes to PM Modi",
+      "description": "The Federation of Western India Cine Employees has expressed support for singer Daler Mehndi amid controversy. FWICE highlighted the importance of sensitivity regarding performers' health after a public incident. The letter addressed to the Prime Minister and Uttarakhand Chief Minister emphasized th",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daler-mehndi-controversy-fwice-writes-to-pm-modi-amid-viral-drunk-video/articleshow/135103472.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103478,imgsize-214500.cms",
+      "publishedAt": "2026-10-22T06:13:39+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Govinda offers prayers at Puri Jagannath Temple - WATCH",
+      "description": "Govinda visited the Shree Jagannath Temple in Puri and offered prayers during the Vijayadashami festival. His visit attracted a large number of fans who cheered for him as he arrived. The actor expressed gratitude for the opportunity and prayed for his children’s well-being. Shree Jagannath Temple i",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-offers-prayers-at-puri-jagannath-temple-seeks-blessings-for-his-children-watch/articleshow/135101444.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103400,imgsize-260440.cms",
+      "publishedAt": "2026-10-22T05:43:12+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Ranabaali' BO day 6: Vijay Deverakonda film earns Rs 59.65 cr",
+      "description": "The film Ranabaali, with stars Vijay Deverakonda and Rashmika Mandanna, achieved a remarkable Rs 59.65 crore in total earnings worldwide. On its sixth day, it garnered Rs 5.50 crore, reflecting a decline from Rs 7.10 crore previously. Released on October 16, the film recorded 453,848 total footfalls",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-box-office-collection-day-6-vijay-deverakonda-and-rashmika-mandannas-film-earns-rs-59-65-cr-worldwide-telugu-occupancy-stands-at-40-44/articleshow/135103414.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103423,imgsize-433083.cms",
+      "publishedAt": "2026-10-22T05:47:43+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Jailer 2' BO day 7: Rajinikanth film earns Rs 582.45 cr worldwide",
+      "description": "In its seventh week, Jailer 2, featuring the iconic Rajinikanth and Mohanlal, experienced a slight dip in box office earnings. The film secured Rs 28.15 crore net in India, accumulating an impressive domestic total of over Rs 300 crore. Notably, the Tamil version highlighted the charts with an earni",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-7-rajinikanth-mohanlal-and-nelson-dilipkumar-film-earns-rs-582-45-cr-worldwide-india-net-collection-crosses-rs-300-cr/articleshow/135103398.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103401,imgsize-268523.cms",
+      "publishedAt": "2026-10-22T05:43:30+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Drishyam 3: The Conclusion' day 20: Ajay's film earns Rs 560.02 cr worldwide",
+      "description": "Drishyam 3: The Conclusion saw a decline in box office earnings, collecting Rs 2.65 crore on day twenty. The film's global gross collection reached Rs 560.02 crore, even after the significant dip. Domestically, it has earned Rs 359.75 crore with an overall healthy performance since its release. The ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-20-ajay-devgns-film-earns-rs-560-02-cr-worldwide-india-net-collection-reaches-rs-359-75-cr-overseas-gross-stands-at-rs-129-cr/articleshow/135103284.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135103310,imgsize-374012.cms",
+      "publishedAt": "2026-10-22T05:34:21+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Ramayana' to make digital debut with pay-per-view streaming option",
+      "description": "Ramayana: Rise of a Legend is set to be released in cinemas on November 5, 2026. After the theatrical run, it will be available on JioHotstar through a pay-per-view model. This decision aims to make the epic accessible to audiences across India. The film features prominent actors such as Ranbir Kapo",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-ott-relaese-ranbir-kapoor-and-yash-starrer-to-make-digital-debut-with-pay-per-view-streaming-post-theatrical-run/articleshow/135102859.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135102868,imgsize-564607.cms",
+      "publishedAt": "2026-10-22T04:27:34+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Tom Cruise to be honored with American Film Institute award",
+      "description": "Actor Tom Cruise is set to receive the American Film Institute's Life Achievement Award in April. This award has been given annually since 1973 to individuals who have made significant contributions to film. Previous recipients include notable figures like Bette Davis and Tom Hanks, among others. Cr",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/tom-cruise-to-be-honored-with-american-film-institute-award-for-contribution-to-cinema/articleshow/135100688.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135100788,imgsize-81142.cms",
+      "publishedAt": "2026-10-22T03:22:11+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Doctor Who' actor Noel Clarke pleads 'not guilty' to sexual offence charges",
+      "description": "British actor and filmmaker Noel Clarke appeared in a London court on Wednesday and pleaded not guilty to six charges, including two counts of sexual assault.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/doctor-who-actor-noel-clarke-pleads-not-guilty-to-six-sexual-offence-charges/articleshow/135100690.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135100689,imgsize-1534339.cms",
+      "publishedAt": "2026-10-22T04:41:40+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "Jennifer Aniston still earns $20 million yearly from Friends",
       "description": "Jennifer Aniston reportedly continues to earn $20 million annually from Friends, more than 20 years after the sitcom ended. The show’s six stars initially earned $22,500 per episode before collective negotiations pushed their salaries to $1 million in the final seasons. A groundbreaking profit-shari",
       "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/jennifer-aniston-still-makes-20-million-a-year-from-friends-despite-sitcom-ending-over-20-years-ago-how-the-cast-went-from-22500-to-1-million-per-episode/articleshow/135099712.cms",
@@ -1184,87 +1265,6 @@
       "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/as-hrithik-roshans-jailer-2-cameo-gains-attention-heres-recalling-when-he-called-rajinikanth-the-greatest-legend-of-all-time/articleshow/135093963.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135093972,imgsize-180952.cms",
       "publishedAt": "2026-10-21T19:19:21+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "In 2014, after Robin Williams’ passing, his family had an 8-month dispute over his estate and personal items",
-      "description": "The unexpected passing of Robin Williams in 2014 sparked a significant legal battle over his estate, particularly among his family members. His widow, Susan Williams, contested the asset distribution favoring his children, arguing for the retention of specific personal items. Ultimately, the conflic",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-2014-after-robin-williams-committed-suicide-his-widow-and-three-adult-children-underwent-an-8-month-long-battle-over-his-leftover-estate-worth-usd-45-million-to-usd-50-million/articleshow/135089679.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135089779,imgsize-40208.cms",
-      "publishedAt": "2026-10-21T17:00:00+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Dhanush injures his hand while shooting for intense fight sequence for 'OM'",
-      "description": "While filming a high-impact fight sequence for his upcoming movie 'OM', Dhanush encountered an injury. His unwavering dedication to the craft allowed him to continue filming despite the pain, earning him accolades from fans on social media for his resilience. 'OM', featuring renowned stars like Mamm",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-injures-his-hand-while-shooting-for-intense-axe-fight-sequence-but-continues-to-shoot-until-the-scene-is-complete-wins-praise-for-dedication-watch-viral-video/articleshow/135092447.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135092526,imgsize-125300.cms",
-      "publishedAt": "2026-10-21T17:57:49+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Tiger firing incident: Renuka calls it ‘scary’, seeks root-level crackdown",
-      "description": "Renuka Shahane called the Tiger Shroff firing incident “very scary” and was relieved he is safe. Speaking to IANS, she warned everyone will be frightened of armed, unpredictable attackers and urged action “from the roots.” The October 18 Juhu shooting injured his driver and an autorickshaw driver; t",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/renuka-shahane-reacts-to-tiger-shroff-firing-incident-calls-it-a-very-scary-thing-and-warns-that-people-may-feel-unsafe-leaving-their-homes-this-should-be-destroyed-from-the-roots/articleshow/135092387.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135092431,imgsize-195525.cms",
-      "publishedAt": "2026-10-21T17:53:19+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "‘Bison’ actress Anupama Parameswaran hits back at online trolls",
-      "description": "Anupama Parameswaran addresses online negativity and the impact of paid negative reviews on her work. She encourages constructive criticism while stating that personal attacks are unproductive. Parameswaran also explains her choice not to engage with every social media comment. She questions societa",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/bison-actress-anupama-parameswaran-hits-back-at-online-trolls-says-criticism-is-important-only-when-it-is-healthy-why-should-i-respond-to-people-who-deliberately-post-negative-reviews/articleshow/135091460.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135091484,imgsize-131100.cms",
-      "publishedAt": "2026-10-21T17:15:15+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Tiger Shroff firing case: Three accused remanded to police custody",
-      "description": "In a significant development, three primary suspects involved in the shooting incident targeting actor Tiger Shroff have been placed in police custody until October 31. Kota city police apprehended the suspects on a train before handing them over to the Mumbai Police, who are looking to recover fire",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-firing-case-three-accused-arrested-in-rajasthan-remanded-to-police-custody-till-october-31/articleshow/135090344.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135090344,imgsize-147104.cms",
-      "publishedAt": "2026-10-21T16:36:32+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "‘Mookuthi Amman 2’ trailer: Nayanthara plays a cop and a goddess",
-      "description": "Nayanthara returns as the divine Mookuthi Amman in the sequel set to release on November 6. The film introduces a new conflict involving supernatural antagonists that threaten humanity. Directors Sundar C and RJ Balaji bring their creative visions to this expanded cinematic adventure. The trailer pr",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/mookuthi-amman-2-trailer-nayanthara-plays-a-cop-and-a-goddess-in-sundar-cs-action-packed-fantasy-entertainer-as-regina-cassandra-and-duniya-vijay-emerge-as-mythical-villains/articleshow/135090165.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135090194,imgsize-281479.cms",
-      "publishedAt": "2026-10-21T16:28:55+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Madhuri Dixit recalls Barjatya shoe joke",
-      "description": "Madhuri Dixit reunited with Renuka Shahane and Priya Berde on ‘Kon Honar Crorepati’ and recalled a funny ‘Hum Aapke Hain Koun’ memory. She said director Sooraj Barjatya wore new shoes each schedule, but standing on his toes loosened them, and by the end they looked like “mojaris,” joked Renuka and M",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhuri-dixit-reunites-with-renuka-shahane-and-priya-berde-recalls-how-sooraj-barjatyas-new-shoes-turned-into-mojaris-on-hum-aapke-hain-koun-sets-after-fifteen-days-they-would-loosen-up-even-more/articleshow/135089586.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135089620,imgsize-301651.cms",
-      "publishedAt": "2026-10-21T16:08:42+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Tiger firing case accused mother says police took her son for questioning",
-      "description": "Sumit, 19, one of four arrested by Delhi Police in the Tiger Shroff firing case, is innocent, his mother claims, saying he was at Khatu Shyam temple and was misled by an acquaintance, Nitin. Police allege the accused transported a pistol and 20 rounds from Amritsar to Mumbai ahead of the October 18 ",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroff-firing-case-accused-sumits-mother-says-police-took-her-son-for-questioning-insists-he-was-at-khatu-shyam-temple-in-rajasthan-he-has-nothing-to-do-with-this-he-was-misled-watch-video/articleshow/135088845.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135088854,imgsize-214660.cms",
-      "publishedAt": "2026-10-21T15:51:42+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "In 1989, Halle Berry lived in a homeless shelter; years later, she’s a Hollywood icon",
-      "description": "Before achieving her Hollywood dreams, Halle Berry experienced intense struggles, such as residing in a homeless shelter to make ends meet. After relocating to New York City at 21, she encountered financial setbacks and a lack of maternal support, which she now views as a valuable lesson in strength",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/in-1989-halle-berry-was-living-in-a-homeless-shelter-in-nyc-years-later-she-became-a-bond-girl-with-a-net-worth-usd-90m/articleshow/135088997.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135089088,imgsize-105442.cms",
-      "publishedAt": "2026-10-21T16:00:00+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1813,5 +1813,5 @@
       "category": "science"
     }
   ],
-  "last_updated": "2026-10-22 04:25:46 AM"
+  "last_updated": "2026-10-22 06:38:07 AM"
 }
