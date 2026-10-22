@@ -4,12 +4,12 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 47,
+    "news_count": 48,
     "headlines": [
+      "Centre betrayed us, now want full statehood for Ladakh: Sonam Wangchuk",
       "‘No permission needed to hoist national flag’: Neha Bora tells Delhi HC",
-      "S Jaishankar's 'Indira' Reminder After Rahul Gandhi's Marco Rubio Jibe",
-      "'We Are Indians': Tripura Teen To NDTV On Delhi Influencer's Racist Video",
-      "Delhi Influencer Arrested Over Racist Video Featuring Tripura Man",
+      "Video: Thousands Gather To Protest As Serbian Ex-President Runs For PM",
+      "Police Case Over Delhi Influencer's Racist Video Against Tripura Teen",
       "Delhi conference to explore new markets for Indian rice",
       "Nothing wrong with seeking regime change in a democracy: Neha Bora tells Delhi High Court",
       "Murmu hails youth joining mainstream after breaking free from Maoism",
@@ -32,11 +32,10 @@
       "3 arrested for loan fraud case in Chennai, duped public of  ₹100 crore in Tamil Nadu, Kerala",
       "India, Canada explore energy partnership as both sides push to seal trade deal",
       "Delhi content creator Amir Shokeen under fire over racial abuse of Tripura youth, Union minister vows action: 'This evil man'",
-      "CJP news LIVE updates: Delhi HC reserves verdict in Neha Bora's petition, order likely to be pronounced tomorrow",
+      "CJP news highlights: Delhi HC reserves verdict in Neha Bora's petition, order likely to be pronounced tomorrow",
       "El Nino could be unprecedented, may rise to 3.8°C above average between Nov-Jan: WMO",
       "INDIA bloc plans next round of protests against CEC Gyanesh Kumar in early November",
       "Police forces should unite to make India drug-free: Amit Shah",
-      "How pollution in Delhi surged on Dussehra night",
       "Strong 7.0-magnitude earthquake hits Tibet’s Baqen County in China",
       "Aurionpro, Mastercard team up to modernise transit payments across North America",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -44,6 +43,8 @@
       "Delhi World Book fair: A fair like no other",
       "Brook goes berserk, breaks Gill's record for fastest ODI double century",
       "India sweep men's high jump T63; claim gold, silver, bronze at Asian Para Games",
+      "CBFC says Sunny Deol's 'Suryaa' has not been submitted for certification",
+      "Delhi HC refuses to stay release of ‘Doosra’ despite Sourav Ganguly’s plea over personality rights",
       "Katie Price's ex-husband Kieran Hayler acquitted of raping 13-year-old girl",
       "Saif Ali Khan completes sale of apartment in Bandra West with two parking spaces for Rs 4.11 cr",
       "Diljit Dosanjh denied permission by Delhi Police for Oct 30 concert due to security concerns",
@@ -54,7 +55,7 @@
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer",
       "Australia releases 50 critically endangered smoky mice into forest after decades of absence"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "MH",
@@ -63,11 +64,11 @@
     "State": "Maharashtra",
     "news_count": 18,
     "headlines": [
-      "Delay, Drama Over Opening Of 3 Key Bridges In Mumbai",
-      "Bombay HC warns Mumbai police to ensure compliance with firecracker ban",
+      "FDA suspends eight Mumbai eateries, seizes 38 tonnes of food stock across Maharashtra",
       "‘Was Indira Gandhi summoned?’: Jaishankar questions criticism over his Mumbai meet with Marco Rubio",
       "Maharashtra govt revamps women and child welfare schemes",
       "‘This is shocking’: Bombay HC says Mumbai pollution surpassing Delhi, pulls up authorities",
+      "Maharashtra to unveil dedicated chemicals policy by first week of November",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
       "Sonu Sood rents out commercial unit in Mumbai’s Versova for Rs 3.52 crores",
       "Tiger Shroff resumes shooting of Lag Jaa Gale two days after firing incident: Report",
@@ -82,116 +83,35 @@
       "Tiger Shroff Shooting Incident: Eknath Shinde visits actor’s residence after gunfire in Juhu; Police launch manhunt",
       "Tiger Shroff safe after firing incident reported under Juhu Police Station"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "UT",
     "Lat": 30.0668,
     "Long": 79.0193,
     "State": "Uttarakhand",
-    "news_count": 8,
+    "news_count": 9,
     "headlines": [
       "Uttarakhand Madrasas to observe Sunday holiday instead of Friday",
       "‘Resolve things through dialogue’: Uttarakhand CM speaks to Mika Singh amid Daler Mehndi's event row",
       "Fresh voter drive in Uttarakhand from Nov 12: CEO holds all-party meet",
       "Uttarakhand CM to speak to Daler Mehndi amid over minister’s confrontation with singer",
       "Uttarakhand CM launches AI voice portal to preserve Garhwali, Kumaoni and Jaunsari languages",
+      "Uttarakhand CM breaks silence on Daler Mehndi row; also speaks to Mika Singh",
       "'Daler Mehndi should have informed us that he was unwell,' says Subodh Uniyal",
       "Daler Mehndi controversy: FWICE writes to PM Narendra Modi, Uttarakhand CM Pushkar Singh Dhami after minister’s alcohol allegation",
       "Mika Singh DEFENDS Daler Mehndi amid Uttarakhand event controversy, reveals he had a big operation recently: “Have you ever seen a glass of alcohol in his hand”"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 7,
-    "headlines": [
-      "Coimbatore student ends life; family alleges harassment by teacher, classmates over caste, beef consumption",
-      "Storage in India’s key reservoirs drops further to 67% of capacity this week",
-      "DRA picks Pune for first expansion beyond Chennai",
-      "AR Rahman reveals a person manifested in 2014 that he will compose music for 'Ramayana'",
-      "Sai Pallavi says Ranbir keeps up with Tamil films and has ‘library’ of South cinema in his mind",
-      "Srikanth Deva thanks Tamil Nadu CM for state honours to late father Deva",
-      "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 7,
-    "headlines": [
-      "Hyderabad to host three-day congress on sickle cell disease, thalassemia from October 23",
-      "Telangana to host three-day Raksha Expo from December 7",
-      "Post-festival return rush sees over 50,000 vehicles pass through Panthangi toll plaza, 31,583 head towards Hyderabad",
-      "Southern States’ police chiefs to meet in Hyderabad on October 23 to tackle inter-State crime",
-      "Commercial operations begins at malt distillery in Telangana",
-      "‘Rahul Gandhi should become PM’: Revanth Reddy's appeal in Telangana",
-      "Dil Raju calls Ranbir Kapoor ‘Ranveer Singh’ at Ramayana’s grand Hyderabad event; immediately apologizes: “Sorry, Ranbir Kapoor garu!”"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "'We Are Indians': Tripura Teen To NDTV On Delhi Influencer's Racist Video",
-      "The ‘Good Maharaja’: An Indian king who gave 650 Polish children a home during WWII",
-      "Energy ties in focus as Ambani hosts Marco Rubio at Jamnagar",
-      "Gujarat courts Tamil Nadu, Rajasthan industry ahead of Vibrant Gujarat Summit 2027",
-      "Swiggy shares slide over 5% ahead of Q2 results. What are analysts saying?",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 6,
-    "headlines": [
-      "'Against policy': Bikaner House on removal of photos from Raihan Vadra exhibition",
-      "'Photos inconsistent with policy': Bikaner House on Raihan Vadra's exhibit amid row",
-      "‘They’re just pictures of Indian flag': Raihan Vadra questions removal of protest photos from Delhi exhibition",
-      "'Raihan was under lot of pressure': Robert Vadra, Priyanka Gandhi on son's Delhi exhibition row",
-      "Gujarat courts Tamil Nadu, Rajasthan industry ahead of Vibrant Gujarat Summit 2027",
-      "PNGS Reva Diamond Jewellery posts 62% Dussehra sales jump, opens Jaipur store"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 6,
-    "headlines": [
-      "Special screening of Return of the Jungle in Mysuru on October 24 and 25",
-      "Karnataka to frame policy against hospitals withholding bodies over unpaid bills",
-      "Karnataka to set up committee to boost deceased donor organ transplants",
-      "Kumaraswamy flags delay in land allocation for testing facilities in Mandya",
-      "Karnataka CM Shivakumar orders probe after police stop 3 Dalit ministers at Mysuru Palace Dasara puja",
-      "Karnataka urges Centre to fast-track wildlife clearance for Mekedatu drinking water project"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 6,
+    "news_count": 7,
     "headlines": [
+      "Bihar Council elections today; Patna Graduates’ seat in focus as JD(U) faces internal tussle",
       "28 years after killing brother-in-law in Maharashtra's Thane, man on the run held in Bihar",
       "Tiger Shroff firing suspect left Bihar two years ago, worked as a cook, bike-taxi driver: Police",
       "BJP launches 15-day campaign to counter opposition’s SIR protests in Bihar",
@@ -199,51 +119,89 @@
       "PM Modi likely to visit Bihar in November, Vikramshila University foundation stone on cards",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 5,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 7,
     "headlines": [
-      "Tirupati MP alleges NDA ‘coercion’ against YSRCP nominees, seeks SEC action",
-      "Andhra Pradesh Intermediate Public Examinations to begin on February 24, 2027",
-      "Government issued orders to control African Swine Fever in Vizianagaram",
-      "Ensure investment MoUs translate into operational projects, Naidu tells officials",
-      "Two silvers and a bronze: India swimmer completes medal hat-trick in Nagoya"
+      "Two men returning from Mysuru Dasara die as bike hits electric pole",
+      "Special screening of Return of the Jungle in Mysuru on October 24 and 25",
+      "Karnataka to frame policy against hospitals withholding bodies over unpaid bills",
+      "Karnataka to set up committee to boost deceased donor organ transplants",
+      "Kumaraswamy flags delay in land allocation for testing facilities in Mandya",
+      "Karnataka CM Shivakumar orders probe after police stop 3 Dalit ministers at Mysuru Palace Dasara puja",
+      "Karnataka urges Centre to fast-track wildlife clearance for Mekedatu drinking water project"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 7,
+    "headlines": [
+      "'Against policy': Bikaner House on removal of photos from Raihan Vadra exhibition",
+      "Use of Chief Minister C. Joseph Vijay’s deep fake videos to collect money: Rajasthan youth moves Madras High Court seeking bail",
+      "'Photos inconsistent with policy': Bikaner House on Raihan Vadra's exhibit amid row",
+      "‘They’re just pictures of Indian flag': Raihan Vadra questions removal of protest photos from Delhi exhibition",
+      "'Raihan was under lot of pressure': Robert Vadra, Priyanka Gandhi on son's Delhi exhibition row",
+      "Gujarat courts Tamil Nadu, Rajasthan industry ahead of Vibrant Gujarat Summit 2027",
+      "PNGS Reva Diamond Jewellery posts 62% Dussehra sales jump, opens Jaipur store"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "Angry Over Sister's Affair, Gujarat Man Poisons Teen, Stages It As Suicide",
+      "The ‘Good Maharaja’: An Indian king who gave 650 Polish children a home during WWII",
+      "Energy ties in focus as Ambani hosts Marco Rubio at Jamnagar",
+      "Gujarat courts Tamil Nadu, Rajasthan industry ahead of Vibrant Gujarat Summit 2027",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 6,
+    "headlines": [
+      "Chennai YouTuber arrested for allegedly abetting suicide of influencer",
+      "Storage in India’s key reservoirs drops further to 67% of capacity this week",
+      "DRA picks Pune for first expansion beyond Chennai",
+      "AR Rahman reveals a person manifested in 2014 that he will compose music for 'Ramayana'",
+      "Sai Pallavi says Ranbir keeps up with Tamil films and has ‘library’ of South cinema in his mind",
+      "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "Rape of elderly woman in Thrissur: Kerala High Court upholds prison term of convict",
+      "Delay in reconstruction of Tagore Centenary Hall in Kozhikode worries cultural activists",
       "Waqf Board will support govt.’s efforts to resolve Munambam dispute, says chairperson",
-      "Kerala High Court upholds 10-year jail term for man convicted of raping 73-year-old woman",
       "Thiruvambady Devaswom seeks fresh probe into Thrissur Pooram disruption",
       "3 arrested for loan fraud case in Chennai, duped public of  ₹100 crore in Tamil Nadu, Kerala",
       "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
-    "news_count": 4,
-    "headlines": [
-      "'We Are Indians': Tripura Teen To NDTV On Delhi Influencer's Racist Video",
-      "Delhi Influencer Arrested Over Racist Video Featuring Tripura Man",
-      "Delhi-based creator Amir Shokeen arrested over racial abuse of Tripura youth",
-      "Delhi content creator Amir Shokeen under fire over racial abuse of Tripura youth, Union minister vows action: 'This evil man'"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "WB",
@@ -256,7 +214,59 @@
       "Man beheads wife in Bengal's Bankura, places severed head at temple, kills father too; arrested",
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 3,
+    "headlines": [
+      "Hyderabad to host three-day congress on sickle cell disease, thalassemia from October 23",
+      "‘Rahul Gandhi should become PM’: Revanth Reddy's appeal in Telangana",
+      "Dil Raju calls Ranbir Kapoor ‘Ranveer Singh’ at Ramayana’s grand Hyderabad event; immediately apologizes: “Sorry, Ranbir Kapoor garu!”"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Gurugram Plunges Into Darkness As Electricity Workers Go On Strike",
+      "Power supply hit in Gurugram, Faridabad and Nuh as workers strike over privatisation",
+      "Power department staff begins 3-day strike against private discom in Gurugram, Nuh"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "ULB polls: Andhra Pradesh SEC extends nomination window for Kadapa, Rajampet, Mydukur and Tirupati after SC order",
+      "Guntur team reports phage therapy success against drug-resistant infections",
+      "Two silvers and a bronze: India swimmer completes medal hat-trick in Nagoya"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "TR",
+    "Lat": 23.9408,
+    "Long": 91.9882,
+    "State": "Tripura",
+    "news_count": 3,
+    "headlines": [
+      "Police Case Over Delhi Influencer's Racist Video Against Tripura Teen",
+      "Delhi-based creator Amir Shokeen arrested over racial abuse of Tripura youth",
+      "Delhi content creator Amir Shokeen under fire over racial abuse of Tripura youth, Union minister vows action: 'This evil man'"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "CT",
@@ -265,10 +275,46 @@
     "State": "Chhattisgarh",
     "news_count": 2,
     "headlines": [
-      "6 Killed, 40 Injured As Bus Crashes Into Tree In Chhattisgarh",
+      "Chhattisgarh Police issue show-cause notice to SP Ankita Sharma after video of AK-47 firing goes viral",
       "Chhattisgarh police issue show-cause notice to Rajnandgaon SP over AK-47 firing video at Dussehra event"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "21 years on, double life term for Jammu terror attack that killed baby, 2 others",
+      "RSS Holds Mega Outreach Event In Srinagar, Hosts Divergent Voices"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Centre betrayed us, now want full statehood for Ladakh: Sonam Wangchuk",
+      "‘Deprived of democracy’: Wangchuk says cancelled home ministry meeting has broken Ladakh’s trust"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Punjab Hit As Over 3 Lakh Government Employees, Roadways Workers On Strike",
+      "How Punjab cop in anti-drone unit helped smugglers clear 24 drug deliveries"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "MN",
@@ -280,7 +326,7 @@
       "Sit-ins, mass cease-work mark 3rd day of protest amid Manipur ethnic violence spike",
       "Manipur violence: Protesters’ bid to storm CM's event foiled as tensions escalate"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "AS",
@@ -291,7 +337,7 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "HP",
@@ -302,29 +348,7 @@
     "headlines": [
       "‘Nothing wrong with regime change’, Neha Bora tells Delhi HC; cops counter her"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 1,
-    "headlines": [
-      "Power department staff begins 3-day strike against private discom in Gurugram, Nuh"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 1,
-    "headlines": [
-      "How Punjab cop in anti-drone unit helped smugglers clear 24 drug deliveries"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "MP",
@@ -335,7 +359,18 @@
     "headlines": [
       "Bypoll to Madhya Pradesh Rajya Sabha seat vacated by L Murugan on November 12: Election Commission"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 1,
+    "headlines": [
+      "NLC India plans ₹35,000-crore Odisha power plant, explores coal gasification and mineral processing"
+    ],
+    "last_updated": "2026-10-23 02:31:44 AM"
   },
   {
     "Code": "UP",
@@ -346,17 +381,6 @@
     "headlines": [
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-22 11:16:49 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 1,
-    "headlines": [
-      "‘Deprived of democracy’: Wangchuk says cancelled home ministry meeting has broken Ladakh’s trust"
-    ],
-    "last_updated": "2026-10-22 11:16:49 PM"
+    "last_updated": "2026-10-23 02:31:44 AM"
   }
 ]
