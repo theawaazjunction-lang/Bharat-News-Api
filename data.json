@@ -4,8 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 41,
+    "news_count": 42,
     "headlines": [
+      "Trump votes in Florida midterms, defends controversial ad, doubles down on Iran",
+      "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress",
       "Congress alleges attack on Christian families in Bengal, writes to Amit Shah",
       "'Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark",
       "Delhi school death: Police recover 3-page suicide note, breakup angle under probe",
@@ -41,14 +43,13 @@
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Taiwan ambassador praises Ranveer's 'Dhurandhar' at Taiwan Film Festival in New Delhi",
-      "Kajol durga puja: Actor shares festive montage with family",
       "Saif Ali Khan sells Bandra west apartment for Rs 4.11 crores",
       "Diljit Dosanjh’s Aura India Tour hits roadblock as Delhi Police deny permission for October 30 concert",
       "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala",
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer",
       "Butterflies Rebound After Restoration: Ex-wheat farm records 5,290 in 2026; rare species appear"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "MH",
@@ -74,7 +75,7 @@
       "Security beefed up outside Salman Khan’s Galaxy Apartment after Tiger Shroff firing incident",
       "Police Company release date: Ram Gopal Varma’s crime saga starring Harshvardhan Rane to hit theatres on June 4, 2027"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "UP",
@@ -93,7 +94,7 @@
       "PM Modi to visit Uttar Pradesh and Odisha on October 25",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "TN",
@@ -111,7 +112,25 @@
       "IMD warns of heavy rainfall over several Tamil Nadu districts",
       "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 8,
+    "headlines": [
+      "No EC nod needed for voter to sue candidate over false information: Supreme Court",
+      "West Graduates’ Constituency: Counting staff told to ensure transparency",
+      "Karnataka government plans discounted fares for Golden Chariot tourist train during off-season",
+      "Congress asks Karnataka govt to probe alleged sting bids on CMs Shivakumar, Satheesan: Report",
+      "Karnataka CM clears prosecution of IAS officer over alleged KPSC exam paper leak: ‘No room for corruption’",
+      "All criticism not a threat: Karnataka HC issues guidelines on cases over social media posts",
+      "Siddaramaiah's son blames Congress members amid sting operation row in Karnataka",
+      "Karnataka flour mills seek higher wheat allocation under OMSS"
+    ],
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "WB",
@@ -129,7 +148,7 @@
       "Rivalry among TMC factions in focus as parties gear up for Bengal civic polls",
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "KL",
@@ -146,24 +165,7 @@
       "Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses",
       "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 7,
-    "headlines": [
-      "West Graduates’ Constituency: Counting staff told to ensure transparency",
-      "Karnataka government plans discounted fares for Golden Chariot tourist train during off-season",
-      "Congress asks Karnataka govt to probe alleged sting bids on CMs Shivakumar, Satheesan: Report",
-      "Karnataka CM clears prosecution of IAS officer over alleged KPSC exam paper leak: ‘No room for corruption’",
-      "All criticism not a threat: Karnataka HC issues guidelines on cases over social media posts",
-      "Siddaramaiah's son blames Congress members amid sting operation row in Karnataka",
-      "Karnataka flour mills seek higher wheat allocation under OMSS"
-    ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "AP",
@@ -179,7 +181,7 @@
       "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 26",
       "Five killed in accidental blast during road construction work in Andhra Pradesh"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "RJ",
@@ -195,7 +197,7 @@
       "Today’s Gold Rate in India October 24: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur",
       "IPL 2027: Steffan Jones joins Mumbai Indians as bowling consultant"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "OD",
@@ -210,7 +212,7 @@
       "PM Modi to visit Uttar Pradesh and Odisha on October 25",
       "Indian Super League: Ajaraie misses last-gasp penalty as Odisha hold NEUFC"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "UT",
@@ -224,7 +226,7 @@
       "Daler Mehndi’s son breaks silence on Uttarakhand minister row: 'God takes care of the rest'",
       "Daler Mehndi controversy: FWICE writes to PM Narendra Modi, Uttarakhand CM Pushkar Singh Dhami after minister’s alcohol allegation"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "MP",
@@ -238,7 +240,7 @@
       "Activist Amit Bhatnagar ends 27-day protest against Ken-Betwa link project on Madhya Pradesh Congress leader's request",
       "Taiwan ambassador praises Ranveer's 'Dhurandhar' at Taiwan Film Festival in New Delhi"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "BR",
@@ -251,7 +253,7 @@
       "CBI arrests Satyendra Kumar, wanted in Bihar fodder case for 25 years, at Lucknow railway station",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "GJ",
@@ -264,7 +266,20 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "Daughter’s inheritance rights can’t be defeated by limitation: J&amp;K and Ladakh HC",
+      "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance",
+      "Sonam Wangchuk slams Ladakh administration's stand over institute's land lease cancellation"
+    ],
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "HR",
@@ -277,7 +292,33 @@
       "Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India",
       "Haryana power employees call off strike after government moves to block license to Gurugram private firm"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Interview | ‘AAP had 4.5 years to end drug menace, gangsterism in Punjab’: Pilot",
+      "Punjab man shot dead during argument over parking spot with neighbours in Amritsar",
+      "Punjab passes resolution against CEC Gyanesh Kumar, seeks independent probe into ‘irregularities’"
+    ],
+    "last_updated": "2026-10-25 05:23:33 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 3,
+    "headlines": [
+      "Suspicious pigeon with coded ring, Pak currency causes a flutter in Jammu",
+      "'Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark",
+      "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology"
+    ],
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "AS",
@@ -289,7 +330,7 @@
       "Assam to confer first Bhupen Hazarika National Award on singer Usha Mangeshkar on Nov 29",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "MN",
@@ -301,43 +342,7 @@
       "Congress names election war room heads for five states going to polls in 2027",
       "Manipur SoO pact with Kuki groups not extended, says Konthoujam amid crackdown after 3 Meitei killed"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "Punjab man shot dead during argument over parking spot with neighbours in Amritsar",
-      "Punjab passes resolution against CEC Gyanesh Kumar, seeks independent probe into ‘irregularities’"
-    ],
-    "last_updated": "2026-10-25 02:50:30 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance",
-      "Sonam Wangchuk slams Ladakh administration's stand over institute's land lease cancellation"
-    ],
-    "last_updated": "2026-10-25 02:50:30 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 2,
-    "headlines": [
-      "'Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark",
-      "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology"
-    ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "JH",
@@ -348,7 +353,7 @@
     "headlines": [
       "BFI power struggle deepens ahead of October 28 meeting; Boxing fraternity calls for unity"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   },
   {
     "Code": "TG",
@@ -359,6 +364,6 @@
     "headlines": [
       "Telangana to unveil new Aerospace and Defence Policy 2.0  soon, says Revanth"
     ],
-    "last_updated": "2026-10-25 02:50:30 AM"
+    "last_updated": "2026-10-25 05:23:33 AM"
   }
 ]
