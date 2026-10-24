@@ -4,13 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 49,
+    "news_count": 51,
     "headlines": [
+      "Israel launches ‘limited counterterrorism’ op after 2 IDF troops killed in West Bank",
       "Northwest India turned drier, south wetter over 70 years, finds IMD study",
       "After Op Sindoor friction, Delhi &amp; Baku reset ties with EAM Jaishankar's visit",
       "Netanyahu orders sweeping West Bank offensive after deadly Hebron attack",
       "Delhi HC rejects AISA chief Neha Bora's plea against notice to sign peace bond",
       "48 Delhi Villages To Get Urban Status: What It Means For Their Residents",
+      "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+      "Kolkata stampede: Death in the time of Durga Puja",
       "Cyclonic storm likely to hit North Andhra Pradesh coast on October 28, says IMD",
       "Delhi High Court rejects Neha Bora's plea against police notice to sign peace bond",
       "Navy to host Indo-Pacific Regional Dialogue in New Delhi from November 3",
@@ -47,7 +50,6 @@
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Why Bavuma turned away during Smith's catch? SA captain explains viral reaction",
-      "First time in 72 years! Harmeet, Yashaswini assure historic Asian TT medal for India",
       "Jithu Madhavan addresses fan theories about Suriya’s character in ‘Scene’",
       "Big B's home and Diljit's concert named in threat email",
       "Saif Ali Khan sells Bandra west apartment for Rs 4.11 crores",
@@ -56,30 +58,7 @@
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer",
       "Butterflies Rebound After Restoration: Ex-wheat farm records 5,290 in 2026; rare species appear"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 13,
-    "headlines": [
-      "Tom Brady donates $170,000 speaking fee to charity",
-      "Girl's Family Objects To His Advances, Man Murders Her Mother In Tamil Nadu",
-      "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
-      "‘Gem Granites’ Veeramani’s daughter detained from aircraft by SIT",
-      "Vijay congratulates T.N. medallists of 5th Asian Para Games",
-      "TN school principal, teacher, 2 students booked after Class 11 Dalit boy found dead in Coimbatore",
-      "Second Puzhal prison escapee arrested near Chennai home, 7 prison officials suspended",
-      "Kashi Tamil Sangamam 5.0 to focus on promotion of classical text Thirukkural",
-      "Chennai airport ATF tax cut to 16% from 29%; rate slashed to 1% for other TN airports",
-      "Anirudh-Kavya’s wedding reception: Sonia Gandhi, Nirmala Sitharaman invited",
-      "Samantha calls Tamil Nadu CM Vijay her 'lucky charm': 'Worked with him in three superhits'",
-      "Vadivelu explains why he built a home reportedly worth Rs 100 crore",
-      "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
-    ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "MH",
@@ -88,9 +67,9 @@
     "State": "Maharashtra",
     "news_count": 13,
     "headlines": [
+      "Students protest against SIR at Mumbai University, demand arrest of CEC Gyanesh Kumar",
       "Bomb threat emails to Mumbai Mayor’s office, three Navi Mumbai schools trigger security alert",
       "Telangana CM asks officials to be prepared to convince Maharashtra for 152 m FRL barrage at Tummidihatti",
-      "Maharashtra CM Devendra Fadnavis breaks silence over ₹500 crore claim by Maratha activist",
       "Threat email to Mumbai Mayor mentions Amitabh Bachchan and Diljit Dosanjh concert, , cops find nothing suspicious",
       "Livestock sector estimates 17% drop in kharif maize output due to drought in Karnataka, Maharashtra",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
@@ -102,7 +81,28 @@
       "Police Company release date: Ram Gopal Varma’s crime saga starring Harshvardhan Rane to hit theatres on June 4, 2027",
       "Aamir Khan met Raj Thackeray for THIS reason; childhood friendship and family milestone behind the visit"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 11,
+    "headlines": [
+      "Tom Brady donates $170,000 speaking fee to charity",
+      "Girl's Family Objects To His Advances, Man Murders Her Mother In Tamil Nadu",
+      "CREDAI Chennai sets up anti-corruption panel, frames SOP for reporting graft",
+      "‘Gem Granites’ Veeramani’s daughter detained from aircraft by SIT",
+      "Vijay congratulates T.N. medallists of 5th Asian Para Games",
+      "TN school principal, teacher, 2 students booked after Class 11 Dalit boy found dead in Coimbatore",
+      "Second Puzhal prison escapee arrested near Chennai home, 7 prison officials suspended",
+      "Kashi Tamil Sangamam 5.0 to focus on promotion of classical text Thirukkural",
+      "Chennai airport ATF tax cut to 16% from 29%; rate slashed to 1% for other TN airports",
+      "Anirudh-Kavya’s wedding reception: Sonia Gandhi, Nirmala Sitharaman invited",
+      "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
+    ],
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "KA",
@@ -118,39 +118,7 @@
       "Bengaluru hit by magnitude 3 earthquake, disaster agency says no need to panic",
       "Karnataka asks hospitals to reveal medicine purchase prices, display procedure costs"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 6,
-    "headlines": [
-      "Telangana CM asks officials to be prepared to convince Maharashtra for 152 m FRL barrage at Tummidihatti",
-      "853 persons donate blood as part of Police Commemoration Week in Adilabad",
-      "TVK-led bloc, DMK walk out of ECI meeting in Tamil Nadu, seek CEC’s resignation",
-      "Telangana to host first state-organised defence and aerospace expo, curtain-raiser on Saturday",
-      "Anirudh-Kavya’s wedding reception: Sonia Gandhi, Nirmala Sitharaman invited",
-      "Dil Raju calls Ranbir Kapoor ‘Ranveer Singh’ at Ramayana’s grand Hyderabad event; immediately apologizes: “Sorry, Ranbir Kapoor garu!”"
-    ],
-    "last_updated": "2026-10-24 04:16:39 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "No local body polls in Amaravati capital region villages of Andhra Pradesh",
-      "Local body polls: 14 cases booked on the last day of nominations, says Andhra Pradesh DGP",
-      "Cyclonic storm likely to hit North Andhra Pradesh coast on October 28, says IMD",
-      "Cyclone likely to form over Bay of Bengal in few days, rain alert for Andhra Pradesh, Odisha: IMD",
-      "Andhra Pradesh revises urban local body election schedule after Supreme Court directive",
-      "BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%"
-    ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "UP",
@@ -166,7 +134,38 @@
       "Fodder scam accused arrested after 25 years; CBI traces trail to Nepal",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 6,
+    "headlines": [
+      "No local body polls in Amaravati capital region villages of Andhra Pradesh",
+      "Local body polls: 14 cases booked on the last day of nominations, says Andhra Pradesh DGP",
+      "Cyclonic storm likely to hit North Andhra Pradesh coast on October 28, says IMD",
+      "Cyclone likely to form over Bay of Bengal in few days, rain alert for Andhra Pradesh, Odisha: IMD",
+      "Andhra Pradesh revises urban local body election schedule after Supreme Court directive",
+      "BPCL Q2 Results: Net profit declines 21% YoY to Rs 4,863 crore, revenue grows 29%"
+    ],
+    "last_updated": "2026-10-24 06:46:27 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
+    "headlines": [
+      "Telangana CM asks officials to be prepared to convince Maharashtra for 152 m FRL barrage at Tummidihatti",
+      "TVK-led bloc, DMK walk out of ECI meeting in Tamil Nadu, seek CEC’s resignation",
+      "Telangana to host first state-organised defence and aerospace expo, curtain-raiser on Saturday",
+      "Anirudh-Kavya’s wedding reception: Sonia Gandhi, Nirmala Sitharaman invited",
+      "Dil Raju calls Ranbir Kapoor ‘Ranveer Singh’ at Ramayana’s grand Hyderabad event; immediately apologizes: “Sorry, Ranbir Kapoor garu!”"
+    ],
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "UT",
@@ -181,7 +180,7 @@
       "Daler Mehndi controversy: FWICE writes to PM Narendra Modi, Uttarakhand CM Pushkar Singh Dhami after minister’s alcohol allegation",
       "Mika Singh DEFENDS Daler Mehndi amid Uttarakhand event controversy, reveals he had a big operation recently: “Have you ever seen a glass of alcohol in his hand”"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "AR",
@@ -195,7 +194,7 @@
       "At least 4 women injured in police tear gas shelling on anti-dam protesters in Arunachal Pradesh",
       "12-hour shutdown hits 3 Arunachal Pradesh districts over 10 detained dam protesters"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "KL",
@@ -209,7 +208,7 @@
       "Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses",
       "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "BR",
@@ -223,20 +222,34 @@
       "CBI arrests Satyendra Kumar, wanted in Bihar fodder case for 25 years, at Lucknow railway station",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
+    "headlines": [
+      "Kolkata stampede: Death in the time of Durga Puja",
+      "Bomb threat note in Kolkata airport toilet triggers search; flight ops unaffected",
+      "Kolkata Durga Puja stampede: SIT zeroes in on narrow exit point, dimly lit pathway",
+      "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer"
+    ],
+    "last_updated": "2026-10-24 06:46:27 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 3,
     "headlines": [
-      "Chhattisgarh man raped, killed 7-year-old girl; sniffer dog leads to his house: Police",
-      "Leaving pain of Naxal violence behind, Chhattisgarh now progressing rapidly: President Murmu",
-      "First time in 72 years! Harmeet, Yashaswini assure historic Asian TT medal for India"
+      "Assam government to present 1st Bhupen Hazarika National Award to Usha Mangeshkar: Himanta",
+      "Assam to confer first Bhupen Hazarika National Award on singer Usha Mangeshkar on Nov 29",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "GJ",
@@ -249,32 +262,19 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 3,
-    "headlines": [
-      "Bomb threat note in Kolkata airport toilet triggers search; flight ops unaffected",
-      "Kolkata Durga Puja stampede: SIT zeroes in on narrow exit point, dimly lit pathway",
-      "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer"
-    ],
-    "last_updated": "2026-10-24 04:16:39 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
     "news_count": 2,
     "headlines": [
-      "Assam to confer first Bhupen Hazarika National Award on singer Usha Mangeshkar on Nov 29",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "Chhattisgarh man raped, killed 7-year-old girl; sniffer dog leads to his house: Police",
+      "Leaving pain of Naxal violence behind, Chhattisgarh now progressing rapidly: President Murmu"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "MN",
@@ -286,7 +286,7 @@
       "Manipur SoO pact with Kuki groups not extended, says Konthoujam amid crackdown after 3 Meitei killed",
       "Satellite-tagged Amur falcons complete round-trip migration across 23 countries, return to Manipur"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "PB",
@@ -298,7 +298,7 @@
       "Punjab House passes resolution against electoral irregularities",
       "Naman Dhir's rise: How the 'jugaadu' cricketer carved his space"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "OD",
@@ -310,7 +310,7 @@
       "Cyclone likely to form over Bay of Bengal in few days, rain alert for Andhra Pradesh, Odisha: IMD",
       "Odisha attracts ₹53,893 crore investment proposals at India Chem 2026, expects 20,210 jobs"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "MP",
@@ -321,7 +321,7 @@
     "headlines": [
       "Fodder scam accused arrested after 25 years; CBI traces trail to Nepal"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "ML",
@@ -332,7 +332,7 @@
     "headlines": [
       "Meghalaya Speaker Recognises 3 UDP MLAs' Merger With Conrad Sangma's Party"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "RJ",
@@ -343,7 +343,7 @@
     "headlines": [
       "Keralam offers to host Raihan Vadra's photo exhibition without exceptions amid Bikaner House row"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "TR",
@@ -354,7 +354,7 @@
     "headlines": [
       "Delhi Police arrest content creator Amir Shokeen over alleged racial jibes against Tripura man"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   },
   {
     "Code": "LA",
@@ -365,6 +365,6 @@
     "headlines": [
       "Talks between Ladakh groups, MHA fail to resume amid rift over govt. proposal"
     ],
-    "last_updated": "2026-10-24 04:16:39 AM"
+    "last_updated": "2026-10-24 06:46:27 AM"
   }
 ]
