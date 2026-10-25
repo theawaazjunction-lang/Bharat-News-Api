@@ -4,11 +4,10 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 32,
+    "news_count": 31,
     "headlines": [
-      "Jamia protest: FIR against oppn MPs for trespassing on campus",
       "Rocket founder Dan Gilbert forgoes profits on $2.2 billion Detroit redevelopment",
-      "Delhi Records Month's Lowest Minimum Temperature At 17 Degrees Celsius",
+      "Jamia protest: FIR against oppn MPs for trespassing on campus",
       "Three North Andhra districts step up cyclone preparedness",
       "Why has West Bengal cleared land for the BSF now? | Explained",
       "Eminent painter Jogen Chowdhury passes away at 87",
@@ -39,7 +38,7 @@
       "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala",
       "Butterflies Rebound After Restoration: Ex-wheat farm records 5,290 in 2026; rare species appear"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "MH",
@@ -65,15 +64,16 @@
       "Tiger Shroff resumes shooting of Lag Jaa Gale two days after firing incident: Report",
       "Security beefed up outside Salman Khan’s Galaxy Apartment after Tiger Shroff firing incident"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 8,
+    "news_count": 9,
     "headlines": [
+      "EC refuses to give details of SIR software, cites ‘trade secrets, IPR'",
       "A Korean cultural evening in Hyderabad, with a distinctly Telangana touch",
       "Telangana government to divert Godavari water to areas dependent on depleting Singur, Manjira reservoirs",
       "Why is Rahul Gandhi silent on his promises to Telangana youth: KTR",
@@ -83,7 +83,7 @@
       "Hundreds demand removal of Gyanesh Kumar in anti-SIR protest in Hyderabad",
       "TGSRTC launches ₹600 weekly bus pass for unlimited travel within Greater Hyderabad limits"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "UP",
@@ -100,7 +100,7 @@
       "Two Varanasi-bound IndiGo flights diverted to Lucknow due to air show",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "KL",
@@ -117,7 +117,24 @@
       "Ranji Trophy: Bengal look for hat-trick of wins as Kerala host table-toppers",
       "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
+      "ISKCON unveils 800-kg robotic elephant in Visakhapatnam",
+      "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
+      "AP JAC Amaravati women’s wing seeks two years of childcare leave for women employees",
+      "7 killed as diesel truck explodes during fuel transfer in Andhra Pradesh",
+      "IMD Update: Very severe cyclone threat for Bapatla-Vizag coast in Andhra Pradesh",
+      "Virat-Anushka attend Krishndas concert in Mumbai, chant harinam, groove: VIDEOS"
+    ],
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "KA",
@@ -133,23 +150,7 @@
       "Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg",
       "'This is Sachin, this is Dravid': How Manvanth Kumar fell in love with cricket"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "ISKCON unveils 800-kg robotic elephant in Visakhapatnam",
-      "Monsoon tracker LIVE: Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-      "Depression over Bay of Bengal set to become ‘very severe cyclonic storm’, cross A.P. coast by October 28",
-      "AP JAC Amaravati women’s wing seeks two years of childcare leave for women employees",
-      "7 killed as diesel truck explodes during fuel transfer in Andhra Pradesh",
-      "IMD Update: Very severe cyclone threat for Bapatla-Vizag coast in Andhra Pradesh"
-    ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "TN",
@@ -164,7 +165,7 @@
       "Landslides rock Tamil Nadu's Nilgiris and Coimbatore as house gets washed away, bus driver dies",
       "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "OD",
@@ -178,7 +179,7 @@
       "IMD Update: Very severe cyclone threat for Bapatla-Vizag coast in Andhra Pradesh",
       "Ranji Trophy: Bengal look for hat-trick of wins as Kerala host table-toppers"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "RJ",
@@ -192,7 +193,7 @@
       "5 of family among 6 killed in Rajasthan car-truck collision, infant sole survivor",
       "Hacker group claims to have accessed 86.3 lakh Rajasthan police emails; probe on"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "UT",
@@ -206,7 +207,7 @@
       "Daler Mehndi row ends? Minister Subodh Uniyal apologises over phone",
       "Daler Mehndi controversy: FWICE writes to PM Narendra Modi, Uttarakhand CM Pushkar Singh Dhami after minister’s alcohol allegation"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "WB",
@@ -220,21 +221,7 @@
       "Jogen Chowdhury, celebrated Indian painter and former TMC Rajya Sabha MP, dies at 87",
       "Chorbagan Durga idol immersed without customary rituals Debi Boron or Sindoor Khela a week after stampede"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 4,
-    "headlines": [
-      "‘Grabbed hair, tore shirt’: Patient attacks doctor, hospital staff in Punjab",
-      "On Camera, Man Seen Swaying Under Influence Of Drugs In Punjab's Jalandhar",
-      "Akal Takht Head Calls For Prayer For Murdered Punjab Activist's Family",
-      "Punjab man shot dead during argument over parking spot with neighbours in Amritsar"
-    ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "MN",
@@ -247,7 +234,20 @@
       "Manipur to form committee of 36 communities to promote peace and harmony, says CM",
       "At least 150 Kuki militants missing from Manipur camp, security agencies alert Centre"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "‘Grabbed hair, tore shirt’: Patient attacks doctor, hospital staff in Punjab",
+      "On Camera, Man Seen Swaying Under Influence Of Drugs In Punjab's Jalandhar",
+      "Punjab man shot dead during argument over parking spot with neighbours in Amritsar"
+    ],
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "BR",
@@ -260,7 +260,7 @@
       "NICDC launches Bihar Integrated Manufacturing City Gaya Limited, signs 12 MoUs worth ₹4,200 crore",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "AR",
@@ -272,7 +272,7 @@
       "Centre dispatches 250 RAF personnel to Arunachal Pradesh as Siang hydropower project protest turns violent",
       "Centre rushes 2 RAF companies to violence-hit Arunachal Pradesh"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "AS",
@@ -284,7 +284,7 @@
       "Assam CM Himanta Biswa Sarma, cabinet ministers dance to Gangnam Style, AI-generated video crosses 2.5 million views",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "GJ",
@@ -296,7 +296,19 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "15 Shops, A Hotel Destroyed In Jammu Market Fire, Losses Estimated In Crores",
+      "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology"
+    ],
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "PY",
@@ -308,19 +320,7 @@
       "Many places in T.N., Puducherry likely to receive moderate rain on October 26",
       "Depression over Bay of Bengal intensifies, cyclone warning issued at 9 Tamil Nadu, Puducherry ports"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "‘He abused us’: Navy man’s wife, 3 children consume rat poison in Faridabad",
-      "Elvish Yadav home firing, 58 cases: Why STF wants Himanshu Bhau back"
-    ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "MP",
@@ -332,7 +332,7 @@
       "A taste of crocodile in Thailand lands Madhya Pradesh civic officer in hot water",
       "Activist Amit Bhatnagar ends 27-day protest against Ken-Betwa link project on Madhya Pradesh Congress leader's request"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "MZ",
@@ -344,7 +344,18 @@
       "6 arrested, over 1,400 bank accounts frozen in Manipur, Mizoram as ED busts cross-border ‘narco-hawala’ scam",
       "Amit Shah hails ‘another lethal blow’ as Operation Trident strikes drug cartels across Assam, Manipur, Mizoram"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 1,
+    "headlines": [
+      "‘He abused us’: Navy man’s wife, 3 children consume rat poison in Faridabad"
+    ],
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "JH",
@@ -355,7 +366,7 @@
     "headlines": [
       "Jharkhand BJP unanimously passes political resolution at State Executive Committee meeting"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "NL",
@@ -366,18 +377,7 @@
     "headlines": [
       "President Droupadi Murmu gives assent to Frontier Nagaland Territorial Authority Bill"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 1,
-    "headlines": [
-      "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology"
-    ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   },
   {
     "Code": "LA",
@@ -388,6 +388,6 @@
     "headlines": [
       "Ladakh becomes India’s first fully organic union territory"
     ],
-    "last_updated": "2026-10-26 12:57:46 AM"
+    "last_updated": "2026-10-26 03:42:13 AM"
   }
 ]
