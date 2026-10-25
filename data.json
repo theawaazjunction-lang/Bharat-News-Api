@@ -4,15 +4,13 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 42,
+    "news_count": 40,
     "headlines": [
       "Trump votes in Florida midterms, defends controversial ad, doubles down on Iran",
       "Defer Nov 1 rally, will hit festive business, traders urge Rahul; BJP raps Congress",
       "Congress alleges attack on Christian families in Bengal, writes to Amit Shah",
       "'Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark",
       "Delhi school death: Police recover 3-page suicide note, breakup angle under probe",
-      "Amit Shah visits Delhi Police HQ amid law and order concerns in Capital",
-      "Pollard doesn't want to see 'yellows and reds', urges MI to put 'team above self'",
       "Probe Agency ED Moves Top Court Against Quashing Of NewsClick Case",
       "Delhi Man Arrested Over 'Sting Op' Video Targeting Siddaramaiah",
       "Mumbai Air 'Very Poor' At 322 As Delhi Records Best October 24 In A Decade",
@@ -26,7 +24,7 @@
       "Amit Shah visits Delhi Police headquarters to take stock of law and order in national capital",
       "West Bengal CM Suvendu Adhikari begins preparations for first Gangasagar Mela under BJP govt",
       "Iran’s parliament speaker Mohammad Bagher Ghalibaf to skip Brics forum in New Delhi",
-      "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 26",
+      "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 27",
       "BJP’s Ravi Shankar Prasad slams Rahul Gandhi over November 1 rally, says date insults Sikhs",
       "Delhi traders urge Rahul Gandhi to postpone INDIA bloc's anti-SIR rally, fear  ₹10,000 crore loss",
       "HT Morning Brief October 24: Delhi sees few Form 6 applications amid SIR, Trump issues fresh threat to Iran and more",
@@ -37,11 +35,11 @@
       "SEM court orders CJP's Saurav Das to submit proof of Delhi address in peace bond violation case",
       "4.76 million names dropped from Delhi voter rolls, but just 250,000 Form 6 applications filed",
       "57 FIRs filed in October in Delhi over anti-CEC protests; Crime Branch to probe cases",
-      "Delhi HC rejects Neha Bora's plea against notice to sign peace, 'maintain peace'",
       "Parliamentary Committee on Finance to examine 46 economic issues, including crypto, AI, in FY'27",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Pollard doesn't want to see 'yellows and reds', urges MI to put 'team above self'",
       "Taiwan ambassador praises Ranveer's 'Dhurandhar' at Taiwan Film Festival in New Delhi",
       "Saif Ali Khan sells Bandra west apartment for Rs 4.11 crores",
       "Diljit Dosanjh’s Aura India Tour hits roadblock as Delhi Police deny permission for October 30 concert",
@@ -49,7 +47,7 @@
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer",
       "Butterflies Rebound After Restoration: Ex-wheat farm records 5,290 in 2026; rare species appear"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "MH",
@@ -58,9 +56,9 @@
     "State": "Maharashtra",
     "news_count": 16,
     "headlines": [
-      "Pollard doesn't want to see 'yellows and reds', urges MI to put 'team above self'",
       "Mumbai Air 'Very Poor' At 322 As Delhi Records Best October 24 In A Decade",
       "Missing KRIDL engineer traced to Mumbai after 40 days",
+      "CMFRI supplies five lakh green mussel seeds to fisherfolk and tribal communities in Maharashtra",
       "3-year-old girl dies after boiling milk spills on her while fleeing stray dog in Maharashtra's Beed",
       "EOW issues notices to 11, including Sunetra Pawar’s two OSDs, in Mundhwa land deal case",
       "Mumbai man arrested for posting videos, comments linked to Jaish-e-Mohammed; no Pakistan link found",
@@ -68,14 +66,52 @@
       "Bike taxi riders may have to buy passes as Maharashtra tightens security after attack on Tiger Shroff",
       "Adani Wind bags 696 MW orders from five power producers, third-party book crosses 1 GW",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "IPL 2027: Steffan Jones joins Mumbai Indians as bowling consultant",
+      "Pollard doesn't want to see 'yellows and reds', urges MI to put 'team above self'",
       "Shah Rukh Khan, Deepika Padukone set to shoot grand song for King in Mumbai from October 26: Report",
       "Sonu Sood rents out commercial unit in Mumbai’s Versova for Rs 3.52 crores",
       "Tiger Shroff resumes shooting of Lag Jaa Gale two days after firing incident: Report",
       "Security beefed up outside Salman Khan’s Galaxy Apartment after Tiger Shroff firing incident",
       "Police Company release date: Ram Gopal Varma’s crime saga starring Harshvardhan Rane to hit theatres on June 4, 2027"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 9,
+    "headlines": [
+      "Kerala Blasters get Kochi stadium for ISL home matches at Rs 3.5 lakh per game",
+      "Defence Secretary Rajesh Kumar Singh Gets One-Year Extension",
+      "How is Kerala planning to prevent child deaths linked to malnutrition and neglect? | Explained",
+      "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
+      "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture",
+      "FRAG, bus operators seek bridges parallel to first and third Goshree bridges",
+      "Kerala governor faces row on first day in office over reported ban on non-veg food at Lok Bhavan",
+      "Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses",
+      "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala"
+    ],
+    "last_updated": "2026-10-25 08:02:11 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 9,
+    "headlines": [
+      "Once denied a library, Tamil Nadu man opens one to boost graduates in his community",
+      "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Updates",
+      "Heavy rain to hit Chennai, northern, delta and western districts on Sunday",
+      "Landslides rock Tamil Nadu's Nilgiris and Coimbatore as house gets washed away, bus driver dies",
+      "Centre praises Tamil Nadu CM Vijay’s Aviation Fuel Tax cut: ‘Thank you, Thiru’",
+      "2 students, principal among 4 held over Tamil Nadu student’s suicide",
+      "TN school principal, teacher, 2 students booked after Class 11 Dalit boy found dead in Coimbatore",
+      "IMD warns of heavy rainfall over several Tamil Nadu districts",
+      "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
+    ],
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "UP",
@@ -94,43 +130,7 @@
       "PM Modi to visit Uttar Pradesh and Odisha on October 25",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 8,
-    "headlines": [
-      "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live",
-      "Heavy rain to hit Chennai, northern, delta and western districts on Sunday",
-      "Landslides rock Tamil Nadu's Nilgiris and Coimbatore as house gets washed away, bus driver dies",
-      "Centre praises Tamil Nadu CM Vijay’s Aviation Fuel Tax cut: ‘Thank you, Thiru’",
-      "2 students, principal among 4 held over Tamil Nadu student’s suicide",
-      "TN school principal, teacher, 2 students booked after Class 11 Dalit boy found dead in Coimbatore",
-      "IMD warns of heavy rainfall over several Tamil Nadu districts",
-      "Ramayana Chennai event: Ranbir Kapoor apologizes for achhai-burai slip of tongue; says “Jo bhi main kehna chahoon, barbaad karein alfaaz mere!”"
-    ],
-    "last_updated": "2026-10-25 05:23:33 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
-    "headlines": [
-      "No EC nod needed for voter to sue candidate over false information: Supreme Court",
-      "West Graduates’ Constituency: Counting staff told to ensure transparency",
-      "Karnataka government plans discounted fares for Golden Chariot tourist train during off-season",
-      "Congress asks Karnataka govt to probe alleged sting bids on CMs Shivakumar, Satheesan: Report",
-      "Karnataka CM clears prosecution of IAS officer over alleged KPSC exam paper leak: ‘No room for corruption’",
-      "All criticism not a threat: Karnataka HC issues guidelines on cases over social media posts",
-      "Siddaramaiah's son blames Congress members amid sting operation row in Karnataka",
-      "Karnataka flour mills seek higher wheat allocation under OMSS"
-    ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "WB",
@@ -148,56 +148,57 @@
       "Rivalry among TMC factions in focus as parties gear up for Bengal civic polls",
       "Ramayana: Part 1 tax-free in West Bengal: CM confirms exemption for Ranbir Kapoor starrer"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 8,
     "headlines": [
-      "Kerala Blasters get Kochi stadium for ISL home matches at Rs 3.5 lakh per game",
-      "Defence Secretary Rajesh Kumar Singh Gets One-Year Extension",
-      "Kerala Police book social media influencer Darren for ‘communally divisive hate speech’ on Instagram",
-      "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture",
-      "Kerala governor faces row on first day in office over reported ban on non-veg food at Lok Bhavan",
-      "Shivakumar alleges ‘industrialist’ attempted sting op on him, Kerala CM using Meta glasses",
-      "EXCLUSIVE: Ramayana's South distributors locked; Dil Raju bags Andhra-Telangana, Yash takes Karnataka, Think Studios gets Tamil Nadu, E4 Entertainment acquires Kerala"
+      "No EC nod needed for voter to sue candidate over false information: Supreme Court",
+      "West Graduates’ Constituency: Counting staff told to ensure transparency",
+      "Over 17 lakh applications seeking grant of land remain pending or rejected in Karnataka",
+      "Congress asks Karnataka govt to probe alleged sting bids on CMs Shivakumar, Satheesan: Report",
+      "Karnataka CM clears prosecution of IAS officer over alleged KPSC exam paper leak: ‘No room for corruption’",
+      "All criticism not a threat: Karnataka HC issues guidelines on cases over social media posts",
+      "Siddaramaiah's son blames Congress members amid sting operation row in Karnataka",
+      "Karnataka flour mills seek higher wheat allocation under OMSS"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 6,
+    "news_count": 7,
     "headlines": [
       "Delhi school death: Police recover 3-page suicide note, breakup angle under probe",
       "Andhra Pradesh braces for very severe cyclonic storm; landfall likely between Bapatla and Vizag on October 28",
       "Centre backs A.P.’s semiconductor push, approves rail links for nine ports",
       "Schools in Andhra Pradesh to conduct e-waste collection drive on October 28",
-      "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 26",
+      "7 killed as diesel truck explodes during fuel transfer in Andhra Pradesh",
+      "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 27",
       "Five killed in accidental blast during road construction work in Andhra Pradesh"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "RJ",
     "Lat": 27.0238,
     "Long": 74.2179,
     "State": "Rajasthan",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "Hacker group claims to have accessed 86.3 lakh Rajasthan police emails; probe on",
       "Supreme Court orders Rajasthan to seal illegal discharge points into polluted rivers, recover fines",
       "Polling begins for panch, sarpanch elections in 3,314 gram panchayats in Rajasthan",
       "3 killed, 7 injured as bus carrying pilgrims from Maharashtra crashes into trailer in Rajasthan’s Jaipur",
-      "Today’s Gold Rate in India October 24: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur",
-      "IPL 2027: Steffan Jones joins Mumbai Indians as bowling consultant"
+      "Today’s Gold Rate in India October 24: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "OD",
@@ -206,27 +207,41 @@
     "State": "Odisha",
     "news_count": 5,
     "headlines": [
-      "Schools to be closed, response team on alert as Odisha steps up cyclone preparedness",
-      "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 26",
+      "Andhra braces for very severe cyclonic storm; Odisha activates disaster mitigation machinery | LIVE",
+      "Andhra Pradesh, Odisha on alert as IMD warns of very severe cyclonic storm over Bay of Bengal by October 27",
       "Odisha doctor who served tribals arrested; police allege instigation, Congress slams ‘anti-mining crackdown’",
       "PM Modi to visit Uttar Pradesh and Odisha on October 25",
       "Indian Super League: Ajaraie misses last-gasp penalty as Odisha hold NEUFC"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 4,
     "headlines": [
-      "Congress names election war room heads for five states going to polls in 2027",
-      "Uttarakhand helicopter carrying 6 passengers makes precautionary landing after technical snag",
-      "Daler Mehndi’s son breaks silence on Uttarakhand minister row: 'God takes care of the rest'",
-      "Daler Mehndi controversy: FWICE writes to PM Narendra Modi, Uttarakhand CM Pushkar Singh Dhami after minister’s alcohol allegation"
+      "Suspicious pigeon with coded ring, Pak currency causes a flutter in Jammu",
+      "'Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark",
+      "Sajjan Singh Yadav appointed chief secretary of Jammu and Kashmir",
+      "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 4,
+    "headlines": [
+      "iPhone, Jeans, Toothpaste: Gujarat Delivery Agent Steals Rs 4-Lakh Parcels",
+      "Adani Wind bags 696 MW orders from five power producers, third-party book crosses 1 GW",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "MP",
@@ -240,7 +255,20 @@
       "Activist Amit Bhatnagar ends 27-day protest against Ken-Betwa link project on Madhya Pradesh Congress leader's request",
       "Taiwan ambassador praises Ranveer's 'Dhurandhar' at Taiwan Film Festival in New Delhi"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 3,
+    "headlines": [
+      "Manipur to form committee representing all 36 communities for unity: Yumnam Khemchand",
+      "At least 150 Kuki militants missing from Manipur camp, security agencies alert Centre",
+      "Congress names election war room heads for five states going to polls in 2027"
+    ],
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "BR",
@@ -253,20 +281,20 @@
       "CBI arrests Satyendra Kumar, wanted in Bihar fodder case for 25 years, at Lucknow railway station",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 3,
     "headlines": [
-      "Adani Wind bags 696 MW orders from five power producers, third-party book crosses 1 GW",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
+      "Congress names election war room heads for five states going to polls in 2027",
+      "Uttarakhand helicopter carrying 6 passengers makes precautionary landing after technical snag",
+      "Daler Mehndi controversy: FWICE writes to PM Narendra Modi, Uttarakhand CM Pushkar Singh Dhami after minister’s alcohol allegation"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "LA",
@@ -279,20 +307,7 @@
       "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance",
       "Sonam Wangchuk slams Ladakh administration's stand over institute's land lease cancellation"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Haryana student beaten with iron rods; CCTV captures 50 blows in a minute",
-      "Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India",
-      "Haryana power employees call off strike after government moves to block license to Gurugram private firm"
-    ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "PB",
@@ -305,44 +320,41 @@
       "Punjab man shot dead during argument over parking spot with neighbours in Amritsar",
       "Punjab passes resolution against CEC Gyanesh Kumar, seeks independent probe into ‘irregularities’"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 3,
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
     "headlines": [
-      "Suspicious pigeon with coded ring, Pak currency causes a flutter in Jammu",
-      "'Act of treason': BJP guns for Farooq Abdullah over 'Pak protecting Kashmiris' remark",
-      "Farooq Abdullah's remarks on Pakistan, Kashmiris spark row; BJP demands apology"
+      "Wanted gangster Himanshu Bhau in US immigration custody, faces multiple murder cases in India",
+      "Haryana power employees call off strike after government moves to block license to Gurugram private firm"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Violent protests in Arunachal against Siang dam; MLAs’ homes looted, NHPC set ablaze"
+    ],
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 2,
+    "news_count": 1,
     "headlines": [
-      "Assam to confer first Bhupen Hazarika National Award on singer Usha Mangeshkar on Nov 29",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
-    "headlines": [
-      "Congress names election war room heads for five states going to polls in 2027",
-      "Manipur SoO pact with Kuki groups not extended, says Konthoujam amid crackdown after 3 Meitei killed"
-    ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "JH",
@@ -353,7 +365,7 @@
     "headlines": [
       "BFI power struggle deepens ahead of October 28 meeting; Boxing fraternity calls for unity"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   },
   {
     "Code": "TG",
@@ -364,6 +376,6 @@
     "headlines": [
       "Telangana to unveil new Aerospace and Defence Policy 2.0  soon, says Revanth"
     ],
-    "last_updated": "2026-10-25 05:23:33 AM"
+    "last_updated": "2026-10-25 08:02:11 AM"
   }
 ]
