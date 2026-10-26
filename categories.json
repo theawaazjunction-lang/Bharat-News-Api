@@ -1,119 +1,110 @@
 {
   "general": [
     {
-      "title": "Brazil’s Lula wins re-election, defeating Trump ally Bolsonaro",
+      "title": "EC refuses to give details of SIR software, cites ‘trade secrets, IPR'",
+      "description": "Election Commission of India declined to share the name of the software used for identifying electoral roll errors. The request for information was made under the Right to Information Act. A social activist from Telangana sought details about the software and algorithms used in the process. The Comm",
+      "url": "https://timesofindia.indiatimes.com/india/ec-refuses-to-give-details-of-sir-software-cites-trade-secrets-ipr/articleshow/135197575.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135197584,imgsize-98916.cms",
+      "publishedAt": "Mon, 26 Oct 2026 03:04:41 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "After 2 decades, Jamia Millia Islamia announces resumption of student union elections",
+      "description": "Jamia Millia Islamia has ordered the holding of students' union elections within 15 days after constitutional approval. The university revoked disciplinary actions taken against students during recent protests and issued an inquiry into security conduct. Protesting students will publicly apologize f",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/after-two-decades-jamia-millia-islamia-orders-student-union-polls-within-15-days-of-constitution-approval-students-reject-move-vow-to-continue-stir/articleshow/135202862.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135203016,imgsize-137246.cms",
+      "publishedAt": "Mon, 26 Oct 2026 10:18:51 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Utilizing Iran for politics': IDF chief, Netanyahu clash over military action",
+      "description": "Tension brews within Israel's leadership as Prime Minister Benjamin Netanyahu and IDF chief Eyal Zamir disagree on possible military action against Iran. This clash before elections raises eyebrows about political motives behind military strategies. Netanyahu highlights the imminent threat Iran pose",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/utilizing-iran-for-politics-idf-chief-netanyahu-clash-over-military-action-ahead-of-israel-elections-report/articleshow/135201942.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202003,imgsize-66874.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:13:44 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Just one run short! Devdutt Padikkal falls for 199; reaction to umpire goes viral",
+      "description": "Devdutt Padikkal fell one run short of a double century during the first unofficial Test match. He was dismissed for 199 runs after an appealed catch decision by the umpire. Padikkal's innings helped India A recover from an early collapse in their second innings. India A had been bowled out for 113 ",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/just-one-run-short-devdutt-padikkal-falls-for-199-reaction-to-umpire-goes-viral-watch/articleshow/135202328.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202498,imgsize-25745.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:35:38 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'Had enough': Thousands protest in Prague against Czech govt's media funding overhaul",
+      "description": "Thousands gathered in Prague to protest government proposals affecting public television and radio funding. The planned changes would replace licence fees with state budget allocations, raising concerns about media independence. Critics argue that these measures may expose broadcasters to political ",
+      "url": "https://timesofindia.indiatimes.com/world/europe/had-enough-thousands-protest-in-prague-against-czech-governments-public-media-funding-overhaul/articleshow/135200971.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201451,imgsize-191850.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:27:55 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Google CEO Sundar Pichai admits that cloud business is forgoing short-term revenues",
+      "description": "In a strategic pivot, Google has prioritized its computing resources for Artificial Intelligence (AI) research, even as the demand for its cloud services surges. CEO Sundar Pichai acknowledged that this focus could hinder short-term cloud revenue, as powerful AI models consume substantial computatio",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-ceo-sundar-pichai-admits-that-cloud-business-is-forgoing-short-term-revenues-to-make-up-for-/articleshow/135201548.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201573,imgsize-47589.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:31:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "BJP files police complaint against Kharge over 'baap' remark targeting PM Modi",
+      "description": "Bharatiya Janata Party has lodged a police complaint against Congress president Mallikarjun Kharge in Patna. The complaint relates to Kharge's remarks about Prime Minister Modi during an event during 139th birth anniversary Bihar's first CM, Shrikrishna Singh. Krishna Kumar Singh, a BJP worker, dema",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-files-police-complaint-against-kharge-over-baap-remark-targeting-pm-modi/articleshow/135202464.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202599,imgsize-115328.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:47:39 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Kentucky widow rejects will after 54 years; court halts mental capacity probe",
+      "description": "A Kentucky appeals court ruled that a district court could not investigate Tamara Williams' mental capacity claim. The dispute arose over her choice to reject her late husband Julian D. Williams' will for a statutory share. After her husband's death, Tamara's decision was contested by his stepchildr",
+      "url": "https://timesofindia.indiatimes.com/world/us/after-54-years-of-marriage-a-kentucky-widow-rejected-her-husbands-will-to-claim-more-of-his-estate-his-children-from-a-prior-marriage-challenged-her-mental-capacity-but-an-october-23-court-halted-the-probate-inquiry/articleshow/135197365.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135197457,imgsize-887539.cms",
+      "publishedAt": "Mon, 26 Oct 2026 01:34:08 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "What happened in 5 seconds? Newlywed enters hotel room, collapses at door before death",
+      "description": "Muskan Simolia collapsed and died shortly after checking into a hotel with her husband Nilesh. Her father has accused Nilesh of murder following her unexpected collapse near the hotel room's entrance. CCTV footage shows the moments leading to her fall but does not clarify the cause of her collapse. ",
+      "url": "https://timesofindia.indiatimes.com/city/kanpur/what-happened-in-5-seconds-cctv-captures-newlywed-entering-hotel-room-with-husband-collapsing-at-door-before-death-father-alleges-murder/articleshow/135201287.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201341,imgsize-8484204.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:29:29 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Protesters dragged, knocked down: French police charges right into crowd",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/brazils-lula-wins-re-election-defeating-trump-ally-bolsonaro/articleshow/135199956.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135200120,imgsize-83188.cms",
-      "publishedAt": "Mon, 26 Oct 2026 05:52:59 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/europe/protesters-dragged-knocked-down-france-police-charges-right-into-crowd-watch/articleshow/135201037.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201383,imgsize-11734519.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:24:00 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Former CJI D Y Chandrachud was more deferential to govt than needed, says Justice Kaul",
-      "description": "Justice Sanjay Kishan Kaul has expressed concerns about how former Chief Justice D Y Chandrachud dealt with the government. He believes Chandrachud was too lenient during the process of judicial appointments, which raises worries about the independence of the judiciary. This could potentially underm",
-      "url": "https://timesofindia.indiatimes.com/india/former-cji-d-y-chandrachud-was-more-deferential-to-government-than-needed-says-justice-kaul/articleshow/135197538.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197540,imgsize-235466.cms",
-      "publishedAt": "Mon, 26 Oct 2026 02:28:37 +0530",
+      "title": "ABBA's 'Chiquitita' royalties raised over $5m for UNICEF by 2024",
+      "description": "ABBA's song Chiquitita has raised over US$5 million for UNICEF since its release in 1979. This funding supports various programs aimed at protecting vulnerable children from abuse and violence. The pledge originated during a concert at the United Nations to promote children's rights. In 2021, ABBA e",
+      "url": "https://timesofindia.indiatimes.com/world/europe/in-1979-abba-gave-unicef-the-royalties-from-chiquitita-45-years-later-the-song-had-raised-more-than-5-million-to-help-protect-vulnerable-children-from-violence-abuse-and-exploitation-worldwide/articleshow/135193953.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135193969,imgsize-1016704.cms",
+      "publishedAt": "Mon, 26 Oct 2026 10:13:50 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Serbia’s Vucic concedes defeat as student-led movement wins parliamentary election",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/serbias-vucic-concedes-defeat-as-student-led-movement-wins-parliamentary-election/articleshow/135199388.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199427,imgsize-94148.cms",
-      "publishedAt": "Mon, 26 Oct 2026 04:56:13 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "From outranking Fab Four to fight for place: Rise, reign &amp; unraveling of Labuschagne",
-      "description": "Labuschagne has been afforded more chances than most, but Australian cricket has a history of punishing batters whose judgement deserts them against South Africa.",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-outranking-the-fab-four-to-fight-for-his-place-rise-reign-and-the-unraveling-of-marnus-labuschagne/articleshow/135196369.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196555,imgsize-165312.cms",
-      "publishedAt": "Mon, 26 Oct 2026 05:25:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "BJP calls for nationwide protest over Kharge’s ‘baap’ remark",
-      "description": "Congress president Mallikarjun Kharge's comment about Prime Minister Narendra Modi's father sparked widespread outrage among BJP members. Following the incident, the BJP announced nationwide protests against Kharge's remarks, labeling them indecent and offensive. Union home minister Amit Shah critic",
-      "url": "https://timesofindia.indiatimes.com/india/bjp-calls-protest-over-kharges-baap-remark/articleshow/135197490.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197501,imgsize-104164.cms",
-      "publishedAt": "Mon, 26 Oct 2026 01:52:12 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Nasa’s Isaacman shares Artemis IV update as SpaceX, Blue Origin plan Moon base",
-      "description": "NASA administrator Jared Isaacman provided an update regarding the Artemis III lunar mission and upcoming docking exercises. The agency plans for significant interactions with Elon Musk's SpaceX and Jeff Bezos' Blue Origin next year. Docking practices will involve astronaut teams launching aboard NA",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musks-spacex-and-jeff-bezos-blue-origin-get-ready-to-build-a-moon-base-nasa-administrator-jared-isaacman-gives-an-important-update-on-artemis-iv-says-this-agency-knows-very-well-/articleshow/135186984.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135187031,imgsize-75231.cms",
-      "publishedAt": "Sun, 25 Oct 2026 14:13:24 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Ami Bera re-election bid: Indian-American Democrat to run in new 3rd District",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-who-is-ami-bera-indian-american-democrat-seeking-re-election-from-californias-newly-redrawn-district/articleshow/135192186.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135192923,imgsize-1212486.cms",
-      "publishedAt": "Sun, 25 Oct 2026 20:03:31 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Alabama lawyer quit practice to care for parents; court voids her condo deed",
-      "description": "The Alabama Supreme Court has affirmed a lower court's ruling that invalidated a property transfer from parents to their daughter, Holly Schumpert. Despite her dedication in caring for her ailing parents, the court determined the coastal condominium was part of a family trust, rendering the deed nul",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2020-an-alabama-lawyer-closed-her-practice-sold-her-home-and-moved-to-care-for-her-sick-parents-after-they-offered-a-share-of-their-condo-six-years-later-the-states-top-court-upheld-the-cancellation-of-her-deed/articleshow/135193146.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135194947,imgsize-820667.cms",
-      "publishedAt": "Sun, 25 Oct 2026 22:23:30 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Trump calls El-Sayed ‘jihadist’, alleges mother’s Al-Qaeda links at Michigan rally",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-calls-el-sayed-jihadist-ahead-of-michigan-rally-alleges-sharia-law-push/articleshow/135197552.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197566,imgsize-84724.cms",
-      "publishedAt": "Mon, 26 Oct 2026 02:51:29 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "West Asia crisis: Government ready with energy, fertiliser stocks",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/west-asia-crisis-government-ready-with-energy-fertiliser-stocks/articleshow/135199400.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199411,imgsize-132490.cms",
-      "publishedAt": "Mon, 26 Oct 2026 04:47:38 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Nobel laureate, Venezuela opposition leader Machado returns after exile",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/i-am-here-with-you-nobel-laureate-venezuela-opposition-leader-machado-returns-after-nearly-a-year-in-exile/articleshow/135197260.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197389,imgsize-105982.cms",
-      "publishedAt": "Mon, 26 Oct 2026 01:11:21 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "80-ton boulder at NH Polar Caves since 1922 collapses, no injuries",
-      "description": "In a surprising turn of events on October 18, 2026, an 80-ton granite boulder collapsed at Polar Caves Park in Rumney, New Hampshire, smashing a wooden walkway and its safety rails. Fortunately, this incident resulted in no injuries. The boulder's fall is likely due to weather-related erosion. Park ",
-      "url": "https://timesofindia.indiatimes.com/world/us/an-80-ton-boulder-that-had-hung-above-visitors-at-new-hampshires-polar-caves-since-the-park-opened-in-1922-collapsed-on-the-final-day-of-the-2026-season-smashing-a-walkway-but-injuring-no-one/articleshow/135195138.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196127,imgsize-1319411.cms",
-      "publishedAt": "Sun, 25 Oct 2026 23:28:41 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Husband jailed next door missed hearing, lost home; court reopens case",
-      "description": "A Kansas appeals court recently vacated a previous ruling in a divorce property case, asserting that Scott L. Hale was not given a fair chance to participate. Haltingly unable to attend his hearing due to incarceration, Scott's objections to the property division were overlooked by the trial judge. ",
-      "url": "https://timesofindia.indiatimes.com/world/us/in-2024-a-kansas-judge-gave-the-marital-home-to-a-wife-while-her-husband-sat-in-jail-one-building-away-unable-to-attend-the-hearing-an-october-23-appeals-court-has-now-reopened-the-couples-property-division/articleshow/135196180.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196371,imgsize-380044.cms",
-      "publishedAt": "Mon, 26 Oct 2026 00:35:05 +0530",
+      "title": "Meet 5-yr old Arjun Prajapati: Indian-origin boy has read 3,000 books, IQ 141",
+      "description": "Meet Arjun Prajapati, a remarkable five-year-old prodigy from a Gujarati family living in Canada. Displaying an extraordinary reading ability, he began reading at just 18 months and has finished over 3,000 books. With an IQ of 141, placing him in the elite 99.7th percentile, Arjun's parents ensure h",
+      "url": "https://timesofindia.indiatimes.com/life-style/people/at-5-he-has-read-3000-books-and-has-an-iq-of-141-meet-arjun-prajapati-the-child-prodigy-with-vadodara-roots-who-received-congratulatory-messages-from-canadian-pm-and-earned-scholarships-for-gifted-students/articleshow/135202438.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202493,imgsize-81963.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:47:25 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -127,119 +118,218 @@
       "category": "general"
     },
     {
-      "title": "Woman dreamt collector, built trust aiding goldsmiths, students, trans housing",
-      "description": "M Padmavathi founded the Community Renovation and Organisation Advancement Trust to promote economic empowerment in her community. This organization aids goldsmiths, underprivileged children, and transgender individuals in securing financial stability. Between 2015 and 2020, around 4,200 students be",
-      "url": "https://timesofindia.indiatimes.com/life-style/people/meet-m-padmavathi-from-tamil-nadu-she-founded-a-trust-after-dreaming-of-becoming-a-collector-17-years-later-her-work-spans-lakhs-in-goldsmith-loans-education-for-students-and-housing-for-transgender-people/articleshow/135192598.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196122,imgsize-102131.cms",
-      "publishedAt": "Mon, 26 Oct 2026 06:06:58 +0530",
+      "title": "Unable to drive regular car, Prayagraj man built his own for Rs 90,000",
+      "description": "Vimal Kishore, hailing from Prayagraj, encountered mobility challenges due to his disability, which prevented him from driving. In a remarkable feat in 2011, he engineered Lailo, a compact, battery-powered vehicle fashioned from discarded components. This ingenious creation features solar panels, GP",
+      "url": "https://timesofindia.indiatimes.com/life-style/people/unable-to-drive-a-regular-car-prayagraj-coffee-seller-builds-his-own-for-rs-90000-using-scooter-parts-it-features-solar-power-gps-and-a-rear-view-camera/articleshow/135201781.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201931,imgsize-1807908.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:55:17 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Massive fire engulfs Shiv Market near Jammu Railway Station, 35-40 shops gutted",
+      "title": "IND vs NZ: Big blow! Ishan Kishan ruled out, BCCI shares update",
+      "description": "India had also brought in uncapped wicketkeeper-batter Kumar Kushagra as cover for the injured Kishan. The BCCI has confirmed that Kushagra will remain with the squad for the third match. India have won the first two matches and lead the five-match series 2-0. The third T20I will be played in Wellin",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-ishan-kishan-ruled-out-of-third-t20i-against-new-zealand/articleshow/135202604.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202645,imgsize-59611.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:50:37 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Saudi Arabia’s Singapore plan: How Riyadh aims to protect Asian oil supplies from 2027",
+      "description": "Saudi Arabia is set to store crude oil in Singapore starting in the second half of 2027. This arrangement aims to enhance energy security in the region amid supply disruptions. Singapore's Jurong Rock Caverns will provide storage facilities for Saudi crude oil supplies. The agreement will allow Saud",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabias-singapore-plan-riyadh-eyes-oil-storage-hub-from-2027-amid-hormuz-disruption/articleshow/135202643.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202689,imgsize-83568.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:54:30 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Yellow alert for 2 Andhra districts today, red alert on Oct 27-28 amid Cyclone Arnab",
+      "description": "The India Meteorological Department has issued a red alert for extremely heavy rainfall on October 27. Several districts including Kakinada and East Godavari are expected to experience this severe weather. An orange alert has been announced for other districts, indicating heavy to very heavy rainfal",
+      "url": "https://timesofindia.indiatimes.com/city/vijayawada/yellow-alert-in-2-andhra-districts-today-red-alert-in-several-areas-on-oct-27-28-amid-cyclone-arnab/articleshow/135201914.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201990,imgsize-1205642.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:10:34 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Bank holiday on Valmiki Jayanti: Will banks remain shut on October 26? Check list",
+      "description": "As October unfolds, India's vibrant festival season translates into various state-specific bank holidays. On October 26, banking services will pause in Tripura, Chandigarh, Jammu and Kashmir, and Himachal Pradesh. Important dates approaching include Karva Chauth on October 29 and Sardar Vallabhbhai ",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bank-holiday-on-valmiki-jayanti-2026-will-banks-remain-shut-on-october-26-check-state-wise-list/articleshow/135202572.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202620,imgsize-77348.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:55:07 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'15-20 rounds fired': 2 killed, 2 injured as assailants open fire outside homes in Punjab",
+      "description": "Two individuals have died and two others are hospitalized following gunfire in Angadpura locality. Authorities identified the deceased as Sahil Jindal and Gagan Jindal, who were cousins. Witnesses report at least 15-20 rounds were fired by assailants from a Black Scorpio SUV. Police have initiated a",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/black-scorpio-borne-assailants-kill-2-cousins-injure-2-in-punjabs-moga-personal-enmity-suspected/articleshow/135201662.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201702,imgsize-828797.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:40:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Can an unmarried daughter claim maintenance from her father? Bombay high court answers",
+      "description": "The Bombay high court has upheld a family court's order for a father to pay maintenance to his children. The father challenged the maintenance order, arguing his children were no longer entitled to payment. The court ruled his son was a minor when the original order was made, and his daughter's need",
+      "url": "https://timesofindia.indiatimes.com/legal/news/can-an-unmarried-daughter-claim-maintenance-from-her-father-bombay-high-court-answers/articleshow/135202608.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202691,imgsize-1487547.cms",
+      "publishedAt": "Mon, 26 Oct 2026 09:54:13 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Man killed as Mercedes driven by judge’s minor son hits scooter in Keralam",
+      "description": "A 17-year-old boy collided with a scooter, resulting in the death of a 55-year-old man on Container Road. The deceased, Jayabalakrishnan, was returning home after closing his roadside eatery when the accident occurred. Initial investigations revealed that the minor was alone in the car and had not c",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/man-killed-as-mercedes-driven-by-judges-minor-son-hits-scooter/articleshow/135195909.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200381,imgsize-7479049.cms",
+      "publishedAt": "Sun, 25 Oct 2026 23:24:17 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "‘Brazil is no one’s backyard’: Lula’s swipe at US after Bolsonaro’s defeat",
+      "description": "Luiz Inácio Lula da Silva has won a closely contested runoff election against Flávio Bolsonaro in Brazil. Lula's victory confirms left-wing leadership in Brazil and strengthens it in Latin America. He emphasized the need for public participation in governance while addressing supporters. Bolsonaro, ",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/brazil-is-no-ones-backyard-lulas-jibe-at-us-after-winning-fourth-presidential-term/articleshow/135200567.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200659,imgsize-129626.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:32:58 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "In the 1880s, Colorado's Lulu City boomed on silver, then became a ghost town",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/massive-fire-engulfs-shiv-market-near-jammu-railway-station-35-40-shops-gutted/articleshow/135199333.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199337,imgsize-18609419.cms",
-      "publishedAt": "Mon, 26 Oct 2026 04:08:58 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-the-1880s-colorados-lulu-city-attracted-stagecoaches-and-silver-prospectors-by-the-1890s-the-settlement-had-been-abandoned/articleshow/135191645.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135191742,imgsize-206883.cms",
+      "publishedAt": "Sun, 25 Oct 2026 18:36:20 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "EAM to UN: Lead during global crises, don’t just be a spectator",
+      "title": "All Haryana cities breached annual PM10 limit every year since 2019",
+      "description": "Haryana's cities have not met the annual PM10 air quality standard set by the government since 2019. Monitoring data indicates that all cities exceeded the annual limit, raising concerns about systemic pollution issues. Varied readings from each city show steep fluctuations in PM10 levels over the y",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/haryana-cities-breached-annual-pm10-limit-every-year-since-2019/articleshow/135197488.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135197487,imgsize-2601126.cms",
+      "publishedAt": "Mon, 26 Oct 2026 01:42:52 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Over 10 lakh NCR vehicles won't be able to enter Delhi from November 1",
+      "description": "Delhi plans to prohibit entry of vehicles not meeting BS6 emission standards in NCR from November 2026. Over 10 lakh vehicles in Gurgaon, Faridabad, Noida, Greater Noida, and Ghaziabad may be affected. Gurgaon and Faridabad hold around 2 lakh vehicles below BS6 standards, mostly consisting of BS3 an",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/over-10-lakh-ncr-vehicles-wont-be-able-to-enter-delhi-from-november-1/articleshow/135200418.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200469,imgsize-239229.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:08:54 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'What did I do wrong?': How being dropped from India team pushed ex-star into depression",
+      "description": "Amit Mishra faced significant challenges after being excluded from the Indian cricket team for an extended period. He battled depression for 18 months, questioning his performance while continuing to play. A conversation with a selector helped him realize he needed to improve his domestic performanc",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-did-i-do-wrong-ex-india-star-reveals-how-being-dropped-from-team-pushed-him-into-depression/articleshow/135200379.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200409,imgsize-52313.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:01:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Delhi Police register case over Jamia Campus trespassing, defacement",
+      "description": "Hundreds of students and alumni have gathered at Jamia Millia Islamia for the 14th day of protests. They are demanding the restoration of student union elections despite university classes being moved online. The university has closed its gates and libraries, while police have increased their presen",
+      "url": "https://timesofindia.indiatimes.com/city/delhi/edited-delhi-police-register-case-over-jamia-campus-trespassing-defacement/articleshow/135196115.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201244,imgsize-184825.cms",
+      "publishedAt": "Sun, 25 Oct 2026 23:24:50 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "‘Physically impossible’: Ukraine disputes Musk’s Starlink claim drone strike claim",
+      "description": "Elon Musk claimed that Ukraine breached Starlink's terms of service by using it for offensive strikes. Serhii Beskrestnov challenged Musk's assertions concerning the operational restrictions imposed on Starlink in Ukraine. Ukrainian officials indicated that these restrictions significantly impaired ",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/physically-impossible-ukraine-hits-back-at-musk-over-starlink-restrictions-disputes-offensive-drone-strike-claim/articleshow/135201379.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201442,imgsize-61039.cms",
+      "publishedAt": "Mon, 26 Oct 2026 08:26:47 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "‘Vote for Netanyahu’: Trump urges Israelis to re-elect ‘outstanding warrior’ PM",
+      "description": "HHNBAhead of the crucial Israeli elections, Donald Trump has thrown his support behind Benjamin Netanyahu, underlining the critical role their alliance plays in countering Iran's threats to both nations. Trump praised Netanyahu's effectiveness as a leader throughout their joint military efforts, des",
+      "url": "https://timesofindia.indiatimes.com/world/us/vote-for-netanyahu-trump-urges-israelis-to-re-elect-outstanding-warrior-pm-to-finish-job-in-iran/articleshow/135200797.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200882,imgsize-101588.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:54:44 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "'I don't think we can reveal on live TV': Shadab Khan on chat with Haris Rauf",
+      "description": "Shadab Khan led a remarkable comeback for Pakistan against England by scoring an unbeaten 113 runs. Together with Haris Rauf, they built a record-breaking partnership for the last wicket in ODI history. Earlier, England posted a total of 241 runs, with Ben Duckett scoring 105 runs. Pakistan struggle",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-we-can-reveal-on-live-tv-shadab-khan-on-chat-with-haris-rauf/articleshow/135200547.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200577,imgsize-50473.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:33:11 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Former CJI D Y Chandrachud was more deferential to govt than needed, says Justice Kaul",
+      "description": "Justice Sanjay Kishan Kaul has expressed concerns about how former Chief Justice D Y Chandrachud dealt with the government. He believes Chandrachud was too lenient during the process of judicial appointments, which raises worries about the independence of the judiciary. This could potentially underm",
+      "url": "https://timesofindia.indiatimes.com/india/former-cji-d-y-chandrachud-was-more-deferential-to-government-than-needed-says-justice-kaul/articleshow/135197538.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135197540,imgsize-235466.cms",
+      "publishedAt": "Mon, 26 Oct 2026 02:28:37 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Riyadh airport partially reopens: Saudi intercepts Houthi ballistic missile, drones",
+      "description": "A Saudi-led coalition reported intercepting Houthi ballistic missiles aimed at Riyadh, claiming to protect the capital. Houthi military spokesman Yahya Saree described King Khalid International Airport as unsafe for travellers and staff. The airport administration designated terminals for domestic a",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/riyadh-airport-partially-reopens-saudi-arabia-intercepts-houthi-ballistic-missile-drones/articleshow/135200598.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200658,imgsize-93746.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:32:09 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Serbia’s Vucic concedes defeat as student-led movement wins parliamentary election",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/eam-to-un-lead-during-global-crises-dont-just-be-a-spectator/articleshow/135199353.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199362,imgsize-37506.cms",
-      "publishedAt": "Mon, 26 Oct 2026 04:18:54 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/europe/serbias-vucic-concedes-defeat-as-student-led-movement-wins-parliamentary-election/articleshow/135199388.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135199427,imgsize-94148.cms",
+      "publishedAt": "Mon, 26 Oct 2026 04:56:13 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "Patrick Mahomes' Alpine F1 investment surges as team value hits $2.6 billion",
-      "description": "Patrick Mahomes’ investment in Alpine F1 is drawing attention as the team’s estimated valuation rises from $900 million in 2023 to $2.6 billion in 2026, an increase of nearly 189%. Mahomes joined the investor group alongside Travis Kelce and other high-profile names through Otro Capital. Alpine’s ri",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/900-million-to-2-6-billion-patrick-mahomes-alpine-f1-investment-draws-attention-as-team-valuation-surges-nearly-189/articleshow/135184527.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135184549,imgsize-87778.cms",
-      "publishedAt": "Sun, 25 Oct 2026 21:02:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Travis Kelce's $5.35 million estate faces opposition over landscaping plans",
-      "description": "Travis Kelce’s $5.35 million Ohio mansion faces fresh delays as neighbors challenge his landscaping and fencing plans. Residents have raised concerns about wildlife safety, lake views and potential damage to an aging sewer line, with one neighbor citing $75,000 in repair costs. Kelce’s construction ",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-5-35-million-estate-faces-another-setback-as-neighbors-challenge-his-landscaping-plans/articleshow/135179880.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135179951,imgsize-148517.cms",
-      "publishedAt": "Sun, 25 Oct 2026 05:20:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Raids on NE drug cartels reveal illicit deals worth Rs 270cr",
+      "title": "Dalal Street braces for volatile week",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/raids-on-ne-drug-cartels-reveal-illicit-deals-worth-rs-270cr/articleshow/135199368.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199379,imgsize-51004.cms",
-      "publishedAt": "Mon, 26 Oct 2026 04:29:22 +0530",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-braces-for-volatile-week/articleshow/135199462.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135199613,imgsize-121906.cms",
+      "publishedAt": "Mon, 26 Oct 2026 05:26:30 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "EC refuses to give details of SIR software, cites ‘trade secrets, IPR'",
-      "description": "Election Commission of India declined to share the name of the software used for identifying electoral roll errors. The request for information was made under the Right to Information Act. A social activist from Telangana sought details about the software and algorithms used in the process. The Comm",
-      "url": "https://timesofindia.indiatimes.com/india/ec-refuses-to-give-details-of-sir-software-cites-trade-secrets-ipr/articleshow/135197575.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197584,imgsize-98916.cms",
-      "publishedAt": "Mon, 26 Oct 2026 03:04:41 +0530",
+      "title": "Crude prices fall from six-month highs; WTI stands at $101 per barrel, Brent costs $115",
+      "description": "Oil prices experienced a decline of over 1% after hitting six-month peaks, primarily due to geopolitical unrest in Saudi Arabia. Currently, Brent crude fluctuates around $115 per barrel, and WTI at $101.5 per barrel. The threat to energy exports and infrastructure from Houthi attacks raises alarm, w",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-prices-fall-from-six-month-highs-wti-stands-at-101-per-barrel-brent-costs-115/articleshow/135200402.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200498,imgsize-66110.cms",
+      "publishedAt": "Mon, 26 Oct 2026 07:13:49 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "CBSE makes AI a part of formal teaching, NCERT develops module",
+      "title": "From outranking Fab Four to fight for place: Rise, reign &amp; unraveling of Labuschagne",
+      "description": "Labuschagne has been afforded more chances than most, but Australian cricket has a history of punishing batters whose judgement deserts them against South Africa.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-outranking-the-fab-four-to-fight-for-his-place-rise-reign-and-the-unraveling-of-marnus-labuschagne/articleshow/135196369.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135196555,imgsize-165312.cms",
+      "publishedAt": "Mon, 26 Oct 2026 05:25:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Brazil’s Lula wins re-election, defeating Trump ally Bolsonaro",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/cbse-makes-ai-a-part-of-formal-teaching-ncert-develops-module/articleshow/135197586.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197587,imgsize-182404.cms",
-      "publishedAt": "Mon, 26 Oct 2026 03:15:06 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "‘Creamy layer case in SC won’t hit seniority of CSE-2025 batch’: Sources",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/creamy-layer-case-in-sc-wont-hit-seniority-of-cse-2025-batch-sources/articleshow/135197595.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197596,imgsize-72948.cms",
-      "publishedAt": "Mon, 26 Oct 2026 03:27:38 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Once bitten, twice shy? How France prevented a repeat of October 17 protest chaos",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/europe/a-defeat-for-the-republic-how-october-17-protest-fiasco-shaped-frances-security-strategy/articleshow/135190439.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135190607,imgsize-1730897.cms",
-      "publishedAt": "Sun, 25 Oct 2026 17:42:10 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Jaishankar to attend G20, Quad meets in US",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/jaishankar-to-attend-g20-quad-meets-in-us/articleshow/135198010.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135198364,imgsize-37144.cms",
-      "publishedAt": "Mon, 26 Oct 2026 03:45:26 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Keeping all data centres sovereign, says RBI governor",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/keeping-all-data-centres-sovereign-says-rbi-governor/articleshow/135197590.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197591,imgsize-79610.cms",
-      "publishedAt": "Mon, 26 Oct 2026 03:21:17 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Banks pass on rate hikes, but go slow when rates fall; RBI study finds",
-      "description": "A recent study by the RBI indicates that banks are more responsive to interest rate hikes than to cuts. Specifically, banks relayed 76.4% of repo rate increases, while only 64% of reductions were passed on. Amid periods of tightening, lending rates surged significantly, in contrast to the minimal de",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/banks-pass-on-rate-hikes-but-go-slow-when-rates-fall/articleshow/135197546.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197548,imgsize-70056.cms",
-      "publishedAt": "Mon, 26 Oct 2026 02:38:15 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/brazils-lula-wins-re-election-defeating-trump-ally-bolsonaro/articleshow/135199956.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200503,imgsize-70216.cms",
+      "publishedAt": "Mon, 26 Oct 2026 05:52:59 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -253,328 +343,148 @@
       "category": "general"
     },
     {
-      "title": "Trump gears up for Iran escalation after US polls; Tehran says position unchanged",
-      "description": "US President Donald Trump has signaled potential military action against Iran following the upcoming midterm elections. The US has increased its military presence in the Persian Gulf with additional aircraft and troops. Iran is reportedly preparing for retaliation against US and allied interests in ",
-      "url": "https://timesofindia.indiatimes.com/world/us/trump-gears-up-for-iran-escalation-after-us-polls/articleshow/135197451.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197466,imgsize-44048.cms",
-      "publishedAt": "Mon, 26 Oct 2026 01:39:10 +0530",
+      "title": "BJP calls for nationwide protest over Kharge’s ‘baap’ remark",
+      "description": "Congress president Mallikarjun Kharge's comment about Prime Minister Narendra Modi's father sparked widespread outrage among BJP members. Following the incident, the BJP announced nationwide protests against Kharge's remarks, labeling them indecent and offensive. Union home minister Amit Shah critic",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-calls-protest-over-kharges-baap-remark/articleshow/135197490.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135197501,imgsize-104164.cms",
+      "publishedAt": "Mon, 26 Oct 2026 01:52:12 +0530",
       "source": "Times of India",
       "category": "general"
     },
     {
-      "title": "US elections: Meet Vivek Ramaswamy, Trump-backed Republican seeking Ohio governorship",
+      "title": "Ami Bera re-election bid: Indian-American Democrat to run in new 3rd District",
       "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-meet-vivek-ramaswamy-trump-backed-republican-seeking-the-ohio-governorship/articleshow/135191321.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135191719,imgsize-104692.cms",
-      "publishedAt": "Sun, 25 Oct 2026 18:34:34 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "1,200km reach: How Russia’s new missile adds to Ukraine’s air defence woes",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/defence/international/1200km-reach-western-parts-how-russias-new-filin-missile-adds-to-ukraines-air-defence-woes/articleshow/135195999.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196121,imgsize-121152.cms",
-      "publishedAt": "Sun, 25 Oct 2026 23:26:28 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "US midterms 2026: Pooja Sethi’s journey from law and business to Texas politics",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-pooja-sethis-journey-from-law-and-business-to-texas-politics/articleshow/135192237.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135192305,imgsize-52612.cms",
-      "publishedAt": "Sun, 25 Oct 2026 19:10:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Give mayors real powers, ensure timely civic audits, urban body heads tell Centre",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/give-mayors-real-powers-ensure-timely-civic-audits-urban-body-heads-tell-centre/articleshow/135197022.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197099,imgsize-130504.cms",
-      "publishedAt": "Mon, 26 Oct 2026 00:33:33 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Nuclear reactors, 90-day survival plan: How US is preparing for a global war",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/nuclear-reactors-90-day-survival-plan-how-us-is-preparing-for-a-global-war/articleshow/135193116.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135193157,imgsize-155816.cms",
-      "publishedAt": "Sun, 25 Oct 2026 20:25:11 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Afghanistan hit by 5.5 magnitude earthquake",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/magnitude-5-5-earthquake-strikes-afghanistan/articleshow/135196524.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196578,imgsize-116518.cms",
-      "publishedAt": "Sun, 25 Oct 2026 23:52:03 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "‘Grabbed hair, tore shirt’: Patient attacks doctor, hospital staff in Punjab",
-      "description": "Rajatpal Singh, a patient at a Kharar hospital, allegedly assaulted a medical officer and damaged property. The violent incident occurred during treatment when Singh attacked the doctor and a nurse. Hospital staff intervened and subdued Singh before police intervention. Following the incident, the P",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/grabbed-hair-pinned-to-ground-tore-shirt-patient-attacks-doctor-hospital-staff-in-punjab/articleshow/135193455.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135193591,imgsize-4060204.cms",
-      "publishedAt": "Sun, 25 Oct 2026 20:58:39 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Lula vs Flavio Bolsonaro: 5 key issues shaping Brazil’s neck-and-neck election",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/lula-vs-flavio-bolsonaro-5-key-issues-shaping-brazils-neck-and-neck-election/articleshow/135195529.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135195571,imgsize-69168.cms",
-      "publishedAt": "Sun, 25 Oct 2026 22:55:02 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Biosimilar drugs breaking high-cost barrier to cancer immunotherapy",
-      "description": "Recent changes in cancer care in India show an increase in immunotherapy prescriptions due to affordable biosimilars. Doctors report that the availability of cheaper versions of nivolumab has improved patient access to treatment. Research indicates that lower doses may be effective for Indian patien",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/biosimilar-drugs-breaking-high-cost-barrier-to-cancer-immunotherapy/articleshow/135176140.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135181748,imgsize-146743.cms",
-      "publishedAt": "Sat, 24 Oct 2026 23:40:19 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Jamia protest: FIR against oppn MPs for trespassing on campus",
-      "description": "The Delhi Police has launched an FIR targeting Congress MPs who attended the student protests at Jamia Millia Islamia. The MPs are accused of entering the university without permission amid ongoing demands for reinstating the students' union. Protesters are also calling for a halt to disciplinary me",
-      "url": "https://timesofindia.indiatimes.com/india/delhi-police-file-fir-against-congress-3-mps-over-alleged-trespassing-at-jamia-during-student-protest/articleshow/135194757.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135194790,imgsize-203362.cms",
-      "publishedAt": "Sun, 25 Oct 2026 22:11:44 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "The guardians keeping watch on Kota’s kids",
-      "description": "In Kota, residents are trained to recognize warning signs of emotional distress in students facing academic pressures. Community interventions such as the darwaze par dastak initiative have been established to provide timely support. Local authorities are engaging with students directly to build tru",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/the-guardians-keeping-watch-on-kotas-kids/articleshow/135187399.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135187910,imgsize-102747.cms",
-      "publishedAt": "Sun, 25 Oct 2026 14:48:41 +0530",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/us-midterms-2026-who-is-ami-bera-indian-american-democrat-seeking-re-election-from-californias-newly-redrawn-district/articleshow/135192186.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135192923,imgsize-1212486.cms",
+      "publishedAt": "Sun, 25 Oct 2026 20:03:31 +0530",
       "source": "Times of India",
       "category": "general"
     }
   ],
   "business": [
     {
-      "title": "Sell your vision for the future, but don’t oversell the present",
-      "description": "A founder’s credibility is the most valuable asset of a young company",
-      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/sell-your-vision-for-the-future-but-dont-oversell-the-present/article71624494.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/p8vy9l/article71624506.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U0C4KUODU_R1536152966_2_b53c6b55-8011-4ad6-8240-c0305def5012.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 23:18:55 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Astrobase’s 3Rs of rocket launches",
-      "description": "",
-      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/astrobases-3rs-of-rocket-launches/article71624487.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/jd2jrg/article71624485.ece/alternates/LANDSCAPE_1200/BL2610_Spark_Anchor_Neeraj%20Khandelwal.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 23:09:26 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "El Niño won’t wait for COP31. India shouldn’t either",
-      "description": "COP31’s commitment to climate adaptation will be put to the test in a year of extreme El Nino weather",
-      "url": "https://www.thehindubusinessline.com/specials/clean-tech/el-nino-wont-wait-for-cop31-india-shouldnt-either/article71624322.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/lp45pv/article71624333.ece/alternates/LANDSCAPE_1200/DSC_1332.JPG",
-      "publishedAt": "Sun, 25 Oct 2026 22:10:32 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Govt cuts wheat allocation in weekly auction even as millers ready to pay over ₹31/Kg",
-      "description": "Millers in States such as Assam, Karnataka and Telanga are wondering why the government cut their allocation despite maximum offtake",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/govt-cuts-wheat-allocation-in-weekly-auction-even-as-millers-ready-to-pay-over-31kg/article71622933.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/jvhral/article71623397.ece/alternates/LANDSCAPE_1200/Data-suggests-bGRJGMVJ1O.3.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 21:48:17 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Worst Samvat under Modi era; Nifty down 13% as investors enter new year amid growing caution",
-      "description": "No bottom in sight as Samvat 2083 approaches",
-      "url": "https://www.thehindubusinessline.com/markets/worst-samvat-under-modi-era-nifty-down-13-as-investors-enter-new-year-amid-growing-caution/article71623822.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/f3vk1f/article71623876.ece/alternates/LANDSCAPE_1200/463465362.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 21:35:50 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Secure banking system needs secure digital infrastructure, says PM Modi",
-      "description": "Modi highlighted the significance of the RBI’s Data Centre and Cybersecurity Training Institute in strengthening India’s digital financial infrastructure and advancing its technological self-reliance",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/secure-banking-system-needs-secure-digital-infrastructure-says-pm-modi/article71623970.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/lkfjsw/article71622866.ece/alternates/LANDSCAPE_1200/Eight-web-securGDBGMLIKJ.3.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 21:28:50 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Letters to the Editor dated October 25, 2026",
-      "description": "",
-      "url": "https://www.thehindubusinessline.com/opinion/letters-to-editor/article71624154.ece",
+      "title": "Sensex today | Stock Market Live: Sensex up 150 pts, Nifty above 22,600; Kotak Bank leads gainers; Shriram Finance tumbles 5%",
+      "description": "Sensex, Nifty, Share Prices Live: Sensex fell 414.35 pts or 0.57% to 72,709.48 at 9.17 am after opening at 72,990.04 from 73,123.83 previous close. Nifty 50 depreciated by 147.30 pts or 0.65% to 22,452.70.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-live-updates-26-october-2026/article71622964.ece",
       "urlToImage": null,
-      "publishedAt": "Sun, 25 Oct 2026 21:26:15 +0530",
+      "publishedAt": "Mon, 26 Oct 2026 11:05:57 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "The forces shaping next stage for Indian startups",
-      "description": "A book that examines whether India can move from producing successful startups to building globally competitive companies",
-      "url": "https://www.thehindubusinessline.com/books/reviews/the-forces-shaping-next-stage-for-indian-startups/article71624212.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nvijtw/article71624217.ece/alternates/LANDSCAPE_1200/61MKxDEaTBL._SL1500_.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 21:23:25 +0530",
+      "title": "Nifty Prediction Today – October 26, 2026: Nifty futures: Bulls face a test",
+      "description": "A breakout of 22,900 is needed for Nifty (Nov) futures to establish a sustainable rally",
+      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/nifty-prediction-today-october-26-2026-nifty-futures-bulls-face-a-test/article71625720.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nsb7ni/article71625722.ece/alternates/LANDSCAPE_1200/PO06_Chart_2.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 11:01:15 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "AT-1 bonds: Yes Bank staring at costly ‘procedural lapse’",
-      "description": "Yes Bank finds itself in a fresh financial quagmire — the reinstatement of an ₹8,415-cr write-off",
-      "url": "https://www.thehindubusinessline.com/specials/current-account/at-1-bonds-yes-bank-staring-at-costly-procedural-lapse/article71624191.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/n5xpl5/article71624195.ece/alternates/LANDSCAPE_1200/BL2610_Banking_Lead.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 21:15:28 +0530",
+      "title": "Q2 Results Today Live: Paytm, Tata Consumer, Mankind Pharma, REC, IOB, Ather Energy, Aegis Logistics, Supreme Ind, ITC Hotels, Sumitomo Chemical Q2 results today, Kotak Mahindra shares gain, Shriram Finance, Infosys & IDFC First Bank in red after Q2 results",
+      "description": "Q2 Results Today, 26th October 2026 Live Updates: Stay tuned to businessline for more Q2 updates",
+      "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-paytm-tata-consumer-mankind-pharma-rec-itc-hotels-iob-ather-energy-aegis-logistics-supreme-ind-sumitomo-chemical-kotak-idfc-results-26-october-2026/article71625561.ece",
+      "urlToImage": null,
+      "publishedAt": "Mon, 26 Oct 2026 11:00:26 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "The invisible blueprint",
-      "description": "Over the last two decades, Eric Ries’s ideas about innovation and long-term thinking have made companies build new management practices",
-      "url": "https://www.thehindubusinessline.com/books/the-invisible-blueprint/article71624200.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/m4glyi/article71624198.ece/alternates/LANDSCAPE_1200/81IGoy7PUxL._SY522_.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 21:15:05 +0530",
+      "title": "Sonowal to pitch India's shipbuilding opportunity to Korean industry",
+      "description": "Sonowal said India aims to be a global hub for shipbuilding, repair, maritime manufacturing and logistics under Modi’s Maritime India Vision 2030 and Maritime Amrit Kaal Vision 2047",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/sonowal-to-pitch-indias-shipbuilding-opportunity-to-korean-industry/article71625633.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/rthyzn/article71625678.ece/alternates/LANDSCAPE_1200/TH10-PTI-All-InGRDGL6BE8.4.jpg.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:40:55 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Editorial. Jio 2.0",
-      "description": "Jio’s challenge is to convert scale into sustained growth",
-      "url": "https://www.thehindubusinessline.com/opinion/editorial/jio-20/article71623112.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/uspeib/article71623789.ece/alternates/LANDSCAPE_1200/2026-10-21T120356Z_514696073_RC2K7OAOVPGX_RTRMADP_3_JIOPLATFORMS-INDIA-IPO.JPG",
-      "publishedAt": "Sun, 25 Oct 2026 21:08:28 +0530",
+      "title": "Ties with India to remain strong regardless of Israel poll results: Political analyst",
+      "description": "‘The election outcome would not bring major changes to Gaza policies; Israel cannot afford to return to the security conditions that prevailed before October 7’",
+      "url": "https://www.thehindubusinessline.com/news/world/ties-with-india-to-remain-strong-regardless-of-israel-poll-results-political-analyst/article71625677.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2taay7/article71361547.ece/alternates/LANDSCAPE_1200/iStock-1093162396.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:37:57 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "India, Russia to conduct pilot voyages on Northern Sea Route in 2027",
-      "description": "Considered the shortest coastal passage between Western Eurasia and Asia-Pacific, the 5,600 km long NSR runs from the Kara Strait to Cape Dezhnev in the Bering Strait",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/india-russia-to-conduct-pilot-voyages-on-northern-sea-route-in-2027/article71623680.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/uigrew/article71623737.ece/alternates/LANDSCAPE_1200/Kudankulam-NPP-G6AGKA8UL.4.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:57:39 +0530",
+      "title": "Auto sector margins may improve from third quarter but El Niño, West Asia crisis key risks: Report",
+      "description": "The report says automobile companies and component manufacturers continue to face pressure from higher commodity costs",
+      "url": "https://www.thehindubusinessline.com/economy/auto-sector-margins-may-improve-from-third-quarter-but-el-nino-west-asia-crisis-key-risks-report/article71625676.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/hijh2u/article71625686.ece/alternates/LANDSCAPE_1200/6578_26_9_2023_18_24_28_2_NDBL_11_26_9_23.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 10:36:22 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Torrent Pharma eyes semaglutide launch in Brazil in 6-9 months",
-      "description": "Torrent’s Brazil revenues stood at ₹440 crore in the second quarter of FY27, up 38 per cent year-on-year",
-      "url": "https://www.thehindubusinessline.com/companies/torrent-pharma-eyes-semaglutide-launch-in-brazil-in-6-9-months/article71623182.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/g32gll/article71623499.ece/alternates/LANDSCAPE_1200/PO22_Torrent_pharma_1.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:56:39 +0530",
+      "title": "Brent crude oil price falls after Friday’s close above $116 a barrel",
+      "description": "At 10.03 am on Monday, December Brent oil futures were at $114.48, down by 1.92%, and December crude oil futures on WTI (West Texas Intermediate) were at $101.01, down by 2.19%",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-falls-after-fridays-close-above-116-a-barrel/article71625601.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/dakq91/article71625471.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:34:45 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Setco Automotive swings to ₹203.61 crore profit, plans Lava Cast merger to cut costs",
-      "description": "Setco Automotive returned to a consolidated profit of ₹203.61 crore in the April–June 2026 quarter, against a loss a year earlier, while revenue rose 12.3%",
-      "url": "https://www.thehindubusinessline.com/companies/setco-automotive-swings-to-20361-crore-profit-plans-lava-cast-merger-to-cut-costs/article71620201.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/8h2ukm/article71621007.ece/alternates/LANDSCAPE_1200/BL20_Think_meeting.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:55:20 +0530",
+      "title": "Cyclone Arnab may take heavy rain regime away from South Peninsula",
+      "description": "The building very severe cyclone is expected to track north-northeastwards, dragging a sprawling rain across large swathes eastern and central India, and away from most of the South Peninsula",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/cyclone-arnab-may-take-heavy-rain-regime-away-from-south-peninsula/article71625664.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/v3g21m/article71625653.ece/alternates/LANDSCAPE_1200/MnsnOct26am.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:30:49 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "AI can uncover hidden software flaws, but raises new security risks",
-      "description": "On October 21, PHP released fixes for two critical vulnerabilities that could enable unauthenticated remote code execution (RCE), urging users to update to the latest supported PHP 8 versions",
-      "url": "https://www.thehindubusinessline.com/info-tech/ai-can-uncover-hidden-software-flaws-but-raises-new-security-risks/article71623946.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/9ou5rk/article71624036.ece/alternates/LANDSCAPE_1200/IMG_iStock-2287745041_2_1_CKGHIOJN.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:50:32 +0530",
+      "title": "Infosys shares fall 4% after FY27 revenue growth guidance cut",
+      "description": "",
+      "url": "https://www.thehindubusinessline.com/markets/infosys-shares-fall-4-after-fy27-revenue-growth-guidance-cut/article71625657.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/2we76r/article71570917.ece/alternates/LANDSCAPE_1200/2026-02-18T103043Z_1984168115_RC25OJAEQ24X_RTRMADP_3_INDIA-AI.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 10:28:35 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "From 40% to fully Indian: WB Group VP on transfer of technology for Ukraine-Russia tested drones",
-      "description": "WB Group VP touts transferring drone tech to India, aiming 40-60% ToT, building India into a drone champion with Ukraine-Russia war insights",
-      "url": "https://www.thehindubusinessline.com/news/national/from-40-to-fully-indian-wb-group-vp-on-transfer-of-technology-for-ukraine-russia-tested-drones/article71623740.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/rj30my/article71623966.ece/alternates/LANDSCAPE_1200/WB2.jpeg",
-      "publishedAt": "Sun, 25 Oct 2026 20:48:02 +0530",
+      "title": "India, Rotterdam port authorities engaged to digitalise cargo processes: Piyush Goyal",
+      "description": "He said the customs authorities in India and the Port of Rotterdam are exploring digitalisation to modernise processes, speed cargo evacuation, and shorten ship turnaround times",
+      "url": "https://www.thehindubusinessline.com/news/india-rotterdam-port-authorities-engaged-to-digitalise-cargo-processes-piyush-goyal/article71625632.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/jhh1td/article71625668.ece/alternates/LANDSCAPE_1200/PTI10_25_2026_000445B.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:25:00 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Questions arising out of PHP breach",
-      "description": "For robust cybersecurity and prevention of breaches, investment in detection, containment and recovery is crucial",
-      "url": "https://www.thehindubusinessline.com/opinion/questions-arising-out-of-php-breach/article71624028.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/9ou5rk/article71624036.ece/alternates/LANDSCAPE_1200/IMG_iStock-2287745041_2_1_CKGHIOJN.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:37:30 +0530",
+      "title": "Rupee falls 5 paise to 94.98 against US dollar in early trade",
+      "description": "Rupee dragged lower by firm crude oil prices and geopolitical tensions in West Asia",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-5-paise-to-9498-against-us-dollar-in-early-trade/article71625658.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nmiqbe/article71624013.ece/alternates/LANDSCAPE_1200/iStock-1440478093.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:24:28 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "AI Express, IndiGo to move West Asia flights from Mumbai to Navi Mumbai",
-      "description": "The transition, which begins in December, will stretch into the next summer schedule",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/ai-express-indigo-to-move-west-asia-flights-from-mumbaito-navimumbai/article71623866.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nq84py/article71623951.ece/alternates/LANDSCAPE_1200/FIA-seeks-extenG0AGMKQVV.4.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:34:17 +0530",
+      "title": "India’s Jan-Aug tur imports rise 44% even as prices ease a tad in past two weeks",
+      "description": "Imports were up at 6.25 lakh tonnes during Jan-Aug this year as compared to 4.34 lakh tonnes in corresponding last year",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/indias-jan-aug-tur-imports-rise-44-even-as-prices-ease-a-tad-in-past-two-weeks/article71625643.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/bkfc00/article71439147.ece/alternates/LANDSCAPE_1200/10258_23-8-2019_18-8-19_2_KLB_GULBARGATURDAL__2_.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 10:22:26 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "SEBI needs to hear passive investor",
-      "description": "Passive funds are vital for funding long-term investment. The market regulator needs to create an enabling environment",
-      "url": "https://www.thehindubusinessline.com/opinion/sebi-needs-to-hear-passive-investor/article71624004.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/kn0o96/article71624013.ece/alternates/LANDSCAPE_1200/iStock-1440478093.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:32:22 +0530",
+      "title": "12th BRICS Parliamentary Forum: Delegations from 21 nations arrive in New Delhi",
+      "description": "Prime Minister Narendra Modi will also meet with the visiting Speakers and Heads of Delegations of BRICS member and partner countries later today",
+      "url": "https://www.thehindubusinessline.com/news/12th-brics-parliamentary-forum-delegations-from-21-nations-arrive-in-new-delhi/article71625612.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/4oq9q7/article71625644.ece/alternates/LANDSCAPE_1200/HVdyS2NbAAIB3t3.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:17:31 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "India-US interim trade deal remains stuck over tariffs, political concerns, sources",
-      "description": "New Delhi unwilling to accept 18% tariff rate agreed in Feb framework; will assess situation after US mid-term polls, sources said",
-      "url": "https://www.thehindubusinessline.com/economy/india-us-interim-trade-deal-remains-stuck-over-tariffs-political-concerns-sources/article71623916.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nutgzf/article71623991.ece/alternates/LANDSCAPE_1200/BL16_Think_India_US_puzzle.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:25:41 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Polish defense firm WB Group to invest $100 million in India over 5 years for unmanned systems production",
-      "description": "WB Group’s drone has not only been used in Operation Sindoor but also forms the mainstay of unmanned platforms Ukraine",
-      "url": "https://www.thehindubusinessline.com/news/national/polish-defense-firm-wb-group-to-invest-100-million-in-india-over-5-years-for-unmanned-systems-production/article71623310.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/55b10g/article71623366.ece/alternates/LANDSCAPE_1200/WB%20group.jpeg",
-      "publishedAt": "Sun, 25 Oct 2026 20:19:11 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Revenue gains take time to materialise even as Indian IT sees strong bookings",
-      "description": "HCLTech reported a total contract value (TCV) of $3.25 billion in new deal wins in Q2, up from $2.4 billion in Q1",
-      "url": "https://www.thehindubusinessline.com/info-tech/revenue-gains-take-time-to-materialise-even-as-indian-it-sees-strong-bookings/article71623749.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/lkntn3/article71623945.ece/alternates/LANDSCAPE_1200/Edit_second-leaG76GFVVE8.3.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 20:14:19 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Tata Motors’ €3.91-billion Iveco bid faces make-or-break October 26 test of global ambitions",
-      "description": "Tata Motors faces a crucial October 26 deadline in its €3.91-billion Iveco takeover, with only 35% of shares tendered at the last reported count against the required 80%. While management expects a last-minute surge in acceptances, it faces resistance from influential investors, Italian concerns ove",
-      "url": "https://www.thehindubusinessline.com/companies/tata-motors-391-billion-iveco-bid-faces-make-or-break-october-26-test-of-global-ambitions/article71622938.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/dxiyrt/article71622944.ece/alternates/LANDSCAPE_1200/iveco.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 19:52:35 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Govt examining high margins beyond cancer drugs",
-      "description": "While govt has so far acted only on oncology drugs, other such cases being examined with stakeholders, Dept of Pharma stated in its Oct 12 affidavit to the SC without sharing details",
-      "url": "https://www.thehindubusinessline.com/news/science/govt-examining-high-margins-beyond-cancer-drugs/article71623087.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/u2i5iy/article71623787.ece/alternates/LANDSCAPE_1200/close-p-hand-holding-pharmaceutical-capsules.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 19:44:01 +0530",
+      "title": "Delhi records month's lowest minimum temperature; air quality moderate in city",
+      "description": "The IMD has forecasted mainly clear skies during the day, with the maximum temperature likely to touch 32 degrees Celsius",
+      "url": "https://www.thehindubusinessline.com/news/national/delhi-records-months-lowest-minimum-temperature-air-quality-moderate-in-city/article71625618.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/npa7nz/article71625646.ece/alternates/LANDSCAPE_1200/PTI10_23_2026_000004A.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:17:24 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
@@ -583,147 +493,291 @@
       "description": "The new scheme currently looks specifically to incentivise and support those Indian mobile phone brands with a minimum turnover of ₹10,000 crore in FY26",
       "url": "https://www.thehindubusinessline.com/info-tech/smartphone-makers-undecided-on-new-pli-scheme-amid-market-slump/article71622575.ece",
       "urlToImage": "https://bl-i.thgim.com/public/incoming/8eb55a/article71583191.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_USD3LV4IV_R1521815047_1_32767038-54f7-4432-8d34-44056b38d857.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 19:24:05 +0530",
+      "publishedAt": "Mon, 26 Oct 2026 10:09:13 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Smartphone and earbud makers import more components from Vietnam as domestic prices surge",
-      "description": "Electronics imports from Vietnam are set to rise further this year from $5,364.61 million in FY26, industry sources say",
-      "url": "https://www.thehindubusinessline.com/info-tech/smartphone-and-earbud-makers-import-more-components-from-vietnam-as-domestic-prices-surge/article71623015.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/w0mgus/article71623593.ece/alternates/LANDSCAPE_1200/IMG_BL_-__MICROMAX_S_SEC_2_1_VGB89BM6.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 19:20:22 +0530",
+      "title": "Delhi to begin trial run of first Yamuna River cruise, 40-minute ride to cost ₹500",
+      "description": "The ferry safari will cover a distance of 5 km, from Sonia Vihar to Jagatpur, with each ride lasting around 40 minutes",
+      "url": "https://www.thehindubusinessline.com/news/national/delhi-to-begin-trial-run-of-first-yamuna-river-cruise-40-minute-ride-to-cost-500/article71625620.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/6ajtdf/article70286341.ece/alternates/LANDSCAPE_1200/sirsa-pollutionGGHF62RDJ.3.jpg.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 10:06:09 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Brokerage profits grow in September quarter despite slowdown in market activity",
-      "description": "Profit growth holds up as cash-market turnover falls 11.7% sequentially, with margin funding helping cushion weaker trading activity",
-      "url": "https://www.thehindubusinessline.com/markets/brokerage-profits-grow-in-september-quarter-despite-slowdown-in-market-activity/article71623337.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/nnxukf/article71623534.ece/alternates/LANDSCAPE_1200/2026-10-16T064105Z_1340996734_RC25GGA64SAD_RTRMADP_3_INDIA-TRADING-CLOSING-AUCTION.JPG",
-      "publishedAt": "Sun, 25 Oct 2026 19:04:58 +0530",
+      "title": "Tokenisation could threaten 25-30% of wealth management revenue: Morgan Stanley",
+      "description": "The report projects tokenised real-world assets could grow from around $40 billion currently to approximately $2.3 trillion by 2030",
+      "url": "https://www.thehindubusinessline.com/markets/tokenisation-could-threaten-25-30-of-wealth-management-revenue-morgan-stanley/article71625604.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/d24scf/article70733550.ece/alternates/LANDSCAPE_1200/2026-03-11T080153Z_2008364806_RC2V7IA79ONI_RTRMADP_3_MORGAN-STANLEY-HONGKONG.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 10:01:59 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "JSW Steel expects higher H2 volumes to offset rising input costs",
+      "title": "Kotak Mahindra Bank shares lead Nifty 50 gainers after Q2 results, brokerages lift targets",
+      "description": "At 9.41 am, the stock traded at ₹438.40 on the NSE, up 1.84% after rising to ₹446.30 in early trade from ₹430.50 previous close",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/kotak-mahindra-bank-shares-lead-nifty-50-gainers-after-q2-results-brokerages-lift-targets/article71625607.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/hi9ywg/article71625623.ece/alternates/LANDSCAPE_1200/Bulls-hold-for-GHMGKJ4R1.4.jpg.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:58:38 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Keralam govt approves flight services by cooperative sector: CM Satheesan",
+      "description": "The project will be spearheaded by MVR Cancer Centre Chairman C N Vijayakrishnan; government to guarantee deposits made by people in the cooperative sector",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/keralam-govt-approves-flight-services-by-cooperative-sector-cm-satheesan/article71625587.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/hp1yw2/article71321349.ece/alternates/LANDSCAPE_1200/20260715070L.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:55:34 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Canada taking advantage of US, but getting close to deal: Trump",
+      "description": "US President confident of finalised deal securing long-term gains for American economy; no rush on talks",
+      "url": "https://www.thehindubusinessline.com/news/world/canada-taking-advantage-of-us-but-getting-close-to-deal-trump/article71625600.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/xnby6j/article71445387.ece/alternates/LANDSCAPE_1200/2026-09-02T224109Z_1931136950_RC2ZANA29Y7I_RTRMADP_3_USA-TRUMP-CANADA-TARIFFS.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 09:53:03 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Gold gains on softer oil prices; Fed decision in focus",
+      "description": "Spot gold rose 0.4% to $4,009.87 per ounce by ‌0342 GMT, after hitting its lowest level since mid-July in the previous session",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-gains-on-softer-oil-prices-fed-decision-in-focus/article71625605.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/wwcwn8/article71625613.ece/alternates/LANDSCAPE_1200/PO01_Gold.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:50:11 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "BJP to hold nationwide protest on Monday against Kharge's 'baap' remark for Modi",
+      "description": "Kharge made the remark in response to an audience member's comment during an event in Patna on Sunday",
+      "url": "https://www.thehindubusinessline.com/news/bjp-to-hold-nationwide-protest-on-monday-against-kharges-baap-remark-for-modi/article71625489.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ko9efj/article71154270.ece/alternates/LANDSCAPE_1200/13_Kharge_Press_Conf_12_03_Delhi.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:40:50 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Magnitude 5.2 earthquake strikes Hindu Kush region in Afghanistan, EMSC says",
+      "description": "EMSC earlier estimated ‌the ​earthquake at magnitude ⁠5.8, before downgrading it ‌to 5.2",
+      "url": "https://www.thehindubusinessline.com/news/world/magnitude-52-earthquake-strikes-hindu-kush-region-in-afghanistan-emsc-says/article71625484.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/63gq7o/article71625595.ece/alternates/LANDSCAPE_1200/IMG_iStock-471332612_2_1_1RBGUIMC.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:38:46 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Soybeans drop to 2-month low on US harvest pressure, weaker oil",
+      "description": "Corn and wheat prices also ‌fell, though losses in wheat were limited by continued disruption to Black Sea supplies",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/soybeans-drop-to-2-month-low-on-us-harvest-pressure-weaker-oil/article71625580.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/ko4dwa/article71525767.ece/alternates/LANDSCAPE_1200/Edible-oils-dutGD1GJKRP5.4.jpg.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:37:02 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Crude shock, geopolitics drag Nifty below 22,500; Shriram Finance tumbles 5%",
+      "description": "The opening weakness follows a bruising week in which the Nifty declined 2.4 per cent and the Sensex fell 1,575 points across four consecutive losing sessions",
+      "url": "https://www.thehindubusinessline.com/markets/crude-shock-geopolitics-drag-nifty-below-22500-shriram-finance-tumbles-5/article71625585.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/9dgom0/article71625588.ece/alternates/LANDSCAPE_1200/iStock-2284817384.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:35:05 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Musk says SpaceX raised $40 billion in debt deal, predicts neocloud shakeout",
+      "description": "Musk attributes the successful debt raise to the company's investment-grade status and revenue from its Starlink satellite internet and launch businesses",
+      "url": "https://www.thehindubusinessline.com/companies/musk-says-spacex-raised-40-billion-in-debt-deal-predicts-neocloud-shakeout/article71625482.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/9rcu1v/article71567082.ece/alternates/LANDSCAPE_1200/2025-06-17T162244Z_863487020_RC2F4BADB2R6_RTRMADP_3_NEW-YORK-X-MUSK.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 09:21:54 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
+      "description": "“Claude didn’t access the state’s ‌voter registration system or change ‌or ⁠pull any voting ⁠records,” Anthropic said",
+      "url": "https://www.thehindubusinessline.com/info-tech/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall/article71625478.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/ebtput/article71625562.ece/alternates/LANDSCAPE_1200/2026-10-20T194121Z_1434364891_RC2B6OA0P2UI_RTRMADP_3_ANTHROPIC-IPO-INVESTORS.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 09:19:55 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
+      "description": "Attributing recent unrest in France to immigration, Trump says he would welcome immigrants from some countries ​but not from Norway \"because ‌I didn't get the Nobel Prize ... So I don't want anybody from Norway.\"",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-adds-norway-to-vulgar-list-of-countries-citing-nobel-snub/article71625463.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/422p8t/article71582155.ece/alternates/LANDSCAPE_1200/2026-10-14T013123Z_637670558_RC2P2OAM54LX_RTRMADP_3_USA-TRUMP.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 09:10:24 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "SCCL to expand operations into critical minerals",
+      "description": "Engage international consultants to conduct feasibility studies, directes Telangana Deputy CM Bhatti",
+      "url": "https://www.thehindubusinessline.com/news/sccl-to-expand-operations-into-critical-minerals/article71625498.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/xd3v3m/article71625544.ece/alternates/LANDSCAPE_1200/_NGP6513.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 09:02:53 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Crude oil prices, US Fed policy decision to steer rupee, bonds this week",
+      "description": "Oil gains and a looming Fed decision keep rupee volatility and Indian bonds in a delicate balance, as oil-driven external pressures and domestic liquidity shape rate expectations this week.",
+      "url": "https://www.thehindubusinessline.com/markets/crude-oil-prices-us-fed-policy-decision-to-steer-rupee-bonds-this-week/article71625458.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/7y7v15/article71625534.ece/alternates/LANDSCAPE_1200/iStock-2164745050.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 08:51:43 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Sensex, Nifty set for muted open as oil concerns persist, Fed in focus",
+      "description": "GIFT Nifty futures were at 22,608 at 7:46 am, indicating a muted start for the benchmark Nifty ‌50, which closed at 22,600 on Friday.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-set-for-muted-open-as-oil-concerns-persist-fed-in-focus/article71625497.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/7h0ldd/article71625511.ece/alternates/LANDSCAPE_1200/iStock-1479266884.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 08:32:12 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Bolsonaro calls for Brazil election results to be ‘annulled’ after loss to Lula",
+      "description": "Bolsonaro refused to concede defeat, calling the move to extend voting hours unprecedented — though both he and Lula made the request — and asked for the election results to be annulled, saying they were impossible to accept.",
+      "url": "https://www.thehindubusinessline.com/news/world/bolsonaro-calls-for-brazil-election-results-to-be-annulled-after-loss-to-lula/article71625499.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/54k227/article71625508.ece/alternates/LANDSCAPE_1200/2026-10-26T015157Z_599900164_RC2PAOASS4Y4_RTRMADP_3_BRAZIL-ELECTION.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 08:27:42 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Trump critic Lula wins reelection in Brazil, beats Bolsonaro to secure 4th presidential term",
+      "description": "With 100 per cent of the vote counted, Brazil’s electoral court announced that the soon to be 81-year-old Lula held an unassailable lead of nearly 4.4 million votes over opponent Flávio Bolsonaro.",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-critic-lula-wins-reelection-in-brazil-beats-bolsonaro-to-secure-4th-presidential-term/article71625464.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/tg5kmy/article71625468.ece/alternates/LANDSCAPE_1200/2026-10-26T015909Z_1846543588_RC2PAOAC0NJ8_RTRMADP_3_BRAZIL-ELECTION.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 08:26:49 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Five economic challenges facing Brazil's re-elected President Lula",
+      "description": "Mounting debt and entrenched structural problems could complicate leftist President Luiz Inacio Lula da Silva’s fourth ​term, which begins in January.",
+      "url": "https://www.thehindubusinessline.com/news/world/five-economic-challenges-facing-brazils-re-elected-president-lula/article71625501.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/fgbyyi/article71625503.ece/alternates/LANDSCAPE_1200/2026-10-26T024030Z_394427_RC2PAOA5PALH_RTRMADP_3_BRAZIL-ELECTION.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 08:21:41 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Crude oil price slips from six-month highs despite supply concerns",
+      "description": "US crude futures were down $1.60, or ‌1.55%, at $101.67 per ‌barrel ⁠by 0018 GMT. ⁠Brent crude futures were down $1.56 or 1.34% at $115.16.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-price-slips-from-six-month-highs-despite-supply-concerns/article71625467.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/dakq91/article71625471.ece/alternates/LANDSCAPE_1200/iStock-2200761999.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 07:42:20 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
+    {
+      "title": "Central Bank of India resumes RTGS services; no customer impact due to tech glitch",
       "description": "",
-      "url": "https://www.thehindubusinessline.com/companies/jsw-steel-expects-higher-h2-volumes-to-offset-rising-input-costs/article71622652.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/news/ic6sae/article71622658.ece/alternates/LANDSCAPE_1200/acharya.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 18:58:34 +0530",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/central-bank-of-india-resumes-rtgs-services-no-customer-impact-due-to-tech-glitch/article71624481.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/p4e6zr/article71625454.ece/alternates/LANDSCAPE_1200/6744_10-11-2016_11-59-59_04_BANK_QUE_10_11_DEL.JPG",
+      "publishedAt": "Mon, 26 Oct 2026 07:20:10 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Ladakh becomes India’s first fully organic union territory",
-      "description": "In June, the administration banned the sale and use of chemical fertilisers, reinforcing its push to make agriculture across the region entirely organic",
-      "url": "https://www.thehindubusinessline.com/news/national/ladakh-becomes-indias-first-fully-organic-union-territory/article71623240.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/todays-paper/tp-agri-biz-and-commodity/cy0xxo/article70952832.ece/alternates/LANDSCAPE_1200/APEDA-extends-dGQCFUUSMK.4.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 18:30:25 +0530",
+      "title": "Stocks to watch, Oct 26: Raymond, RailTel, KEC Intl, Honasa, BL Kashyap, Lupin, Orchid Pharma, Gland Pharma among 15 stocks to remain in focus",
+      "description": "Markets in focus: a mix of M&amp;A, contract wins, regulatory updates and new product launches across 15 stocks, from Ray­mond’s rebrand to Lupin’s FDA observation and Orchid Pharma’s Latin American licensing deal.",
+      "url": "https://www.thehindubusinessline.com/markets/stocks-to-watch-oct-26-raymond-railtel-kec-intl-honasa-bl-kashyap-lupin-orchid-pharma-gland-pharma-among-15-stocks-to-remain-in-focus/article71624286.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/9nch/article71625445.ece/alternates/LANDSCAPE_1200/iStock-2244582092.jpg",
+      "publishedAt": "Mon, 26 Oct 2026 06:47:43 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Distribution reforms: IRDAI extends deadline for feedback till October 31",
-      "description": "A consultation paper on the proposed distribution reforms was released by the IRDAI proposing significant changes in the current regulation including caps on commissions and expenses of management",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/distribution-reforms-irdai-extends-deadline-for-feedback-till-october-31/article71623228.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/dgex6i/article68195935.ece/alternates/LANDSCAPE_1200/PO05_Insruance.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 18:04:31 +0530",
+      "title": "Ventures in the pink of health",
+      "description": "Alkemi Growth Capital  backs healthcare and wellness businesses with potential to grow without compromising care",
+      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/ventures-in-the-pink-of-health/article71624529.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/nebqa9/article71624530.ece/alternates/LANDSCAPE_1200/BL2610_Spark%20QA.jpg",
+      "publishedAt": "Sun, 25 Oct 2026 23:33:50 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "‘Excess’: Insured, but still responsible",
-      "description": "But why excess? In a motor policy covering a ₹20 lakh car, what difference does a few thousand rupees make? Why do some health policies require a co-payment?",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/excess-insured-but-still-responsible/article71623264.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/91jnoh/article71623244.ece/alternates/LANDSCAPE_1200/PO16_Insurance_policy.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 17:52:46 +0530",
+      "title": "Founders who chose the ‘nuclear option’",
+      "description": "Meet the people vying to turn nuclear technology, long dominated by the State, into thriving private businesses",
+      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/founders-who-chose-the-nuclear-option/article71624512.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/8d6an2/article71624518.ece/alternates/LANDSCAPE_1200/BL2610_Spark_Lead.jpg",
+      "publishedAt": "Sun, 25 Oct 2026 23:27:39 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     },
     {
-      "title": "Implication of residual investments on core portfolios",
-      "description": "When you invest in an equity fund, you expect to get equity exposure. Take large-cap active funds",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/implication-of-residual-investments-on-core-portfolios/article71623210.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/xv03jm/article71623204.ece/alternates/LANDSCAPE_1200/MF_funds.jpeg",
-      "publishedAt": "Sun, 25 Oct 2026 17:35:11 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "IMD Update: Very severe cyclone threat for Bapatla-Vizag coast in Andhra Pradesh",
-      "description": "Squally weather, gale-force winds and rough to very rough seas are forecast over the western and central Bay Tuesday, with impact spilling over to the Andhra Pradesh and adjoining Odisha coasts",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/imd-update-very-severe-cyclone-threat-for-andhra-pradesh-yanam-coast/article71622706.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/mbdyoe/article71623135.ece/alternates/LANDSCAPE_1200/MonsnOct25pm.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 17:10:30 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Swiping in dark: The hidden cost of plastic money",
-      "description": "It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipes \ncan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623151.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/shnms7/article71620701.ece/alternates/LANDSCAPE_1200/More-financial-GH7GCMFKN.3.jpg.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 17:07:05 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Tech Query: Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals — What is the outlook? Where are these stocks headed?",
-      "description": "We look at the prospects of Bharti Airtel, Power Finance Corporation (PFC), REC, Alkyl Amines Chemicals",
-      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/tech-query-bharti-airtel-power-finance-corporation-pfc-rec-alkyl-amines-chemicals-what-is-the-outlook-where-are-these-stocks-headed/article71616387.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/4gwgbk/article67338112.ece/alternates/LANDSCAPE_1200/PO24_bull%201.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 16:43:33 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Crude oil near $120, to intensify headwinds for economy, but tailwinds likely to reduce pressure",
-      "description": "Union Budget has estimated fertiliser subsidy at ₹1.70 lakh crore. However, according to Controller General of Accounts (CGA), outgo has already crossed ₹1.03 lakh crore in first five months",
-      "url": "https://www.thehindubusinessline.com/economy/crude-oil-near-120-to-intensify-headwinds-for-economy-but-tailwinds-likely-to-reduce-pressure/article71623034.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/uyia7n/article71607100.ece/alternates/LANDSCAPE_1200/2024-06-14T125808Z_888106949_RC2SSI9RC4JE_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-OIL.JPG",
-      "publishedAt": "Sun, 25 Oct 2026 16:16:26 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "China’s export controls around PV cells could slow India’s upstream solar push",
-      "description": "The restrictions can throw a wrench for Indian module manufacturers who are now planning to enter upstream segments like cells, Ingots wafers and polysilicon",
-      "url": "https://www.thehindubusinessline.com/economy/chinas-export-controls-around-pv-cells-could-slow-indias-upstream-solar-push/article71622820.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/akpi3l/article71622974.ece/alternates/LANDSCAPE_1200/PTI07_02_2026_000415B.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 15:13:51 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Riyadh airport resumes flights as Saudis fight Houthi missiles",
-      "description": "Dozens of flights departed King Khalid International Airport early on Sunday to destinations including London, Dubai and Beijing, according to the airport’s website",
-      "url": "https://www.thehindubusinessline.com/news/world/riyadh-airport-resumes-flights-as-saudis-fight-houthi-missiles/article71622883.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/uvd1ag/article71622972.ece/alternates/LANDSCAPE_1200/2026-10-12T095611Z_462205806_RC2L1OAZZ0I5_RTRMADP_3_IRAN-CRISIS-SAUDI-AIRPORT.JPG",
-      "publishedAt": "Sun, 25 Oct 2026 15:13:32 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "India’s 2029 rear-crash rule could cost car makers ₹2,700 crore annually, squeeze small-car margins",
-      "description": "Manufacturers with newer architectures and higher volumes may absorb the expenditure more easily, while entry-level models could face greater margin pressure",
-      "url": "https://www.thehindubusinessline.com/companies/indias-2029-rear-crash-rule-could-cost-car-makers-2700-crore-annually-squeeze-small-car-margins/article71620850.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/m21oe7/article71344326.ece/alternates/LANDSCAPE_1200/9712_9_2_2026_14_22_8_5__DSC8557_2.JPG",
-      "publishedAt": "Sun, 25 Oct 2026 15:06:45 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "Private capex pipeline grows fourfold since 2014, but lending risks rise amid sectoral concentration: Report",
-      "description": "India’s outstanding private capex pipeline reached ₹99.7 lakh crore in September 2026, nearly 4.1 times its March 2014 level and 39% higher than a year ago, report says",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/private-capex-pipeline-grows-fourfold-since-2014-but-lending-risks-rise-amid-sectoral-concentration-report/article71622835.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/28ovk4/article71622963.ece/alternates/LANDSCAPE_1200/iStock-1440478093.jpg",
-      "publishedAt": "Sun, 25 Oct 2026 15:05:36 +0530",
+      "title": "Sell your vision for the future, but don’t oversell the present",
+      "description": "A founder’s credibility is the most valuable asset of a young company",
+      "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/sell-your-vision-for-the-future-but-dont-oversell-the-present/article71624494.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/p8vy9l/article71624506.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U0C4KUODU_R1536152966_2_b53c6b55-8011-4ad6-8240-c0305def5012.jpg",
+      "publishedAt": "Sun, 25 Oct 2026 23:18:55 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     }
   ],
   "sports": [
+    {
+      "title": "IND vs NZ: Ishan Kishan ruled out of third T20I against New Zealand",
+      "description": "India had also brought in uncapped wicketkeeper-batter Kumar Kushagra as cover for the injured Kishan. The BCCI has confirmed that Kushagra will remain with the squad for the third match. India have won the first two matches and lead the five-match series 2-0. The third T20I will be played in Wellin",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-vs-nz-ishan-kishan-ruled-out-of-third-t20i-against-new-zealand/articleshow/135202604.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202645,imgsize-59611.cms",
+      "publishedAt": "2026-10-26T09:50:37+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "IND A vs NZ A: Padikkal's 199, Sundar's fifty put India A in command",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-a-vs-new-zealand-a-ind-a-vs-nz-a-live-score-1st-unofficial-test-day-3-updates-commentary-lincoln/liveblog/135200218.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200218,imgsize-28384.cms",
+      "publishedAt": "2026-10-26T06:17:44+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "From outranking Fab Four to fight for place: Rise, reign &amp; unraveling of Labuschagne",
+      "description": "Labuschagne has been afforded more chances than most, but Australian cricket has a history of punishing batters whose judgement deserts them against South Africa.",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/from-outranking-the-fab-four-to-fight-for-his-place-rise-reign-and-the-unraveling-of-marnus-labuschagne/articleshow/135196369.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135196555,imgsize-165312.cms",
+      "publishedAt": "2026-10-26T05:25:00+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "Just one run short! Devdutt Padikkal falls for 199; reaction to umpire goes viral",
+      "description": "Devdutt Padikkal fell one run short of a double century during the first unofficial Test match. He was dismissed for 199 runs after an appealed catch decision by the umpire. Padikkal's innings helped India A recover from an early collapse in their second innings. India A had been bowled out for 113 ",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/just-one-run-short-devdutt-padikkal-falls-for-199-reaction-to-umpire-goes-viral-watch/articleshow/135202328.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202498,imgsize-25745.cms",
+      "publishedAt": "2026-10-26T09:35:38+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "'What did I do wrong?': Ex-India star reveals how being dropped from team pushed him into depression",
+      "description": "Amit Mishra faced significant challenges after being excluded from the Indian cricket team for an extended period. He battled depression for 18 months, questioning his performance while continuing to play. A conversation with a selector helped him realize he needed to improve his domestic performanc",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/what-did-i-do-wrong-ex-india-star-reveals-how-being-dropped-from-team-pushed-him-into-depression/articleshow/135200379.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200409,imgsize-52313.cms",
+      "publishedAt": "2026-10-26T07:01:45+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
+    {
+      "title": "'I don't think we can reveal on live TV': Shadab Khan on chat with Haris Rauf",
+      "description": "Shadab Khan led a remarkable comeback for Pakistan against England by scoring an unbeaten 113 runs. Together with Haris Rauf, they built a record-breaking partnership for the last wicket in ODI history. Earlier, England posted a total of 241 runs, with Ben Duckett scoring 105 runs. Pakistan struggle",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-dont-think-we-can-reveal-on-live-tv-shadab-khan-on-chat-with-haris-rauf/articleshow/135200547.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200577,imgsize-50473.cms",
+      "publishedAt": "2026-10-26T07:33:11+05:30",
+      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
+      "category": "sports"
+    },
     {
       "title": "Shadab, Rauf pull off miracle with record 89-run stand for last wicket as PAK stun ENG",
       "description": "Shadab Khan, who came in at number eight, did the unthinkable, stitching together an unbeaten 89-run partnership  for the last wicket with Rauf to take Pakistan home in the fourth ODI of the tri-series, which also features Sri Lanka.",
@@ -757,15 +811,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-dominate-zimbabwe-in-vadodara-as-harmanpreet-deepti-and-vaishnavi-headline-121-run-win/articleshow/135194005.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135194185,imgsize-1827977.cms",
       "publishedAt": "2026-10-25T21:40:02+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Acho Donations Fund Hospital: Former NFL star backs Nigeria clinic; $100,000 helped build it",
-      "description": "Since 1989, Sam Acho's family has been dedicated to providing free medical care to underserved populations in Nigeria. In June 2017, they established the Living Hope Medical Center, significantly funded by Acho's NFL award nominations, which raised $100,000. This funding facilitated a shift from tem",
-      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/in-1989-nfl-star-sam-achos-family-began-a-medical-mission-in-nigeria-years-later-his-two-walter-payton-nfl-man-of-the-year-nominations-brought-100000-toward-a-permanent-hospital/articleshow/135167597.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135167912,imgsize-97514.cms",
-      "publishedAt": "2026-10-25T22:42:07+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     },
@@ -856,51 +901,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/cricket/news/shaheen-afridi-surpasses-waqar-younis-and-shoaib-akhtar-becomes-fastest-pakistan-pacer-to-reach-odi-wickets-milestone/articleshow/135188067.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135188185,imgsize-111962.cms",
       "publishedAt": "2026-10-25T15:22:08+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Padikkal, Sudharsan hit back after KL Rahul, Jaiswal failures",
-      "description": "India A struggled initially but found stability through an unbeaten partnership between Devdutt Padikkal and Sai Sudharsan. Padikkal scored 56 runs, while Sudharsan contributed 39 runs, helping the team recover. After a poor start, the duo added 96 runs without losing another wicket by the end of Da",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/ind-a-vs-nz-a-1st-unofficial-test-devdutt-padikkal-sai-sudharsan-hit-back-after-kl-rahul-yashasvi-jaiswal-failures/articleshow/135184733.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135184886,imgsize-25485.cms",
-      "publishedAt": "2026-10-25T11:37:50+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "How Cristiano Ronaldo own two Saudi mansions worth $9 million without citizenship",
-      "description": "Cristiano Ronaldo’s $9 million Red Sea property purchase highlights how foreign nationals can own homes in Saudi Arabia without citizenship. Through its Premium Residency programme, the kingdom is opening new pathways for global talent to live, invest and build lasting ties. From Gifted Residency to",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-cristiano-ronaldo-can-own-two-saudi-mansions-worth-9-million-without-citizenship-inside-his-unique-gifted-residency-arrangement/articleshow/135187273.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135188647,imgsize-149942.cms",
-      "publishedAt": "2026-10-25T21:00:00+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "Asian Para Games bronze leaves Suhas Yathiraj hungry for gold amid IAS duties and badminton",
-      "description": "Suhas Yathiraj's bronze medal at the Asian Para Games in Nagoya left him disappointed after missing out on a chance to fight for gold. The 43-year-old Indian shuttler, who has won silver medals at the Tokyo and Paris Paralympics, continues to juggle his responsibilities as an IAS officer with the de",
-      "url": "https://timesofindia.indiatimes.com/sports/asian-para-games-2026/asian-para-games-bronze-leaves-suhas-yathiraj-hungry-for-gold-amid-ias-duties-and-badminton/articleshow/135181520.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135181556,imgsize-53179.cms",
-      "publishedAt": "2026-10-25T07:27:51+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "FIFA U15 WC: India beat Cameroon 2-1, register second consecutive Group K win",
-      "description": "India defeated Cameroon 2-1 to register their second consecutive victory at the inaugural FIFA U15 World Cup 2026. After conceding an equaliser, captain R Lalremruatfela scored the decisive goal in the second half. Goalkeeper Jenit Ningthoujam delivered a standout performance, making crucial saves, ",
-      "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/fifa-u15-world-cup-2026-india-beat-cameroon-2-1-register-second-consecutive-group-k-win/articleshow/135185906.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135185905,imgsize-221695.cms",
-      "publishedAt": "2026-10-25T13:06:32+05:30",
-      "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
-      "category": "sports"
-    },
-    {
-      "title": "'Sooryavanshi should've opened': Ex-India cricketer slams decision to send him at No. 3",
-      "description": "Former India spinner Murali Kartik criticised India’s decision to send 15-year-old Vaibhav Sooryavanshi at No. 3 against New Zealand, where he scored just four runs. Kartik believes Sooryavanshi should have opened, while experienced Sanju Samson handled the middle order. He also suggested Shivam Dub",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/vaibhav-sooryavanshi-shouldve-opened-ex-india-cricketer-slams-managements-decision-to-send-teenager-at-no-3/articleshow/135187789.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135187932,imgsize-26304.cms",
-      "publishedAt": "2026-10-25T15:08:12+05:30",
       "source": "Sports News: Cricket Live Scorecard, Latest Cricket News, Football, NBA, NFL, WWE, NHL, MLB News & More",
       "category": "sports"
     }
@@ -1089,6 +1089,168 @@
   ],
   "entertainment": [
     {
+      "title": "Madhoo backs Rashmika Mandanna over South Indian accent criticism; says ‘own it, girl’",
+      "description": "Madhoo expressed admiration for Rashmika Mandanna's confidence in handling criticism regarding her South Indian accent. During her appearance on 'Koffee with Karan', Rashmika defended her accent, saying it is natural for her background. Madhoo reflected on her own struggles with accents when enterin",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/after-javed-akhtar-madhoo-comes-out-in-support-of-rashmika-mandanna-over-south-indian-accent-criticism-says-i-just-loved-the-way-she-owned-it/articleshow/135203391.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135203514,imgsize-102326.cms",
+      "publishedAt": "2026-10-26T10:50:24+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Saiee M Manjrekar’s look from Ram Charan-backed ‘The India House’ leaks",
+      "description": "Saiee M Manjrekar is actively working on 'The India House', a period drama exploring India's pre-independence struggle. Under the direction of Ram Vamsi Krishna, the film boasts a talented cast, including Nikhil Siddharth and Anupam Kher. In a departure from her usual roles, Saiee portrays a charact",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/saiee-m-manjrekars-revolutionary-look-from-ram-charan-backed-the-india-house-leaks-online/articleshow/135203258.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135203279,imgsize-97961.cms",
+      "publishedAt": "2026-10-26T10:39:07+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Kamal reveals how Mammootty’s joke led to ‘Mazhayethum Munpe’",
+      "description": "Director Kamal recently revealed his long-held dream of collaborating with the talented actor Mammootty. The project 'Mazhayethum Munpe' finally came to fruition in 1995 after multiple attempts were thwarted by various circumstances. Key figures like producer Madhavan Nair and screenwriter Sreenivas",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/you-only-make-films-with-mohanlal-dont-you-kamal-reveals-how-mammoottys-joke-led-to-mazhayethum-munpe/articleshow/135203198.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135203209,imgsize-331171.cms",
+      "publishedAt": "2026-10-26T10:32:09+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Matthew Perry doc to Minions: What to stream this week",
+      "description": "New streaming content includes the documentary about Matthew Perry, which offers insights into his life and career. Upcoming releases also feature the film 'Minions &amp; Monsters,' a continuation of the beloved franchise. In addition, the docuseries promises to revisit Perry's impact on popular cul",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/matthew-perry-docuseries-minions-monsters-to-the-gilded-age-movies-and-series-to-stream-this-week/articleshow/135202418.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202616,imgsize-359154.cms",
+      "publishedAt": "2026-10-26T09:49:27+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Eric Bauza, voice of Bugs Bunny passes away 'suddenly' at 46",
+      "description": "Eric Bauza, an Emmy Award-winning voice actor, has died at the age of 46. His family announced his sudden passing through an official statement on social media. Bauza was known for voicing iconic characters such as Bugs Bunny and Daffy Duck. He remained active in voice acting, with recent projects i",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/eric-bauza-voice-of-bugs-bunny-and-daffy-duck-passes-away-suddenly-at-age-46/articleshow/135202948.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135202963,imgsize-250973.cms",
+      "publishedAt": "2026-10-26T10:24:49+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Ahaana Krishna defends family amid Diya Krishna controversy",
+      "description": "Ahaana Krishna spoke out on social media regarding the criticism her family received following Diya Krishna's recent post. She emphasized that each family member has their own opinions and should be judged individually. Ahaana expressed her discomfort with dragging unrelated personal matters into pu",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/being-a-family-does-not-mean-we-share-one-collective-opinion-ahaana-krishna-defends-family-amid-diya-krishna-controversy/articleshow/135201967.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201978,imgsize-359933.cms",
+      "publishedAt": "2026-10-26T08:57:47+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Harshith Reddy thanks Prabhas for supporting ‘Romeo Juliet’",
+      "description": "Harshith Reddy expressed his heartfelt appreciation for the enthusiastic reception of the film's preview. He emphasized that his role in 'Romeo Juliet' offers something fresh for Telugu viewers. Director Bhargav Macharla highlighted the film's themes of relatability, emphasizing relationships and em",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/love-is-very-powerful-harshith-reddy-talks-about-his-unique-character-in-romeo-juliet-calls-it-an-entertaining-film/articleshow/135201672.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201698,imgsize-107329.cms",
+      "publishedAt": "2026-10-26T08:40:17+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Nicki Minaj joins Donald Trump at Michigan rally",
+      "description": "Nicki Minaj participated in a rally with Donald Trump in Michigan, encouraging voters to support Republican candidates. She expressed her admiration for Trump, claiming he represents resilience and a brighter future for children. After Minaj's speech, Trump praised her appearance and intelligence wh",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/nicki-minaj-joins-donald-trump-at-michigan-rally-us-president-compliments-rapper-saying-she-never-looked-more-beautiful/articleshow/135201310.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201360,imgsize-122358.cms",
+      "publishedAt": "2026-10-26T08:21:38+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Bhagyashri Borse dances with triplets Ghetto kids",
+      "description": "Social media is abuzz after Bhagyashri Borse showcased a dance collaboration with the Triplets Ghetto Kids, revealing her admiration for their energetic performance. Posting on Instagram, she celebrated finishing the first schedule of her upcoming film, 'Operation Ganga', featuring celebrated actors",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/these-kids-stole-my-heart-bhagyashri-borse-dances-with-triplets-ghetto-kids-for-operation-ganga-video/articleshow/135201148.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135201173,imgsize-306130.cms",
+      "publishedAt": "2026-10-26T08:10:12+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "When Vicky Kaushal revealed what he wanted in a relationship",
+      "description": "Vicky Kaushal shared his thoughts on relationships and marriage preferences during an appearance with Bear Grylls. He indicated an interest in eventually marrying and emphasized the importance of comfort with a partner. Kaushal highlighted the need for accepting each other's qualities to strengthen ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/we-should-be-able-to-make-each-other-a-better-version-of-ourselves-when-vicky-kaushal-revealed-what-he-wanted-in-a-relationship/articleshow/135200960.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200987,imgsize-201099.cms",
+      "publishedAt": "2026-10-26T07:59:04+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "‘Vrushakarma’: Naga Chaitanya’s film features a massive cave set built in 50 days",
+      "description": "Naga Chaitanya will take the lead in the enchanting adventure thriller 'Vrushakarma', helmed by director Karthik Dandu. A breathtaking cave set, known as Brahmagiri Cave, has been meticulously constructed over 50 days to provide the backdrop for much of the story. The film also features Meenakshi Ch",
+      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/vrushakarma-naga-chaitanya-and-meenakshi-chaudharys-adventure-thriller-features-a-massive-cave-set-built-in-50-days/articleshow/135200770.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200823,imgsize-135617.cms",
+      "publishedAt": "2026-10-26T07:44:21+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "‘Nayyi Navelli' day 10: Yami Gautam's film grosses Rs 32.31 cr worldwide",
+      "description": "Nayyi Navelli experienced a slight uptick in box office earnings during its second Sunday in India, raking in Rs 95 lakhs. This brings its global total to Rs 32.31 crore, marking a successful turnaround after a slow start. Over its second weekend, the horror-comedy's total collections have reached R",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/nayyi-navelli-box-office-collection-day-10-yami-gautams-film-grosses-rs-32-31-cr-worldwide-hindi-2d-occupancy-stands-at-24-99/articleshow/135200759.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200804,imgsize-384322.cms",
+      "publishedAt": "2026-10-26T07:42:42+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Amitabh Bachchan tightens security outside Jalsa after bomb threat",
+      "description": "Amitabh Bachchan maintained his Sunday Darshan ritual while enhanced security measures were evident due to a bomb threat email. The email, reportedly targeting his residence, has prompted an investigation by Mumbai Police. During this event, he was accompanied by his son, Abhishek Bachchan, who supp",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-tightens-security-outside-jalsa-after-bomb-threat-son-abhishek-bachchan-joins-him-on-sunday-darshan/articleshow/135200675.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200751,imgsize-276236.cms",
+      "publishedAt": "2026-10-26T07:40:16+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Premada Oorali' BO day 31: Shree Raam film crosses Rs 100 cr",
+      "description": "Premada Oorali has reached a remarkable milestone by crossing the Rs 100 crore mark in net collections in India. Currently, its total stands at Rs 101.22 crore after 31 days in theaters. The film's strong daily earnings and occupancy rates, particularly during evening showings, have contributed to i",
+      "url": "https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/premada-oorali-box-office-collection-day-31-shree-raam-film-crosses-rs-100-cr-india-net-worldwide-gross-hits-rs-121-78-cr/articleshow/135200356.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200361,imgsize-234162.cms",
+      "publishedAt": "2026-10-26T06:50:40+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Margot Robbie's 'Neighbours' episodes to get AI treatment",
+      "description": "Episodes of the Australian soap opera Neighbours featuring Margot Robbie are being reworked into vertical microdramas. Former cast members have expressed concerns about consent and usage of their performances in this new format. The first installment will focus on Robbie's character, Donna Freedman,",
+      "url": "https://timesofindia.indiatimes.com/web-series/news/english/margot-robbies-neighbours-episodes-to-get-ai-treatment-matthew-werkmeister-criticise-project-stefan-dennis-calls-it-morally-and-legally-wrong/articleshow/135200259.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200268,imgsize-341767.cms",
+      "publishedAt": "2026-10-26T06:33:18+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Prahaar: The Ujjwal Nikam Story' day 10: Rajkummar's film earns Rs 26.78 cr worldwide",
+      "description": "Prahaar: The Ujjwal Nikam Story has shown improved earnings in its second weekend at the box office. The film collected Rs 1.20 cr on its tenth day, increasing its total gross. Rajkummar Rao portrays public prosecutor Ujjwal Nikam, focusing on significant legal events in India. The film's overall oc",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/prahaar-the-ujjwal-nikam-story-box-office-collection-day-10-rajkummar-raos-film-earns-rs-26-78-cr-worldwide-second-week-earnings-touch-rs-2-95-cr/articleshow/135200237.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200249,imgsize-153138.cms",
+      "publishedAt": "2026-10-26T06:28:37+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "‘Ramayana’ advance booking headed for Rs 25 crore mark",
+      "description": "Ramayana: Rise of a Legend features Ranbir Kapoor and Yash in lead roles and is directed by Nitesh Tiwari. The film has seen impressive advance bookings with approximately 2.16 lakh tickets sold across 161 cities. Maharashtra and Mumbai have emerged as the top contributors to ticket sales and revenu",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-advance-booking-ranbir-kapoor-and-yash-starrer-headed-for-rs-25-crore-mark-ahead-of-november-5-release/articleshow/135199482.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200153,imgsize-413029.cms",
+      "publishedAt": "2026-10-26T06:09:50+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "'Titans' BO day 4: Jayasurya and Vinayakan's film earns Rs 2.22 cr",
+      "description": "'Titans', a Malayalam film, experienced a significant uptick in its box office figures on the fourth day, bringing in Rs 50 lakhs. The cumulative domestic gross has now climbed to an impressive Rs 2.22 crores, with an India net collection of Rs 1.92 crores. Debuting in theaters on October 22, 2026, ",
+      "url": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/titans-box-office-collection-day-4-jayasurya-and-vinayakans-film-earns-rs-2-22-cr-gross-in-india-total-india-net-reaches-rs-1-92-cr/articleshow/135200164.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135200170,imgsize-230401.cms",
+      "publishedAt": "2026-10-26T06:09:06+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
       "title": "'Drishyam 3: The Conclusion' day 24: Ajay and Tabu's film earns Rs 3 cr on Sunday",
       "description": "On its fourth Sunday, Drishyam 3: The Conclusion saw a rise in domestic box office sales, recording net earnings of Rs 3 crore, a jump of 13.2%. Audience turnout improved over the weekend, contributing to its cumulative domestic revenue of Rs 441.95 crore and worldwide figures surpassing Rs 572.45 c",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-24-ajay-devgn-and-tabus-film-earns-rs-3-cr-on-sunday-worldwide-gross-reaches-rs-572-45-cr/articleshow/135200098.cms",
@@ -1107,165 +1269,12 @@
       "category": "entertainment"
     },
     {
-      "title": "'Ranabaali' BO day 10",
-      "description": "After a strong opening, Ranabaali has seen a modest uptick in its box office sales during its second weekend. The film brought in Rs 2.90 crore on Sunday, marking an increase from the previous day's earnings. Its total net collections have now hit Rs 53 crore, while ticket sales for Sunday are appro",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/ranabaali-box-office-collection-day-10-vijay-deverakonda-and-rashmika-mandannas-film-earns-rs-2-90-cr-on-sunday-worldwide-gross-touches-rs-73-65-cr/articleshow/135200073.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135200082,imgsize-135806.cms",
-      "publishedAt": "2026-10-26T05:49:51+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Jailer 2' BO day 11: Rajinikanth’s film crosses Rs 710 cr worldwide",
-      "description": "On its second Sunday, Rajinikanth's 'Jailer 2' saw a remarkable boost in box office earnings, raking in Rs 25.70 crore in India alone. This action-packed thriller has amassed an impressive worldwide total of Rs 710.35 crore, showcasing robust audience enthusiasm. The Tamil version stood out, consist",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jailer-2-box-office-collection-day-11-rajinikanths-film-crosses-rs-710-cr-worldwide-second-weekend-earns-rs-64-35-cr/articleshow/135199754.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199779,imgsize-163803.cms",
-      "publishedAt": "2026-10-26T05:34:48+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Lewis Hamilton calls Kim Kardashian his 'girlfriend'",
-      "description": "Lewis Hamilton recently opened up about his relationship with Kim Kardashian during a press panel. He expressed happiness from spending time with her four children and his family. The couple has taken a significant step by getting a dog together, named Halo. Their relationship became public in Febru",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/lewis-hamilton-calls-kim-kardashian-his-girlfriend-reveals-he-got-her-kids-a-dog-named-halo-watch/articleshow/135199404.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199449,imgsize-270403.cms",
-      "publishedAt": "2026-10-26T05:08:14+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "CBFC data LEAK exposes 500 films, unreleased scripts",
-      "description": "The Central Board of Film Certification has reported a data security issue involving confidential documents for numerous film titles. This situation has raised serious concerns within the film industry regarding the protection of sensitive information submitted for certification. The leaked document",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cbfc-data-leak-unreleased-scripts-500-film-titles-censor-cut-exposed-in-security-breach-reports/articleshow/135197597.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135199338,imgsize-64931.cms",
-      "publishedAt": "2026-10-26T04:10:05+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Clayface' tops box office; 'You Can See Everything' among highest grossing docus of all time",
-      "description": "DC Studios released 'Clayface', a Gotham City villain film that opened with $24 million during its debut weekend. A24's documentary, 'You Can See Everything', achieved impressive earnings of $19.5 million in its first wide release. Both films received positive audience feedback, contributing to thei",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/box-office/clayface-tops-box-office-with-usd-43-million-debut-you-can-see-everything-ranks-among-highest-grossing-documentaries-of-all-time/articleshow/135197559.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197593,imgsize-296215.cms",
-      "publishedAt": "2026-10-26T03:23:08+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Virat-Anushka attend Krishndas concert in Mumbai, chant harinam, groove: VIDEOS",
-      "description": "Anushka Sharma and Virat Kohli were spotted enjoying a captivating kirtan performance by Krishna Das in Mumbai. Their demeanor was relaxed as they immersively engaged with the melodic devotion surrounding them. Their presence at this event keeps up with their tradition of joining such gatherings tog",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/virat-kohli-and-anushka-sharma-make-rare-appearance-at-krishnadas-kirtan-concert-in-mumbai-chant-hari-naam-and-groove-netizens-react-as-videos-go-viral/articleshow/135197072.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135197482,imgsize-221601.cms",
-      "publishedAt": "2026-10-26T01:44:19+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Tiger Shroff's 1,291 sq ft Khar apartment sold for Rs 9 crore: Report",
-      "description": "Actor Tiger Shroff has sold his apartment in Khar West, Mumbai, for Rs 9 crore recently. This transaction follows a shooting incident involving him on October 18, which left his driver and a passerby injured. The apartment, located on the ninth floor, was acquired by Shroff in July 2018 for Rs 7.61 ",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroffs-1291-sq-ft-khar-apartment-sold-for-rs-9-crore-after-gun-fire-incident-report/articleshow/135196618.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135196839,imgsize-178513.cms",
-      "publishedAt": "2026-10-26T00:07:44+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Asin's husband reveals how she's raising their 7-year old daughter: 'No phones, No TV'",
-      "description": "Once a shining star in Indian cinema, Asin Thottumkal left her acting career behind following her marriage. Rahul Sharma has lauded Asin's relentless encouragement, attributing their daughter Arin Rayn Sharma's remarkable ability to speak several languages to her influence. The couple is keen on pri",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/what-is-ghajini-actor-asin-doing-after-quitting-movies-her-husband-rahul-sharma-reveals-how-shes-raising-their-daughter-arin-rayn-sharma-no-tv-no-phones-she-can-understand-and-speak-about-12-languages/articleshow/135193709.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135193806,imgsize-258012.cms",
-      "publishedAt": "2026-10-25T21:20:57+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Cabinet minister Subodh Uniyal has apologised to Daler Mehndi, reveals Mika's team",
-      "description": "After a contentious incident at a religious event in Uttarakhand, Minister Subodh Uniyal has reached out with an apology to Daler Mehndi. The minister had accused Mehndi of performing while intoxicated and lip-syncing. However, a productive dialogue ensued, leading to the Chief Minister inviting the",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cabinet-minister-subodh-uniyal-has-apologised-to-daler-mehndi-after-uttarakhand-event-reveals-mika-singhs-team-we-hope-this-matter-can-now-be-put-behind-us/articleshow/135193448.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135193539,imgsize-210216.cms",
-      "publishedAt": "2026-10-25T20:55:03+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Govinda breaks silence on wife Sunita Ahuja's cheating allegations: 'She's been lucky for me'",
-      "description": "In a recent statement, Govinda has responded to claims of infidelity brought forth by his wife, Sunita Ahuja. He suggests that outside influences are distorting her understanding of their relationship. Govinda expresses gratitude for Sunita's contributions to his journey, asserting that he intends t",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-breaks-silence-on-wife-sunita-ahujas-cheating-allegations-talks-about-her-contribution-to-his-life-shes-been-lucky-for-me-ill-keep-dodging-her-claims/articleshow/135194570.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135194745,imgsize-227450.cms",
-      "publishedAt": "2026-10-25T22:08:05+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Netaji’s grandnephew Chandra Kumar Bose demands apology from director of Prabhas starrer 'Fauzi'",
-      "description": "Chandra Kumar Bose has voiced strong objections against the upcoming film 'Fauzi', claiming it distorts important historical truths about Netaji Subhas Chandra Bose's engagement with Adolf Hitler. He argues that the film sensationalizes their meeting and calls for an apology from its creators to the",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/netajis-grandnephew-chandra-kumar-bose-demands-apology-from-director-of-prabhas-starrer-fauzi-distorting-facts-while-dealing-with-national-icons-is-a-crime/articleshow/135194670.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135194754,imgsize-319941.cms",
-      "publishedAt": "2026-10-25T22:09:40+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Amid bomb threat, Bachchan greets fans outside Jalsa, protective son Abhishek joins him",
-      "description": "In light of a recent bomb threat, Amitabh Bachchan welcomed fans outside his residence in Juhu, with his son Abhishek overseeing security arrangements. The police ensured safety amid ongoing investigations into the threat. Sharing updates on his recovery journey from health issues, Bachchan emphasiz",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amid-bomb-threat-email-and-health-concerns-amitabh-bachchan-greets-fans-outside-jalsa-protective-son-abhishek-bachchan-joins-his-father/articleshow/135192938.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135193011,imgsize-394235.cms",
-      "publishedAt": "2026-10-25T20:12:18+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Javed Akhtar says 'I stand corrected' after netizens question him for calling Rashmika a Tamil actor",
-      "description": "Javed Akhtar came to the defense of Rashmika Mandanna amidst harsh online criticism regarding her Hindi accent. He playfully challenged users to pronounce Tamil words themselves, emphasizing the issue at hand. Despite Akhtar's support, several users corrected him, pointing out that Rashmika is a Kan",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/javed-akhtar-says-i-stand-corrected-after-netizens-question-him-for-calling-rashmika-mandanna-a-tamil-actor-she-is-a-kannadiga-and-acts-in-telugu-and-hindi/articleshow/135193420.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135193550,imgsize-842877.cms",
-      "publishedAt": "2026-10-25T20:58:18+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Tiger Shroff’s team denies actor giving any statement on firing incident: 'This news is completely untrue'",
-      "description": "Tiger Shroff's spokesperson has firmly dismissed allegations regarding his supposed statements to the Mumbai Police following a recent shooting incident. In the aftermath of the Juhu attack, several arrests have been made. His team has also cautioned against prevalent misinformation on social media.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/tiger-shroffs-team-denies-the-actor-giving-any-statement-on-the-firing-incident-this-news-is-completely-untrue/articleshow/135192968.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135192979,imgsize-765662.cms",
-      "publishedAt": "2026-10-25T20:11:28+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Salman Khan's war drama 'Maatrubhumi' stuck as makers await Defence Ministry NOC",
-      "description": "Salman Khan's highly anticipated film 'Maatrubhumi: May War Rest in Peace' awaits critical approval from the Ministry of Defence. This film, which depicts the India-China clash of 2020, has been adjusted following initial ministry feedback. Despite resubmitting a revised version, the communication h",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khans-war-drama-maatrubhumi-stuck-as-makers-await-defence-ministry-noc-cannot-approach-cbfc-until-mod-gives-green-signal/articleshow/135192218.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135192270,imgsize-833350.cms",
-      "publishedAt": "2026-10-25T19:08:09+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Arjun Sarja’s younger daughter Anjana Arjun marries longtime partner Isai",
-      "description": "Anjana Arjun recently married Isai, marking a significant event in their long-term relationship. The wedding ceremony followed traditional Indian customs and took place on October 19. Anjana announced the marriage on social media, sharing a meaningful caption that referenced their journey. The coupl",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/arjun-sarjas-younger-daughter-anjana-arjun-marries-longtime-partner-isai-shares-wedding-photo-with-the-caption-to-forever/articleshow/135192213.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135192233,imgsize-284056.cms",
-      "publishedAt": "2026-10-25T19:02:50+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "'Seyon' actor Sivakarthikeyan clarifies his stand on smoking scenes",
-      "description": "Sivakarthikeyan expressed his stance on portraying smoking and drinking in films, prioritizing a character's essence over mere spectacle. He personally avoids depicting these elements unless they contribute to storytelling. The actor acknowledged his aversion to smoke and instead opts for jeera wate",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/seyon-actor-sivakarthikeyan-clarifies-his-stand-on-smoking-scenes-says-if-the-story-demands-it-well-do-it/articleshow/135190790.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135190821,imgsize-125911.cms",
-      "publishedAt": "2026-10-25T17:49:59+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "Daler Mehndi row ends? Minister Subodh Uniyal apologises over phone",
-      "description": "Uttarakhand Cabinet Minister Subodh Uniyal made a phone call to apologize to singer Daler Mehndi. This apology followed a controversy during the Siddhpeeth Maa Kunjapuri Tourism and Development Fair where Uniyal interrupted Mehndi's performance. Singer Mika Singh's team expressed appreciation for th",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/daler-mehndi-row-ends-minister-subodh-uniyal-apologises-over-phone-mika-singhs-team-says-we-hope-this-matter-can-now-be-put-behind-us/articleshow/135190335.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135190559,imgsize-546998.cms",
-      "publishedAt": "2026-10-25T17:39:54+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "title": "Daler Mehndi controversy ends as Uttarakhand Minister Subodh Uniyal apologises; Mika Singh’s team reacts",
+      "description": "The controversy involving veteran singer Daler Mehndi and Uttarakhand Cabinet Minister Subodh Uniyal appears to have come to an end after the minister reportedly apologised to the singer over a telephone call. The development was confirmed in a statement issued by Mika Singh’s team, which welcomed t",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/daler-mehndi-controversy-ends-as-uttarakhand-minister-subodh-uniyal-apologises-mika-singhs-team-reacts/",
+      "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/10/Daler-Mehndi-controversy-ends-as-Uttarakhand-Minister-Subodh-Uniyal-news.jpeg",
+      "publishedAt": "Mon, 26 Oct 2026 09:42:49 +0200",
+      "source": "Latest Bollywood News | Hindi Movie News | Hindi Cinema News | Indian Movies | Films - Bollywood Hungama",
       "category": "entertainment"
     },
     {
@@ -1436,15 +1445,6 @@
       "url": "https://www.bollywoodhungama.com/news/bollywood/aamir-khan-says-rajkumar-hirani-will-narrate-3-idiots-sequels-final-script-in-the-coming-weeks/",
       "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/10/Aamir-Khan-on-3-Idiots-update.jpeg",
       "publishedAt": "Fri, 23 Oct 2026 15:04:28 +0200",
-      "source": "Latest Bollywood News | Hindi Movie News | Hindi Cinema News | Indian Movies | Films - Bollywood Hungama",
-      "category": "entertainment"
-    },
-    {
-      "title": "Zee Studios sets February 5, 2027 release for Omung Kumar’s Silaa, starring Harshvardhan Rane",
-      "description": "Zee Studios unveils the first poster of Silaa, a passionate tale of love and revenge set against the striking landscapes of Kashmir and Vietnam. Starring Harshvardhan Rane and Sadia Khateeb, the Omung Kumar directorial brings together intense romance, gripping mystery and high-octane action. The fil",
-      "url": "https://www.bollywoodhungama.com/news/bollywood/zee-studios-sets-february-5-2027-release-for-omung-kumars-silaa-starring-harshvardhan-rane/",
-      "urlToImage": "https://www.bollywoodhungama.com/wp-content/uploads/2026/10/Zee-Studios.jpg",
-      "publishedAt": "Fri, 23 Oct 2026 14:21:16 +0200",
       "source": "Latest Bollywood News | Hindi Movie News | Hindi Cinema News | Indian Movies | Films - Bollywood Hungama",
       "category": "entertainment"
     }
@@ -1669,6 +1669,15 @@
       "category": "science"
     },
     {
+      "title": "Cambridge researchers develop $10 chip to analyse food, plastics, and health signals",
+      "description": "Researchers from the University of Cambridge have unveiled an affordable optical spectrometer, retailing for about $10. This ingenious tool can accurately identify different materials, covering sectors like food safety and pharmaceuticals, functioning within a near-infrared wavelength of 1,200 to 1,",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/university-of-cambridge-researchers-develop-a-10-spectrometer-chip-that-identifies-food-plastics-and-pharmaceuticals-with-potential-applications-in-wearable-health-monitoring/articleshow/135147452.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135147581,imgsize-104357.cms",
+      "publishedAt": "2026-10-26T08:15:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "Solar storm delayed a train by 16 minutes in 1848, not 1841: How scientists solved a 155-year-old mystery",
       "description": "A fascinating correction has emerged from the archives concerning a train delay in Exeter. Initially reported incorrectly, researchers have clarified that the incident actually transpired on October 18, 1848. This revelation was achieved through the analysis of railway records and contemporary newsp",
       "url": "https://timesofindia.indiatimes.com/science/discovery/for-155-years-scientists-believed-a-solar-storm-delayed-a-train-in-exeter-england-in-1841-but-the-railway-did-not-exist-until-1846-researchers-now-say-the-storm-and-the-16-minute-delay-really-happened-in-1848/articleshow/135142131.cms",
@@ -1691,7 +1700,7 @@
       "description": "In a remarkable redevelopment initiative, Garden City, Idaho, has repurposed the old Les Bois horse-racing track into a vibrant public park, spanning nearly 50 acres. Known as the Park at Expo Idaho, it features diverse landscapes including wetlands and nature trails, alongside recreational faciliti",
       "url": "https://timesofindia.indiatimes.com/science/nature/an-idaho-horse-racing-track-that-fell-silent-in-2015-has-reopened-as-a-42-million-50-acre-public-park-with-restored-wetlands-more-than-three-miles-of-trails-and-a-skate-park-built-by-olympic-venue-designers/articleshow/135168082.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135168082,imgsize-166987.cms",
-      "publishedAt": "2026-10-24T18:06:48+05:30",
+      "publishedAt": "2026-10-24T16:20:58+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
     },
@@ -1786,6 +1795,15 @@
       "category": "science"
     },
     {
+      "title": "Florida Burmese python found guarding 20 eggs beneath a sidewalk near homes",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/nature/a-burmese-python-was-found-guarding-20-eggs-beneath-a-florida-sidewalk-the-discovery-raised-fears-that-more-invasive-snakes-could-be-nesting-near-homes/articleshow/135145954.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135146176,imgsize-1665613.cms",
+      "publishedAt": "2026-10-26T07:50:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "Nearly 14,000 volunteers count Galápagos marine iguanas in 57,838 drone images",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/science/nature/nearly-14000-volunteers-analysed-57838-drone-images-of-galapagos-marine-iguanas-researchers-found-their-counts-needed-correction/articleshow/135142606.cms",
@@ -1793,25 +1811,7 @@
       "publishedAt": "2026-10-23T15:49:56+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
-    },
-    {
-      "title": "Mississippi turns 31-ton propane tank once used for firefighter training into artificial reef",
-      "description": "A 31-ton propane tank and steel tower once used for firefighter training in Mississippi have been sunk about 13 miles offshore to create an artificial reef for marine life. Supported by Chevron and local organisations, the project aims to provide shelter for fish and improve fishing opportunities. A",
-      "url": "https://timesofindia.indiatimes.com/science/wildlife/mississippi-sank-a-31-ton-propane-tank-and-steel-tower-once-used-to-train-firefighters-13-miles-offshore-turning-old-equipment-into-a-long-lasting-artificial-reef-for-gulf-fish/articleshow/135115271.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135115921,imgsize-84066.cms",
-      "publishedAt": "2026-10-23T17:03:18+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "Australian grower backs $291 million bioenergy plant to power 31,000 homes",
-      "description": "An Australian vegetable grower is leading a $291 million bioenergy and food precinct project in Queensland. This facility will convert agricultural and food waste into renewable energy and bio-fertilisers for farming. A joint investment of $80 million supports the project, which is expected to creat",
-      "url": "https://timesofindia.indiatimes.com/science/nature/australian-vegetable-grower-backs-a-291-million-bioenergy-facility-that-will-turn-discarded-vegetables-and-farm-waste-into-renewable-energy-for-up-to-31000-homes-in-a-paddock-to-power-first/articleshow/135144026.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135144135,imgsize-1543045.cms",
-      "publishedAt": "2026-10-24T15:30:00+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
     }
   ],
-  "last_updated": "2026-10-26 06:24:18 AM"
+  "last_updated": "2026-10-26 11:09:05 AM"
 }
