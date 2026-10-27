@@ -4,24 +4,22 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 39,
+    "news_count": 38,
     "headlines": [
+      "Brics forum concerned over West Asia tensions, calls for max restraint",
       "Salim Merchant buys commercial property in Mumbai’s Santacruz West for Rs 12.85 crore",
       "Badoni joins Kohli, Gambhir in elite list with back-to-back double tons",
-      "DJ Moore’s $5M mansion: Inside the 10,000-square-foot home listed after trade",
-      "Diljit Dosanjh visits Taj Mahal as Delhi concert gets security clearance",
       "Delhi Government May Hike Agricultural Land Circle Rates After 18 Years",
       "Delhi Assembly Met For Just 17 Days In 2025. Speaker Backs 30-Sitting Target",
-      "Cyclone Arnab LIVE Updates: Landfall Expected After 2 am, East Coast Sees Heavy Rainfall",
+      "CPI forms human chain in Delhi demanding CEC’s resignation and rollback of SIR",
+      "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
       "A Delhi event unveils fault lines in the Dalit-OBC formulation of SP politics",
       "Cyclone Arnab causes high waves in north Chennai, Tiruvallur",
       "Supreme Court needs transparent roster system, says former Judge Oka",
       "A.P. teachers’ body demands implementation of Old Pension Scheme",
       "In a first since 2023, Delhi invites Pakistan Minister for inaugural SCO Civilisational Dialogue in November",
       "Jaishankar to travel to U.S. for G20 Foreign Ministers’ meet, Quad this week",
-      "BRICS parliamentary forum expresses ‘deep concern’ about West Asian hostilities",
       "Congress alleges hurdles to INDIA bloc’s proposed ‘public impeachment’ of CEC Gyanesh Kumar on October 30",
-      "Delhi teenager’s Project Sadak logs 2,927 road complaints across Delhi, Mumbai, Bengaluru; tracks 190 repairs",
       "Traffic restrictions near Chandni Chowk on October 28 ahead of proposed rally",
       "INDIA bloc leaders to hold ‘public impeachment of CEC’ at Kharge's Delhi residence on October 30",
       "BRICS Parliamentary Forum ends in Delhi with call for UNSC reform and zero tolerance for terrorism",
@@ -36,6 +34,7 @@
       "North Korea-South Korea tensions rise as howitzers spotted near border, blame game via UN intensifies",
       "Delhi Police revamps website, adds emergency contact widget, section for legal updates",
       "17 convicts escape Tamil Nadu jail after staging epilepsy ruse",
+      "Delhi may raise agricultural land circle rates to ₹5 crore per acre",
       "India’s crude basket price tops $120 a barrel amid West Asia war",
       "Delhi’s BS-IV entry ban may disrupt NCR commuters and businesses, traders warn",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
@@ -46,7 +45,7 @@
       "Tiger Shroff sells Mumbai’s Khar apartment for Rs 9 crores",
       "Black mamba scales could reveal heavy metal pollution in urban South Africa"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "MH",
@@ -75,20 +74,18 @@
       "Tiger Shroff sells Mumbai’s Khar apartment for Rs 9 crores",
       "Shah Rukh Khan, Deepika Padukone set to shoot grand song for King in Mumbai from October 26: Report"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 13,
+    "news_count": 11,
     "headlines": [
       "Jain seer gives Karnataka govt. 10-day deadline to meet demands; threatens sallekhana in December if demands remain unmet",
       "1.89 lakh names deleted in electoral rolls of Shivamogga district after SIR",
       "Total voters in Mysuru district down to 22.80 lakh from 27.99 lakh prior to SIR",
-      "State’s first tribal university to come up in Chitradurga district",
-      "Call for dedicated dept., district repositories to preserve ancient manuscripts",
       "'Apply through Form 6, name will be added': Karnataka CEO assures voters after 1 crore deleted in final electoral roll",
       "Karnataka’s final electoral roll published, nearly 1 crore names deleted",
       "Karnataka SIR: Final roll today amid row over exclusion of 10.8mn from draft list",
@@ -98,19 +95,38 @@
       "Ranji Trophy: Karnataka fail to seize the moment against Tripura",
       "Yash to handle Karnataka distribution of Ranbir Kapoor starrer Ramayana under Monster Mind Creations"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 11,
+    "headlines": [
+      "Cyclone Arnab: Flights Suspended At 3 Andhra Airports, Airlines Cancel Services",
+      "Cyclone ‘Arnab’ begins landfall; Odisha, Andhra Pradesh see heavy rainfall | LIVE",
+      "Cyclone Arnab: Civil Aviation Ministry reviews situation to ensure safety of flight operations",
+      "Cyclone Arnab: heavy rain brings Vizag to standstill; civic agencies on high alert",
+      "Watch: Cyclone Arnab: What Andhra Pradesh needs to know",
+      "Cyclone Arnab starts landfall process along Andhra Pradesh coast, triggers heavy rain and strong winds",
+      "Andhra govt fully geared up for Cyclone Arnab, 84,000 evacuated to safer places: CM Naidu",
+      "Cyclone Arnab tracker: Landfall likely close to Yanam; storm's expected wind speed revised by IMD",
+      "Odisha steps up cyclone preparedness as Arnab intensifies; heavy rain warning for six districts",
+      "Very severe cyclonic storm Arnab to trigger extremely heavy rain across 16 Andhra districts",
+      "AP Govt fully prepared to tackle Cyclone Arnab: CM Naidu"
+    ],
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 10,
+    "news_count": 8,
     "headlines": [
-      "Waited 3 months for silver Royal Enfield, got blue; dealer ordered to pay Rs 28,000",
-      "\"Arrest Judge And Son\": Kerala Crash Victim's Family To Move High Court",
-      "In Mercedes Death Case, FIR Against Judge. Kerala Admits Probe Lapses",
       "Three girls missing in Tiruvannamalai",
+      "BJP government spending 'unprecedented resources' to malign Rahul, says Priyanka",
       "Kerala Pradesh Congress Committee apologises to CJI for post on ‘X’",
       "The Hindu’s promotional campaign  wins seven laurels at Love of Advertising Awards",
       "Operation Thelima 2.0: Food Safety department conducts inspections in Kasaragod",
@@ -118,45 +134,7 @@
       "Kerala HC allows couple to hand over baby with skeletal dysplasia to child welfare committee after birth",
       "Kerala passes bill aimed at protecting rights, dignity of senior citizens"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 10,
-    "headlines": [
-      "Cyclone Arnab: Flights Suspended At 3 Andhra Airports, Airlines Cancel Services",
-      "Cyclone Arnab: Civil Aviation Ministry reviews situation to ensure safety of flight operations",
-      "Cyclone Arnab: heavy rain brings Vizag to standstill; civic agencies on high alert",
-      "Watch: Cyclone Arnab: What Andhra Pradesh needs to know",
-      "Andhra govt fully geared up for Cyclone Arnab, 84,000 evacuated to safer places: CM Naidu",
-      "Cyclone Arnab tracker: Landfall likely close to Yanam; storm's expected wind speed revised by IMD",
-      "Odisha steps up cyclone preparedness as Arnab intensifies; heavy rain warning for six districts",
-      "Very severe cyclonic storm Arnab to trigger extremely heavy rain across 16 Andhra districts",
-      "AP Govt fully prepared to tackle Cyclone Arnab: CM Naidu",
-      "AMFI to expand MF training to Chhattisgarh, Gujarat; targets 15 districts"
-    ],
-    "last_updated": "2026-10-28 12:38:20 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 8,
-    "headlines": [
-      "Telangana declares 365 mandals drought-affected, of which 111 severely drought-affected",
-      "Congress-induced drought, not forced by nature: KTR",
-      "Hyderabad Metro eyes ‘Personal Rapid Transit System’ to solve last-mile connectivity issues",
-      "HC orders status quo over notice to KTR over move to impound passport",
-      "Hyderabad Police launch dedicated wing to probe serious crimes",
-      "Telangana declares 365 mandals drought-hit",
-      "Telangana to hold all-party meet to discuss El Nino, drought",
-      "Vijay Deverakonda and Rashmika Mandanna’s team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment"
-    ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "BR",
@@ -165,15 +143,30 @@
     "State": "Bihar",
     "news_count": 7,
     "headlines": [
-      "A decade after liquor ban, Bihar faces a new drug question: What the numbers reveal",
       "Prashant Kishor's Jan Suraaj Wins First Seat In Bihar Upper House",
+      "Bihar CM orders probe into legal notice served to RJD MP Sudhakar Singh by Kundan Krishnan",
+      "Bihar MLC results: BJP win one seat, counting underway on remaining seven",
       "Bihar MLC election results: BJP’s Narendra Prasad Singh wins Tirhut Teachers’ seat",
       "Bihar MLC polls: Congress candidate alleges CCTV missing at Bankipore counting hall, stages sit-in",
       "Member of Prashant Kishor's Jan Suraaj party's communication team goes missing from moving train to Patna",
-      "AMFI to expand MF training to Chhattisgarh, Gujarat; targets 15 districts",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 5,
+    "headlines": [
+      "Telangana declares 365 mandals drought-affected, of which 111 severely drought-affected",
+      "Congress-induced drought, not forced by nature: KTR",
+      "Telangana declares 365 mandals drought-hit",
+      "Telangana to hold all-party meet to discuss El Nino, drought",
+      "Vijay Deverakonda and Rashmika Mandanna’s team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment"
+    ],
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "OD",
@@ -183,53 +176,26 @@
     "news_count": 5,
     "headlines": [
       "Cyclone Arnab: Flights Suspended At 3 Andhra Airports, Airlines Cancel Services",
-      "Cyclone ‘Arnab’: Flights, trains cancelled as rain batters A.P.; 30,000 boats brought ashore; southern Odisha on edge",
+      "Cyclone Arnab: Flights, trains cancelled as heavy showers batters Andhra Pradesh; southern Odisha on edge",
       "Protests erupt after Odisha man held in narcotics case dies in Haryana police custody",
       "Odisha tribals protest doctor’s arrest; police allege anti-mining violence role",
       "Odisha steps up cyclone preparedness as Arnab intensifies; heavy rain warning for six districts"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
       "5 Tamil Nadu convicts captured after jailbreak, one sent back in auto he took after escape",
       "17 convicts escape Tamil Nadu jail after staging epilepsy ruse",
       "VIT Chennai to host Marketing Conclave 2026 on AI and the future of marketing",
-      "Aavin hikes prices of butter, ghee, curd and other milk products from Wednesday",
       "'That was his superpower': Faf du Plessis reveals what made MS Dhoni special"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 3,
-    "headlines": [
-      "Jan Suraaj Party functionary, missing from train, found dead near tracks in Ranchi",
-      "Cyclone Arnab puts Jharkhand on alert; IMD issues heavy rain warning for 3 days",
-      "Member of Prashant Kishor's Jan Suraaj party's communication team goes missing from moving train to Patna"
-    ],
-    "last_updated": "2026-10-28 12:38:20 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Diljit Dosanjh visits Taj Mahal as Delhi concert gets security clearance",
-      "UP on alert as raging Cyclone Arnab likely to bring unseasonal rain to Lucknow",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "GJ",
@@ -242,19 +208,33 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 2,
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
     "headlines": [
-      "30 Paramilitary Companies Deployed In Arunachal's Siang Valley After Anti-Dam Protests",
-      "Congress questions RAF deployment amid Arunachal dam protests; 26 arrested in Pasighat, violence spreads to Upper Subansiri"
+      "Former BJP MP Dharmendra Kashyap joins Samajwadi Party",
+      "UP on alert as raging Cyclone Arnab likely to bring unseasonal rain to Lucknow",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 3,
+    "headlines": [
+      "Jan Suraaj Party functionary, missing from train, found dead near tracks in Ranchi",
+      "Cyclone Arnab puts Jharkhand on alert; IMD issues heavy rain warning for 3 days",
+      "Member of Prashant Kishor's Jan Suraaj party's communication team goes missing from moving train to Patna"
+    ],
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "AS",
@@ -266,7 +246,19 @@
       "Assam Police forms SIT to probe killing of five over Guwahati hotel lease dispute",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ladakh government reaches out to protesters demanding liquor ban",
+      "Women protests force Ladakh administration to discuss ‘declaring region a dry UT'"
+    ],
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "WB",
@@ -278,19 +270,18 @@
       "Two accused shot dead in separate police encounters in Bengal in a day",
       "Man accused in minor’s rape, murder shot dead by police in Bengal"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
     "headlines": [
-      "Army Jawan Among 7 Arrested For Cross-Border Arms Smuggling In Punjab",
-      "Punjab man groped woman in Gurugram’s CyberHub; cops arrest him from Ferozepur"
+      "Congress questions RAF deployment amid Arunachal dam protests; 26 arrested in Pasighat, violence spreads to Upper Subansiri"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "CT",
@@ -301,29 +292,7 @@
     "headlines": [
       "North Korea-South Korea tensions rise as howitzers spotted near border, blame game via UN intensifies"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 1,
-    "headlines": [
-      "Alia Bhatt, Raha spotted in Goa while Ranbir promotes Ramayana: PIC"
-    ],
-    "last_updated": "2026-10-28 12:38:20 AM"
-  },
-  {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
-    "news_count": 1,
-    "headlines": [
-      "Meghalaya SIR: 2 foreigners excluded, 2.18 million electors in final roll"
-    ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "HR",
@@ -334,7 +303,29 @@
     "headlines": [
       "Protests erupt after Odisha man held in narcotics case dies in Haryana police custody"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "Meghalaya SIR: 2 foreigners excluded, 2.18 million electors in final roll"
+    ],
+    "last_updated": "2026-10-28 04:54:05 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 1,
+    "headlines": [
+      "Punjab man groped woman in Gurugram’s CyberHub; cops arrest him from Ferozepur"
+    ],
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "TR",
@@ -345,7 +336,7 @@
     "headlines": [
       "Ranji Trophy: Karnataka fail to seize the moment against Tripura"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   },
   {
     "Code": "UT",
@@ -356,6 +347,6 @@
     "headlines": [
       "Daler Mehndi controversy ends as Uttarakhand Minister Subodh Uniyal apologises; Mika Singh’s team reacts"
     ],
-    "last_updated": "2026-10-28 12:38:20 AM"
+    "last_updated": "2026-10-28 04:54:05 AM"
   }
 ]
