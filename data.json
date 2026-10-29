@@ -4,22 +4,28 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 47,
+    "news_count": 48,
     "headlines": [
-      "Delhi HC rejects PIL against passport fee hike for NRIs",
-      "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
-      "'Diwali gift from PM Modi': Cabinet approves 3% DA increase for central govt employees",
-      "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
-      "SC says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
-      "22 Indians Killed In Middle East Conflict, Including 14 Seafares: Centre",
-      "AAP Wants Delhi Liquor App Scrapped. Agency Says Approval Came In 2024",
-      "Cabinet approves 3% hike in dearness allowance for central government employees",
+      "Forces fortify key Arunachal bridge to fight dam objectors",
+      "'Don't worry about lathis': Rahul calls on people to join INDIA bloc's 'Delhi chalo' march",
+      "Lost Rs 38k to fraud in 2019, Bank of Baroda told to refund and pay Rs 15k compensation",
+      "Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram",
+      "Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support",
+      "Restore previous elected govt in West Bengal, says TMC’s Abhishek Banerjee after SC’s SIR observations",
+      "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request",
+      "Congress rally on November 1: What are the conditions imposed by Delhi Police",
+      "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
       "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-      "Railways to turn off charging points in trains during night",
-      "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
-      "Drug peddler held near Katpadi railway station",
-      "Delhi High Court issues notice on plea against blocking ‘Bring Back Ballot’ Instagram account",
-      "Vedanta chief meets Suvendu, explores investments in West Bengal",
+      "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+      "Chennai youth convicted to 22 yrs imprisonment for sexually assaulting minor girl",
+      "North India getting hotter, drier, South wetter: A study of 70-year climate trends uncovers worrying climate shift",
+      "Cyclone Arnab weakens to deep depression; triggers rains in south Odisha districts",
+      "HT Morning Brief Oct 29: JD Vance reaches out to Iran, security beefed up in Delhi ahead of INDIA bloc rally",
+      "International tourism mart returns to Arunachal Pradesh's Tawang after 13 years",
+      "Consumer protection regulator imposes  ₹1 lakh fine on Sunrise Foods over ‘100% whole wheat bread’ claim",
+      "ECI team, including Maneesh Garg, visited Manipur to review poll preps",
+      "Foreign policy had to evolve after 1991 reforms: Jaishankar at NK Singh’s book launch",
+      "Over 4.5 lakh PUC challans issued in Delhi till Oct 27: Traffic police data",
       "SEM court directs Delhi police to give Neha Bora copies of 6 FIRs by November 20",
       "‘Delhi's air will be very bad after Diwali’: SC judge on request to defer a hearing",
       "HT Evening News Brief October 28: Netanyahu leads in Israel elections; India claims 22 killed in West Asia war since February",
@@ -29,147 +35,191 @@
       "Air Force Sports Complex near PM’s residence in Delhi shut till further notice | HT Exclusive",
       "‘Never even met him’: Woman in Siddaramaiah ‘sting’ video tells Karnataka cops",
       "ED considering probe as Punjab drug issue takes centre stage ahead of assembly polls",
-      "Ancient Nalanda, AI, interactive displays: Inside CBSE’s new Experience Centre in Delhi",
-      "HT Morning Brief October 28: Cyclone Arnab landfall process underway, JIO IPO debuts today and more",
-      "Delhi airport's T3 set for makeover with new carpets inspired by Indian heritage",
-      "12th Brics parliamentary forum concludes with joint declaration backing UNSC reform and zero tolerance for terrorism",
-      "We have become marksvaadis: Education minister flags marks obsession",
-      "Cyclone Arnab makes landfall in Andhra Pradesh; trees uprooted, power supply disrupted",
-      "18 months after Operation Sindoor, India invites Pakistan for SCO event in Delhi",
-      "Traffic restrictions near Chandni Chowk on October 28 ahead of proposed rally",
-      "INDIA bloc leaders to hold ‘public impeachment of CEC’ at Kharge's Delhi residence on October 30",
-      "Vedanta exploring opportunities to invest ₹80,000 crore in West Bengal in power generation, aluminium smelter",
-      "DA/DR for Central govt serving, retired employees hiked by 3% with effect from July 1",
+      "IMD update: Fresh depression alert as Arnab brings heavy rain to Chhattisgarh, UP, MP",
+      "West Bengal cabinet approves new industry policy to attract investments",
+      "Carlsberg India files updated IPO papers",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
       "WPL 2027 auction sold and unsold players full list",
-      "WPL 2027 auction most expensive players: Top 10 biggest buys",
-      "Jadeja loses No. 1 Test all-rounder crown after 4 years; Abhishek tops T20I rankings",
-      "No 50 in last three years! Labuschagne's lean patch lands in with unwanted record",
+      "Steve Smith's neck injury forces extended layoff, CA reveals return timeline",
+      "Bangladesh vs West Indies, 1st Test, Day 2 Live Score",
+      "After Vaibhav Sooryavanshi, meet Uma Kashvi: 15-year-old makes WPL history",
+      "Josh Inglis, Alex Carey put Australia in control of third Test against SA",
+      "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
       "Sudhir Mishra SLAMS IndiGo after luggage containing his medicines is left behind in Delhi: “Extremely disappointing and frustrating”",
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "CBFC faces reported data security scare as confidential documents linked to over 500 films are allegedly exposed",
       "Tiger Shroff sells Mumbai’s Khar apartment for Rs 9 crores",
       "A community in South Australia’s first dark-sky reserve is opposing a proposed hyperscale data centre; residents fear the development could change the rural landscape and threaten the darkness that draws visitors",
-      "Scientists collected DNA from seawater at 316 sites across Japan;126 fish species farther north"
+      "Hundreds of wildflowers planted in Norfolk to support bees and butterflies"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 17,
+    "news_count": 16,
     "headlines": [
-      "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
-      "Mumbai Airport, Airlines Work Out Plan To Shift Traffic To Navi Mumbai",
-      "In setback to BJP, Congress wins Nagpur MLC seat",
-      "Tiger Shroff firing case: 11 accused re-arrested under MCOCA after court grants permission",
+      "'Fadnavis forced to delete tweet': Congress after win in Nagpur MLC polls",
+      "BJP Dominates UP And Karnataka In MLC Polls, Opposition Wins 3 In Maharashtra",
+      "Maharashtra MLC polls: Blame game begins in Mahayuti as BJP accuses Shiv Sena for defeat",
+      "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
+      "Stop sermonising others; introspect why BJP lost Varanasi seats in MLC polls: Congress slams PM",
+      "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
       "Airlines seek more time to shift international flights to Navi Mumbai airport",
       "NCP appoints Zeeshan Siddique as Mumbai chief as Parth Pawar pushes organisational changes amid dissent",
-      "Maharashtra MLC polls: Mahayuti leads on 3 seats, MVA ahead in 2 as vote count enters day 2",
-      "Maharashtra to intensify background checks of app-based drivers after ATS action against Rapido rider in Mumbai",
-      "Farmers call off march to Mumbai after Fadnavis govt promises drought relief",
       "Couple of international airlines may opt not to fly from Mumbai for next 2 years: Adani Airports CEO",
-      "Sugar will likely be a bitter pill for Indian consumers over the next year",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Why Nike stayed away from the IPL for 18 years, and what brings it back",
+      "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "Shah Rukh Khan and Kareena Kapoor Khan to recreate 'Chammak Challo'-style energy for King song: Report",
       "Tiger Shroff’s spokesperson DENIES reports of actor’s statement to Mumbai Police: “This news is completely untrue”",
-      "Tiger Shroff sells Mumbai’s Khar apartment for Rs 9 crores",
-      "Shah Rukh Khan, Deepika Padukone set to shoot grand song for King in Mumbai from October 26: Report"
+      "Tiger Shroff sells Mumbai’s Khar apartment for Rs 9 crores"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 10,
-    "headlines": [
-      "SC says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
-      "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’",
-      "Bihar MLC polls: Upper caste candidates dominate election results",
-      "Bihar MLC polls: NDA close to win 4 out of 8 seats",
-      "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat",
-      "Bihar MLC election results: BJP wins 2, leads on 1; JDU, RJD, JSP win 1 seat each, Independents 2",
-      "‘Guess how many seats Congress won’: PM Modi’s dig at party's show in ballot-paper MLC polls",
-      "Bihar MLC polls: BJP wins 2 seats, loses Patna stronghold; Prashant Kishor's party wins in Darbhanga",
-      "Patna to raise Rs 200 crore via municipal bonds",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
-    "headlines": [
-      "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
-      "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order",
-      "Rise in child marriage complaints in Mysuru district",
-      "New India Foundation announces shortlist for 2026 Kamaladevi Chattopadhyay NIF Book Prize",
-      "‘Never even met him’: Woman in Siddaramaiah ‘sting’ video tells Karnataka cops",
-      "'DK, it's done bro': BJP mocks Shivakumar after party sweeps Karnataka MLC",
-      "9.97 million names deleted in Karnataka final electoral roll after SIR revision",
-      "Yash to handle Karnataka distribution of Ranbir Kapoor starrer Ramayana under Monster Mind Creations"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 7,
+    "news_count": 11,
     "headlines": [
-      "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
-      "New Collectors for Karur, Tiruppur and Tenkasi as T.N. government goes for bureaucratic reshuffle",
+      "OCI cardholder can’t spread word of god sans govt nod: Madras HC",
+      "With fresh paddy arrivals at Red Hills, rice prices to stabilise soon: Tamil Nadu Food Minister",
+      "Chennai Corporation council meeting: streetlight maintenance across 12 zones proposed",
+      "Chennai Metro Rail misses deadline yet again, 6 stations on Arcot Road to open in March 2027",
+      "Chennai youth convicted to 22 yrs imprisonment for sexually assaulting minor girl",
+      "Students win Viksit Bharat Buildathon for bomb-diffusing robot, smart glasses",
       "CM Vijay inaugurates electrical labs at 30 govt industrial training institutes in Tamil Nadu",
       "Auto drivers welcome fare hike after 13 years, urge Tamil Nadu govt to regulate free bus scheme",
-      "Tamil Nadu revises auto-rickshaw fares, minimum charge  ₹50 for first 1.8km",
-      "13 captured, hunt for four others underway after Tamil Nadu jailbreak",
-      "Inside Anirudh Ravichander and Kavya Maran's wedding invitation"
+      "TN BESS policy targets 2.5 GW/10 GWh",
+      "Tamil Nadu CM Vijay to inaugurate new bus stand, indoor stadium in Pudukkottai on November 2",
+      "Samantha Ruth Prabhu and Raj Nidimoru’s love story"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 10,
+    "headlines": [
+      "BJP Dominates UP And Karnataka In MLC Polls, Opposition Wins 3 In Maharashtra",
+      "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
+      "Traders seek action against street vendors, encroachments in Dharwad",
+      "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+      "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+      "Karnataka SIR: Congress minister defends deletions, says exercise legitimate unlike other states",
+      "New India Foundation announces shortlist for 2026 Kamaladevi Chattopadhyay NIF Book Prize",
+      "‘Never even met him’: Woman in Siddaramaiah ‘sting’ video tells Karnataka cops",
+      "After Vaibhav Sooryavanshi, meet Uma Kashvi: 15-year-old makes WPL history",
+      "Yash to handle Karnataka distribution of Ranbir Kapoor starrer Ramayana under Monster Mind Creations"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
     "news_count": 7,
     "headlines": [
-      "Cyclone Arnab Highlights: Cyclone Arnab Kills 5 In Andhra Pradesh, Weakens After Landfall",
-      "TDP-led alliance win majority of unanimously-elected seats in rural body polls in AP",
-      "HT Morning Brief October 28: Cyclone Arnab landfall process underway, JIO IPO debuts today and more",
-      "Severe cyclonic storm highlights: Cyclone Arnab to weaken further by midnight, move north-northwestwards, says IMD",
-      "Cyclone Arnab makes landfall in Andhra Pradesh; trees uprooted, power supply disrupted",
-      "Cyclone Arnab nears Andhra coast as 1.5 lakh people evacuated",
-      "Cyclone Arnab starts landfall process along Andhra Pradesh coast, triggers heavy rain and strong winds"
+      "Mandal level committees to oversee El Niño mitigation measures in Telangana",
+      "Old rice stocks dominate inventories, prices cannot be increased abnormally: Telangana officials to millers",
+      "Maoists are defeated, but arms cache and crores of money unaccounted for: LWE researcher",
+      "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
+      "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+      "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
+      "Vijay Deverakonda and Rashmika Mandanna’s team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 6,
+    "news_count": 7,
     "headlines": [
-      "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
-      "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
-      "Mob assaults buffalo traders in Madhya Pradesh’s Damoh; two cases lodged",
+      "ED conducts searches Mumbai, Gujarat in drug-trafficking probe",
+      "Morbi exporters resume Gulf shipments, but FY27 exports may shrink by 40%",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Who is Orla Prendergast? First Ireland cricketer to be sold at WPL auction"
+      "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction",
+      "Molineux mania! UP Warriorz outgun RCB in Rs 1.10 cr showstopper at WPL auction",
+      "Anand Deverakonda backs Vijay and Rashmika amid ‘Ranabaali’ criticism"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "No UP govt jobs for those involved in violent activities seeking ‘regime change’",
+      "UP MLC polls: BJP, SP finish with 6-5 scoreline; five key takeaways",
+      "Students win Viksit Bharat Buildathon for bomb-diffusing robot, smart glasses",
+      "BJP suffers setback in bastions in UP MLC polls, SP gets boost ahead of 2027 assembly elections",
+      "BJP’s new UP headquarters in Lucknow may bloom with lotus-shaped facade",
+      "IMD update: Fresh depression alert as Arnab brings heavy rain to Chhattisgarh, UP, MP",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 6,
+    "headlines": [
+      "Anticipatory bail given to Kerala Judge accused in minor son’s fatal Mercedes crash",
+      "How five women from a Palakkad bakery found YouTube stardom",
+      "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+      "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level",
+      "Loka Kerala Sabha disbanded as it failed to meet objectives: Keralam CM",
+      "'He is a judicial officer, will cooperate': Kerala HC grants anticipatory bail to judge whose son was involved in Kochi car crash"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 5,
+    "headlines": [
+      "Eye on Punjab poll, BJP fields Hardeep Puri for RS from Madhya Pradesh",
+      "Farmers claim Rs 35 cr missing from PNB FDs in Greater Noida; 5 suspended",
+      "Child And Mother In Car, Punjab Ex-Congress Leader Shot At, Allegedly Attacked With Axe",
+      "Pakistan minister invites Punjab CM Mann",
+      "ED considering probe as Punjab drug issue takes centre stage ahead of assembly polls"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 5,
+    "headlines": [
+      "IIT Patna takes cognisance of purported anti-quota remarks attributed to registrar amid uproar",
+      "Bihar MLC election results: BJP wins 2, leads on 1; JDU, RJD, JSP win 1 seat each, Independents 2",
+      "‘Guess how many seats Congress won’: PM Modi’s dig at party's show in ballot-paper MLC polls",
+      "47% of the targeted area covered under India’s oil palm expansion this fiscal",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "MP",
@@ -179,40 +229,12 @@
     "news_count": 5,
     "headlines": [
       "Eye on Punjab poll, BJP fields Hardeep Puri for RS from Madhya Pradesh",
-      "Mob assaults buffalo traders in Madhya Pradesh’s Damoh; two cases lodged",
-      "M.P. hooch deaths: prime accused used AI to help brew liquor at home, say police",
+      "3 Years After Completion, Rs 9 Crore Madhya Pradesh Bridge Lacks Access Road",
       "78-year-old Bhopal newspaper owner handed 10 life terms for rape of five minors, fined  ₹77 lakh",
-      "Hardeep Puri nominated for bypoll from Madhya Pradesh Rajya Sabha seat vacated by L Murugan"
+      "Hardeep Puri nominated for bypoll from Madhya Pradesh Rajya Sabha seat vacated by L Murugan",
+      "IMD update: Fresh depression alert as Arnab brings heavy rain to Chhattisgarh, UP, MP"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 4,
-    "headlines": [
-      "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-      "Kavitha threatens to block census operations over OBC column demand",
-      "Peter Medak, director of ‘The Changeling’, ‘The Krays’ and ‘The Ruling Class’, passes away",
-      "Vijay Deverakonda and Rashmika Mandanna’s team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 4,
-    "headlines": [
-      "Eye on Punjab poll, BJP fields Hardeep Puri for RS from Madhya Pradesh",
-      "Pakistan minister invites Punjab CM Mann",
-      "SAD-AAP trade barbs on drug menace issue in Punjab",
-      "ED considering probe as Punjab drug issue takes centre stage ahead of assembly polls"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "WB",
@@ -221,25 +243,38 @@
     "State": "West Bengal",
     "news_count": 4,
     "headlines": [
-      "SC says legality of EC's 'logical discrepancy' checks in SIR remains undecided",
-      "Vedanta chief meets Suvendu, explores investments in West Bengal",
+      "Cyclone Arnab LIVE: Amit Shah speaks with CMs of affected States, assures all support",
+      "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
       "Former Bengal minister Indranil Sen arrested in Kolkata over alleged financial irregularities in Durga Puja preview shows",
-      "Vedanta exploring opportunities to invest ₹80,000 crore in West Bengal in power generation, aluminium smelter"
+      "West Bengal cabinet approves new industry policy to attract investments"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 3,
     "headlines": [
-      "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
-      "EC orders transfer of officers in Goa, Manipur, Punjab, UP and Uttarakhand ahead of elections",
-      "Daler Mehndi controversy ends as Uttarakhand Minister Subodh Uniyal apologises; Mika Singh’s team reacts"
+      "Rivers in spate in north Andhra after Cyclone Arnab; flood water enters Ichchapuram",
+      "Postal Department organises awareness rally in Yadgir to promote integrity",
+      "Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "Grant war injury pension to Kargil veteran: Top court",
+      "Supreme Court directs Centre to grant war injury pension to Army veteran who developed illness during Kargil posting",
+      "Ladakh administration calls Sonam Wangchuk’s allegations on liquor policy ‘false, baseless'"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "JH",
@@ -248,35 +283,24 @@
     "State": "Jharkhand",
     "news_count": 3,
     "headlines": [
+      "Jharkhand youth jailed in UAE, family seeks Government help for his return",
       "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
-      "Surrendered Maoist commanders get married in Jharkhand jail, top officials attend",
-      "Jharkhand assembly to hold special session in Nov, SIR among issues to be deliberated"
+      "Surrendered Maoist commanders get married in Jharkhand jail, top officials attend"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
     "headlines": [
-      "Haryana ERC puts Eleven Power’s parallel power distribution licence on hold",
-      "Haryana ERC puts parallel power distribution licence on hold"
+      "Cyclone Arnab weakens to deep depression; triggers rains in south Odisha districts",
+      "Cyclone Arnab weakens, but Andhra, Odisha still under rain alert; Amit Shah assures Centre's aid to affected states",
+      "Charging points in trains to remain off 11 pm-5 am"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "Supreme Court directs Centre to grant war injury pension to Army veteran who developed illness during Kargil posting",
-      "Ladakh administration calls Sonam Wangchuk’s allegations on liquor policy ‘false, baseless'"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "MN",
@@ -285,21 +309,45 @@
     "State": "Manipur",
     "news_count": 2,
     "headlines": [
-      "Security To Cybersecurity: 11 Nodal Officers To Oversee 2027 Manipur Polls",
-      "Naga group to stage rally against SoO in Manipur on October 31"
+      "In divided Manipur, a Naga village with no safe way out",
+      "ECI team, including Maneesh Garg, visited Manipur to review poll preps"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 2,
+    "headlines": [
+      "Neeraj Yadav's friend says she met him hours before he was found dead beside SUV",
+      "Neeraj Yadav death: Friend says she met him hours before he was found beside SUV"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "Over 500 Arrested As Assam Steps Up Action Against Child Marriage",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "International tourism mart returns to Arunachal Pradesh's Tawang after 13 years"
+    ],
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "CT",
@@ -310,29 +358,7 @@
     "headlines": [
       "Heavy rain warning in Chhattisgarh post Cyclone Arnab, schools shut in Raipur"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 1,
-    "headlines": [
-      "ED busts ‘drugs for goods’ network, says Myanmar suppliers paid through fuel, food"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 1,
-    "headlines": [
-      "Cyclone Arnab: 17 Odisha districts affected by heavy rain, Gajapati worst hit"
-    ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "RJ",
@@ -341,9 +367,9 @@
     "State": "Rajasthan",
     "news_count": 1,
     "headlines": [
-      "Polling underway for phase 2 of Rajasthan panchayat polls, faulty EVMs delay start at few booths"
+      "Observing Karwa Chauth For Another Man Is Mental Cruelty: Jaipur Court"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
     "Code": "JK",
@@ -352,19 +378,19 @@
     "State": "Jammu and Kashmir",
     "news_count": 1,
     "headlines": [
-      "India Closely Monitoring Tehran Talks Involving Pakistan, Says Centre"
+      "Students win Viksit Bharat Buildathon for bomb-diffusing robot, smart glasses"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 1,
     "headlines": [
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+      "Daler Mehndi controversy ends as Uttarakhand Minister Subodh Uniyal apologises; Mika Singh’s team reacts"
     ],
-    "last_updated": "2026-10-29 06:57:05 AM"
+    "last_updated": "2026-10-29 01:22:55 PM"
   }
 ]
