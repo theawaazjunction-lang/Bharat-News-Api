@@ -4,12 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 42,
+    "news_count": 46,
     "headlines": [
-      "'This is not a drama': Israeli agency had illegal funds intel; didn't share info",
+      "California community completes $16.5m property purchase after 20-year search",
+      "Most of private equity in health went to west &amp; south: Study",
       "Arab Parties Emerge Kingmakers In Israel As Netanyahu Falls Short",
       "Delhi SIR Deadline Extended Till November 25, Relief For 5 Other States",
       "Delhi Sees Coldest October Day In 4 Years As Mercury Dips Across North India",
+      "Former West Bengal minister Indranil Sen sent to 13 days police custody",
+      "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+      "NHRC flags human rights concerns over parading of three persons in south Kolkata",
       "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
       "West Bengal minister asks to organise Kali puja at every police station",
       "Foreign Secretary to visit Kathmandu as plans get underway for Nepal PM’s India visit",
@@ -49,38 +53,16 @@
       "In 1987, an amateur fossil hunter found a T. rex in South Dakota; the $31.8 million skeleton now stands in Abu Dhabi",
       "North Carolina city restores 27 acres of wetlands to reduce flood risks for 93 properties"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 13,
-    "headlines": [
-      "36,351 police personnel deployed for ULB polls in Andhra Pradesh",
-      "Local body polls: Andhra Pradesh CM Naidu insists on alliance dharma, warns rebels of suspension",
-      "Coastal Andhra Pradesh may receive heavy rain from November 1 as low-pressure area brewing over Bay of Bengal",
-      "ICG rescues 20 crew members of stranded ship Sigma Pearl",
-      "Cyclone Arnab: Andhra Pradesh puts estimated loss at ₹4,600 crore",
-      "Analogue paneer banned in Andhra Pradesh for a year",
-      "Andhra Pradesh Minister tells official to expedite restoration works in cyclone-hit towns",
-      "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters",
-      "What the MLC elections do and do not tell us",
-      "Lalitha Hospitals in Guntur hosts World Stroke Day",
-      "Experts at CII meet flag roadblocks in Kashmir apple cart’s global ambition",
-      "Kurnool outdoor stadium will be upgraded to meet international standards: Bharath",
-      "Srikakulam Collector urges truckers, motorists stranded on NH-16 to wait till floodwaters recedes"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 13,
     "headlines": [
+      "Introspect on Varanasi, Nagpur losses, Congress tells BJP",
       "Three siblings found dead in Mumbai rented flat, recorded video before death: Police",
       "Airlines seek more time to shift international flights to Navi Mumbai airport",
       "NCP appoints Zeeshan Siddique as Mumbai chief as Parth Pawar pushes organisational changes amid dissent",
@@ -94,27 +76,28 @@
       "Tiger Shroff’s spokesperson DENIES reports of actor’s statement to Mumbai Police: “This news is completely untrue”",
       "Tiger Shroff sells Mumbai’s Khar apartment for Rs 9 crores"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 10,
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 11,
     "headlines": [
-      "Karnataka hikes milk prices by Rs 8 per litre from Nov 1",
-      "'To Help Farmers': DK Shivakumar Justifies Rs 8 Milk Price Hike In Karnataka",
-      "Congress Minister Defends SIR Deletions In Karnataka, BJP Jabs Rahul Gandhi",
-      "Supreme Court strikes down Karnataka law validating ‘corrupt’ 2011 recruitment",
-      "Karnataka hikes Nandini milk prices by  ₹8 per litre from November 1: State minister",
-      "Congress’ tally in MLC polls triggers meme fest by BJP: ‘Zero check karlo bhai’",
-      "‘Karnataka SIR was done right’: Congress leader Satish Jarkiholi defends voter deletions",
-      "MLC election result 2026: BJP wins 9 of 23 seats in Uttar Pradesh, Bihar, Karnataka MLC polls; SP bags 5 in UP",
-      "SC says Karnataka legislature cannot validate recruitment process held ‘corrupt’ by courts",
-      "Yash to handle Karnataka distribution of Ranbir Kapoor starrer Ramayana under Monster Mind Creations"
+      "Congress demands dedicated development board for Kotia",
+      "36,351 police personnel deployed for ULB polls in Andhra Pradesh",
+      "Local body polls: Andhra Pradesh CM Naidu insists on alliance dharma, warns rebels of suspension",
+      "Coastal Andhra Pradesh may receive heavy rain from November 1 as low-pressure area brewing over Bay of Bengal",
+      "ICG rescues 20 crew members of stranded ship Sigma Pearl",
+      "Cyclone Arnab: Andhra Pradesh puts estimated loss at ₹4,600 crore",
+      "Analogue paneer banned in Andhra Pradesh for a year",
+      "Andhra Pradesh Minister tells official to expedite restoration works in cyclone-hit towns",
+      "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters",
+      "What the MLC elections do and do not tell us",
+      "Lalitha Hospitals in Guntur hosts World Stroke Day"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "TN",
@@ -134,16 +117,33 @@
       "Karthik Subbaraj reveals how Shankar changed his original ‘Game Changer’ story",
       "Tamil Nadu theatre owners seek 6 am shows, 2 am screenings"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 8,
+    "headlines": [
+      "'To Help Farmers': DK Shivakumar Justifies Rs 8 Milk Price Hike In Karnataka",
+      "Congress Minister Defends SIR Deletions In Karnataka, BJP Jabs Rahul Gandhi",
+      "Karnataka hikes Nandini milk prices by  ₹8 per litre from November 1: State minister",
+      "Congress’ tally in MLC polls triggers meme fest by BJP: ‘Zero check karlo bhai’",
+      "‘Karnataka SIR was done right’: Congress leader Satish Jarkiholi defends voter deletions",
+      "MLC election result 2026: BJP wins 9 of 23 seats in Uttar Pradesh, Bihar, Karnataka MLC polls; SP bags 5 in UP",
+      "SC says Karnataka legislature cannot validate recruitment process held ‘corrupt’ by courts",
+      "Yash to handle Karnataka distribution of Ranbir Kapoor starrer Ramayana under Monster Mind Creations"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 8,
+    "news_count": 7,
     "headlines": [
-      "She fasted for husband's long life on Karwa Chauth, he kills her with pestle",
       "29 unrecognised parties from Gujarat recorded ₹510 crore income, highest in FY 2024-25: ADR",
       "Gujarat court sentences 3 to life for cow slaughter, cites Manusmriti",
       "ED conducts searches Mumbai, Gujarat in drug-trafficking probe",
@@ -152,7 +152,41 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "WPL 2027 full squads: How MI, RCB, DC, GG, UPW stack up after the auction"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 7,
+    "headlines": [
+      "Congress demands dedicated development board for Kotia",
+      "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+      "Post-Arnab cyclone, heavy rain wreaks havoc in Odisha’s Ganjam, Gajapati districts",
+      "Odisha plans to airlift 120 stranded in Ganjam amid Cyclone Arnab aftermath",
+      "Cyclone Arnab weakens to deep depression; triggers rains in south Odisha districts",
+      "Cyclone Arnab weakens, but Andhra, Odisha still under rain alert; Amit Shah assures Centre's aid to affected states",
+      "Charging points in trains to remain off 11 pm-5 am"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 7,
+    "headlines": [
+      "Bihar Museum in world top 10, ahead of Met, Louvre",
+      "Rohini Acharya's 'Tejashwi Yadav + Prashant Kishor' Equation For Bihar",
+      "Congress’ tally in MLC polls triggers meme fest by BJP: ‘Zero check karlo bhai’",
+      "Legal opinion just advisory, not binding;  can’t prosecute lawyers for it: Patna high court",
+      "IIT Patna takes cognisance of purported anti-quota remarks attributed to registrar amid uproar",
+      "Bihar MLC election results: BJP wins 2, leads on 1; JDU, RJD, JSP win 1 seat each, Independents 2",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "UP",
@@ -169,111 +203,52 @@
       "BJP’s new UP headquarters in Lucknow may bloom with lotus-shaped facade",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 6,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
     "headlines": [
-      "Rohini Acharya's 'Tejashwi Yadav + Prashant Kishor' Equation For Bihar",
-      "Congress’ tally in MLC polls triggers meme fest by BJP: ‘Zero check karlo bhai’",
-      "Legal opinion just advisory, not binding;  can’t prosecute lawyers for it: Patna high court",
-      "IIT Patna takes cognisance of purported anti-quota remarks attributed to registrar amid uproar",
-      "Bihar MLC election results: BJP wins 2, leads on 1; JDU, RJD, JSP win 1 seat each, Independents 2",
-      "Rare 'intensive' revision in Bihar four months before polls"
+      "Former West Bengal minister Indranil Sen sent to 13 days police custody",
+      "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+      "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+      "West Bengal minister asks to organise Kali puja at every police station",
+      "West Bengal bars new teachers from contesting elections"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
       "SIR deadline for Telangana extended to November 30, 2026",
       "Cyclone Arnab: Andhra Pradesh puts estimated loss at ₹4,600 crore",
       "What the MLC elections do and do not tell us",
       "Invest in Telangana and thrive, CM tells business heads",
-      "Telangana sends 2K staff, material to A.P. for power supply restoration work",
       "Vijay Deverakonda and Rashmika Mandanna’s team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
-      "A Kannur moment in Alaska could leave Trump out in the cold",
       "Kerala teacher arrested over alleged false claim of worms in food at state sports meet",
       "Kerala judge says he was asleep when son took Mercedes involved in fatal Kochi crash",
       "Kerala murder convict found dead in jail cell, was recently diagnosed with cancer",
       "Loka Kerala Sabha disbanded as it failed to meet objectives: Keralam CM",
       "'He is a judicial officer, will cooperate': Kerala HC grants anticipatory bail to judge whose son was involved in Kochi car crash"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 6,
-    "headlines": [
-      "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
-      "Post-Arnab cyclone, heavy rain wreaks havoc in Odisha’s Ganjam, Gajapati districts",
-      "Odisha plans to airlift 120 stranded in Ganjam amid Cyclone Arnab aftermath",
-      "Cyclone Arnab weakens to deep depression; triggers rains in south Odisha districts",
-      "Cyclone Arnab weakens, but Andhra, Odisha still under rain alert; Amit Shah assures Centre's aid to affected states",
-      "Charging points in trains to remain off 11 pm-5 am"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "She fasted for husband's long life on Karwa Chauth, he kills her with pestle",
-      "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
-      "Two Madhya Pradesh sisters die by suicide with four children within hours: Police",
-      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "Shutdown begins in Manipur district over two missing Kuki youths",
-      "In divided Manipur, a Naga village with no safe way out",
-      "ECI team, including Maneesh Garg, visited Manipur to review poll preps"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "BJP Promises 63% Dearness Allowance To Government Employees If It Comes To Power In Punjab",
-      "BJP's Sunil Jakhar seeks ban on Kejriwal, Sisodia's entry in Punjab",
-      "Terror suspect wanted in Punjab grenade attack case arrested from Haryana's Faridabad"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "JK",
@@ -286,7 +261,33 @@
       "J&K Scraps Anantnag Bar Association Polls Over \"Blatant Violation\"",
       "Students win Viksit Bharat Buildathon for bomb-diffusing robot, smart glasses"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+      "Two Madhya Pradesh sisters die by suicide with four children within hours: Police",
+      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "BJP Promises 63% Dearness Allowance To Government Employees If It Comes To Power In Punjab",
+      "BJP's Sunil Jakhar seeks ban on Kejriwal, Sisodia's entry in Punjab",
+      "Terror suspect wanted in Punjab grenade attack case arrested from Haryana's Faridabad"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "HR",
@@ -299,54 +300,19 @@
       "Another Suspect Arrested From Haryana In Tiger Shroff Shooting Case",
       "Terror suspect wanted in Punjab grenade attack case arrested from Haryana's Faridabad"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 2,
     "headlines": [
-      "Anti-mega dam protest rocks Arunachal capital",
-      "International tourism mart returns to Arunachal Pradesh's Tawang after 13 years"
+      "In divided Manipur, a Naga village with no safe way out",
+      "ECI team, including Maneesh Garg, visited Manipur to review poll preps"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "Anti-mega dam protest rocks Arunachal capital",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "West Bengal minister asks to organise Kali puja at every police station",
-      "West Bengal bars new teachers from contesting elections"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
-    "headlines": [
-      "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam"
-    ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "AN",
@@ -357,7 +323,40 @@
     "headlines": [
       "Magnitude 5.1 earthquake strikes near Andaman and Nicobar Islands"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "Cyclone Arnab LIVE: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "International tourism mart returns to Arunachal Pradesh's Tawang after 13 years"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 1,
+    "headlines": [
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "CT",
@@ -368,7 +367,7 @@
     "headlines": [
       "Chhattisgarh govt school principal removed after Asaram booklets distributed to students"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "NL",
@@ -379,7 +378,7 @@
     "headlines": [
       "ECI extends SIR timelines in Maharashtra, Delhi, Andhra, Haryana, Telangana, Nagaland"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "TR",
@@ -390,7 +389,7 @@
     "headlines": [
       "Tripura Opens First Tea Auction Centre, Targets Faster Sales"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "LA",
@@ -401,7 +400,7 @@
     "headlines": [
       "Grant war injury pension to Kargil veteran: Top court"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   },
   {
     "Code": "UT",
@@ -412,6 +411,6 @@
     "headlines": [
       "Daler Mehndi controversy ends as Uttarakhand Minister Subodh Uniyal apologises; Mika Singh’s team reacts"
     ],
-    "last_updated": "2026-10-30 01:29:38 AM"
+    "last_updated": "2026-10-30 05:21:05 AM"
   }
 ]
