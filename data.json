@@ -4,21 +4,20 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 52,
+    "news_count": 46,
     "headlines": [
-      "$6.3bn gone in 20 mins: How North Korean hackers pulled off crypto's biggest-ever heist",
+      "'Global South bears burden': EAM flags attacks on Indian seafarers in Hormuz at G20 meet",
+      "$6.3bn gone in 20 mins: How North Korean hackers pulled off biggest crypto heist",
+      "‘Class 12-pass mafia’: Ritabrata Banerjee hits back at Abhishek's warning to cops",
       "Two days of rain bring Delhi’s AQI down to 60; minister credits ‘targeted action’",
-      "North Korea Linked To $6.3 Billion Binance Hack In Biggest Crypto Heist Ever",
-      "Delhi Air Quality Drops To 78 After Record Rain Brings Winter Chill",
-      "Delhi Pilot, Bengaluru Cop And Lawyer Among 6 Dead In Uttarakhand Chopper Crash",
-      "In Pics: Snowfall Turns East Sikkim Into Winter Wonderland",
-      "BJP challenges Rahul Gandhi's claim of curbs on those going to Delhi for protest, demands proof",
-      "Chandrababu Naidu’s prompt response helps minimise cyclone damage",
-      "Uttarakhand chopper crash: All six on board killed, says Chamoli District Magistrate",
-      "Two persons killed as autorickshaw collides with lorry in East Godavari",
-      "BJP slams Congress over Delhi Chalo terming it an attack on democracy",
-      "I will serve the people of India till my last breath: PM Modi",
-      "International agricultural event to focus on climate resilience",
+      "Delhi Records Coldest October Day In 75 Years After Heavy Rain, Clean Air",
+      "Saudi Coalition Says Intercepted Drone Over Riyadh, Missile In South",
+      "What Is TraderTraitor? North Korea Group Accused Of $6 Billion Binance Heist",
+      "North Korea Suspected Of Pulling Off Biggest Crypto Heist Worth $6.3 Billion",
+      "Moderate rain likely in south coastal Andhra Pradesh for three days",
+      "Man held for possession of 22 country-made explosives in Ranipet",
+      "Air Marshal Inderpal Singh Walia named next IAF Vice Chief",
+      "Construction, demolition activities halted in Delhi-NCR from Nov 5 to 20 to curb air pollution",
       "Delhi records coldest October day since 1951, cleanest air for month in over a decade",
       "Bengaluru crime branch official, lawyers, Delhi pilot among 6 killed in Uttarakhand helicopter crash",
       "Diljit Dosanjh urges concertgoers to take Delhi Metro to reach venue",
@@ -37,16 +36,11 @@
       "Rahul Gandhi rallies students for ‘Chalo Dilli’ march on November 1",
       "Election Commission extends SIR timelines for Delhi and 5 states",
       "Over 275,000 Form 6 applications received as Delhi SIR deadline extended",
-      "Delhi traders urge Rahul Gandhi to postpone INDIA bloc's Ramlila Maidan rally over Diwali business loss fears",
-      "Delhi Metro trains to operate till midnight on Oct 30 for Diljit Dosanjh concert at JLN Stadium",
-      "‘Orders becoming a mockery’: Supreme Court pulls up Delhi govt over firecracker curbs",
-      "Delhi's Jantar Mantar added as venue for Indian Biennale 2026",
-      "Park Hospitals strengthens north India footprint with Rs200 crore investment, targets 6,600 beds",
+      "RIL diversifies crude sourcing, redirects exports amid Middle East disruptions",
       "RBI Central Board reviews economic conditions, evaluates risks to growth and inflation outlook",
       "Govt sets up High Level Committee to suggest reform measures for banks",
       "India’s crude oil imports set to hit record 5.4 mb/d in October",
       "Drought to slow India’s milk production growth to 2% in 2027, says USDA",
-      "Trade capacity building: India trained 80,000 from global south since 2014",
       "Biggest crypto heist in history: How Binance’s $6 billion hack rattled markets and what it means for investors?",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
@@ -59,37 +53,14 @@
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "In 1987, an amateur fossil hunter found a T. rex in South Dakota; the $31.8 million skeleton now stands in Abu Dhabi"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 13,
-    "headlines": [
-      "Karnataka Plans Crackdown On Half Helmets, Rs 5,000 Fine For Riding On Footpaths",
-      "Uttarakhand Joshimath Helicopter Crash Updates: Karnataka Cop Among 6 On Helicopter That Crashed In Uttarakhand",
-      "Uttarakhand chopper crash: All six on board killed, says Chamoli District Magistrate",
-      "Sugarcane farmers call for Karnataka bandh today",
-      "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
-      "Inspector who died in helicopter crash was from Belagavi",
-      "Upalokayuktha calls for honesty during Vigilance Awareness Week in Mysuru",
-      "Quantum tech can help solve complex problems: Jnan Yalla",
-      "Rangaraju, Swamy Anand among Rajyothsava awardees from Mysuru",
-      "Sowjanya murder case: Karnataka names Chetan Singh Rathore as new SIT",
-      "Karnataka minister Satish Jarkiholi clarifies, says his SIR remarks were misinterpreted",
-      "‘Changing political winds, shifting stands’: SC strikes down 2022 Karnataka recruitment law",
-      "ARAI expands EV testing capabilities, plans new facilities in Pune, Karnataka"
-    ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
       "'I want teams to fear Mumbai Indians even when we play away': New batting coach",
       "Air India gets DGCA approval for flying academy in Maharashtra",
@@ -99,188 +70,161 @@
       "'I want teams to fear Mumbai Indians even when we play away': Robin Uthappa",
       "'I want to build fielding as an attacking weapon': New MI fielding coach",
       "IPL 2027: Amidst winds of change, Rohit Sharma is the glue Mumbai Indians need right now",
-      "2007 T20 World Cup-winning squad member named Mumbai Indians batting coach",
       "Maharashtra FDA completes proceedings against SRK, Ajay, and Tiger over pan masala ads",
       "Abundantia Entertainment, invideo begin production on AI-assisted film Beta Builder, starring Mayur More and Ashlesha Thakur",
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "Shah Rukh Khan and Kareena Kapoor Khan to recreate 'Chammak Challo'-style energy for King song: Report"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 12,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 10,
     "headlines": [
-      "Uttarakhand chopper flying: A lot has changed for better, but a lot remains to be done",
-      "U'khand chopper crash: All 6 killed, bodies found; contact lost 2 mins after take off",
-      "Delhi Pilot, Bengaluru Cop And Lawyer Among 6 Dead In Uttarakhand Chopper Crash",
-      "6, Including Pilot, On Board Uttarakhand Chopper Killed In Crash",
-      "Uttarakhand Joshimath Helicopter Crash Updates: Karnataka Cop Among 6 On Helicopter That Crashed In Uttarakhand",
-      "Uttarakhand chopper crash: All six on board killed, says Chamoli District Magistrate",
-      "Inspector who died in helicopter crash was from Belagavi",
-      "Bengaluru crime branch official, lawyers, Delhi pilot among 6 killed in Uttarakhand helicopter crash",
-      "Evening News Brief October 30: Uttarakhand chopper crash, mega Binance crypto heist and more top stories",
-      "Badrinath helicopter crash LIVE updates: Darkness, difficult terrain delay recovery of bodies, AAIB to probe accident",
-      "Badrinath helicopter crash: A look at 10 chopper mishaps in Uttarakhand over the years",
-      "Joshimath helicopter crash: Pilot and five Bengaluru passengers killed"
+      "Uttarakhand Joshimath Helicopter Crash Highlights: Karnataka Cop Among 6 On Helicopter That Crashed In Uttarakhand",
+      "Seven packaged drinking water units closed for violations in Karnataka",
+      "Karnataka High Court to nominate new head for SIT to probe KPSC irregularities on Monday",
+      "Two friends, same police batch: Karnataka loses second officer in two months",
+      "Will not enforce circular on hospital medicine price disclosure for now: Karnataka government to HC",
+      "IIT Dharwad hosting classical music concerts tonight",
+      "Sowjanya murder case: Karnataka names Chetan Singh Rathore as new SIT",
+      "Karnataka minister Satish Jarkiholi clarifies, says his SIR remarks were misinterpreted",
+      "‘Changing political winds, shifting stands’: SC strikes down 2022 Karnataka recruitment law",
+      "ARAI expands EV testing capabilities, plans new facilities in Pune, Karnataka"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 11,
+    "news_count": 9,
     "headlines": [
-      "'Keep it short': Nia Patel recalls being silenced at grandmother's memorial",
-      "Election campaign draws to a close in Tirupati district",
-      "Andhra Pradesh SEC gears up for polls in 100 Urban Local Bodies on November 1",
-      "Two persons killed as autorickshaw collides with lorry in East Godavari",
-      "Andhra Pradesh releases ₹3,125 crore second instalment under Annadata Sukhibhava-PM Kisan scheme to 46.85 lakh farmer families",
-      "TDP steps up door-to-door campaign in minority- dominated areas of Vizianagaram",
-      "No tolerance to even minor lapses in polling, counting: Annamayya Collector",
-      "Pawan Kalyan moots insurance cover for fishing boats in Andhra Pradesh",
+      "596 polling stations set up for civic body polls in Guntur on November 1",
+      "Moderate rain likely in south coastal Andhra Pradesh for three days",
+      "Andhra Pradesh to spend ₹3,000 crore on irrigation drain modernisation in Godavari region",
+      "Senior advocate Ancha Pandu Ranga Rao sworn in as APERC member",
+      "Over 2,200 police drafted for Tirupati election duty across five urban bodies",
+      "Free child-care training programme for women in Visakhapatnam",
       "NASA captures nighttime image of Cyclone Arnab two days before it battered Andhra Pradesh",
       "Cyclone Arnab: Central teams to arrive today to assess damage in Andhra Pradesh",
       "Indian Coast Guard rescues all crew members of Philippine cargo vessel stranded in Bay of Bengal due to Cyclone Arnab"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 9,
+    "headlines": [
+      "Uttarakhand chopper flying: A lot has changed for better, but a lot remains to be done",
+      "Uttarakhand Joshimath Helicopter Crash Highlights: Karnataka Cop Among 6 On Helicopter That Crashed In Uttarakhand",
+      "Passenger's Take-Off Selfie Video Before Deadly Chopper Crash In Uttarakhand",
+      "Char Dham trip ends in tragedy for five Bengaluru friends as helicopter crashes in Chamoli",
+      "Bengaluru crime branch official, lawyers, Delhi pilot among 6 killed in Uttarakhand helicopter crash",
+      "Evening News Brief October 30: Uttarakhand chopper crash, mega Binance crypto heist and more top stories",
+      "Badrinath helicopter crash highlights: Darkness, difficult terrain delay recovery of bodies, AAIB to probe accident",
+      "Badrinath helicopter crash: A look at 10 chopper mishaps in Uttarakhand over the years",
+      "Joshimath helicopter crash: Pilot and five Bengaluru passengers killed"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 9,
+    "news_count": 7,
     "headlines": [
-      "Cuddalore Collector inspects development works in Chidambaram",
-      "Chola-era bronze alloy idols of Lord Nataraja, Goddess Sivakami unearthed in Nagapattinam",
-      "Work on ‘Gateway of Chennai’ to begin next week as Tamil Nadu government approves 680 road projects",
+      "Japan’s Omron Healthcare opens first India manufacturing facility near Chennai",
+      "BIS organises MSME conclave in Ranipet",
+      "Man held for possession of 22 country-made explosives in Ranipet",
       "CM Vijay announces five-year age relaxation for government jobs in Tamil Nadu",
       "Tamil Nadu to file review plea on converted Muslim quota order",
       "Tamil Nadu to conduct social justice survey next year, panel gets cabinet nod",
-      "TVK functionary arrested for allegedly sexually harassing college student in Tamil Nadu",
-      "Tamil Nadu transfers DGP-prisons after two jailbreaks in a week",
       "Japanese major Omron targets 3 million BP machine capacity for new Chennai plant"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 9,
+    "news_count": 6,
     "headlines": [
-      "Heavy rain lashes parts of Hyderabad on October 30 evening",
-      "Telangana Deputy CM urges real estate sector to partner in State’s growth; stresses need for affordable housing",
-      "Infosys opens 1.1 million sq.ft. new block at Pocharam campus in Hyderabad",
-      "Revanth wants Ashwini Vaishnaw’s nod for six railway projects in Telangana",
+      "Heavy rain lashes parts of Hyderabad on October 30 evening; delivery executive rescued from nala",
       "Tamil Nadu to file review plea on converted Muslim quota order",
       "Tamil Nadu to conduct social justice survey next year, panel gets cabinet nod",
       "Telangana Govt to monetise Miyapur lands worth ₹50,000 crore",
       "Infosys adds 10,000 seats with 1.1 million sq ft expansion at Hyderabad campus",
       "Vijay Deverakonda and Rashmika Mandanna’s team files cyber crime complaint in Hyderabad over alleged fake claims and online harassment"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
-    "headlines": [
-      "PM Modi Outlines Projects Worth Rs 14,000 Crore In Gujarat",
-      "Rangaraju, Swamy Anand among Rajyothsava awardees from Mysuru",
-      "Gujarat court gives life term to 3 for cow slaughter, cites Manusmriti on cow’s importance",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
-      "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?"
-    ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 4,
+    "news_count": 6,
     "headlines": [
+      "Amit Shah's 'Special' Offer To INDIA Bloc Before Gyanesh Kumar's 'Public Impeachment'",
+      "U.P. CEO directs officials on accurate, error-free and up-to-date maintaining of electoral rolls",
       "If re-elected, BJP will implement Uniform Civil Code in UP: Amit Shah",
       "1,330 registered unrecognised parties lack both financial reports for financial year 2024-25: ADR report",
       "Uttar Pradesh targets to buy more paddy, procurement to start from November 1",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 5,
+    "headlines": [
+      "Gujarat court gives life term to 3 for cow slaughter, cites Manusmriti on cow’s importance",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
+      "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Assam Police Detain Over 25 Bangladeshi Nationals From Dhubri",
       "He meant pro-talks faction: Himanta days after Assam minister 'praises' ULFA",
       "West Bengal, Assam on flood alert after Bhutan glacial lake outburst",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 3,
-    "headlines": [
-      "Punjab cop tests positive for drugs during anti-narcotics protest",
-      "Census 2027: door-to-door enumeration to start on January 25",
-      "‘No evidence’: Punjab Police to file closure report in rape case that triggered LPU campus violence"
-    ],
-    "last_updated": "2026-10-30 10:24:18 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 3,
-    "headlines": [
-      "In defence of democracy: Keralam’s cultural icons band together with Gen Z in Thrissur",
-      "Plea in Kerala HC seeking survey of AKG Centre to determine extent of alleged encroachment",
-      "Data Protection Board to be in place ‘pretty soon’: Government Sources"
-    ],
-    "last_updated": "2026-10-30 10:24:18 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Anant Singh ordered to surrender by Dec 1 in Dularchand Yadav murder case, SC gives Bihar Police four months to finish probe",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "CT",
     "Lat": 21.2787,
     "Long": 81.8661,
     "State": "Chhattisgarh",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
-      "North Korea Linked To $6.3 Billion Binance Hack In Biggest Crypto Heist Ever",
+      "What Is TraderTraitor? North Korea Group Accused Of $6 Billion Binance Heist",
+      "North Korea Suspected Of Pulling Off Biggest Crypto Heist Worth $6.3 Billion",
       "Chhattisgarh to reduce security cover of 116 Bastar leaders after decline in Maoist violence"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "OD",
@@ -292,7 +236,31 @@
       "ISRO timelapse video captures Cyclone Arnab's movement towards Andhra coast",
       "Cyclone impact: Odisha steps up rescue ops, prepares to air-drop food in flood-hit Ganjam, Gajapati"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 2,
+    "headlines": [
+      "Anant Singh ordered to surrender by Dec 1 in Dularchand Yadav murder case, SC gives Bihar Police four months to finish probe",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "AAP Claims Government Jobs Halting Punjab Migration, BJP Blames Visa Rules",
+      "‘No evidence’: Punjab Police to file closure report in rape case that triggered LPU campus violence"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "MP",
@@ -304,19 +272,19 @@
       "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
       "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 2,
     "headlines": [
-      "Census 2027: door-to-door enumeration to start on January 25",
-      "Accused in drug case, absconding for two years, held from Kullu in Himachal Pradesh"
+      "Orders issued on Vigilance probe into KIIFB-financed land acquisition in Kannur",
+      "Data Protection Board to be in place ‘pretty soon’: Government Sources"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "JH",
@@ -328,7 +296,18 @@
       "Jharkhand women turn Rs 2 savings into Rs 6 lakh ragi collective",
       "Glenn Phillips scripts history as NZ smash highest-ever T20I total vs India"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 1,
+    "headlines": [
+      "Haryana BJP MLA questions party’s merit-based jobs policy, warns of anti-incumbency"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "GA",
@@ -339,7 +318,18 @@
     "headlines": [
       "ANVI signs ₹5,000-crore MoU with Goa for LPG terminal to boost India’s cooking gas security"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "PCI shocked at inclusion of senior journalist in search warrant requests"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "MN",
@@ -350,18 +340,7 @@
     "headlines": [
       "A killing, two villages and a new fault line in Manipur"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
-  },
-  {
-    "Code": "SK",
-    "Lat": 27.533,
-    "Long": 88.5122,
-    "State": "Sikkim",
-    "news_count": 1,
-    "headlines": [
-      "In Pics: Snowfall Turns East Sikkim Into Winter Wonderland"
-    ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
   },
   {
     "Code": "NL",
@@ -372,6 +351,39 @@
     "headlines": [
       "Nagaland United to become first club from state on national stage with IFL debut"
     ],
-    "last_updated": "2026-10-30 10:24:18 PM"
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 1,
+    "headlines": [
+      "17 NC MLAs issue 15-day ultimatum to address ‘coterie culture’, other issues in party"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 1,
+    "headlines": [
+      "Why is ISRO’s NVS-03 satellite launch crucial? | Explained"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 1,
+    "headlines": [
+      "‘Class 12-pass mafia’: Ritabrata Banerjee hits back at Abhishek's warning to cops"
+    ],
+    "last_updated": "2026-10-31 02:46:39 AM"
   }
 ]
