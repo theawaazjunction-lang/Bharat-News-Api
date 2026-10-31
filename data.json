@@ -4,18 +4,14 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 40,
+    "news_count": 37,
     "headlines": [
       "Delhi HC nixes NIA plea, upholds bail to J&amp;K terror conspiracy accused",
       "WTC Standings: Australia slip after series defeat; where are India?",
-      "Australia hammered by Harmer in Cape Town as South Africa take series 2-1",
-      "Kim Jong Un's cyber army: How North Korea's hackers steal billions for regime",
-      "'Protest, Then Do Some Shopping': Rahul Gandhi After Traders' Issue With Delhi Rally Amid Festive Season",
-      "'Madam Speaker' At Mock Parliament: Meira Kumar Returns To Chair, Her Polite Sternness Intact",
-      "'Mood Of The People': INDIA Bloc 'Impeaches' Gyanesh Kumar At Mock Parliament, Demands Treason Case",
+      "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+      "At CEC’s ‘public impeachment’, voters question deletion of names from rolls",
       "Man escapes from police custody before being lodged in Coimbatore Central Prison",
-      "Oppositions in West Bengal question ECI over 16.10 lakh appeals against inclusion of voters",
-      "Eight civic bodies in North Andhra ready for polls today",
+      "Jaishankar meets Russian FM Lavrov in Atlanta, discusses Ukraine, West Asia situation",
       "Delhi to Kanpur in 1 hour 45 minutes: PM Modi clears north corridor of bullet train project",
       "UP's first Vande Bharat Sleeper train between Varanasi and Delhi flagged off: Timings, stations",
       "Delhi court issues fresh bailable warrants against YouTuber Dhruv Rathee in 2018 defamation case",
@@ -37,6 +33,7 @@
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "Australia hammered by Harmer in Cape Town as South Africa take series 2-1",
       "King's 81 not out guides West Indies to 1-0 series lead against Bangladesh",
       "A mother who had to quit her Rs 50 LPA job, now changing chess scene in North India",
       "Diljit Dosanjh addresses Satluj controversy at Delhi concert; says “Don't teach Punjabis how to fight”",
@@ -47,7 +44,7 @@
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "Invasive Burmese pythons and Florida’s native snakes show different parasite infection rates"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "MH",
@@ -71,27 +68,7 @@
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "Shah Rukh Khan and Kareena Kapoor Khan to recreate 'Chammak Challo'-style energy for King song: Report"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 10,
-    "headlines": [
-      "Cabinet approves site for Uppara community hall in Kalaburagi",
-      "HMT brings out new ‘Kannadiga’ watch collection for Karnataka",
-      "Centre releases ₹4,504-crore additional instalment of tax devolution to Karnataka",
-      "Four arrested for ATM theft in Bidar district; ₹32 lakh worth of property seized",
-      "Shetty Institute of Technology hosts TechNova and NextGen Hackathon in Kalaburagi",
-      "Accused in gold smuggling case gets VIP treatment in Hassan",
-      "Preliminary reports suspect power leakage into pool from wiring for lights inside pool",
-      "Traffic diversions, parking restrictions around Kanteerava Stadium for Karnataka Rajyotsava",
-      "Sugarcane growers intensify agitation across Kittur Karnataka; bandh evokes mixed response; Road blockades disrupt transport in Belagavi, Vijayapura, Bagalkot, Dharwad and Haveri",
-      "IIM Bangalore summer placements: All 608 students secure offers from 128 firms"
-    ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "TG",
@@ -110,24 +87,25 @@
       "Telangana aims to emerge as leading electronics manufacturing destination: Minister Sridhar Babu",
       "IMD update: AP coast braces for a second cyclone, hot on heels of Arnab"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 7,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 8,
     "headlines": [
-      "Opposition's Role Not To Obstruct National Progress: PM At Unity Day Event",
-      "PM Modi slams Opposition for acting as 'obstructive force' at Unity Day event in Gujarat",
-      "Non-veg ban near Somnath Temple restored within hours as Gujarat HC stays single judge's ruling",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
-      "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?"
+      "Cabinet approves site for Uppara community hall in Kalaburagi",
+      "Centre releases ₹4,504-crore additional instalment of tax devolution to Karnataka",
+      "Four arrested for ATM theft in Bidar district; ₹32 lakh worth of property seized",
+      "Shetty Institute of Technology hosts TechNova and NextGen Hackathon in Kalaburagi",
+      "Accused in gold smuggling case gets VIP treatment in Hassan",
+      "Preliminary reports suspect power leakage into pool from wiring for lights inside pool",
+      "Traffic diversions, parking restrictions around Kanteerava Stadium for Karnataka Rajyotsava",
+      "IIM Bangalore summer placements: All 608 students secure offers from 128 firms"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "AP",
@@ -136,15 +114,31 @@
     "State": "Andhra Pradesh",
     "news_count": 7,
     "headlines": [
+      "Krishna Byre Gowda launches ‘Ward One’ initiative",
       "Arrangements in place for polling in 222 wards across NTR districts",
       "After ‘Arnab’, Andhra Pradesh may face another severe cyclonic storm",
       "Naidu calls for high alert as another cyclone threat looms over Andhra Pradesh",
-      "Coastal Andhra Pradesh fisherfolk face severe financial crisis amid Cyclones and frequent weather bans",
       "Another cyclonic storm brewing over Bay of Bengal, likely to hit Andhra Pradesh by November 3",
       "Woman stabbed to death by stalker in Andhra Pradesh",
       "IMD update: AP coast braces for a second cyclone, hot on heels of Arnab"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "PM Modi slams Opposition for acting as 'obstructive force' at Unity Day event in Gujarat",
+      "Non-veg ban near Somnath Temple restored within hours as Gujarat HC stays single judge's ruling",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
+      "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?"
+    ],
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "UT",
@@ -153,45 +147,60 @@
     "State": "Uttarakhand",
     "news_count": 6,
     "headlines": [
+      "Uttarakhand helicopter crash reiterates concerns raised by Parliamentary panel",
       "Uttarakhand makes co-pilots mandatory on Char Dham chartered flights after crash killed six",
       "5 chopper crash victims were due to return to Bengaluru when tragedy struck",
       "Char Dham trip ends in tragedy for five Bengaluru friends as helicopter crashes in Chamoli",
       "Bengaluru crime branch official, lawyers, Delhi pilot among 6 killed in Uttarakhand helicopter crash",
-      "Evening News Brief October 30: Uttarakhand chopper crash, mega Binance crypto heist and more top stories",
-      "Badrinath helicopter crash highlights: Darkness, difficult terrain delay recovery of bodies, AAIB to probe accident"
+      "Evening News Brief October 30: Uttarakhand chopper crash, mega Binance crypto heist and more top stories"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 6,
-    "headlines": [
-      "8-month pregnant Bengal woman delivers stillborn after assault by 'BJP workers'",
-      "Cop's Mutilated Body Recovered From Railway Tracks In Bengal",
-      "Akasa Air Aircraft Suffers Tail Strike During Landing At Kolkata Airport",
-      "Oppositions in West Bengal question ECI over 16.10 lakh appeals against inclusion of voters",
-      "West Bengal govt plans to set up magic school and museum, advisory committee formed",
-      "Ambuja Neotia, IHCL to invest up to ₹3,000 crore in 9 hospitality projects in Bengal"
-    ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "In his first visit, BJP’s Bihar in-charge Harish Dwivedi stresses on strengthening the party",
       "'Only dignified formal attire’: Bihar orders strict dress code for teachers, ban on DJ at school events",
       "Bihar man arrested for forcibly applying vermilion to married woman's forehead",
       "Darbhanga MLC seat result out after 57-hour wait: Here's why counting took so long",
       "Opposition spreading rumours about shortages due to Iran war, says PM Narendra Modi",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 5,
+    "headlines": [
+      "3 Kuki-Zos killed in Manipur gunfight with Nagas; mass rally halts Imphal",
+      "Thousands rally in Manipur against recent killings, ethnic conflict",
+      "Thousands Protest In 5 Manipur Districts Against Killings, Ethnic Conflict",
+      "3 Kukis shot dead in Manipur gunfight",
+      "Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace"
+    ],
+    "last_updated": "2026-11-01 03:41:19 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 5,
+    "headlines": [
+      "8-month pregnant Bengal woman delivers stillborn after assault by 'BJP workers'",
+      "Cop's Mutilated Body Recovered From Railway Tracks In Bengal",
+      "Akasa Air Aircraft Suffers Tail Strike During Landing At Kolkata Airport",
+      "West Bengal govt plans to set up magic school and museum, advisory committee formed",
+      "Ambuja Neotia, IHCL to invest up to ₹3,000 crore in 9 hospitality projects in Bengal"
+    ],
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "TN",
@@ -205,7 +214,7 @@
       "Tamil Nadu industries minister Keerthana to undertake official visit to Germany from Nov 1",
       "Marketing industry leaders and experts explore AI impact at VIT Chennai Marketing Conclave"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "AS",
@@ -218,33 +227,7 @@
       "He meant pro-talks faction: Himanta days after Assam minister 'praises' ULFA",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Hardeep Puri files nomination for Rajya Sabha by-election from Madhya Pradesh",
-      "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
-      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
-    ],
-    "last_updated": "2026-11-01 12:27:31 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 3,
-    "headlines": [
-      "Thousands rally in Manipur against recent killings, ethnic conflict",
-      "Thousands Protest In 5 Manipur Districts Against Killings, Ethnic Conflict",
-      "Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace"
-    ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "HR",
@@ -257,7 +240,20 @@
       "On Camera, Boy Hits Girl, 6, With Stones, Flower Pot In Haryana School",
       "6-year-old girl in critical condition after Class 3 student assaults her with stone, flower pot at Panchkula school"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
+    "headlines": [
+      "36 Villas, 2 Cities, Rs 5 Crore: Rajasthan IAS-IPS Couple Under Probe",
+      "Rajasthan IPS officer removed after ACB probe ordered against IAS husband",
+      "Rajasthan IPS officer placed on APO amid villa purchase probe"
+    ],
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "PB",
@@ -270,19 +266,20 @@
       "Ex-Army employee arrested in Bengal on charges of working for Pakistan's ISI",
       "AAP banks on sitting MLAs in first list, names 40 candidates for 2027 Punjab polls; CM Mann to contest from Dhuri"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 2,
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 3,
     "headlines": [
-      "36 Villas, 2 Cities, Rs 5 Crore: Rajasthan IAS-IPS Couple Under Probe",
-      "Rajasthan IAS-IPS couple face ACB probe over purchase of 36 villas at 'throwaway prices'"
+      "Hardeep Puri files nomination for Rajya Sabha by-election from Madhya Pradesh",
+      "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
+      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "KL",
@@ -294,7 +291,7 @@
       "Supreme Court registers suo motu contempt case over Kerala Congress' derogatory post against CJI Surya Kant",
       "Consensual sex can’t be termed rape when ties fail, says Supreme Court"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "PY",
@@ -306,18 +303,19 @@
       "ADB approves $139.55 million loan to enhance urban services in Puducherry",
       "IMD update: AP coast braces for a second cyclone, hot on heels of Arnab"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 1,
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 2,
     "headlines": [
-      "Kim Jong Un's cyber army: How North Korea's hackers steal billions for regime"
+      "Pilibhit voter roll row: UP CEO orders statewide ECINET login shutdown",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "GA",
@@ -328,7 +326,7 @@
     "headlines": [
       "Goa cops, tourism dept jointly step up safety measures ahead of Diwali, winter holidays"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "LD",
@@ -339,18 +337,7 @@
     "headlines": [
       "New Year travel trends: Indians opt for cruises, Lakshadweep and spiritual holidays"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
-  },
-  {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 1,
-    "headlines": [
-      "4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen"
-    ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "ML",
@@ -361,7 +348,18 @@
     "headlines": [
       "36 Bangladeshi nationals enter Assam illegally from Meghalaya, detained at Dhubri ferry ghat: Police"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
+  },
+  {
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
+    "news_count": 1,
+    "headlines": [
+      "4 More Arrests In India-Myanmar Drug Racket Probe, 991 Bank Accounts Frozen"
+    ],
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "SK",
@@ -372,18 +370,7 @@
     "headlines": [
       "SIBLAC urges Sikkim government to expedite Karmapa's return to Rumtek"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 1,
-    "headlines": [
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   },
   {
     "Code": "JK",
@@ -394,6 +381,6 @@
     "headlines": [
       "Jammu and Kashmir CM Omar Abdullah marries Nidhi Razdan"
     ],
-    "last_updated": "2026-11-01 12:27:31 AM"
+    "last_updated": "2026-11-01 03:41:19 AM"
   }
 ]
