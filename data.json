@@ -4,22 +4,24 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 45,
+    "news_count": 49,
     "headlines": [
-      "Delhi's anti-pollution curbs: Monster jam at Sirhaul border; commuters stuck for hrs",
       "Pippa Middleton ordered to demolish car park at £15.5m estate",
-      "'Please listen now': Yousuf's blunt advice to Babar Azam amid batting slump",
-      "Traffic, Chaos At Delhi Borders As Anti-Pollution Curbs Kick In",
-      "INDIA Bloc Rally, BJP Protest March LIVE Updates: \"2024 Election Was Illegal,\" Claims Rahul Gandhi At INDIA Bloc Rally",
+      "Pro-Khalistan graffiti targeting Diljit Dosanjh found at Delhi Metro stations, 3 held",
+      "'Rahul trying to sideline Priyanka': BJP's big attack after INDIA bloc's Delhi rally",
+      "Delhi's anti-pollution curbs: Monster jam at Sirhaul border; commuters stuck for hrs",
+      "Woman's Decomposed Body Found Inside Locked Apartment In South Delhi",
+      "\"Be Quiet, Or I Give An Hour-Long Speech\": M Kharge's Warning At Delhi Rally",
       "\"Gyanesh Kumar Will Go To Jail\": Rahul Gandhi Calls 2024 Polls \"Illegal\" At Delhi Rally",
-      "Rahul Gandhi's 'Protest, Then Shop' Appeal Hits 'Closed' Wall At Connaught Place On Delhi Rally Day",
-      "UPI Transfer Of Rs 5,000 Helped Delhi Police Rescue Kidnapped Teen In 3 Hours",
-      "\"Can Urgent Matters Be Identified More Effectively?\" Chief Justice Asks Courts",
-      "Delhi Man Arrested 28 Years After Killing Neighbour Over 'Affair' With Wife",
-      "'Massive turnout at Ramlila Maidan,' says Congress; Rahul reiterates, 'Gyanesh will go to jail' | LIVE",
+      "Chandrababu Naidu Cancels Delhi Visit As Andhra Braces For Another Cyclone",
+      "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+      "Traffic restrictions in place across central Hyderabad on November 2; BJP padayatra from BJR Statue to MJ Market",
       "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
-      "Polling largely peaceful across eight  civic bodies in North Andhra",
-      "Phone linked to Siddaramaiah sting video taken to Kumaraswamy’s Delhi residence: Police",
+      "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s passport",
+      "'Massive turnout at Ramlila Maidan,' says Congress; Rahul reiterates, 'Gyanesh will go to jail' | HIGHLIGHTS",
+      "West Bengal government notifies jobs for kin of those killed in political violence",
+      "West Bengal CM promises CAA certificates to 2.5 lakh Matuas by end of 2026",
+      "Phone linked to Siddaramaiah ‘sting’ video taken to Kumaraswamy’s Delhi residence: Police",
       "As INDIA bloc rallies, BJP takes out march against anti-Sikh riots in Delhi",
       "Death toll in Cyclone Arnab now 5 with recovery of body in landslide-hit south Odisha village",
       "Chhattisgarh areas, once part of red corridor, now centres of peace: PM Modi",
@@ -32,14 +34,16 @@
       "Pre-Diwali rush, INDIA bloc’s rally preparations trigger traffic chaos in Delhi",
       "Delhi to Kanpur in 1 hour 45 minutes: PM Modi clears north corridor of bullet train project",
       "UP's first Vande Bharat Sleeper train between Varanasi and Delhi flagged off: Timings, stations",
+      "US midterms: Republican victory could hurt India on H-1B visas, tariffs",
+      "West Bengal GST revenue rises 17% to ₹6,055 crore in October",
       "Central Trade Unions demand Parliamentary scrutiny of IDBI Bank disinvestment process",
       "INDIA bloc leaders intensify protest against ‘vote chori’; crowd swells in Delhi",
       "IMD update: Cyclone Murasu forms, to intensify as severe cyclone",
       "Delhi records lowest October average AQI in eight years at 166",
-      "India's record crude imports signal strong refinery runs, Russian oil buying to remain flexible",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "'Please listen now': Yousuf's blunt advice to Babar Azam amid batting slump",
       "Nani’s ‘Bloody Romeo’ shooting videos from Delhi go viral",
       "In 2021, Kanye West bought his own Tadao Ando home, stripped it bare for a bunker, and now it's still under construction",
       "Diljit Dosanjh addresses Satluj controversy at Delhi concert; says “Don't teach Punjabis how to fight”",
@@ -52,31 +56,7 @@
       "Invasive Burmese pythons and Florida’s native snakes show different parasite infection rates",
       "Scientists capture 952 glowing electrical discharges on tree leaves during storms"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 14,
-    "headlines": [
-      "Can children’s social media access be restricted? What the law says",
-      "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
-      "Sporadic clashes, rigging allegations mark urban local body polls in Kurnool, Nandyal and Anantapur districts",
-      "Polling ends peacefully across Guntur, Bapatla, Palnadu districts",
-      "Tirupati municipal elections see low voter turnout",
-      "Andhra Pradesh municipal elections: Polling ends, Jagan demands repoll in Pulivendula | LIVE",
-      "Andhra Pradesh reports 41 poll-related incidents during ULB elections, says DGP Harish Kumar Gupta",
-      "Municipal elections conclude peacefully across Chittoor, Annamayya and Sri Sathya Sai districts",
-      "Depression over Bay of Bengal intensified, says IMD; cyclone ‘Murasu’ may hit Andhra on Nov 3",
-      "Another cyclonic storm brewing over Bay of Bengal, likely to hit Andhra Pradesh by November 3",
-      "Woman stabbed to death by stalker in Andhra Pradesh",
-      "Andhra Pradesh municipal polls largely peaceful: State Election Commission",
-      "IMD update: Cyclone Murasu forms, to intensify as severe cyclone",
-      "Rainbow Children's Medicare Q2 results: Profit rises to ₹84 cr"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "MH",
@@ -85,7 +65,7 @@
     "State": "Maharashtra",
     "news_count": 9,
     "headlines": [
-      "Karnataka to oppose Krishna-Bhima river diversion project by Maharashtra",
+      "Bengaluru-Mumbai Vande Bharat Sleeper Express flagged off by Railway Minister",
       "Maharashtra CM's ‘Samvidhan theft’ charge at Rahul Gandhi amid Oppn's anti-CEC stir",
       "BMW driver accused of trying to run over traffic cop in Mumbai gets bail",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
@@ -95,25 +75,7 @@
       "Salim Merchant buys commercial property in Mumbai for Rs 12.85 crores: Report",
       "Shah Rukh Khan and Kareena Kapoor Khan to recreate 'Chammak Challo'-style energy for King song: Report"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 8,
-    "headlines": [
-      "Can children’s social media access be restricted? What the law says",
-      "Avarekai cultivation in Kolar district drops by 70% amid rainfall deficit",
-      "Karnataka to oppose Krishna-Bhima river diversion project by Maharashtra",
-      "Rajyotsava celebrated in Raichur",
-      "Rajyotsava celebrated in Dharwad",
-      "Three from Belagavi get Rajyotsava awards",
-      "Karnataka thinking of officially recognising Kannada flag: Chief Minister D.K. Shivakumar",
-      "Phone linked to Siddaramaiah sting video taken to Kumaraswamy’s Delhi residence: Police"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "GJ",
@@ -130,7 +92,7 @@
       "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
       "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "TN",
@@ -139,45 +101,107 @@
     "State": "Tamil Nadu",
     "news_count": 7,
     "headlines": [
-      "Police expand search for man who escaped from custody in Coimbatore",
+      "Aadhav Arjuna calls for a separate flag for Tamil Nadu",
       "Storm ‘Murasu’ to bring very heavy rain over north Tamil Nadu",
-      "Tasmac outlet near Vaniyambadi closed after prolonged struggle",
+      "Gem Veeramani case: Greater Chennai Police seek cancellation of Prakash Kanniah’s passport",
       "Digi Yatra trials for international flyers begin at 7 airports; rollout set for 2027",
       "Engineer put under temporary suspension over power outage during Vice President Radhakrishnan's Madurai temple visit",
       "Heavy rain alert in Andhra, Tamil Nadu till November 3 as another cyclone brews",
       "Customs seize ganja worth  ₹1.71 crore at Chennai airport; woman arrested"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Can children’s social media access be restricted? What the law says",
+      "‘Cyclone Murasu’: Palnadu District Collector declares November 2 holiday for schools, colleges over",
+      "Andhra Pradesh civic polls largely peaceful; Jagan demands repoll in Pulivendula after clashes",
+      "Depression over Bay of Bengal intensified, says IMD; cyclone ‘Murasu’ may hit Andhra on Nov 3",
+      "Cyclone Murasu: AP CM Naidu seeks support from Tamil Nadu, Karnataka",
+      "Andhra Pradesh municipal polls largely peaceful: State Election Commission",
+      "IMD update: Cyclone Murasu forms, to intensify as severe cyclone"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 6,
+    "headlines": [
+      "Can children’s social media access be restricted? What the law says",
+      "Karnataka turns to U.K. roadshows to revive declining NRI tourist footfall",
+      "Avarekai cultivation in Kolar district drops by 70% amid rainfall deficit",
+      "A.P. seeks assistance from Tamil Nadu, Karnataka for cyclone power restoration",
+      "Phone linked to Siddaramaiah ‘sting’ video taken to Kumaraswamy’s Delhi residence: Police",
+      "Cyclone Murasu: AP CM Naidu seeks support from Tamil Nadu, Karnataka"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 6,
+    "headlines": [
+      "5 Killed In Manipur: Protests In Kangpokpi As 2 Bodies Found,  3 Shot In Noney",
+      "Tensions flare in Manipur's Kangpokpi after two missing Kuki men found dead, 3 injured in clashes",
+      "Manipur security forces recover bodies of two abducted Kuki men after five days",
+      "Unpacking the brawl that sparked the Naga-Kuki conflict in Manipur",
+      "3 Kukis shot dead in fresh exchange of gunfire in Manipur",
+      "Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
     "news_count": 5,
     "headlines": [
-      "Kaniyambetta panchayat in Wayanad unveils tourism plan; Kallanchira check dam to be developed as major tourist attraction",
-      "Jayarajan accuses UDF government of using KIIFB probe to stall development",
-      "Rotary Club organises car rally against underage driving in Thrissur",
-      "Favouritism alleged in Kerala PSC’s Dy.SP rank list",
-      "Supreme Court registers contempt plea over Kerala Congress' post against CJI Surya Kant"
+      "Cyclone Murasu LIVE update: Orange alert in six Telangana districts, yellow alert in five; holiday announced for schools, colleges in T.N., A.P. districts",
+      "El Nino: Telangana employees seek five-day work week",
+      "Traffic restrictions in place across central Hyderabad on November 2; BJP padayatra from BJR Statue to MJ Market",
+      "Nitin Nabin to participate in  BJP’s ‘Maha Padayatra’ in Karimnagar on November 5",
+      "Kendriya Grihmantri Dakshata Padak-2026 for police inspector of Karimnagar Police Commissionerate"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 5,
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 4,
+    "headlines": [
+      "RJD and JSP call for disqualification of independent MLCs who ‘joined’ BJP",
+      "2 Independents who won Bihar MLC polls join BJP, one had rebelled from party before",
+      "'Only dignified formal attire’: Bihar orders strict dress code for teachers, ban on DJ at school events",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 4,
     "headlines": [
       "Rahul's Ramlila 'jalsa' to 'rub salt in wounds' of 1984 Sikh riot victims: Amit Shah",
-      "37.43 Lakh Women Received Rs 1,291 Crore As 'Sanman Rashi': Bhagwant Mann",
-      "Chandigarh will be the first Indian city to become drug-free: Amit Shah",
-      "Ex-Army employee arrested in Bengal on charges of working for Pakistan's ISI",
-      "Honey mourns nephew's death in Jalandhar accident"
+      "‘She is upstairs’: Panchkula school boy who attacked 6-year-old led her father to bloodied classroom",
+      "Panchkula school assault case: Two suspended, child rights panel seeks report",
+      "Lodha Developers to invest ₹1,200 cr to build prime office complex on Gurugram Golf Course Road"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "MP",
@@ -191,110 +215,85 @@
       "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
       "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 4,
-    "headlines": [
-      "2 Independents who won Bihar MLC polls join BJP, one had rebelled from party before",
-      "'Only dignified formal attire’: Bihar orders strict dress code for teachers, ban on DJ at school events",
-      "Rare 'intensive' revision in Bihar four months before polls",
-      "Diljit Dosanjh EXPLAINS why his Bihar concert did NOT happen"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 4,
-    "headlines": [
-      "Manipur security forces recover bodies of two abducted Kuki men after five days",
-      "Unpacking the brawl that sparked the Naga-Kuki conflict in Manipur",
-      "3 Kukis shot dead in fresh exchange of gunfire in Manipur",
-      "Manipur CM calls for strengthening unity, says community-centric ideas cannot bring peace"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 3,
-    "headlines": [
-      "Rahul's Ramlila 'jalsa' to 'rub salt in wounds' of 1984 Sikh riot victims: Amit Shah",
-      "Chandigarh will be the first Indian city to become drug-free: Amit Shah",
-      "Lodha Developers to invest ₹1,200 cr to build prime office complex on Gurugram Golf Course Road"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 3,
-    "headlines": [
-      "Oocyte extraction racket: Women paid ₹20,000 as operators made around ₹3 lakh per cycle",
-      "Indian Army to hold Agniveer recruitment rally in Hyderabad from November 13 to 24",
-      "Cyclone Murasu LIVE: Andhra braces for 120 kmph winds, 2-metre storm surge; Telangana issues orange alert"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "OD",
     "Lat": 20.9517,
     "Long": 85.0985,
     "State": "Odisha",
-    "news_count": 3,
+    "news_count": 4,
     "headlines": [
+      "Odisha short of equipment, may use explosives to rescue landslide victims",
       "Senior IPS officer Susanta Kumar Nath removed as Odisha DG prisons after woman jailor alleges sexual harassment",
       "Cyclone 'Murasu' forms over Bay of Bengal; southern Odisha on high alert",
       "Death toll in Cyclone Arnab now 5 with recovery of body in landslide-hit south Odisha village"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
-    "Code": "CH",
-    "Lat": 30.7333,
-    "Long": 76.7794,
-    "State": "Chandigarh",
-    "news_count": 2,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 4,
     "headlines": [
-      "Rahul's Ramlila 'jalsa' to 'rub salt in wounds' of 1984 Sikh riot victims: Amit Shah",
-      "Chandigarh will be the first Indian city to become drug-free: Amit Shah"
+      "West Bengal government notifies jobs for kin of those killed in political violence",
+      "West Bengal CM promises CAA certificates to 2.5 lakh Matuas by end of 2026",
+      "Will reopen Chhoto Angaria, Nandigram cases: West Bengal CM",
+      "West Bengal GST revenue rises 17% to ₹6,055 crore in October"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "UT",
     "Lat": 30.0668,
     "Long": 79.0193,
     "State": "Uttarakhand",
-    "news_count": 2,
+    "news_count": 3,
     "headlines": [
+      "Prashant Chaudhary wins Rohini Nayyar Prize",
       "'2 pilots mandatory': DGCA tightens Char Dham helicopter norms after Uttarakhand crash; operators threaten shutdown",
       "Uttarakhand helicopter crash: Mortal remains of all six victims recovered, sent to Rishikesh AIIMS"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "Kaniyambetta panchayat in Wayanad unveils tourism plan; Kallanchira check dam to be developed as major tourist attraction",
+      "Jayarajan accuses UDF government of using KIIFB probe to stall development",
+      "Supreme Court registers contempt plea over Kerala Congress' post against CJI Surya Kant"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
     "news_count": 2,
     "headlines": [
-      "Varanasi-Delhi in 3.5 hours soon, PM Modi approved bullet train corridor: Railway minister Vaishnaw",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+      "Gautam Buddha Relics Displayed In Arunachal For First Time In 13 Years",
+      "Siang project stir: SAAYA calls for shutdown in 3 districts to protest arrests of agitators"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 2,
+    "headlines": [
+      "15 policemen suspended after rape of woman inside Jharkhand police station",
+      "3 Cops Arrested After Woman Raped Inside Jharkhand Police Station"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "CT",
@@ -306,40 +305,54 @@
       "Chhattisgarh areas, once part of red corridor, now centres of peace: PM Modi",
       "As Maoist shadow fades, Chhattisgarh opens Indravati tiger reserve to tourists"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
-    "headlines": [
-      "Jharkhand: 16-year-old goes to meet boyfriend, 'gangraped' by driver, 2 others"
-    ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "AS",
     "Lat": 31.1048,
     "Long": 77.1734,
     "State": "Assam",
-    "news_count": 1,
+    "news_count": 2,
     "headlines": [
+      "750 Families Removed, Mosques Demolished In Assam Eviction Drive",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "Rahul's Ramlila 'jalsa' to 'rub salt in wounds' of 1984 Sikh riot victims: Amit Shah",
+      "Punjab polls: Two MLAs, including former Minister, quit AAP ahead of Assembly polls"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Varanasi-Delhi in 3.5 hours soon, PM Modi approved bullet train corridor: Railway minister Vaishnaw",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-11-02 01:30:10 AM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
     "news_count": 1,
     "headlines": [
-      "Siang project stir: SAAYA calls for shutdown in 3 districts to protest arrests of agitators"
+      "Rahul's Ramlila 'jalsa' to 'rub salt in wounds' of 1984 Sikh riot victims: Amit Shah"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "ML",
@@ -350,7 +363,7 @@
     "headlines": [
       "Meghalaya minister resigns days after 11 of 12 party MLAs join BJP, CM Conrad Sangma's party"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "RJ",
@@ -361,7 +374,7 @@
     "headlines": [
       "Rajasthan IPS officer placed on APO amid villa purchase probe"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "SK",
@@ -372,7 +385,7 @@
     "headlines": [
       "SIBLAC urges Sikkim government to expedite Karmapa's return to Rumtek"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
     "Code": "TR",
@@ -383,17 +396,17 @@
     "headlines": [
       "CBI takes over case of Keralam man in Tripura State Rifles missing since 2012"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   },
   {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 1,
     "headlines": [
-      "Will reopen Chhoto Angaria, Nandigram cases: West Bengal CM"
+      "Ladakh liquor traders slam Sonam Wangchuk's dry UT demand, raise questions over licence to his wine brand"
     ],
-    "last_updated": "2026-11-01 09:08:09 PM"
+    "last_updated": "2026-11-02 01:30:10 AM"
   }
 ]
