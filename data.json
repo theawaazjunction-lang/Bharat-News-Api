@@ -4,297 +4,233 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 40,
+    "news_count": 34,
     "headlines": [
-      "Ghaziabad loco pilot Shrini Srivastava makes mark after Vande Bharat feat",
-      "Heavy rainfall, uprooted trees, power outages: Cyclone Murasu crosses Andhra coast",
-      "Howards Sterns honor late dog Bianca with cat adoption center, 2,000 rescues",
-      "Delhi gasps as AQI hits season’s worst, GRAP-II measures imposed",
-      "Probe Finds Learjet Parts Broke Up Before Florida Jet Crash",
-      "Multiple Explosions Heard On Qeshm Island, Bandar Lengeh In Iran: Report",
-      "North Korea Test Fires Strategic Cruise Missiles: Report",
-      "Clean energy investments helped India soften West Asia crisis impact: PM Modi",
-      "Air quality of Delhi slips to ‘very poor’ for first time this winter, Stage 2 of GRAP invoked",
-      "Three AAP leaders join BJP ahead of Punjab Assembly election",
+      "Mosque inside Krishi Bhawan cannot be retained: Centre to Delhi HC",
+      "'Can't occupy a site for all times': SC on Delhi protests against CEC Gyanesh Kumar",
+      "'Everything is available': SC flags open sale of firecrackers in Delhi despite restrictions",
+      "\"Stop Manufacturing Lies\": AAP vs BJP Over Stubble Burning In Punjab",
+      "Parliament Panel Holds FCRA Consultations Outside Delhi For The First Time",
+      "Ground Report: Long Queues, Traffic At Delhi Borders Amid BS-VI Curbs",
+      "Demonstrations generate ‘protest economy’, Supreme Court tells Delhi traders",
+      "Cyclone Murasu LIVE: Severe cyclonic storm over south coastal Andhra weakens into cyclonic storm, says IMD",
+      "Fire at three-storey house in East Delhi, two admitted to hospital",
+      "Man who escaped from Coimbatore district police’s custody arrested",
+      "Man escapes from police custody before being lodged in Coimbatore Central Prison",
+      "Bengal BJP MLA who opposed extortion hospitalised after assault by party workers",
+      "Air India to shift more West-bound capacity from Delhi to Mumbai amid Pakistan airspace closure",
+      "Delhi Police protest: SOP, courtroom security among 5 demands raised by protesting cops",
+      "Delhi police files FIR against 22 people from INDIA bloc rally who went near Jantar Mantar",
+      "Delhi high court refuses to take suo motu cognisance of suspended ACP’s remarks on lawyers",
+      "‘Sinking ship’: Punjab Congress chief Pargat Singh's dig after three AAP MLAs join BJP",
+      "Delhi bar body calls for criminal action against suspended ACP for remarks against lawyers",
+      "ACP Manasvi Vashishta who led protest outside Delhi Police headquarters suspended",
+      "Delhi AQI remains ‘very poor’ amid thick haze; Bawana, Narela, Punjabi Bagh among 8 areas in ‘severe’ category",
       "Permanent holding area, no platform tickets: Northern Railway prepares for Diwali rush in Delhi",
       "Centre can step in on airfares in rare cases, say new rules",
       "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide",
       "Delhi HC refuses to stay BS-VI curbs on outstation vehicles, hearing on Nov 27",
-      "Supreme Court allows bursting of green firecrackers in Delhi on November 7-8; restores ban thereafter",
-      "Delhi traders' body claims up to  ₹11,000 crore losses due to INDIA bloc's Ramlila Maidan rally",
-      "Delhi cops gather outside police headquarters after ACP transferred over lawyer row",
-      "Big blow to AAP as three MLAs join BJP ahead of 2027 Punjab Assembly elections",
-      "HT Morning Brief Nov 2: Delhi AQI crosses 300 mark; Andhra, Odisha prepare for Cyclone Murasu | Top news",
-      "Outfit holds march in Delhi to counter INDIA bloc's anti-CEC rally",
-      "ED launches money laundering probe against Zee founder Subhash Chandra",
-      "Cyclone Murasu LIVE: Landfall process completes as storm crosses Andhra coast, families moved to relief camps",
-      "‘1984 violence planned’: BJP marches against Congress in Delhi, says party should apologise",
-      "Delhi's anti-pollution drive collects  ₹68.4 lakh in fines on Day 1, sends back 1,539 vehicles",
-      "Sensex today | Stock Market Live: Gift Nifty points to gap-up opening; crude oil, US election in focus",
-      "Indian markets likely to open higher; Gift Nifty signals 150-point gap-up",
-      "Cyclone Murasu Highlights: Andhra's Prakasam on high alert; vulnerable groups shifted to safety; landfall expected by 4 am near Ongole",
-      "Building immunity to shocks",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "ACT: Dilpreet scores brace as India thrash Korea 8-0 to finish league stage unbeaten",
-      "No Lakshya Sen, PV Sindhu at Korea Open; Prannoy, Tanvi lead India's challenge",
+      "Football takes a hit as Asian Cup postponed amid Middle East tensions",
+      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
       "Diljit Dosanjh addresses Satluj controversy at Delhi concert; says “Don't teach Punjabis how to fight”",
       "HUGEL to bring 'Make The Girls Dance' to India for first time, New Delhi to host exclusive edition; deets inside!",
       "EXCLUSIVE: Ramayana achieves a RARE feat; CBFC passes Ranbir Kapoor-starrer with ‘U’ certificate and not a SINGLE cut",
       "EXCLUSIVE: CBFC mutes replaces ‘UP’ with ‘village’ in Nakhrewaalii; 'Must be some East Delhi b***h' replaced with 'Must be some cheap little witch'",
-      "Sudhir Mishra SLAMS IndiGo after luggage containing his medicines is left behind in Delhi: “Extremely disappointing and frustrating”",
-      "Record Subsurface Warming In Monterey Bay: MBARI logs 18.18°C at 60m; tropical species move north",
-      "US river straightened 110 years ago to drain land, now set for restoration to reduce floods"
+      "Record Subsurface Warming In Monterey Bay: MBARI logs 18.18°C at 60m; tropical species move north"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 17,
-    "headlines": [
-      "Jobless Maharashtra couple rides 16,428 km across India in 80 days",
-      "Navy rescues 20 crew members of fishing vessel from pirates over 3,000 km from Mumbai",
-      "Maharashtra sets up drought mitigation panel, approves ₹291.91 crore relief for flood-hit farmers",
-      "Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation",
-      "'Don't need Dia Mirza to teach us how to celebrate': Mumbai mayor on BMC's pollution-free Diwali video takedown",
-      "Thane, Hingoli, Pune and Beed courts receive bomb threat emails; nothing suspicious found",
-      "Pune ACB books retd Maharashtra agriculture official, wife in disproportionate assets case",
-      "Signal tampered, train halted: Gang robs women passengers of gold on train in Maharashtra",
-      "India’s sugar production up at a record high of 8.5 lakh tonnes in October",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Tiger Shroff firing case: Mumbai Crime Branch arrests 22-year-old woman from Karnal",
-      "Farah Khan gives first glimpse of her seven-bedroom Mumbai home with a private pool",
-      "BMC removes Dia Mirza’s anti-cracker Diwali video after BJP's objection",
-      "Ajay Devgn faces new legal challenge over Vimal Elaichi notice as Maharashtra FDA asserts proceedings will continue",
-      "Amitabh Bachchan greets fans at Jalsa behind bulletproof glass amid security threats; Abhishek Bachchan stays close by during Sunday tradition",
-      "Naagzilla producers take legal action over alleged Rs. 3.92 crores misappropriation; Mumbai court rejects anticipatory bail pleas of 3 production executives",
-      "Abundantia Entertainment, invideo begin production on AI-assisted film Beta Builder, starring Mayur More and Ashlesha Thakur"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 16,
-    "headlines": [
-      "Heavy rainfall, uprooted trees, power outages: Cyclone Murasu crosses Andhra coast",
-      "Massive Fire At Andhra Pradesh Oil Refinery After Explosion, No Casualties",
-      "Cyclone Murasu brings deluge to parched Prakasam district",
-      "No power disruptions reported as Cyclone Murasu makes landfall near Kothapatnam in Prakasam dist.",
-      "Cyclone Murasu highlights: CM Naidu holds teleconference with District Collectors as landfall process continues",
-      "Palnadu on high alert as Cyclone Murasu to bring heavy rain",
-      "Andhra Pradesh election result LIVE: Counting of votes for municipal polls begins",
-      "Severe cyclonic storm Murusu crosses Andhra coast, triggers heavy rainfall",
-      "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
-      "Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert",
-      "7 Odisha districts on watch as cyclone Murasu nears Andhra coast; schools shut in some areas",
-      "Cyclone Murasu LIVE: Landfall process completes as storm crosses Andhra coast, families moved to relief camps",
-      "Tiger Triumph 2026: US and Indian forces begin joint military exercise in Visakhapatnam",
-      "Cyclone Murasu begins landfall near Ongole in Andhra Pradesh, winds reach 120 kmph",
-      "HPCL says fire at Visakhapatnam refinery controlled, no damage to units",
-      "Cyclone Murasu Highlights: Andhra's Prakasam on high alert; vulnerable groups shifted to safety; landfall expected by 4 am near Ongole"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 9,
+    "news_count": 15,
     "headlines": [
-      "Tamil Nadu can lead in expenditure reform",
-      "Over 2,100 potholes yet to be repaired in Chennai",
-      "Man escaped from Coimbatore District Police custody arrested",
+      "I was offered ₹5 crore to make someone Iyal Isai Nataka Mandram president: Tamil Nadu Minister Rajmohan",
+      "BJP questions Minister Rajmohan’s claim of bribery for Tamil Nadu Iyal Isai Nataka Mandram chairman post",
+      "What is ‘Guidance’, Tamil Nadu’s nodal agency for investments? | Explained",
+      "Tasmac workers shut shops in Namakkal, Salem",
+      "Three including drivers injured after omnibus hits lorry on Chennai-Bengaluru Highway in Vellore",
+      "Cyclone Murasu: floodwater recedes, but damaged roads remain a concern in Chennai",
+      "Queues and chaos at many Tasmac outlets amid ₹10 price hike, shop closure rumours in Tamil Nadu",
+      "Man who escaped from Coimbatore district police’s custody arrested",
+      "Man escapes from police custody before being lodged in Coimbatore Central Prison",
+      "Rain alert in Nilgiris as Cyclone Murasu crosses coast; 11 Chennai flights cancelled",
       "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
       "Probe ordered into assault claim by 17 Tamil Nadu recaptured inmates",
-      "7 empty train coaches roll away without engine, derail after travelling 6 km in Tamil Nadu",
-      "Cyclone Murasu: Heavy rainfall in northern parts of TN; at least 11 flights cancelled",
-      "Tamil Nadu announces Deepavali bonus for 5,190 sugar mill workers",
-      "Cyclone Murasu Highlights: Andhra's Prakasam on high alert; vulnerable groups shifted to safety; landfall expected by 4 am near Ongole"
+      "AstraZeneca India appoints new MD and Chennai centre head",
+      "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel",
+      "Nayanthara visits Chennai temple before 'Mookuthi Amman 2' release"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 6,
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 15,
     "headlines": [
-      "North Korea Test Fires Strategic Cruise Missiles: Report",
-      "Mahadev scam accused’s extradition will expose who took protection money: Chhattisgarh CM",
-      "Sourabh Chandrakar's rise to infamy: A shop worker to organiser of illegal betting app",
-      "ACT: Dilpreet scores brace as India thrash Korea 8-0 to finish league stage unbeaten",
-      "No Lakshya Sen, PV Sindhu at Korea Open; Prannoy, Tanvi lead India's challenge",
-      "Scientists have developed a new technology that could make electric car batteries smaller, lighter and longer-lasting, potentially letting drivers travel farther on a single charge without carrying a heavier battery"
+      "'Very small issue': Fadnavis says Dia Mirza video row not at his level",
+      "Dia Mirza Diwali appeal row: Deeply pained, says HC; asks BMC to re-upload video",
+      "Bombay HC asks BMC to re-upload Dia Mirza’s firecracker appeal, says ‘deeply pained’ by controversy",
+      "Maharashtra FDA confiscates Patanjali stock, suspends licences",
+      "Air India to shift more West-bound capacity from Delhi to Mumbai amid Pakistan airspace closure",
+      "Modi assures farmers in drought-hit Maharashtra of all possible assistance",
+      "Indian Navy rescues 20 crew members from hijacked Iranian vessel after 48-hour operation",
+      "Tata Projects bags major contract for global automaker's Maharashtra plant",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Tusshar Kapoor reports Rs 5cr threat call",
+      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
+      "BMC removes Dia Mirza’s anti-cracker Diwali video after BJP's objection",
+      "Ajay Devgn faces new legal challenge over Vimal Elaichi notice as Maharashtra FDA asserts proceedings will continue",
+      "Amitabh Bachchan greets fans at Jalsa behind bulletproof glass amid security threats; Abhishek Bachchan stays close by during Sunday tradition",
+      "Naagzilla producers take legal action over alleged Rs. 3.92 crores misappropriation; Mumbai court rejects anticipatory bail pleas of 3 production executives"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 12,
+    "headlines": [
+      "Cyclone Murasu Crosses Andhra Pradesh Coast: Crops Damaged, Transport Hit",
+      "Andhra civic polls result LIVE | NDA leads all 13 corporations; cyclone rain slows counting in Prakasam, Bapatla",
+      "Cyclone Murasu train cancellations: Full list of affected trains in Andhra Pradesh",
+      "Cyclone Murasu in pictures | Storm and its impact on Andhra Pradesh",
+      "Cyclone Murasu: Very heavy rainfall continues to pound Bapatla, flash flood alerts issued",
+      "Andhra Pradesh school chainsaw attack: Accused's leg amputated; victim girl recovering",
+      "Andhra Pradesh municipal election result: Counting of votes begins; HC gives green signal in Jagan's Pulivendula",
+      "Andhra Pradesh election results LIVE: TDP-led alliance leads in 10 of 13 municipal corporations, 62 municipalities",
+      "Severe cyclonic storm Murusu crosses Andhra coast, triggers heavy rainfall",
+      "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
+      "Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert",
+      "AstraZeneca India appoints new MD and Chennai centre head"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 6,
+    "news_count": 8,
     "headlines": [
-      "Woman Killed After Speeding Fortuner Rams Family On Footpath In Ahmedabad",
-      "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered",
+      "‘6 beer bottles, late-night race’: Speeding Fortuner kills mother, son selling sofa covers",
+      "Gujarat Anti-Terrorist Squad Arrests International Drug Smuggler Salim Dola",
+      "₹438 crore mephedrone seizure case: Gujarat ATS arrests international drug trafficker Salim Dola",
+      "Drunk driver mows down mother, son on Ahmedabad footpath; held",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "SCOOP: Anirudh exits Shah Rukh Khan’s King due to packed schedule; gifts SRK the theme track as Sachin-Jigar take over",
       "Siddharth Anand drops another cryptic post about Shah Rukh Khan starrer King at midnight; is a birthday surprise coming?"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 5,
-    "headlines": [
-      "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
-      "7 Odisha districts on watch as cyclone Murasu nears Andhra coast; schools shut in some areas",
-      "5 killed in landslides in Odisha amid Cyclone Arnab aftermath; 10 missing: Officials",
-      "Odisha govt evacuates people from vulnerable areas as Murasu intensifies into severe cyclonic storm",
-      "HT Morning Brief Nov 2: Delhi AQI crosses 300 mark; Andhra, Odisha prepare for Cyclone Murasu | Top news"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "M.P. Police inspector mowed down by truck carrying illicit liquor in Dewas; racket supplying liquor to Gujarat uncovered",
-      "PVV Infra takes possession of NHLML wayside amenities sites in Madhya Pradesh",
-      "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series",
-      "Ahan Shetty to begin shooting for Sanki on October 30 in Bhopal"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Services of 29 contract staff at Ernakulam Government Medical College terminated",
-      "VACB seizes files on ₹12-cr Kannur district panchayat contracts",
-      "Kozhikode drinking water projects to be reviewed ahead of summer",
-      "Keralam government transfers 35 officers in major IAS reshuffle"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 4,
+    "news_count": 7,
     "headlines": [
-      "Hyderabad: Booking 30 days ahead is 28.5% cheaper than day before across 7 routes",
-      "BJP rally leaves Hyderabad bus commuters stranded",
-      "Sanction 2,000 Indiramma houses per Assembly constituency within a week: Telangana Housing MD",
-      "Telangana to call for tenders for deploying AI in market yards"
+      "Telangana Woman Stranded In Muscat Returns Home After KTR's Intervention",
+      "Woman, 26, Beheaded By In-Laws Over Land Dispute In Telangana",
+      "Amit Shah-led foot march aimed to expose Congress ‘misinformation’, says BJP Telangana chief",
+      "Telangana SIR: Address change applications at odds with enumeration forms ending up in deletion of voters",
+      "Yellow alert in three Telangana districts on November 4",
+      "Cyclone Murasu Nov. 3 | Red alert lifted from two Telangana districts; issued for Suryapet, Khammam and Bhadradri",
+      "Poultry industry pushes for ₹110 per kg live chicken price"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 3,
-    "headlines": [
-      "Bihar CM Samrat Choudhary’s appeal to give up free electricity triggers row",
-      "Prashant Kishor's Jan Suraaj petitions Bihar legislative council chief to disqualify Independent MLCs who 'joined' BJP",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Railway officer found dead in Agra DRM office; family alleges suicide due to 'toxic' work culture",
-      "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 2,
-    "headlines": [
-      "Six arrested in Assam over alleged fraud network linked to Pakistan operatives: Police",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "Hyderabad: Booking 30 days ahead is 28.5% cheaper than day before across 7 routes",
-      "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 2,
-    "headlines": [
-      "Experts call for cross-sector collaboration to implement One Health initiative in Karnataka",
-      "‘ED, IT department may be used against me using KPSC probe as political cover’: Priyank Kharge"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 2,
-    "headlines": [
-      "Lok Sabha Speaker Birla calls dissent essential to democracy",
-      "Tiger Shroff firing case: Mumbai Crime Branch arrests 22-year-old woman from Karnal"
-    ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "PB",
     "Lat": 31.1471,
     "Long": 75.3412,
     "State": "Punjab",
-    "news_count": 2,
+    "news_count": 5,
     "headlines": [
-      "Three AAP leaders join BJP ahead of Punjab Assembly election",
-      "Big blow to AAP as three MLAs join BJP ahead of 2027 Punjab Assembly elections"
+      "Denied boarding amid Dubai floods: Emirates, Yatra ordered to pay Rs 1.88 lakh",
+      "\"Stop Manufacturing Lies\": AAP vs BJP Over Stubble Burning In Punjab",
+      "SC defers Beant Singh assassin Hawara’s plea for Punjab prison transfer based on IB note",
+      "‘Sinking ship’: Punjab Congress chief Pargat Singh's dig after three AAP MLAs join BJP",
+      "With 500 cases in 72 hours, Punjab stubble burning count rises to 1,612"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 5,
+    "headlines": [
+      "AMU wants women on campus, not at the ballot box",
+      "Illegal firearms supply chain under scanner after three murders in Lucknow",
+      "Railway officer found dead in Agra DRM office; family alleges suicide due to 'toxic' work culture",
+      "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 3,
+    "headlines": [
+      "ST seat reservation: Goa to move Supreme Court against High Court order stalling the process",
+      "Runners from Belagavi finish Goa Ironman event",
+      "Goa to move Supreme Court against HC order stalling ST seat reservation process"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Denied boarding amid Dubai floods: Emirates, Yatra ordered to pay Rs 1.88 lakh",
+      "\"Stop Manufacturing Lies\": AAP vs BJP Over Stubble Burning In Punjab",
+      "How a teenager is helping make safer roads for women"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 3,
+    "headlines": [
+      "Dead Monkey Found In Assam Engineering College Water Tank, 54 Students Fall Ill",
+      "Six arrested in Assam over alleged fraud network linked to Pakistan operatives: Police",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Cyclone Murasu Crosses Andhra Pradesh Coast: Crops Damaged, Transport Hit",
+      "Eminent neurosurgeon Ashok Kumar Mahapatra dies at 74; Odisha CM, LoP condole his death",
+      "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "UT",
@@ -303,10 +239,113 @@
     "State": "Uttarakhand",
     "news_count": 2,
     "headlines": [
-      "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide",
-      "Kharge pledges to give Uttarakhand accountable govt as he chairs poll strategy meeting"
+      "India batter smashes fastest fifty in T20s, breaks previous record held by Pakistan",
+      "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "J&amp;K: Setback for Omar Abdullah as Aga Ruhullah quits NC, resigns as Srinagar MP",
+      "National Conference MP Aga Ruhullah resigns from Srinagar Lok Sabha seat"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 2,
+    "headlines": [
+      "Curative religious rituals for untoward elephant incident during Shivamogga Dasara procession begins",
+      "Runners from Belagavi finish Goa Ironman event"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "India needs indigenous technologies to ensure energy security: Union Minister Reddy",
+      "Scientists have developed a new technology that could make electric car batteries smaller, lighter and longer-lasting, potentially letting drivers travel farther on a single charge without carrying a heavier battery"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 2,
+    "headlines": [
+      "Kerala PSC under the scanner: How allegations of examination irregularities have triggered multiple Crime Branch probes",
+      "Thiruvananthapuram airport records highest-ever domestic cargo volume in October"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "‘Disagreement is your right, not talking about dam construction now’: CM Pema Khandu amid protests against Siang project"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 1,
+    "headlines": [
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "CH",
+    "Lat": 30.7333,
+    "Long": 76.7794,
+    "State": "Chandigarh",
+    "news_count": 1,
+    "headlines": [
+      "Denied boarding amid Dubai floods: Emirates, Yatra ordered to pay Rs 1.88 lakh"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "Parliament Panel Holds FCRA Consultations Outside Delhi For The First Time"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "MN",
@@ -317,7 +356,18 @@
     "headlines": [
       "Manipur shutdown extended in Kangpokpi after bodies of 2 missing Kuki individuals found"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "Today’s Gold Rate in India November 3: Gold prices up in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
     "Code": "TR",
@@ -326,19 +376,30 @@
     "State": "Tripura",
     "news_count": 1,
     "headlines": [
-      "Smugglers Attack 3 BSF Jawans In Tripura, Chief Minister Vows Strict Action"
+      "9, Including 3 women, Arrested For Attacking BSF Jawans In Tripura"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
     "news_count": 1,
     "headlines": [
-      "Village guard, wife die of bullet wounds in Jammu’s Reasi"
+      "Ladakh admin directs Sonam Wangchuk-founded school to halt activities pending High Court verdict"
     ],
-    "last_updated": "2026-11-03 08:43:57 AM"
+    "last_updated": "2026-11-03 05:00:30 PM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 1,
+    "headlines": [
+      "Uttarkashi avalanche: Rescue teams recover tents, bags of 7 missing trekkers, guide"
+    ],
+    "last_updated": "2026-11-03 05:00:30 PM"
   }
 ]
