@@ -4,14 +4,18 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 35,
+    "news_count": 41,
     "headlines": [
       "Ranji: Ayush Doseja admits second-season blues after hitting season's first fifty",
-      "Middle East conflict hits Saudi football: SPL postpones matches after Asian Cup delay",
+      "North Korea Warns Of Stronger Response To US \"Hostility\"",
+      "Jet Parts Found As Far As 3.8 Miles From Crash Site In South Florida: Probe",
+      "Amit Shah compares INDIA bloc’s mock Parliament to Maoists’ Jantana Sarkar",
+      "BJP leaders criticise Mamata-Congress bonhomie",
+      "Mobile phone, power banks seized from Kannur Central Jail",
+      "Bengaluru: South corporation shuts 63 commercial establishments in residential layouts",
       "ACP Manasvi Vashishta suspended day after protest outside Delhi police headquarters; lawyer moves HC over ‘police remarks’",
       "Weeks before expiry of Ganga Water Treaty, MEA says ‘structured mechanism’ remains in place for pact",
       "West Bengal's first relocated tigress captured on sojourn in Assam, returned to Buxa",
-      "Jantar Mantar is a road, not a site, says Delhi Police chief",
       "Delhi sees massive traffic snarls as festive rush, vehicle breakdowns disrupt peak-hour movement",
       "Danish minister visits India to advance green energy, trade partnership, maritime ties",
       "Chennai man killed in chopper crash was based in Canada, had visited India before ill-fated Nepal trip",
@@ -28,45 +32,23 @@
       "Centre can step in on airfares in rare cases, say new rules",
       "Delhi Police chief says Jantar Mantar a road, not a site",
       "Demonstrations generates ‘protest economy’, SC tells Delhi traders",
+      "Binance says North Korean hackers stole $6.34 billion funds in a technical breach",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
       "Ranji Trophy: Ayush Doseja admits second-season blues after hitting season's first fifty",
+      "Middle East conflict hits Saudi football: SPL postpones matches after Asian Cup delay",
       "'Past players will start to go at them': Ex-England cricketer warns Australia",
-      "Football takes a hit as Asian Cup postponed amid Middle East tensions",
       "'Satluj' director slams new CBFC advisory as cowardness and dictatorship in country",
       "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
       "Diljit Dosanjh addresses Satluj controversy at Delhi concert; says “Don't teach Punjabis how to fight”",
       "HUGEL to bring 'Make The Girls Dance' to India for first time, New Delhi to host exclusive edition; deets inside!",
       "EXCLUSIVE: Ramayana achieves a RARE feat; CBFC passes Ranbir Kapoor-starrer with ‘U’ certificate and not a SINGLE cut",
       "EXCLUSIVE: CBFC mutes replaces ‘UP’ with ‘village’ in Nakhrewaalii; 'Must be some East Delhi b***h' replaced with 'Must be some cheap little witch'",
+      "113-million-year-old fossil reveals new dinosaur species named after Dooly",
       "Record Subsurface Warming In Monterey Bay: MBARI logs 18.18°C at 60m; tropical species move north"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 14,
-    "headlines": [
-      "TDP-led alliance scores big in Vizianagaram civic polls, rebel candidate takes Nellimarla",
-      "Heavy rain delays VMC vote counting by five hours",
-      "Holidays for schools in Eluru district on November 4, 5",
-      "Jana Sena registers landslide victory in Konaseema, Kakinada districts",
-      "NDA leads in urban local body polls in Guntur, Palnadu, Bapatla districts",
-      "NDA leads local bodies elections in Kurnool, Nandyal and Anantapur districts; YSRCP wins Nandikotur",
-      "NDA partners sweep civic elections in Srikakulam and Parvatipuram-Manyam districts",
-      "Andhra Pradesh school chainsaw attack: Accused's leg amputated; victim girl recovering",
-      "Andhra Pradesh municipal election result: Counting of votes begins; HC gives green signal in Jagan's Pulivendula",
-      "Andhra Pradesh election results highlights: TDP-led alliance heads for sweeping victory, YSRCP suffers major setback",
-      "Severe cyclonic storm Murusu crosses Andhra coast, triggers heavy rainfall",
-      "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
-      "Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert",
-      "Aatmanirbharta doesn’t mean isolation: Navy Chief stresses collaboration from a position of strength"
-    ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "MH",
@@ -75,8 +57,8 @@
     "State": "Maharashtra",
     "news_count": 14,
     "headlines": [
+      "Supreme Court Pauses Mumbai Civic Body Chief's Salary Over Encroachments",
       "AIDWA-led women protesters in Mumbai seek disbursal of pending assistance",
-      "Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines",
       "Danish minister visits India to advance green energy, trade partnership, maritime ties",
       "Air India to shift more West-bound capacity from Delhi to Mumbai amid Pakistan airspace closure",
       "Modi assures farmers in drought-hit Maharashtra of all possible assistance",
@@ -90,19 +72,39 @@
       "Amitabh Bachchan greets fans at Jalsa behind bulletproof glass amid security threats; Abhishek Bachchan stays close by during Sunday tradition",
       "Naagzilla producers take legal action over alleged Rs. 3.92 crores misappropriation; Mumbai court rejects anticipatory bail pleas of 3 production executives"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 12,
+    "headlines": [
+      "Andhra Pradesh makes 360-hour semester internships mandatory for UG students",
+      "TDP-led alliance scores big in Vizianagaram civic polls, rebel candidate takes Nellimarla",
+      "Heavy rain delays VMC vote counting by five hours",
+      "Holidays for schools in Eluru district on November 4, 5",
+      "Jana Sena registers landslide victory in Konaseema, Kakinada districts",
+      "Andhra Pradesh school chainsaw attack: Accused's leg amputated; victim girl recovering",
+      "Andhra Pradesh municipal election result: Counting of votes begins; HC gives green signal in Jagan's Pulivendula",
+      "Andhra Pradesh election results highlights: TDP-led alliance heads for sweeping victory, YSRCP suffers major setback",
+      "Severe cyclonic storm Murusu crosses Andhra coast, triggers heavy rainfall",
+      "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
+      "Cyclone Murasu makes landfall in Andhra Pradesh, triggers heavy rain; thousands evacuated, coastal areas on alert",
+      "Aatmanirbharta doesn’t mean isolation: Navy Chief stresses collaboration from a position of strength"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 11,
+    "news_count": 9,
     "headlines": [
-      "Tamil Nadu Launches Energy Policy To Overcome Power Issues",
-      "Number of polling stations in Tamil Nadu rises to 75,088",
-      "Meeting held to improve air cargo volume from Coimbatore",
-      "Special camps for electoral roll revision to be held in Cuddalore",
+      "Over 50% of startups in Tamil Nadu are led by women, says StartupTN Chairman",
+      "Tamil Nadu government releases three-year BESS policy",
       "Chennai man killed in chopper crash was based in Canada, had visited India before ill-fated Nepal trip",
       "Rain alert in Nilgiris as Cyclone Murasu crosses coast; 11 Chennai flights cancelled",
       "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
@@ -111,15 +113,16 @@
       "Why India's 99th GM had to do it twice: Latest mystery of Indian chess, VS Rathanvel",
       "Tamil Nadu CM Vijay approves 6 AM shows for new releases"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "GJ",
     "Lat": 22.2587,
     "Long": 71.1924,
     "State": "Gujarat",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
+      "When will 14 State-run universities get Vice-Chancellors and Syndicates, Madras High Court asks T.N. government",
       "Gujarat ATS takes custody of drug lord Salim Dola in  ₹438 crore mephedrone seizure case",
       "Vantara brings the world's wildlife community to Jamnagar for EARAZA Annual Conference 2026",
       "₹438 crore mephedrone seizure case: Gujarat ATS arrests international drug trafficker Salim Dola",
@@ -128,55 +131,37 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Ed Sheeran reveals how he came to sing 'Tu Mil Jaaye' in SRK's 'King'"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 7,
+    "news_count": 6,
     "headlines": [
       "Karnataka High Court initiates contempt proceedings over ruckus created by lawyers’ group inside Chief Justice’s court hall",
       "QS Asia Rankings 2027: IISc Bangalore slips 15 places to 79th",
       "BJP’s ‘Save democracy’ campaign begins in Karnataka’s Kolar",
       "Karnataka High Court initiates suo motu PIL on violence against advocates",
       "Activities pick up across political spectrum with announcement of Hiriyur bypoll dates imminent",
-      "Public office not a consolation prize for defeated politicians: Karnataka High Court",
       "Space tech Astrobase to invest ₹500 crore in Karnataka rocket engine facility"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 6,
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
     "headlines": [
-      "Telangana FMGs to resume peaceful protest from November 4 over stipend disparity",
-      "Telangana Chief Minister Revanth Reddy seeks CPI, TJS support for MLC polls",
-      "Licences of 138 medical shops suspended across Telangana over illegal sale of habit-forming drugs",
-      "Congress MLA from Kamareddy district alleges verbal abuse by senior Minister",
-      "Telangana High Court extends stay on single-judge order to relieve Ranganath as HYDRAA Commissioner",
-      "Telangana Electricity Regulatory Commission holds hearing on procurement of 7,800 MW renewable energy"
+      "Mobile phone, power banks seized from Kannur Central Jail",
+      "Kerala Sasthra Sahithya Parishad seeks reconstitution of government’s health task force",
+      "A song or two for the reconstruction of Tagore Centenary Hall in Kozhikode",
+      "Keralam CM Satheesan says social media trends, ‘ratings race’ threaten journalistic credibility"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 5,
-    "headlines": [
-      "Why Rahul Gandhi Chose Sangrur To Launch Congress's Punjab Campaign",
-      "Analysis: As Punjab's Politicians Switch Sides, Where Are Its 'Spartans'?",
-      "SC defers Beant Singh assassin Hawara’s plea for Punjab prison transfer based on IB note",
-      "‘Sinking ship’: Punjab Congress chief Pargat Singh's dig after three AAP MLAs join BJP",
-      "With 500 cases in 72 hours, Punjab stubble burning count rises to 1,612"
-    ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "UP",
@@ -189,59 +174,33 @@
       "Illegal firearms supply chain under scanner after three murders in Lucknow",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
     "news_count": 3,
     "headlines": [
-      "Dead monkey contaminates hostel water tank at Guwahati college; 43 students fall ill",
-      "Assam to seek CBI probe to find flood cause; sack government employee if involved in polygamy: CM Himanta",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+      "Gurugram Orders 50% WFH, Curbs Construction From Tomorrow Amid Pollution",
+      "Haryana STF seizes 25000 cartridges from two cars being smuggled to UP and Bihar, five arrested",
+      "Gurugram bans construction work for 16 days from November 5, caps office attendance at 50% amid rising pollution"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 3,
     "headlines": [
-      "Arunachal Pradesh gets new DGP days after violent protest against Siang dam",
-      "Arunachal gets new DGP as IPS officer Rajesh Kumar takes charge amid Siang dam protests",
-      "‘Disagreement is your right, not talking about dam construction now’: CM Pema Khandu amid protests against Siang project"
+      "SC defers Beant Singh assassin Hawara’s plea for Punjab prison transfer based on IB note",
+      "‘Sinking ship’: Punjab Congress chief Pargat Singh's dig after three AAP MLAs join BJP",
+      "With 500 cases in 72 hours, Punjab stubble burning count rises to 1,612"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 3,
-    "headlines": [
-      "Retired Pilot, Kerala High Court Judge Conquer Gruelling Goa Ironman 70.3",
-      "Keralam CM Satheesan says social media trends, ‘ratings race’ threaten journalistic credibility",
-      "Oachira religious school in Keralam’s Kollam sealed following arrest in minor abuse case"
-    ],
-    "last_updated": "2026-11-04 12:23:26 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 3,
-    "headlines": [
-      "Retired Pilot, Kerala High Court Judge Conquer Gruelling Goa Ironman 70.3",
-      "Tarun Tejpal case: Supreme Court to hear interim bail plea for Deepavali on November 5",
-      "Goa to move Supreme Court against HC order stalling ST seat reservation process"
-    ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "OD",
@@ -254,7 +213,31 @@
       "Andhra Pradesh, Odisha up safety steps in wake of cyclone Murasu",
       "Asia Healthcare Holdings commits ₹100 crore in AINU’s Odisha expansion"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 2,
+    "headlines": [
+      "Arunachal gets new DGP as IPS officer Rajesh Kumar takes charge amid Siang dam protests",
+      "‘Disagreement is your right, not talking about dam construction now’: CM Pema Khandu amid protests against Siang project"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "North Korea Warns Of Stronger Response To US \"Hostility\"",
+      "Binance says North Korean hackers stole $6.34 billion funds in a technical breach"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "BR",
@@ -266,19 +249,43 @@
       "Bihar CM says ‘crime might happen, but not apradh’; Tejashwi takes swipe",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
     "news_count": 2,
     "headlines": [
-      "Haryana STF seizes 25000 cartridges from two cars being smuggled to UP and Bihar, five arrested",
-      "Gurugram bans construction work for 16 days from November 5, caps office attendance at 50% amid rising pollution"
+      "Assam to seek CBI probe to find flood cause; sack government employee if involved in polygamy: CM Himanta",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 2,
+    "headlines": [
+      "Tarun Tejpal case: Supreme Court to hear interim bail plea for Deepavali on November 5",
+      "Goa to move Supreme Court against HC order stalling ST seat reservation process"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ladakh admin asks Sonam Wangchuk's school to halt activities amid pending HC case",
+      "Ladakh administration asks activist Sonam Wangchuk’s wife to stop ‘unauthorised activities’ at their Leh school"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "JK",
@@ -290,7 +297,7 @@
       "Ladakh admin asks Sonam Wangchuk's school to halt activities amid pending HC case",
       "National Conference MP Aga Ruhullah resigns from Srinagar Lok Sabha seat"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "MP",
@@ -301,18 +308,29 @@
     "headlines": [
       "IIFA 2026 Winners: Dhurandhar dominates with Best Film, Best Director, Best Actor; The Ba***ds of Bollywood wins Best Web Series"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
     "news_count": 1,
     "headlines": [
-      "Ladakh admin asks Sonam Wangchuk's school to halt activities amid pending HC case"
+      "Telangana FMGs to resume peaceful protest from November 4 over stipend disparity"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 1,
+    "headlines": [
+      "Judge needn't face strictures for typos in judgement: SC"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
   },
   {
     "Code": "UT",
@@ -323,6 +341,17 @@
     "headlines": [
       "Uttarkashi avalanche: Rescue teams recover 2 bodies of eight missing trekkers"
     ],
-    "last_updated": "2026-11-04 12:23:26 AM"
+    "last_updated": "2026-11-04 05:19:48 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 1,
+    "headlines": [
+      "BJP leaders criticise Mamata-Congress bonhomie"
+    ],
+    "last_updated": "2026-11-04 05:19:48 AM"
   }
 ]
