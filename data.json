@@ -6,17 +6,19 @@
     "State": "Delhi",
     "news_count": 39,
     "headlines": [
-      "After BJP Attack On Drugs, AAP Sends Bikram Majithia Drugs Case To Central Agency",
-      "AAP Leader's Delhi-Punjab Air Quality Video Sparks Fresh Face-Off With BJP",
-      "6 Months Before Delhi Building Collapse, Owner Got A Warning. He Ignored It",
-      "Indian Student Goes Missing In Bangladesh, Body Found In Pond Near College",
+      "Oil prices bounce back: Brent nears $100 after hitting a more than two-month low",
+      "Delhi woman, 24, chased phone snatchers 500m, got them caught",
+      "Kanye West's 6,713-acre Wyoming ranch bought back by family that once owned it",
+      "Youth Cong suspends 300 for no-show at Rahul's Delhi rally",
+      "Air 'Very Poor', Delhi Authority Discourages Event Bookings At Its Open Spaces",
+      "Will do something for Singur, West Bengal CM signals fresh industrial push",
+      "Just one local terrorist active in Kashmir, but terror threat remains: IGP Sujit Kumar",
       "West Bengal govt’s new investment policy promotes job-linked growth, incentives for plant and machinery",
       "Umar, Sharjeel move Supreme Court seeking bail in 2020 Delhi riots conspiracy case",
       "CJP leaders Saurav Das, Ashutosh Ranka appear before Delhi Police in Jantar Mantar trespassing cases",
-      "Polling peaceful in 44 naxal-hit areas along the tri-State borders",
+      "Over 150 locations across Delhi to get quicker fire response ahead of Diwali",
       "Umar Khalid, Sharjeel Imam move Supreme Court for bail in 2020 Delhi riots case",
       "‘Jantar Mantar at Kochi’: CJP announces anti-SIR stir on November 7; Dipke to attend",
-      "Restore names of Goa family deleted during SIR exercise in 10 days: Bombay HC",
       "HT exclusive: Delhi Police informed MCD of illegal construction at Chawri Bazar building months ago, say officials",
       "Two women arrested with 10 kilograms of marijuana from Gaya airport",
       "Jantar Mantar protest case: CJP leaders Saurav Das, Ashutosh Ranka appear before Crime Branch",
@@ -29,14 +31,12 @@
       "66 show-cause notices, 2 closure directions as Delhi govt cracks down on pollution",
       "Inspector transferred again after ACP's suspension following protest outside Delhi police HQ",
       "HC seeks replies on plea to speed up Ranitidine safety review",
-      "Delhi HC declines plea seeking cuts in Sunny Deol film",
-      "Digital traffic simulation model, road safety audit for 2,205km of Delhi roads",
-      "RSS to be expanded into 88 regional units: Dattatreya Hosabale",
       "Paraguay President Santiago Peña resigns amid ueno bank collapse",
       "From militancy to midnight football: South Kashmir’s Anantnag witnesses changing times",
       "Rupee closes at a 2-month high on possibility of de-escalation West Asia war, softening crude, weak dollar",
       "Mumbai airport refuses summer slots for several West Asian airlines",
       "West Bengal’s new industrial policy offers employment-linked incentives for investors, dedicated support for large investment",
+      "South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -46,156 +46,143 @@
       "Diljit Dosanjh addresses Satluj controversy at Delhi concert; says “Don't teach Punjabis how to fight”",
       "113-million-year-old fossil reveals new dinosaur species named after Dooly"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 13,
+    "news_count": 12,
     "headlines": [
-      "What I have learnt is that I should not think so much ahead: Prithvi Shaw",
       "Maharashtra govt approves one-year age relaxation for recruitment exams, panel proposes over 16,000 MPSC Group C vacancies",
       "Festive season crackdown: Maharashtra FDA seizes food stock worth ₹63.45 crore",
       "Maharashtra FDA seizes drugs, cosmetics worth ₹34.51 lakh, cancels 122 licences",
       "Mumbai airport refuses summer slots for several West Asian airlines",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "What I have learnt is that I should not think so much ahead: Prithvi Shaw",
       "Inside Sunita and Govinda’s Mumbai home: Ivory interiors, European-style cornices and more",
-      "Armen Ataian gets bail after over year in custody: Court asks Ukrainian actor to deposit passport",
       "Manoj Bajpayee, Boman Irani and Divya Dutta’s Last Man in Tower to premiere on Hindi Zee 5 on November 6",
       "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
       "BMC removes Dia Mirza’s anti-cracker Diwali video after BJP's objection",
       "Ajay Devgn faces new legal challenge over Vimal Elaichi notice as Maharashtra FDA asserts proceedings will continue",
       "Amitabh Bachchan greets fans at Jalsa behind bulletproof glass amid security threats; Abhishek Bachchan stays close by during Sunday tradition"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 9,
-    "headlines": [
-      "Cabinet approves 30-year lease of four acres in High Grounds to Bangalore Turf Club",
-      "PM assures Karnataka CM of full support in water conservation, management",
-      "Green gram procurement centre opens in Santhemarahalli in Chamarajanagar",
-      "Local body polls: Karnataka govt. finds itself in Catch-22 situation over electoral list",
-      "Karnataka Cabinet approves additional ₹1,118 crore for 134-km road project",
-      "Manufacturing corporate sector’s GVA grows 9.28% in FY25: Govt survey",
-      "Suzlon targets 10 GW business in Karnataka in 5 years; plans two wind parks, blade plant",
-      "Karnataka govt asks regulator to remove tariff ceiling for renewable energy bids",
-      "Karnataka releases ₹17.43 crore in first tranche of drought relief; ₹5,000 aid per eligible Yadgir farmer"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 8,
-    "headlines": [
-      "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
-      "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
-      "Farmers cast their votes till 8 p.m in Kakinada, boats deployed for voters in Konaseema",
-      "Polling peaceful in 44 naxal-hit areas along the tri-State borders",
-      "ZPTC, MPTC elections pass peacefully in Guntur region",
-      "AP chainsaw attack: HC seeks report on police firing at accused",
-      "BCCI announces venue change for India-Sri Lanka series; 1st ODI moved from Delhi",
-      "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 6,
-    "headlines": [
-      "Telangana climate conclave to be special feature of global summit",
-      "Hyderabad startup opens India’s first private space debris recovery facility",
-      "Telangana High Court dismisses Margadarsi’s petition challenging ₹81.12 lakh cross-subsidy charges",
-      "Telangana government to launch family insurance scheme on November 19",
-      "Elaborate arrangements in place for Telangana Global Summit: Chief Secy Jaju",
-      "CSK, SRH complete 4-player trade ahead of IPL 27; Livingstone, Khaleel switch teams"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "4th Person Arrested For Kerala Teen's Murder. Victim Was Not Original Target",
-      "Mannarkkad crowned overall champions in Palakkad district school science fair",
-      "Keralam court rejects plea to cancel bail of judge’s minor son ran over man in Kochi",
-      "'Stab in my chest’: Daughter of Kochi car crash victim on anticipatory bail to judge",
-      "Keralam sanctions probe against Gyanesh Kumar after bribery complaint linked to his state tenure",
-      "Invoke licence revocation power for drunken driving: Kerala HC to MVD"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 9,
     "headlines": [
+      "It's all about the Raman effect: From Transparent Chennai to City of Angels",
+      "50,000 Chickens Dead, Tamil Nadu Farmers Face Diwali Season Disaster",
       "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
       "Tamil Nadu Road Development Company Limited gets new Managing Director",
       "World Trade Center township on the anvil for Chengalpattu",
       "Bengaluru man catches employee with daughter at home, beats him to death",
-      "CSK, SRH complete 4-player trade ahead of IPL 27; Livingstone, Khaleel switch teams"
+      "‘Ordinary bowler’: Ex-cricketer slams CSK's 'confusing' trade, says SRH real winners",
+      "CSK, SRH complete 4-player trade ahead of IPL 27; Livingstone, Khaleel switch teams",
+      "'Jailer 2' BO day 22: Did promotions beyond Tamil Nadu work?"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 4,
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 8,
     "headlines": [
-      "Two more bodies recovered from trekking route in Uttarakhand",
-      "Two more trekkers’ bodies found, Uttarakhand avalanche toll rises to 6",
-      "Uttarakhand cab carrying Gujarat pilgrims falls into Bhagirathi river, 4 killed, 2 missing",
-      "Uttarakhand drug plant continues functioning despite CDSCO recommended shutdown"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 4,
-    "headlines": [
-      "UP teen calls child helpline to stop her marriage to 25-yr-old Saudi Arabia-based man",
-      "India-Born Democrat Saba Haider Wins Illinois House Seat",
+      "Karnataka Woman Jumps Into River In Suicide Attempt, Rescued After Crocodile Bites Her",
+      "Cabinet approves 30-year lease of four acres in High Grounds to Bangalore Turf Club",
+      "PM assures Karnataka CM of full support in water conservation, management",
+      "Green gram procurement centre opens in Santhemarahalli in Chamarajanagar",
       "Manufacturing corporate sector’s GVA grows 9.28% in FY25: Govt survey",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+      "Suzlon targets 10 GW business in Karnataka in 5 years; plans two wind parks, blade plant",
+      "Karnataka govt asks regulator to remove tariff ceiling for renewable energy bids",
+      "Karnataka releases ₹17.43 crore in first tranche of drought relief; ₹5,000 aid per eligible Yadgir farmer"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 7,
+    "headlines": [
+      "Case Filed Against Dhirendra Shastri Over Comments On Lord Krishna",
+      "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+      "Bodies of five fishermen from Tamil Nadu found near Kothapatnam beach in Andhra Pradesh",
+      "Farmers cast their votes till 8 p.m in Kakinada, boats deployed for voters in Konaseema",
+      "SC: Not inclined to transfer Tirupati ghee trial out of AP",
+      "BCCI announces venue change for India-Sri Lanka series; 1st ODI moved from Delhi",
+      "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 4,
+    "news_count": 6,
     "headlines": [
+      "Bihar prohibits teachers, students from making reels; prevents outsiders from visiting schools when classes in session",
+      "Bank accounts to be opened for children studying in government schools in Bihar",
       "Bihar NDA leaders led by CM Samrat Choudhary review the council results",
       "Two women arrested with 10 kilograms of marijuana from Gaya airport",
       "Bihar shifts out Khagaria SP Bhanu Pratap Singh after wife files harassment complaint",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "Gujarat Man Jailed For Life For Killing Girfriend At Bus Station",
+      "Traffic curbs put in place around Anand Vihar ISBT amid festival rush",
+      "Traffic curbs in place between Nov 5-15 around Anand Vihar ISBT amid festival rush",
+      "Uttarakhand cab carrying Gujarat pilgrims falls into Bhagirathi river, 4 killed, 2 missing",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Keralam court rejects plea to cancel bail of judge’s minor son ran over man in Kochi",
+      "'Stab in my chest’: Daughter of Kochi car crash victim on anticipatory bail to judge",
+      "Keralam sanctions probe against Gyanesh Kumar after bribery complaint linked to his state tenure",
+      "Invoke licence revocation power for drunken driving: Kerala HC to MVD"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 4,
+    "headlines": [
+      "Telangana climate conclave to be special feature of global summit",
+      "Hyderabad startup opens India’s first private space debris recovery facility",
+      "‘Ordinary bowler’: Ex-cricketer slams CSK's 'confusing' trade, says SRH real winners",
+      "CSK, SRH complete 4-player trade ahead of IPL 27; Livingstone, Khaleel switch teams"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "HR",
@@ -209,33 +196,33 @@
       "Punjab govt 'misleading' people on issue of stubble burning: Sirsa",
       "Gurugram residents flag open burning of metal filters, scrap materials, seek action"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 3,
     "headlines": [
-      "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
-      "Search for 10 Odisha villagers, missing after 3 landslides post-Cyclone Arnab, halted",
-      "28-year-old man dies after fall from balcony in Gurugram’s Sector 85 society: Police"
+      "‘I faced lot of hate’: RCB star reveals how he was trolled whenever Gill hit a ton",
+      "Will do something for Singur, West Bengal CM signals fresh industrial push",
+      "West Bengal govt’s new investment policy promotes job-linked growth, incentives for plant and machinery"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
     "news_count": 3,
     "headlines": [
+      "Two more trekkers’ bodies found, Uttarakhand avalanche toll rises to 6",
       "Uttarakhand cab carrying Gujarat pilgrims falls into Bhagirathi river, 4 killed, 2 missing",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
+      "Uttarakhand drug plant continues functioning despite CDSCO recommended shutdown"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "PB",
@@ -248,7 +235,33 @@
       "Punjab govt 'misleading' people on issue of stubble burning: Sirsa",
       "Rahul Gandhi’s ‘alcohol’ remark on Bhagwant Mann sharpens AAP-Congress tussle ahead of Punjab polls"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 3,
+    "headlines": [
+      "Residents of disputed villages in Kotia cross Odisha border to vote in Andhra Pradesh polls",
+      "EC announces SSR in 4 states and 2 UTs; draft rolls on Nov 30",
+      "Search for 10 Odisha villagers, missing after 3 landslides post-Cyclone Arnab, halted"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Case Filed Against Dhirendra Shastri Over Comments On Lord Krishna",
+      "Manufacturing corporate sector’s GVA grows 9.28% in FY25: Govt survey",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "GA",
@@ -257,10 +270,46 @@
     "State": "Goa",
     "news_count": 2,
     "headlines": [
-      "Restore names of Goa family deleted during SIR exercise in 10 days: Bombay HC",
+      "Restore names of Goa family deleted during SIR exercise in 10 days: Bombay high court",
       "Cristiano Ronaldo announces retirement from international football"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "CBI seeks Chandrakar’s custody to identify Chhattisgarh officials who received money",
+      "South Korea stocks plunge 8%, circuit breaker triggered as chip shares tumble"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 2,
+    "headlines": [
+      "Seven including three children killed after run over by truck in Khunti",
+      "Jharkhand CM Hemant Soren calls of strengthening the tribal community"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 2,
+    "headlines": [
+      "Just one local terrorist active in Kashmir, but terror threat remains: IGP Sujit Kumar",
+      "From militancy to midnight football: South Kashmir’s Anantnag witnesses changing times"
+    ],
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
     "Code": "AS",
@@ -271,72 +320,28 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
+    "Code": "DH",
+    "Lat": 20.1809,
+    "Long": 73.0169,
+    "State": "Dadra and Nagar Haveli and Daman and Diu",
     "news_count": 1,
     "headlines": [
-      "CBI seeks Chandrakar’s custody to identify Chhattisgarh officials who received money"
+      "EC announces SSR in 4 states and 2 UTs; draft rolls on Nov 30"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   },
   {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
     "news_count": 1,
     "headlines": [
-      "BJP hopeful of blunting Opposition’s Agniveer narrative ahead of key state polls"
+      "Violence mars third phase of Rajasthan panchayat elections"
     ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 1,
-    "headlines": [
-      "Congress hit backs at Amit Shah for his ‘ghuspetiya bachao’ remark on INDIA bloc rally"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
-    "headlines": [
-      "Jharkhand CM Hemant Soren calls of strengthening the tribal community"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 1,
-    "headlines": [
-      "From militancy to midnight football: South Kashmir’s Anantnag witnesses changing times"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 1,
-    "headlines": [
-      "West Bengal govt’s new investment policy promotes job-linked growth, incentives for plant and machinery"
-    ],
-    "last_updated": "2026-11-06 04:06:01 AM"
+    "last_updated": "2026-11-06 08:29:48 AM"
   }
 ]
