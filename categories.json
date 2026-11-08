@@ -1,6 +1,78 @@
 {
   "general": [
     {
+      "title": "‘Hegseth has got to go’: Democrats ramp up impeachment push after midterm wins",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/democrats-turn-up-heat-on-hegseth-vow-impeachment-push-after-midterm-victories/articleshow/135665925.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135665951,imgsize-102650.cms",
+      "publishedAt": "Mon, 09 Nov 2026 03:40:28 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "‘Red Line’ march brings Amsterdam to standstill as Gaza outrage spills onto streets",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/europe/massive-amsterdam-march-challenges-dutch-governments-response-to-israels-war-in-gaza/articleshow/135665602.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135665628,imgsize-139746.cms",
+      "publishedAt": "Mon, 09 Nov 2026 02:19:52 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "The great White mix-up: Did Trump offer White House job to the wrong Dana?",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/us/the-great-white-mix-up-did-trump-offer-white-house-job-to-the-wrong-dana-white/articleshow/135653662.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135653907,imgsize-1022694.cms",
+      "publishedAt": "Sun, 08 Nov 2026 12:55:15 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Egypt train crash: How a collision with a stationary train left 7 dead, 125 injured",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-crash-how-a-collision-with-a-stationary-train-left-7-dead-125-injured/articleshow/135665810.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135665815,imgsize-136796.cms",
+      "publishedAt": "Mon, 09 Nov 2026 02:53:19 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "‘They’re a failing nation’: Trump says fresh Iran strikes ‘highly unlikely’",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/theyre-a-failing-nation-trump-says-fresh-iran-strikes-highly-unlikely-if-tehran-signs-strong-agreement/articleshow/135664914.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135664973,imgsize-75732.cms",
+      "publishedAt": "Mon, 09 Nov 2026 00:45:21 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Microsoft employees call work ‘joyless’ in open letter as 60,000 get buyout offers",
+      "description": "Microsoft employees are circulating an open letter accusing the company of pursuing AI at all costs, saying work there has become \"joyless and demoralizing.\" The letter is gaining attention after Microsoft offered buyouts to 60,000 employees across India, the US, UK and Canada, its largest ever. It ",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135657560,imgsize-85716.cms",
+      "publishedAt": "Sun, 08 Nov 2026 16:46:45 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Nvidia CEO admits affair with Alice Huang; board orders security review",
+      "description": "Nvidia's CEO, Jensen Huang, has made a public admission regarding his extramarital affair with Alice Huang of Megaspeed, acknowledging the ramifications for both his family and colleagues. An email from him outlined these concerns. Concurrently, Nvidia's board initiated an independent investigation ",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-admits-affair-with-singapore-based-companys-ceo-read-his-email-to-nvidias-employees/articleshow/135665758.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135665770,imgsize-78582.cms",
+      "publishedAt": "Mon, 09 Nov 2026 02:44:48 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Meet Vedant Thakker, 16, who built free wildfire alert tool for Californians",
+      "description": "Vedant Thakker created the Red Flag Check application to evaluate wildfire risks utilizing data from the National Weather Service. This innovative tool classifies residential locations under red flag warnings into four specific risk categories, empowering local residents. It is specially designed fo",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-vedant-thakker-the-16-year-old-california-student-who-built-a-free-wildfire-warning-checker-showing-four-location-categories-and-is-teaching-fremont-seniors-how-to-use-it-after-a-nearby-brush-fire/articleshow/135616807.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135617233,imgsize-80763.cms",
+      "publishedAt": "Mon, 09 Nov 2026 03:57:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
       "title": "Is Netanyahu's time up? 10 things to know as rival Eisenkot gets shot at power",
       "description": "Israeli President Isaac Herzog has assigned Gadi Eisenkot the responsibility to form the next government. Eisenkot secured recommendations from 67 lawmakers but faces challenges in coalition building. His potential partners have differing views on collaborating with Arab and ultra-Orthodox factions.",
       "url": "https://timesofindia.indiatimes.com/world/middle-east/is-netanyahus-time-up-10-things-to-know-as-rival-gadi-eisenkot-gets-shot-at-power-in-israel/articleshow/135651806.cms",
@@ -19,11 +91,47 @@
       "category": "general"
     },
     {
-      "title": "Egypt train collision: 4 dead, many injured as train derails after hitting another train",
+      "title": "Firehouse Townhouse Sells: Former Manhattan station fetches $19m; includes underground jazz club",
+      "description": "A historic fire station in Manhattan has been transformed into a luxury townhouse and sold for $19 million. It originally served the community as a firehouse for over a century before being decommissioned. The property underwent extensive renovations, highlighting its unique features such as an unde",
+      "url": "https://timesofindia.indiatimes.com/world/us/built-in-1864-as-a-manhattan-fire-station-this-7281-square-foot-property-became-a-five-level-townhouse-with-its-own-underground-jazz-club-it-has-now-sold-for-19-million-in-new-york/articleshow/135615117.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135615320,imgsize-1842586.cms",
+      "publishedAt": "Mon, 09 Nov 2026 03:54:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "First foreign astronaut on China’s Tiangong station will be from Pak",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/first-foreign-astronaut-on-chinas-tiangong-station-will-be-from-pak/articleshow/135665082.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135665092,imgsize-84428.cms",
+      "publishedAt": "Mon, 09 Nov 2026 01:02:18 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "From $890 monthly rent to $700m property empire: Jeff Bezos' 32-year journey",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/before-amazon-became-a-global-giant-jeff-bezos-and-mackenzie-scott-rented-a-890-a-month-seattle-area-home-32-years-later-bezos-property-portfolio-is-worth-over-700-million/articleshow/135605913.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135606076,imgsize-908850.cms",
+      "publishedAt": "Mon, 09 Nov 2026 00:00:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Egypt train collision: 7 dead, many injured as train derails after hitting another train",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/world/rest-of-world/egypt-train-collision-over-60-injured-as-passenger-train-derails-after-hitting-another-train-in-giza/articleshow/135660889.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135660971,imgsize-192572.cms",
       "publishedAt": "Sun, 08 Nov 2026 19:59:03 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "At least 21 dead after migrant boat sinks off Senegal's northwestern coast",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-21-dead-after-migrant-boat-sinks-off-senegals-northwestern-coast/articleshow/135659201.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135659273,imgsize-215186.cms",
+      "publishedAt": "Sun, 08 Nov 2026 18:16:51 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -37,11 +145,20 @@
       "category": "general"
     },
     {
-      "title": "Microsoft employees call work ‘joyless’ in open letter as 60,000 get buyout offers",
-      "description": "Microsoft employees are circulating an open letter accusing the company of pursuing AI at all costs, saying work there has become \"joyless and demoralizing.\" The letter is gaining attention after Microsoft offered buyouts to 60,000 employees across India, the US, UK and Canada, its largest ever. It ",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-microsoft-offers-buyouts-to-60000-employees-staff-write-open-letter-says-working-at-microsoft-has-become-joyless-and-/articleshow/135657463.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135657560,imgsize-85716.cms",
-      "publishedAt": "Sun, 08 Nov 2026 16:46:45 +0530",
+      "title": "Travis Kelce’s investment in Six Flags faces issues amid park closure",
+      "description": "Travis Kelce, the 37 year old tight end's investment in Six Flags faces a new issue amid a park's closure.",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/travis-kelces-six-flags-investment-faces-another-blow-as-californias-great-america-announces-its-final-season-amid-profitability-concerns/articleshow/135657122.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135657157,imgsize-603854.cms",
+      "publishedAt": "Sun, 08 Nov 2026 18:29:00 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Patrick Mahomes' real estate journey began with a $307K penthouse in 2017",
+      "description": "In 2017, shortly after his NFL drafting, Patrick Mahomes bought a cozy penthouse, marking the beginning of his real estate journey. Four years later, he successfully flipped a renovated ranch for a hefty profit of around $700,000. To further solidify his status, Mahomes acquired a lavish Texas mansi",
+      "url": "https://timesofindia.indiatimes.com/sports/nfl/news/in-2017-patrick-mahomes-paid-307000-for-a-downtown-penthouse-6-years-later-his-real-estate-journey-looked-very-different/articleshow/135649675.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135650160,imgsize-90790.cms",
+      "publishedAt": "Sun, 08 Nov 2026 17:30:00 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -55,20 +172,20 @@
       "category": "general"
     },
     {
-      "title": "Judge orders probe after 400 trees cut at Trump's Washington golf course",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/us/after-more-than-400-trees-were-cut-at-trumps-washington-golf-course-a-federal-judge-names-a-former-prosecutor-to-investigate-whether-government-lawyers-misled-her-about-plans-to-continue-redevelopment/articleshow/135655361.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135655413,imgsize-701836.cms",
-      "publishedAt": "Sun, 08 Nov 2026 17:05:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "PM Modi visits LK Advani on his birthday as veteran BJP leader enters 100th year",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/india/pm-modi-visits-lk-advani-on-his-birthday-as-veteran-bjp-leader-enters-100th-year/articleshow/135661038.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135661176,imgsize-103328.cms",
       "publishedAt": "Sun, 08 Nov 2026 20:18:25 +0530",
+      "source": "Times of India",
+      "category": "general"
+    },
+    {
+      "title": "Omaha apartment owner loses appeal against city over 2018 building closure",
+      "description": "A federal appeals court confirmed the dismissal of civil rights claims by AB Realty against Omaha officials. The lawsuit arose after the city shut down a building due to code violations in 2018. Despite the claims alleging Fourth, Fifth, and Fourteenth Amendment violations, the court found insuffici",
+      "url": "https://timesofindia.indiatimes.com/world/us/in-2018-an-omaha-apartment-complex-closed-amid-code-complaints-forcing-tenants-to-move-after-reopening-in-2021-its-owner-pursued-a-lawsuit-against-the-city-but-a-2026-appeals-ruling-rejected-the-claims/articleshow/135663645.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135664735,imgsize-108104.cms",
+      "publishedAt": "Mon, 09 Nov 2026 00:12:59 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -87,42 +204,6 @@
       "url": "https://timesofindia.indiatimes.com/sports/racing/top-stories/kimi-antonelli-has-the-crown-but-who-takes-p2-max-verstappen-lewis-hamilton-geroge-russell-and-charles-leclerc-brace-for-interlagos-showdown/articleshow/135657483.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135657995,imgsize-1282832.cms",
       "publishedAt": "Sun, 08 Nov 2026 22:00:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Queen Elizabeth II's final days at Balmoral's 53,000-acre Scottish estate",
-      "description": "Queen Elizabeth II spent her final days at Balmoral Castle, her beloved Scottish retreat spanning 53,000 acres. The royal estate held decades of cherished family memories, offering her peace and comfort amid nature. From royal summer holidays to her final moments, discover why Balmoral remained one ",
-      "url": "https://timesofindia.indiatimes.com/world/uk/queen-elizabeth-iis-final-days-at-balmoral-castle-inside-the-53000-acre-scottish-estate-where-she-found-peace-made-cherished-family-memories-and-spent-her-last-moments-surrounded-by-nature-and-loved-ones/articleshow/135630670.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135631787,imgsize-133654.cms",
-      "publishedAt": "Sun, 08 Nov 2026 19:57:00 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Grandmother raised grandson from infancy; court bars joint adoption with partner",
-      "description": "In a landmark decision, North Dakota’s Supreme Court ruled that unmarried couples are barred from adopting a child together, as dictated by existing state law. This case involved a grandmother and her partner who intended to adopt her grandchild, with agreement from both biological parents. The cour",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-north-dakota-grandmother-and-her-longtime-partner-cared-for-her-grandson-from-the-age-of-four-months-and-both-parents-consented-to-adoption-the-state-supreme-court-says-the-unmarried-couple-cannot-adopt-jointly/articleshow/135659977.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135660194,imgsize-222717.cms",
-      "publishedAt": "Sun, 08 Nov 2026 19:10:40 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "California rejects wealth tax backed by Sergey Brin, despite support from AI hubs",
-      "description": "California's Proposition 40, which aimed to impose a one-time tax on billionaires, has been rejected by voters. Major financial contributions from billionaires, including Sergey Brin, influenced the outcome significantly. While the measure garnered support in major cities like San Francisco and Los ",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/california-shuts-door-on-the-billionaire-wealth-tax-for-which-google-co-founder-sergey-brin-spent-millions-but-voters-in-two-ai-capitals-wanted-it/articleshow/135659288.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135659300,imgsize-29802.cms",
-      "publishedAt": "Sun, 08 Nov 2026 18:18:55 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Woman spends $110,000 on home with partner; court rejects claim after split",
-      "description": "After her relationship concluded, Mary Roth pursued the return of over $110,000 she invested in home enhancements. However, the North Dakota Supreme Court determined that she could not secure restitution through an unjust enrichment claim. The ruling underscored that Roth needed to demonstrate an ac",
-      "url": "https://timesofindia.indiatimes.com/world/us/a-north-dakota-woman-spent-more-than-110000-on-purchases-for-a-house-she-built-with-her-partner-on-land-held-by-his-family-trust-after-they-split-a-court-rejected-her-claim-for-the-homes-improvements/articleshow/135660646.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135661015,imgsize-228339.cms",
-      "publishedAt": "Sun, 08 Nov 2026 20:02:59 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -159,15 +240,6 @@
       "url": "https://timesofindia.indiatimes.com/world/us/an-ohio-homeowner-refused-to-pay-for-basement-walls-after-spotting-defects-in-a-2021-project-judges-said-the-foundation-was-structurally-sound-despite-cosmetic-flaws-and-upheld-a-45806-payment-to-the-contractor/articleshow/135661039.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135661589,imgsize-151106.cms",
       "publishedAt": "Sun, 08 Nov 2026 20:52:35 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Parents sue UK school for stopping Hindu boy from putting on tilak",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/uk/parents-sue-uk-school-for-stopping-hindu-boy-from-putting-on-tilak/articleshow/135661050.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135661093,imgsize-1086757.cms",
-      "publishedAt": "Sun, 08 Nov 2026 20:09:19 +0530",
       "source": "Times of India",
       "category": "general"
     },
@@ -280,15 +352,6 @@
       "category": "general"
     },
     {
-      "title": "At least 21 dead after migrant boat sinks off Senegal's northwestern coast",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/at-least-21-dead-after-migrant-boat-sinks-off-senegals-northwestern-coast/articleshow/135659201.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135659273,imgsize-215186.cms",
-      "publishedAt": "Sun, 08 Nov 2026 18:16:51 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
       "title": "Watch: Sonia, Priyanka take a trip down memory lane, recall Diwali with Rajiv Gandhi",
       "description": "",
       "url": "https://timesofindia.indiatimes.com/india/watch-sonia-priyanka-take-a-trip-down-memory-lane-recall-diwali-with-rajiv-gandhi/articleshow/135658711.cms",
@@ -296,72 +359,18 @@
       "publishedAt": "Sun, 08 Nov 2026 17:59:47 +0530",
       "source": "Times of India",
       "category": "general"
-    },
-    {
-      "title": "Israel deports journalist, 77-year-old activist among 14 on Palestinian solidarity mission",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/israel-deports-journalist-77-year-old-activist-among-14-on-palestinian-solidarity-mission/articleshow/135658109.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135658953,imgsize-184512.cms",
-      "publishedAt": "Sun, 08 Nov 2026 18:01:19 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'Armed Naxals wiped out, but 'Dimagi Naxals' have taken control': PM Modi",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/armed-naxals-wiped-out-but-threat-not-over-pm-modi-warns-of-dimagi-naxals-in-political-parties/articleshow/135655431.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135655496,imgsize-106148.cms",
-      "publishedAt": "Sun, 08 Nov 2026 14:35:31 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Nearly 100 fall ill after eating pani puri, tikki from street vendor in UP villages",
-      "description": "In Siddharthnagar, nearly 100 residents became ill after consuming contaminated pani puri and tikki from a street vendor. Affected individuals reported symptoms such as vomiting and diarrhoea shortly after eating the food. Medical teams from local health departments were deployed to assist and monit",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/nearly-100-fall-ill-after-eating-pani-puri-tikki-from-street-vendor-in-up-villages/articleshow/135658035.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135658103,imgsize-109647.cms",
-      "publishedAt": "Sun, 08 Nov 2026 17:14:59 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Chethan Kumar in Parallax: Space won't wait for those who fall behind",
-      "description": "Where you stand changes what you see",
-      "url": "https://timesofindia.indiatimes.com/science/space-wont-wait-for-those-who-fall-behind/articleshow/135656435.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135656645,imgsize-188866.cms",
-      "publishedAt": "Sun, 08 Nov 2026 15:41:17 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "JNU student arrested for attempt to murder fellow student over friendship with woman",
-      "description": "A student from Jawaharlal Nehru University was arrested for allegedly attacking a peer over personal issues. The incident occurred within the campus on November 5, resulting in multiple injuries. Following the altercation, police filed an FIR under relevant sections of law, including attempt to murd",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/jnu-student-arrested-for-attempt-to-murder-fellow-student-over-friendship-with-woman-4-injured/articleshow/135655825.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135656204,imgsize-158686.cms",
-      "publishedAt": "Sun, 08 Nov 2026 15:22:15 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "'He forced his sister out over family property': Revanth Reddy's personal attack on KTR",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/india/he-forced-his-sister-out-over-family-property-revanth-reddys-personal-attack-on-kt-rama-rao/articleshow/135657014.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135657567,imgsize-86580.cms",
-      "publishedAt": "Sun, 08 Nov 2026 16:41:40 +0530",
-      "source": "Times of India",
-      "category": "general"
-    },
-    {
-      "title": "Pakistan's hilarious fielding blunder against India goes viral - Watch",
-      "description": "Pakistan's U-19 fielders produced a comedy of errors against India in the Asia Cup when three players rushed towards a high catch but moved away at the last moment, allowing the ball to drop. The confusion sparked an angry exchange among teammates. Earlier, Arjun Rajput's 107 helped India recover fr",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-vs-pak-pakistans-hilarious-fielding-blunder-against-india-at-u19-asia-cup-goes-viral-watch/articleshow/135658043.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135658300,imgsize-89844.cms",
-      "publishedAt": "Sun, 08 Nov 2026 17:28:00 +0530",
-      "source": "Times of India",
-      "category": "general"
     }
   ],
   "business": [
+    {
+      "title": "Nvidia Board launches probe into alleged spy plot after CEO admits affair",
+      "description": "The investigation comes amid heightened scrutiny of Nvidia’s China connections, national security concerns and questions about the company’s leadership succession",
+      "url": "https://www.thehindubusinessline.com/info-tech/nvidia-board-launches-probe-into-alleged-spy-plot-after-ceo-admits-affair/article71681234.ece",
+      "urlToImage": "https://bl-i.thgim.com/public/incoming/pdii5g/article71681236.ece/alternates/LANDSCAPE_1200/2026-10-08T175515Z_1009972259_RC25ZNACZ3EZ_RTRMADP_3_USA-TRUMP.JPG",
+      "publishedAt": "Mon, 09 Nov 2026 03:46:57 +0530",
+      "source": "Business News Today: Latest Business News, Finance News",
+      "category": "business"
+    },
     {
       "title": "Democrats eye Musk, Miller probes after midterm rout",
       "description": "Investigations will focus on Musk's involvement in the Department of Government Efficiency's firing of federal workers last year, and Miller's role in Trump's ‌hardline immigration crackdown",
@@ -710,15 +719,6 @@
       "url": "https://www.thehindubusinessline.com/money-and-banking/adb-releases-first-tranche-of-108-million-loan-for-mizoram-healthcare-scheme/article71680492.ece",
       "urlToImage": "https://bl-i.thgim.com/public/incoming/nutjbn/article71680522.ece/alternates/LANDSCAPE_1200/MDF70090.JPG",
       "publishedAt": "Sun, 08 Nov 2026 09:48:38 +0530",
-      "source": "Business News Today: Latest Business News, Finance News",
-      "category": "business"
-    },
-    {
-      "title": "El Niño’s ripple effect on India’s dairy economy: Why milk supply is becoming a seasonal risk",
-      "description": "The dairy industry should develop the mechanisms allowing it to withstand weather shocks without impacting consumer supplies",
-      "url": "https://www.thehindubusinessline.com/economy/agri-business/el-ninos-ripple-effect-on-indias-dairy-economy-why-milk-supply-is-becoming-a-seasonal-risk/article71677563.ece",
-      "urlToImage": "https://bl-i.thgim.com/public/incoming/ikb5ob/article71680520.ece/alternates/LANDSCAPE_1200/IMG_Women_arrive_at_a_mi_2_1_O4B9AC62.jpg",
-      "publishedAt": "Sun, 08 Nov 2026 09:44:52 +0530",
       "source": "Business News Today: Latest Business News, Finance News",
       "category": "business"
     }
@@ -1089,11 +1089,20 @@
   ],
   "entertainment": [
     {
-      "title": "'Ramayana' box office collection day 4 (LIVE)",
+      "title": "'Ramayana' box office collection day 4",
       "description": "‘Ramayana: Part I’ continues to shine at the box office with stellar collections on its first Sunday, amassing Rs. 194.39 crore in just four days. The film saw attendance grow from 35.9% in the morning to 39% in the afternoon. Key cities like Bengaluru and Mumbai in Karnataka and Maharashtra are pro",
       "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-rise-of-a-legend-box-office-collection-day-4-live-the-ranbir-kapoor-yash-sai-pallavi-starrer-touches-rs-210-crore-net-in-india-diwali-laxmi-puja-day-may-play-a-key-role-in-determining-sunday-numbers/articleshow/135655467.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135655529,imgsize-358518.cms",
       "publishedAt": "2026-11-08T14:39:00+05:30",
+      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
+      "category": "entertainment"
+    },
+    {
+      "title": "Ranbir, Alia Bhatt greet paps from balcony with Neetu",
+      "description": "Ranbir Kapoor and Alia Bhatt greeted paparazzi on Diwali from their Krishna Raj bungalow in Pali Hill, with Neetu Kapoor beside them. Alia recently praised Ranbir’s ‘Ramayana’ performance on Instagram. The couple will next reunite with Vicky Kaushal in ‘Love &amp; War’, releasing January 21, 2027.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/diwali-2026-ranbir-kapoor-and-alia-bhatt-greet-paparazzi-from-krishna-raj-bungalow-balcony-with-neetu-kapoor-see-video/articleshow/135664686.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135664694,imgsize-195677.cms",
+      "publishedAt": "2026-11-09T00:06:09+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1256,15 +1265,6 @@
       "url": "https://timesofindia.indiatimes.com/entertainment/english/music/news/in-2022-an-ai-music-generator-app-was-established-years-later-it-is-facing-multiple-lawsuits-for-using-the-likeness-of-artists-like-elvis-presley-and-eminem-without-permission/articleshow/135656112.cms",
       "urlToImage": "https://static.toiimg.com/photo/msid-135656151,imgsize-319211.cms",
       "publishedAt": "2026-11-08T19:00:00+05:30",
-      "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
-      "category": "entertainment"
-    },
-    {
-      "title": "‘King100’: Ashok Selvan’s first look as Karna unveiled on 37th birthday",
-      "description": "In 'King100', Ashok Selvan takes on the dynamic role of a police officer, joining forces with legendary actors Nagarjuna and Tabu. Directed by Ra Karthik, this film marks their second collaboration, following 'Nitham Oru Vaanam'. Tabu shines as Mahanthi Jhansi Rani, a formidable politician, while th",
-      "url": "https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/nagarjunas-king100-first-look-ashok-selvan-unveiled-as-karna-on-his-37th-birthday-director-ra-karthik-says-no-rules-no-limits/articleshow/135655839.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135655882,imgsize-127290.cms",
-      "publishedAt": "2026-11-08T14:59:20+05:30",
       "source": "Latest and Trending Entertainment News, Celebrity News, Movie News, Breaking News | Entertainment - Times of India",
       "category": "entertainment"
     },
@@ -1633,6 +1633,51 @@
   ],
   "science": [
     {
+      "title": "Brazil expands Pantanal reserves by 257,531 acres to protect jaguar habitats",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/nature/in-march-2026-brazil-expanded-two-pantanal-wildlife-reserves-by-257531-acres-leonardo-dicaprios-conservation-group-rewild-says-its-partners-helped-support-the-effort-to-safeguard-jaguar-habitat/articleshow/135610925.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135611217,imgsize-775208.cms",
+      "publishedAt": "2026-11-09T02:46:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
+      "title": "Cold War Greenland base was ice-free 416,000 years ago, summers 4.7°C warmer",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/discovery/study-finds-forgotten-cold-war-nuclear-base-in-greenland-was-once-ice-free-with-summers-4-7c-warmer-about-416000-years-ago/articleshow/135603633.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135603752,imgsize-382200.cms",
+      "publishedAt": "2026-11-09T02:00:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
+      "title": "2,800-year-old Siberian tomb reveals 1,000 cannabis seeds and evidence of ritual intoxication",
+      "description": "A groundbreaking archaeological find at Tunnug 1 in southern Siberia unveiled cannabis seeds within a prince's tomb, dating back 2,800 years. This tomb is tied to intricate funerary rites, including horse sacrifices. Notably, preserved human hair revealed traces of cannabis, hinting at its psychoact",
+      "url": "https://timesofindia.indiatimes.com/science/archaeology/in-a-2800-year-old-siberian-tomb-researchers-found-about-1000-cannabis-seeds-and-chemical-traces-in-human-hair-suggesting-ritual-intoxication-among-people-buried-alongside-sacrificed-horses-and-other-remains/articleshow/135603594.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135603775,imgsize-110897.cms",
+      "publishedAt": "2026-11-09T00:54:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
+      "title": "444-million-year-old fossil preserves muscles but loses head and legs",
+      "description": "",
+      "url": "https://timesofindia.indiatimes.com/science/archaeology/scientists-studied-a-444-million-year-old-marine-fossil-that-preserved-its-muscles-tendons-and-guts-but-lost-its-head-legs-and-outer-shell-they-named-it-after-the-discoverers-mother/articleshow/135608285.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135608594,imgsize-179200.cms",
+      "publishedAt": "2026-11-09T00:47:00+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
+      "title": "Birds flap their wings while landing even though it costs energy, new model explains why",
+      "description": "Research shows that birds flap their wings while landing to enhance control and deceleration. The energy expended during flapping has tangible benefits for a safe landing. Mathematical modeling indicates that a zero-speed landing without flapping is impractical for most birds. Birds of prey may also",
+      "url": "https://timesofindia.indiatimes.com/science/wildlife/why-birds-flap-their-wings-while-landing-a-new-study-reveals-surprising-aerodynamic-insights/articleshow/135640818.cms",
+      "urlToImage": "https://static.toiimg.com/photo/msid-135640882,imgsize-827933.cms",
+      "publishedAt": "2026-11-08T23:58:42+05:30",
+      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
+      "category": "science"
+    },
+    {
       "title": "Space won't wait for those who fall behind",
       "description": "Where you stand changes what you see",
       "url": "https://timesofindia.indiatimes.com/science/space-wont-wait-for-those-who-fall-behind/articleshow/135656435.cms",
@@ -1766,52 +1811,7 @@
       "publishedAt": "2026-11-07T18:57:09+05:30",
       "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
       "category": "science"
-    },
-    {
-      "title": "In 1935, a Black linguist recorded Louisiana Creole speakers on aluminium discs",
-      "description": "Research into recordings made in 1935 is shedding light on the vital voices of Louisiana Creole and Louisiana French speakers. Linguist Lorenzo Dow Turner's findings reveal significant aspects of the language and its vibrant cultural ties within Black communities. Dr. Oliver Mayeux's work revived th",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/in-1935-a-black-linguist-recorded-louisiana-creole-speakers-on-aluminium-discs-researchers-have-now-uncovered-the-earliest-extended-audio-of-a-language-that-all-but-vanished-from-new-orleans-by-the-1950s/articleshow/135565407.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135565407,imgsize-253914.cms",
-      "publishedAt": "2026-11-07T18:56:13+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "Meet Pooja Verma, who built bird boxes that photograph nesting birds every three minutes",
-      "description": "California student Pooja Verma has won first place in the 36th ‘A Voice for Animals’ contest for developing solar-powered bird boxes with cameras that photograph nesting birds every three minutes. Her nonprofit, Eco Innovate, has distributed the boxes to 10 schools and plans to expand the project ac",
-      "url": "https://timesofindia.indiatimes.com/science/discovery/meet-pooja-verma-the-california-student-who-built-solar-powered-bird-boxes-that-photograph-nesting-birds-every-three-minutes-brought-them-to-10-schools-and-has-now-won-a-first-place-animal-welfare-award/articleshow/135631115.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135634303,imgsize-90344.cms",
-      "publishedAt": "2026-11-07T17:01:35+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "Earth has a new mini-moon: Tiny asteroid 2026 QQ8 was captured in April, spotted in August and will leave by early 2027",
-      "description": "A minor asteroid, known as 2026 QQ8, found its way into Earth's gravity in April 2026. Observed for the first time in August, astronomers identified it as a natural celestial body. This mini-moon will remain within our orbit for approximately eight to nine months before departing. Its nearest approa",
-      "url": "https://timesofindia.indiatimes.com/science/space/earth-has-a-new-mini-moon-a-1-metre-space-rock-named-2026-qq8-was-pulled-into-orbit-around-our-planet-in-april-was-spotted-in-august-and-will-stay-until-about-december-before-drifting-off-on-its-own-path-in-2027/articleshow/135632878.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135632958,imgsize-1092993.cms",
-      "publishedAt": "2026-11-07T16:11:21+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "Scientists fitted nearly 1,750 monarch butterflies with tiny solar-powered trackers",
-      "description": "In an innovative effort, researchers have equipped around 1,750 monarch butterflies with solar-powered trackers to study their extensive migration patterns. This advanced tracking technology offers insights into their traveling habits, including routes, daily distances, and resting points. Every yea",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-fitted-nearly-1750-monarch-butterflies-with-tiny-solar-powered-trackers-to-follow-their-migration-across-north-america-about-175-have-been-detected-in-mexico-as-researchers-map-previously-uncertain-routes/articleshow/135565337.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135565337,imgsize-233995.cms",
-      "publishedAt": "2026-11-07T15:06:43+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
-    },
-    {
-      "title": "Pakistan to send astronaut to China’s space station aboard Shenzhou-24 mission",
-      "description": "",
-      "url": "https://timesofindia.indiatimes.com/science/pakistan-to-send-astronaut-to-chinas-space-station-aboard-shenzhou-24-mission/articleshow/135628961.cms",
-      "urlToImage": "https://static.toiimg.com/photo/msid-135629406,imgsize-179198.cms",
-      "publishedAt": "2026-11-07T12:28:45+05:30",
-      "source": "Science News: Fresh Discoveries, Research & Breakthroughs",
-      "category": "science"
     }
   ],
-  "last_updated": "2026-11-09 12:11:28 AM"
+  "last_updated": "2026-11-09 04:06:15 AM"
 }

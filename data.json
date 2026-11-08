@@ -4,15 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 34,
+    "news_count": 35,
     "headlines": [
-      "Grandmother raised grandson from infancy; court bars joint adoption with partner",
-      "Woman spends $110,000 on home with partner; court rejects claim after split",
       "Court overturns $31,054 divorce payout over premarital home's rise in value",
       "1 killed, 3 injured in two shootings in North Carolina university",
       "Fire breaks out at garment factory in Delhi's Najafgarh, 25 fire tenders on spot",
+      "Delhi-NCR Chokes On Diwali Night As Smoke Engulfs City, AQI Nears 400",
       "Delhi Air Quality Turns 'Very Poor' On Diwali, To Turn 'Severe'",
-      "West Bengal to institute 'Seema Mitra' award for BSF, SSB, police personnel from 2027: Suvendu",
+      "Infiltrators lurking across the border, will send them back from the same way they enter: Adhikari",
+      "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+      "Thick smog blankets Delhi on Deepavali night, AQI at 20 stations ‘severe’",
       "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
       "Revanth sets target of making one crore women millionaires by 2034",
       "Delhi faces new challenge from Samosa caucus",
@@ -41,7 +42,7 @@
       "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
       "DNA analysis reveals 87 rice pests in bird and bat diets in West Africa"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "MH",
@@ -53,13 +54,13 @@
       "Portion of false ceiling collapses outside Mumbai airport terminal 2; 1 injured",
       "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "'Ramayana' box office collection day 4 (LIVE)",
+      "'Ramayana' box office collection day 4",
       "Amitabh Bachchan’s Juhu bungalow Jalsa among locations named in bomb threat email: Report",
       "Ranveer Singh’s Pralay shoot sparks BIG controversy at Mumbai’s Azad Maidan; Under-14 and Under-16 cricket matches POSTPONED; MCA FUMES over disruption",
       "Manoj Bajpayee, Boman Irani and Divya Dutta’s Last Man in Tower to premiere on Hindi Zee 5 on November 6",
       "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "KA",
@@ -74,9 +75,9 @@
       "H.D. Kumaraswamy alleges Hassan DC retained her post by paying bribe to district in-charge Minister",
       "Bengaluru’s IT boom and a decades-old job quota demand: Why Kannadiga activists are targeting firms",
       "Mekedatu project: Shivakumar seeks TN's cooperation, says it will benefit state more than K'taka",
-      "'Ramayana' box office collection day 4 (LIVE)"
+      "'Ramayana' box office collection day 4"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "UP",
@@ -93,7 +94,7 @@
       "How the Kolkata maidans shaped UP-born Mohammed Shami",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "RJ",
@@ -109,7 +110,7 @@
       "Rajasthan BJP MLA Jaswant Yadav dies at 73 in Jaipur after prolonged battle with cancer",
       "Today’s Gold Rate in India November 8: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "TN",
@@ -125,7 +126,7 @@
       "TN greenlights setting up PSU for executing big ticket govt construction projects",
       "Sivakarthikeyan celebrates Diwali in Madurai, says 70% of ‘Seyon’ shoot is complete"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "BR",
@@ -140,7 +141,7 @@
       "Darbhanga airport gets defence nod for pilot training institute, BJP MP hails move",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "AS",
@@ -155,7 +156,7 @@
       "Toll in OIL’s Assam facility fire rises to 4 as another injured dies",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "PB",
@@ -170,21 +171,22 @@
       "Punjab anti-drug activist Parvinder Singh Jhota cremated 26 days after being shot dead",
       "Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "AP",
     "Lat": 15.9129,
     "Long": 79.74,
     "State": "Andhra Pradesh",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
       "News in Frames: Many twists in the monsoon’s tale",
       "TDP-led alliance sweeps Andhra Pradesh MPTC, ZPTC elections, secures landslide victory; YSRCP lags behind",
       "Naidu orders immediate financial aid for Cyclone Murasu-hit families, price control on essentials",
+      "Ranbir, Alia Bhatt greet paps from balcony with Neetu",
       "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "WB",
@@ -193,12 +195,12 @@
     "State": "West Bengal",
     "news_count": 4,
     "headlines": [
-      "West Bengal to institute 'Seema Mitra' award for BSF, SSB, police personnel from 2027: Suvendu",
+      "Infiltrators lurking across the border, will send them back from the same way they enter: Adhikari",
       "25-year-old stabbed to death in Bengal flat, live-in partner, her mother arrested: Cop",
       "Eligible CAA applicants to get citizenship by December 31: West Bengal CM Suvendu",
       "How the Kolkata maidans shaped UP-born Mohammed Shami"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "HR",
@@ -212,7 +214,7 @@
       "Former Tech Mahindra executive killed by neighbour in Faridabad parking row; shot 9 times",
       "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "KL",
@@ -226,7 +228,7 @@
       "Woman who lost 9 family members in Wayanad landslide begins new chapter, gets married",
       "‘We are all proud of her’: Thiruvananthapuram kin cheer Indian-origin Nithya Raman's historic win as Los Angeles mayor"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "UT",
@@ -240,7 +242,7 @@
       "Daler Mehndi BREAKS SILENCE on Uttarakhand live performance row with a Diwali message",
       "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "AR",
@@ -253,7 +255,7 @@
       "Arunachal govt releases 4 Siang dam protesters, seeks fresh dialogue",
       "Four Siang dam protesters released in Arunachal after nearly month in detention"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "SK",
@@ -266,7 +268,7 @@
       "Rajnath Singh pays tributes to brave soldiers at Sherethang in Sikkim",
       "Defence minister Rajnath Singh reviews battle readiness, infra push along LAC in Sikkim"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "LA",
@@ -279,7 +281,7 @@
       "Wangchuk appeals to President Murmu, alleges smear campaign by Ladakh administration",
       "IAF IL-76 aircraft makes world’s highest-altitude landing at 13,629-ft airbase in Ladakh"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "GJ",
@@ -292,7 +294,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "TG",
@@ -305,7 +307,7 @@
       "‘Growing a beard doesn’t make you Revanth Reddy’: Telangana CM takes swipe at KT Rama Rao",
       "Telangana student goes missing in US; minister seeks MEA, Boston Police intervention"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "OD",
@@ -317,7 +319,7 @@
       "No concrete proof yet from Indonesia for claim over rescued orangutans: Odisha Minister",
       "4 of family, including 2 children, killed in Odisha fire; short circuit suspected: Cops"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "CT",
@@ -329,7 +331,7 @@
       "'First Diwali when India is free from Naxalism': PM Modi marks festival in Bastar",
       "As tracks pierce isolated red region, Chhattisgarh’s Abujhmad finds a route to progress"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "GA",
@@ -341,7 +343,7 @@
       "Video: Whale Washes Ashore In Goa's Mandrem Beach, Released Into Sea",
       "Goa MLA Sankalp Amonkar sworn in as minister in Pramod Sawant cabinet ahead of 2027 polls"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "JK",
@@ -353,7 +355,7 @@
       "Banner seeking info on four wanted terrorists surfaces in Srinagar's Lal Chowk",
       "J&K: 4 police personnel, including SHO, injured as bus rams police vehicle in Ramban"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "HP",
@@ -364,7 +366,7 @@
     "headlines": [
       "Himachal Pradesh to set up first fish parlour in Bilaspur, offering live and fresh fish for sale"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "MZ",
@@ -375,7 +377,7 @@
     "headlines": [
       "ADB releases first tranche of $108 million loan for Mizoram healthcare scheme"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   },
   {
     "Code": "MP",
@@ -386,6 +388,6 @@
     "headlines": [
       "India gets its 100th Grandmaster! Anuj Shrivatri becomes first GM from MP"
     ],
-    "last_updated": "2026-11-09 12:11:28 AM"
+    "last_updated": "2026-11-09 04:06:15 AM"
   }
 ]
