@@ -4,15 +4,19 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 35,
+    "news_count": 40,
     "headlines": [
+      "Delhi's air quality slips into 'severe' category on Diwali, AQI at 404",
+      "Woman spends $110,000 on home with partner; court rejects claim after split",
+      "Grandmother raised grandson from infancy; court bars joint adoption with partner",
+      "Delhi father praises daughter's move to Finland amid city's worsening pollution",
+      "Diwali haze pushes Delhi AQI to 371, 19 monitoring stations record severe air quality",
       "Court overturns $31,054 divorce payout over premarital home's rise in value",
       "1 killed, 3 injured in two shootings in North Carolina university",
-      "Fire breaks out at garment factory in Delhi's Najafgarh, 25 fire tenders on spot",
       "Delhi-NCR Chokes On Diwali Night As Smoke Engulfs City, AQI Nears 400",
       "Delhi Air Quality Turns 'Very Poor' On Diwali, To Turn 'Severe'",
-      "Infiltrators lurking across the border, will send them back from the same way they enter: Adhikari",
       "Air pollution over 50 times WHO limit in parts of Delhi as people defy ban on firecrackers on Deepavali",
+      "Infiltrators lurking across the border, will send them back from the same way they enter: Adhikari",
       "Thick smog blankets Delhi on Deepavali night, AQI at 20 stations ‘severe’",
       "Delhi records ‘very poor’ air quality on Diwali with 376 AQI",
       "Revanth sets target of making one crore women millionaires by 2034",
@@ -40,35 +44,20 @@
       "Amitabh Bachchan wins personality rights case; Delhi High Court passes final decree after four defendants settle",
       "Delhi High Court rules Doosra infringed Sourav Ganguly's personality rights, directs makers to deposit Rs. 2 crores",
       "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
+      "South Carolina permanently protected more than 62,000 acres of working forest",
       "DNA analysis reveals 87 rice pests in bird and bat diets in West Africa"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 8,
-    "headlines": [
-      "Portion of false ceiling collapses outside Mumbai airport terminal 2; 1 injured",
-      "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "'Ramayana' box office collection day 4",
-      "Amitabh Bachchan’s Juhu bungalow Jalsa among locations named in bomb threat email: Report",
-      "Ranveer Singh’s Pralay shoot sparks BIG controversy at Mumbai’s Azad Maidan; Under-14 and Under-16 cricket matches POSTPONED; MCA FUMES over disruption",
-      "Manoj Bajpayee, Boman Irani and Divya Dutta’s Last Man in Tower to premiere on Hindi Zee 5 on November 6",
-      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 7,
+    "news_count": 9,
     "headlines": [
+      "Karnataka CM: Ethanol probe covered blending units; findings today",
+      "Karnataka tests petrol samples at 67 locations over ethanol blending complaints: CM Shivakumar",
       "Rajajinagar murders: Two more bodies recovered near Chamundi hills in Mysuru",
       "BJP, JD(S) leaders cannot tolerate guarantee schemes reaching all beneficiaries: Karnataka CM Shivakumar",
       "A devotee dies while climbing up Deviramma Betta in Chikkamagaluru",
@@ -77,7 +66,26 @@
       "Mekedatu project: Shivakumar seeks TN's cooperation, says it will benefit state more than K'taka",
       "'Ramayana' box office collection day 4"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 9,
+    "headlines": [
+      "Portion of false ceiling collapses outside Mumbai airport terminal 2; 1 injured",
+      "Major fire breaks out in Mumbai's Dongri, dousing ops on; one dead in November 7 highrise blaze",
+      "Portion of false ceiling collapses outside Mumbai airport terminal, one hurt",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "'Ramayana' box office collection day 4",
+      "Amitabh Bachchan’s Juhu bungalow Jalsa among locations named in bomb threat email: Report",
+      "Ranveer Singh’s Pralay shoot sparks BIG controversy at Mumbai’s Azad Maidan; Under-14 and Under-16 cricket matches POSTPONED; MCA FUMES over disruption",
+      "Manoj Bajpayee, Boman Irani and Divya Dutta’s Last Man in Tower to premiere on Hindi Zee 5 on November 6",
+      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "UP",
@@ -94,7 +102,7 @@
       "How the Kolkata maidans shaped UP-born Mohammed Shami",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "RJ",
@@ -110,38 +118,23 @@
       "Rajasthan BJP MLA Jaswant Yadav dies at 73 in Jaipur after prolonged battle with cancer",
       "Today’s Gold Rate in India November 8: Gold prices steady in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 6,
-    "headlines": [
-      "Dindigul youth killed in Israel construction site accident laid to rest in native village",
-      "One child dead, 269 people treated for firecracker-related burn injuries across Tamil Nadu during Diwali",
-      "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu's Salem",
-      "Row erupts in Tamil Nadu over books in  ₹300-crore Coimbatore library; TVK, DMK blame each other",
-      "TN greenlights setting up PSU for executing big ticket govt construction projects",
-      "Sivakarthikeyan celebrates Diwali in Madurai, says 70% of ‘Seyon’ shoot is complete"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "'Pregnancy is not a disease': Bengaluru mom applies lipstick during labour",
       "A bridge between past and present",
       "Ahead of Deepavali, Chhath festivals, migrants reach Bihar in hordes covering thousands of kilometers",
       "Toll in Old Delhi's Chawri Bazar building collapse rises to 4 as two more bodies pulled out",
       "Darbhanga airport gets defence nod for pilot training institute, BJP MP hails move",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "AS",
@@ -156,22 +149,7 @@
       "Toll in OIL’s Assam facility fire rises to 4 as another injured dies",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 5,
-    "headlines": [
-      "Punjab anti-drug activist Jhota cremated in his native place Mansa",
-      "Deportation of wanted Punjab gangster Afridi secured after 10-month international manhunt",
-      "Wanted in over 30 heinous criminal cases, carried  ₹5 lakh reward: Punjab gangster Gurwinder alias Afridi brought back to India",
-      "Punjab anti-drug activist Parvinder Singh Jhota cremated 26 days after being shot dead",
-      "Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "AP",
@@ -186,7 +164,37 @@
       "Ranbir, Alia Bhatt greet paps from balcony with Neetu",
       "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 5,
+    "headlines": [
+      "Punjab anti-drug activist Jhota cremated in his native place Mansa",
+      "Deportation of wanted Punjab gangster Afridi secured after 10-month international manhunt",
+      "Wanted in over 30 heinous criminal cases, carried  ₹5 lakh reward: Punjab gangster Gurwinder alias Afridi brought back to India",
+      "Punjab anti-drug activist Parvinder Singh Jhota cremated 26 days after being shot dead",
+      "Punjab Police brings back wanted gangster Gurwinder alias Afridi from Ethiopia"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 5,
+    "headlines": [
+      "Dindigul youth killed in Israel construction site accident laid to rest in native village",
+      "One child dead, 269 people treated for firecracker-related burn injuries across Tamil Nadu during Diwali",
+      "Bengaluru mass murder: Accused identifies wife and mother-in-law's bodies in a forest in Tamil Nadu's Salem",
+      "Row erupts in Tamil Nadu over books in  ₹300-crore Coimbatore library; TVK, DMK blame each other",
+      "TN greenlights setting up PSU for executing big ticket govt construction projects"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "WB",
@@ -200,101 +208,7 @@
       "Eligible CAA applicants to get citizenship by December 31: West Bengal CM Suvendu",
       "How the Kolkata maidans shaped UP-born Mohammed Shami"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 4,
-    "headlines": [
-      "‘Don’t talk to pups’: Drama unfolded at Faridabad police station hours before murder",
-      "Singapore-based senior IT executive shot dead over parking dispute in Faridabad",
-      "Former Tech Mahindra executive killed by neighbour in Faridabad parking row; shot 9 times",
-      "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Kerala Water Authority intensifies action against encroachments on Pipeline Road",
-      "Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC",
-      "Woman who lost 9 family members in Wayanad landslide begins new chapter, gets married",
-      "‘We are all proud of her’: Thiruvananthapuram kin cheer Indian-origin Nithya Raman's historic win as Los Angeles mayor"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
-    "news_count": 4,
-    "headlines": [
-      "Uttarakhand SIT arrests minister Rekha Arya’s husband Girdhari Lal Sahu from Jhansi",
-      "Pithoragarh man held for killing live-in partner over character suspicion: Cop",
-      "Daler Mehndi BREAKS SILENCE on Uttarakhand live performance row with a Diwali message",
-      "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 3,
-    "headlines": [
-      "Indian Army debunks ‘unsubstantiated, false’ claims of Chinese troops advancing in Arunachal Pradesh",
-      "Arunachal govt releases 4 Siang dam protesters, seeks fresh dialogue",
-      "Four Siang dam protesters released in Arunachal after nearly month in detention"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "SK",
-    "Lat": 27.533,
-    "Long": 88.5122,
-    "State": "Sikkim",
-    "news_count": 3,
-    "headlines": [
-      "Rajnath Singh Celebrates Diwali With Army At Indo-China Border In Sikkim",
-      "Rajnath Singh pays tributes to brave soldiers at Sherethang in Sikkim",
-      "Defence minister Rajnath Singh reviews battle readiness, infra push along LAC in Sikkim"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 3,
-    "headlines": [
-      "HT Evening News Brief Nov 7: PM Modi’s Diwali message, IAF's historic landing in Ladakh and more",
-      "Wangchuk appeals to President Murmu, alleges smear campaign by Ladakh administration",
-      "IAF IL-76 aircraft makes world’s highest-altitude landing at 13,629-ft airbase in Ladakh"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 3,
-    "headlines": [
-      "Ahmedabad woman held for stabbing ex-serviceman husband to death after domestic dispute",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "TG",
@@ -307,7 +221,98 @@
       "‘Growing a beard doesn’t make you Revanth Reddy’: Telangana CM takes swipe at KT Rama Rao",
       "Telangana student goes missing in US; minister seeks MEA, Boston Police intervention"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "HT Evening News Brief Nov 7: PM Modi’s Diwali message, IAF's historic landing in Ladakh and more",
+      "Wangchuk appeals to President Murmu, alleges smear campaign by Ladakh administration",
+      "IAF IL-76 aircraft makes world’s highest-altitude landing at 13,629-ft airbase in Ladakh"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Singapore-based senior IT executive shot dead over parking dispute in Faridabad",
+      "Former Tech Mahindra executive killed by neighbour in Faridabad parking row; shot 9 times",
+      "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
+    "headlines": [
+      "Ahmedabad woman held for stabbing ex-serviceman husband to death after domestic dispute",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Indian Army debunks ‘unsubstantiated, false’ claims of Chinese troops advancing in Arunachal Pradesh",
+      "Arunachal govt releases 4 Siang dam protesters, seeks fresh dialogue",
+      "Four Siang dam protesters released in Arunachal after nearly month in detention"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 3,
+    "headlines": [
+      "Uttarakhand SIT arrests minister Rekha Arya’s husband Girdhari Lal Sahu from Jhansi",
+      "Pithoragarh man held for killing live-in partner over character suspicion: Cop",
+      "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "Kerala Water Authority intensifies action against encroachments on Pipeline Road",
+      "Scientific, tech measures to be introduced to strengthen transparency in ghee sale: TDB to Kerala HC",
+      "Woman who lost 9 family members in Wayanad landslide begins new chapter, gets married"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
+  },
+  {
+    "Code": "SK",
+    "Lat": 27.533,
+    "Long": 88.5122,
+    "State": "Sikkim",
+    "news_count": 3,
+    "headlines": [
+      "Rajnath Singh Celebrates Diwali With Army At Indo-China Border In Sikkim",
+      "Rajnath Singh pays tributes to brave soldiers at Sherethang in Sikkim",
+      "Defence minister Rajnath Singh reviews battle readiness, infra push along LAC in Sikkim"
+    ],
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "OD",
@@ -319,7 +324,7 @@
       "No concrete proof yet from Indonesia for claim over rescued orangutans: Odisha Minister",
       "4 of family, including 2 children, killed in Odisha fire; short circuit suspected: Cops"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "CT",
@@ -331,7 +336,7 @@
       "'First Diwali when India is free from Naxalism': PM Modi marks festival in Bastar",
       "As tracks pierce isolated red region, Chhattisgarh’s Abujhmad finds a route to progress"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "GA",
@@ -343,7 +348,7 @@
       "Video: Whale Washes Ashore In Goa's Mandrem Beach, Released Into Sea",
       "Goa MLA Sankalp Amonkar sworn in as minister in Pramod Sawant cabinet ahead of 2027 polls"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "JK",
@@ -355,7 +360,7 @@
       "Banner seeking info on four wanted terrorists surfaces in Srinagar's Lal Chowk",
       "J&K: 4 police personnel, including SHO, injured as bus rams police vehicle in Ramban"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "HP",
@@ -366,7 +371,7 @@
     "headlines": [
       "Himachal Pradesh to set up first fish parlour in Bilaspur, offering live and fresh fish for sale"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "MZ",
@@ -377,7 +382,7 @@
     "headlines": [
       "ADB releases first tranche of $108 million loan for Mizoram healthcare scheme"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   },
   {
     "Code": "MP",
@@ -388,6 +393,6 @@
     "headlines": [
       "India gets its 100th Grandmaster! Anuj Shrivatri becomes first GM from MP"
     ],
-    "last_updated": "2026-11-09 04:06:15 AM"
+    "last_updated": "2026-11-09 07:45:56 AM"
   }
 ]
