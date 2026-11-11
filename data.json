@@ -4,15 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 25,
+    "news_count": 27,
     "headlines": [
+      "Exports to West Asia fall 7%, Jordan, Oman buck the trend",
       "'Crackers unfairly blamed': CTI flags pre-Diwali Delhi pollution, seeks action on stubble burning",
       "RSS chief extols traditional Diwali practices as severe pollution chokes Delhi",
-      "373 or 1,747? What was Delhi's actual AQI on Diwali and why did readings differ",
-      "Delhi Gets Its First Electric Cruise On Yamuna: Rs 500 Ticket, 40-Minute Ride",
+      "Central Pollution Body Explains Data Gaps On Diwali Night",
       "Congress questions Modi over Delhi air pollution, demands account of measures taken",
       "Delhi SIR: Why BJP BLAs’ voter deletion applications in Mustafabad focused on three neighbourhoods",
       "Juvenile traced to Srinagar for sending fake Delhi Police notices targeting IFF, SFLC X accounts; Crime Branch registers FIR",
+      "New estimates show farm fires may be vastly undercounted in Punjab, Haryana",
       "Delhi SIR: Form 6 applications cross 3L-mark after draft roll excludes 47.5 lakh voters",
       "As Delhi gasps for clean air, pollution in NCR dropped from Parliament panel meeting agenda",
       "‘Have deep roots in UP’: Saba Haider recalls emotional first call to Ghaziabad family after US election win",
@@ -30,31 +31,10 @@
       "Delhi World Book fair: A fair like no other",
       "Amitabh Bachchan wins personality rights case; Delhi High Court passes final decree after four defendants settle",
       "Delhi High Court rules Doosra infringed Sourav Ganguly's personality rights, directs makers to deposit Rs. 2 crores",
-      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala"
+      "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala",
+      "South Carolina's 229-acre White Tract to be conserved after 20-year fight against housing development"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 12,
-    "headlines": [
-      "Telangana to host Bharat Summit on November 13 and 14",
-      "Nine cases booked during checks at rice shops in Peddapalli district, special rice sale counters opened in Peddapalli, Khammam towns",
-      "Banks in Telangana achieved 74% of Kharif loan targets in H1",
-      "FSSAI licences of eight cloud kitchens, restaurants cancelled in Hyderabad",
-      "Telangana govt seeks loan relief for farmers hit by El Niño-induced drought",
-      "Rahul Gandhi likely to address gig workers at Congress' Bharat summit in Hyderabad",
-      "Congress to host second Bharat Summit in Hyderabad from Nov 12 to 14",
-      "Telangana Women’s Commission questions 5 Hyderabad IVF centres over egg racket",
-      "Telangana Deputy CM asks banks to ease El Nino stress on farmers through restructuring of loans",
-      "From kaju katli to diyas, digital platforms capture Deepavali spending",
-      "Advanced  airfield ground lighting capability commissioned in Hyderabad Airport",
-      "Blackstone to buy about 16% stake in IIFL Finance for ₹5,000 crore"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "AP",
@@ -63,19 +43,19 @@
     "State": "Andhra Pradesh",
     "news_count": 11,
     "headlines": [
+      "Andhra Pradesh Cabinet clears policy frameworks to attract investments in AI, electronics, renewable energy",
       "Govardhan puja, Gau puja celebrated at Hare Krishna Vaikuntham",
       "Andhra Pradesh weighs making father’s name optional in official documents",
       "TDP-led NDA dominates Tirupati district in ZPTC/MPTC elections",
       "Cyclone-hit villages in Prakasam district remain without electricity",
       "CM directs officials to strengthen arguments in Supreme Court on Krishna waters",
-      "APCRDA, IOCL sign MoU to develop green energy infrastructure in Amaravati",
       "NIA court grants default bail to 2 of 12 accused in Vijayawada terror links case",
       "Agniveers set to join services by Dec 31 as Centre prepares to rollout 2-year extension",
       "AP all set for CII Partnership Summit in Visakhapatnam on Nov 12-13",
       "'Ramayana' actor Indira's reacts to Sai's fight sequence: 'Never saw Sita as warrior'",
       "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "MH",
@@ -95,14 +75,33 @@
       "Manoj Bajpayee, Boman Irani and Divya Dutta’s Last Man in Tower to premiere on Hindi Zee 5 on November 6",
       "Singer Vishal Mishra buys four Mumbai apartments for Rs 22.25 crore in Lokhandwala"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 9,
+    "headlines": [
+      "Telangana to host Bharat Summit on November 13 and 14",
+      "Telangana govt seeks loan relief for farmers hit by El Niño-induced drought",
+      "Rahul Gandhi likely to address gig workers at Congress' Bharat summit in Hyderabad",
+      "Congress to host second Bharat Summit in Hyderabad from Nov 12 to 14",
+      "Telangana Women’s Commission questions 5 Hyderabad IVF centres over egg racket",
+      "Telangana Deputy CM asks banks to ease El Nino stress on farmers through restructuring of loans",
+      "From kaju katli to diyas, digital platforms capture Deepavali spending",
+      "Advanced  airfield ground lighting capability commissioned in Hyderabad Airport",
+      "Blackstone to buy about 16% stake in IIFL Finance for ₹5,000 crore"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 7,
+    "news_count": 8,
     "headlines": [
       "Tamil Nadu police step-up surveillance on habitual offenders",
       "Over 74 lakh voters missing from Tamil Nadu electoral rolls, says citizens’ collective",
@@ -110,9 +109,27 @@
       "3 workers die of suspected toxic gas inhalation at Tamil Nadu factory",
       "All TVK MLAs summoned to Chennai as CM Vijay set to chair key meeting tomorrow",
       "Karnataka reforms boost premium liquor sales in Q2; Tamil Nadu opens up",
-      "Tamil Nadu library book scam: DVAC inspects records in Chennai and Coimbatore"
+      "Tamil Nadu library book scam: DVAC inspects records in Chennai and Coimbatore",
+      "'Scene' BO: Joins Tamil films crossing Rs 100 cr worldwide in 3 days"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 7,
+    "headlines": [
+      "New estimates show farm fires may be vastly undercounted in Punjab, Haryana",
+      "AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year",
+      "Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown",
+      "Gurugram traffic police impounds motorcycle with pending challans worth  ₹4.06 Lakh",
+      "Haryana rights panel orders security review of police storerooms after theft of 32 firearms",
+      "India’s rice procurement down by 19 lakh tonne in October due to poor arrivals",
+      "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "UP",
@@ -128,67 +145,37 @@
       "BJP banking on grassroots worker outreach to assuage concerns in poll-bound Uttar Pradesh",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
-    "news_count": 6,
-    "headlines": [
-      "AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year",
-      "Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown",
-      "Gurugram traffic police impounds motorcycle with pending challans worth  ₹4.06 Lakh",
-      "Haryana rights panel orders security review of police storerooms after theft of 32 firearms",
-      "India’s rice procurement down by 19 lakh tonne in October due to poor arrivals",
-      "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "BR",
     "Lat": 25.0961,
     "Long": 85.3131,
     "State": "Bihar",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
-      "Patna Civic Body Raises Rs 200 Crore Via Bonds, Gets Listed On Stock Exchange",
+      "Bihar CM suspends 15 officers for negligence of duty",
+      "Bihar Cabinet hikes 3% DA for employees, pensioners",
       "CBSE, Bihar students gain as UP loses out in INSPIRE scholarship allocation overhaul",
       "Bihar govt bans firecrackers near ghats, private boat operations during Chhath Puja",
       "Patna Municipal Corporation lists Bihar’s first municipal bond on NSE",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "MP",
     "Lat": 22.9734,
     "Long": 78.6569,
     "State": "Madhya Pradesh",
-    "news_count": 5,
+    "news_count": 4,
     "headlines": [
-      "Woman visits 75-yr-old seeking loan, kills her and flees with jewellery in Bhopal",
       "MP's Hingot War tradition leaves 20 injured as participants clash during post-Diwali ritual in Indore",
       "12 killed in separate overnight Madhya Pradesh fires",
       "Diljit Dosanjh's Indore concert: Madhya Pradesh HC's Gwalior bench receives bomb threat email",
       "Diljit dismisses Indore concert cancellation rumours: 'I'll come, first I will eat some poha'"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Vande Mataram Row Escalates In Kerala, BJP Targets Kasaragod Collector",
-      "Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again",
-      "Woman found  murdered at Cheriyar in Idukki",
-      "Kerala checks petrol pumps for excess ethanol blending after Karnataka irregularities report"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "GJ",
@@ -202,20 +189,7 @@
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "SC seeks groundwater report on 3 industrial towns in Rajasthan",
-      "Rajasthan: Murder convict flies to Thailand for 5 days, warder suspended for faking attendance",
-      "Sariska lost all its tigers to poaching by 2005; relocation since 2008 has taken tiger count to 58"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "KA",
@@ -228,7 +202,33 @@
       "Karnataka govt stands by report of over 20% ethanol in petrol, questions oil firms' data on blending",
       "Karnataka reforms boost premium liquor sales in Q2; Tamil Nadu opens up"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 3,
+    "headlines": [
+      "Kerala PSC chairperson M.R. Baiju refuses to appear before Crime Branch again",
+      "Woman found  murdered at Cheriyar in Idukki",
+      "Kerala checks petrol pumps for excess ethanol blending after Karnataka irregularities report"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 3,
+    "headlines": [
+      "Hemant Soren recommends CBI probe into Nisha Bhagat’s death case",
+      "CM Hemant Soren orders CBI probe into Jharkhand tribal activist’s death; SHO suspended",
+      "Seven killed, 14 injured after speeding trailer rams into stationary funeral-bound vehicle in Jharkhand"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "JK",
@@ -240,7 +240,7 @@
       "Juvenile traced to Srinagar for sending fake Delhi Police notices targeting IFF, SFLC X accounts; Crime Branch registers FIR",
       "Red Fort blast, a year on: Doctor who wanted Sharia rule, and a plot born after a failed Afghanistan move"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "AR",
@@ -252,55 +252,7 @@
       "The Siang dam and a threatened homeland",
       "‘Today or tomorrow, Siang Dam will be built,’ says BJP MP amid protests in Arunachal Pradesh"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
-    "headlines": [
-      "Ex-Pakistan foreign minister Shah Mahmood Qureshi collapses in jail; hospitalised",
-      "AAP Block Samiti Member Allegedly Shoots Brother Dead In Amritsar Village"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "Kolkata police officer suspended for alleged WhatsApp remark against Bengal govt, CM Adhikari",
-      "Delhi Police summons Mamata Banerjee as witness in 13-year-old cases against rebel TMC leader Ritabrata"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "Ladakh announces hill council elections, but fails to assuage protesting civil society groups",
-      "Kargil shuts down against winter polls as SEC announces December 4 election date"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
-    "headlines": [
-      "Manipur high court suspends census till April 30 amid NRC update demand",
-      "Rahul Gandhi likely to visit Manipur in November-end"
-    ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "OD",
@@ -312,7 +264,55 @@
       "Odisha Cabinet approves free Wi-Fi scheme for colleges, lifts civil services exam attempt cap",
       "Odisha cabinet approves proposal for  ₹4,708-crore pumped storage project"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 2,
+    "headlines": [
+      "Kolkata police officer suspended for alleged WhatsApp remark against Bengal govt, CM Adhikari",
+      "Delhi Police summons Mamata Banerjee as witness in 13-year-old cases against rebel TMC leader Ritabrata"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 2,
+    "headlines": [
+      "Ladakh announces hill council elections, but fails to assuage protesting civil society groups",
+      "Kargil shuts down against winter polls as SEC announces December 4 election date"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 2,
+    "headlines": [
+      "Manipur high court suspends census till April 30 amid NRC update demand",
+      "Rahul Gandhi likely to visit Manipur in November-end"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 2,
+    "headlines": [
+      "SC seeks groundwater report on 3 industrial towns in Rajasthan",
+      "Sariska lost all its tigers to poaching by 2005; relocation since 2008 has taken tiger count to 58"
+    ],
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "CT",
@@ -323,7 +323,7 @@
     "headlines": [
       "Chhattisgarh man kills 4-year-old relative, removes organs to sell online"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "AS",
@@ -334,18 +334,18 @@
     "headlines": [
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
     "news_count": 1,
     "headlines": [
-      "Seven killed, 14 injured after speeding trailer rams into stationary funeral-bound vehicle in Jharkhand"
+      "Ex-Pakistan foreign minister Shah Mahmood Qureshi collapses in jail; hospitalised"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   },
   {
     "Code": "UT",
@@ -356,6 +356,6 @@
     "headlines": [
       "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy"
     ],
-    "last_updated": "2026-11-11 12:53:47 AM"
+    "last_updated": "2026-11-11 05:50:16 AM"
   }
 ]
