@@ -4,41 +4,39 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 40,
+    "news_count": 38,
     "headlines": [
-      "Complete data could've raised average Diwali pollution level 49%",
-      "Rare right whale calf spotted with 38-year-old mother; season total rises to 24",
+      "Complete data could've raised average Delhi Diwali pollution level by 49%",
       "3 CRPF men wounded as terrorists strike patrol in south Kashmir",
-      "4 coaches of Chauri Chaura Express derail at Kanpur Central station",
-      "Delhi Boy Falls Into Sewer, Dismembered Body Found In Water Treatment Plant",
-      "Why Delhi Looked Less Hazy This Diwali Despite Worse Air Quality",
+      "Former West Bengal Minister Ujjal Biswas Dies At 72",
+      "Meet 2 Delhi Teens Who Turn Classroom Fans Into Rs 140 Air Purifiers",
+      "National Tribal Literary Festival begins today in Delhi",
+      "Delhi govt plans AI overhaul of e-district system",
       "Two Special Police Officers go missing in J-K's Kishtwar, search operation underway",
       "Noida, Ghaziabad order hybrid classes up to Class 5 amid stricter pollution curbs",
       "Moments before train derailment in Assam, video captures loco pilot struggling to control Sairang Express",
       "Centre raises fertiliser subsidy budget by 64% to  ₹62,370 crore amid West Asia crisis",
+      "Cabinet clears  ₹2,390-crore Noida Metro extension; Blue, Aqua lines get new link",
       "Sonia Gandhi to mark release of memoir ‘Belonging: A journey of love’ at Delhi event next week",
       "SC slams forum shopping, transfers commercial lawsuit from Delhi HC to Madras HC",
       "Delhi Pollution: Congress delegation targets BJP govt after LNJP hospital visit, flags rise in respiratory ailments",
       "Delhi HC says passengers can pursue civil or criminal remedies for airline staff misconduct",
+      "Rain deficit, reduced fertiliser use due to West Asia conflict drive up price of rice",
       "4-year-old boy dies after falling into open sewer manhole in outer Delhi's Ranhola",
       "Mamata Banerjee's brother showers praise on West Bengal CM Suvendu Adhikari: ‘Want him to be CM again’",
       "Valid multiple-entry tourist visa doesn’t guarantee entry into India: Delhi high court",
       "US officials visit India to hold talks on proposed BTA",
       "Govt hits out at Chinese vloggers using B’desh clips to defame India",
       "Fabricated, malicious, frivolous: Govt rejects lawsuit by separatist",
-      "Awaiting report on Waris Punjab de’s separatist link claims: Election Commission of India",
-      "New estimates show farm fires may be vastly undercounted in Punjab, Haryana",
-      "Delhi SIR: Form 6 applications cross 3L-mark after draft roll excludes 47.5 lakh voters",
       "Crude oil prices may fall to $75 by December as West Asia tensions ease",
       "Nutrifresh plans 150-acre expansion across South India",
       "From Dubai LTC to ₹50 lakh children’s education loan, West Bengal govt announces festival bonanza for IAS officers",
       "EVs to be ‘default and preferred choice’ for staff car purchases by Central Ministries, Depts",
-      "No Iranian assurance yet on safe passage for Indian ships through Strait of Hormuz",
-      "Two South Korean automotive companies to collectively invest ₹1,370 crore in Tamil Nadu",
+      "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "‘He surely knew’: Broad takes aim at Lehmann as Sandpapergate row erupts again",
+      "Axar Patel reluctant to lead, Delhi Capitals in a fix ahead of IPL auction",
       "Nora Fatehi’s appearance in Sukesh Chandrashekhar Case comes under scrutiny as defence prepares for cross-examination",
       "Amitabh Bachchan wins personality rights case; Delhi High Court passes final decree after four defendants settle",
       "Delhi High Court rules Doosra infringed Sourav Ganguly's personality rights, directs makers to deposit Rs. 2 crores",
@@ -47,51 +45,7 @@
       "A German submarine that sank off Denmark in 1917 still holds over 4,400 pounds of TNT; scientists find explosive leaking into North Sea",
       "South Carolina's 229-acre White Tract to be conserved after 20-year fight against housing development"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 14,
-    "headlines": [
-      "India pacer Arshdeep, Samreen get engaged in New Zealand; pics go viral",
-      "Mumbai to get 5 more air monitoring stations, all inside gardens",
-      "Video: Cop Dragged 200 Metres By Car With Fake Number Plate In Navi Mumbai",
-      "Navi Mumbai recognised as India’s cleanest city in latest Swachh Survekshan",
-      "Three Maharashtra Beaches receive international Blue Flag certification for the first time",
-      "‘Things will become clear with time’: Sunetra Pawar amid NCP merger speculation",
-      "Maharashtra CM Fadnavis defends UCC move, says NCP merger issue rests with Pawars",
-      "Maharashtra govt opposes shifting of flights from Mumbai, bats for phased redevelopment of Terminal 1",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "'Need to find a replacement': Irfan flags PBKS' weak link after Hardik-Arshdeep trade",
-      "'My captain Shreyas, my coach Ricky': Hardik's first comment after joining PBKS",
-      "‘Makes much stronger’: Irfan explains how Arshdeep trade could transform MI",
-      "Amitabh Bachchan’s Juhu bungalow Jalsa among locations named in bomb threat email: Report",
-      "Ranveer Singh’s Pralay shoot sparks BIG controversy at Mumbai’s Azad Maidan; Under-14 and Under-16 cricket matches POSTPONED; MCA FUMES over disruption"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 10,
-    "headlines": [
-      "Great Trigonometrical Survey stations in Tamil Nadu documented, published in five volumes",
-      "Low-pressure area likely to form over Bay of Bengal, ease rain deficit in State",
-      "Farmer found dead in Ranipet",
-      "Govt. clears infrastructure works for ₹376 crore across State; roads set for upgrade",
-      "CM Vijay chairs closed-door meeting with TVK MLAs amid Opposition's criticism over law and order",
-      "Combining AI with GIS to solve real-time farm problems - the Farmwise AI way",
-      "Nutrifresh plans 150-acre expansion across South India",
-      "Two South Korean automotive companies to collectively invest ₹1,370 crore in Tamil Nadu",
-      "Anirudh marries Kavya in grand Greece ceremony; shares first wedding pictures",
-      "Priya Bhavani Shankar shares first wedding pictures with husband Rajvel Raj"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "AP",
@@ -100,69 +54,132 @@
     "State": "Andhra Pradesh",
     "news_count": 9,
     "headlines": [
+      "NTR Health University scrutinises 1,622 applications for UG research programme",
       "Swachh Survekshan: Guntur wins ‘Super Swachh League’ award",
       "CM Naidu urges Singapore to focus on integrated model township in Andhra Pradesh",
-      "Chittoor, Annamayya mango growers fear dry spell, rainfall deficit likely to impact 2027 yields",
-      "Cyclone Murasu damages over 274 hectares of crop area in Prakasam district",
       "BJD questions SIR credibility over alleged dual voter IDs in villages bordering Odisha, Andhra Pradesh",
       "Amit Shah to inaugurate two-day CII-Partnership Summit in Vizag tomorrow",
       "‘Preserve amputated leg of chainsaw attack accused’: Andhra Pradesh HC orders hospital",
+      "ReNew to invest ₹29,500 cr in 2 new projects in Andhra Pradesh",
       "UAE firms to invest in food processing in Andhra Pradesh",
       "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
     "news_count": 9,
     "headlines": [
-      "Badal attacks Punjab Cong leaders over Sonia's clean chit to 'killers of Sikhs'",
-      "India pacer Arshdeep, Samreen get engaged in New Zealand; pics go viral",
-      "Punjab Cop Faces Probe After Viral Video Shows Heroin Found In His Pocket",
-      "'Chain Down, Tyres Punctured': Charanjit Channi's Cycle Yatra Runs Into Punjab Congress Disunity",
-      "Punjab polls: Congress begins campaign; BJP takes a dig",
-      "Awaiting report on Waris Punjab de’s separatist link claims: Election Commission of India",
-      "'Need to find a replacement': Irfan flags PBKS' weak link after Hardik-Arshdeep trade",
-      "'My captain Shreyas, my coach Ricky': Hardik's first comment after joining PBKS",
-      "‘Makes much stronger’: Irfan explains how Arshdeep trade could transform MI"
+      "Great Trigonometrical Survey stations in Tamil Nadu documented, published in five volumes",
+      "Low-pressure area likely to form over Bay of Bengal, ease rain deficit in State",
+      "Farmer found dead in Ranipet",
+      "Govt. clears infrastructure works for ₹376 crore across State; roads set for upgrade",
+      "CM Vijay chairs closed-door meeting with TVK MLAs amid Opposition's criticism over law and order",
+      "Combining AI with GIS to solve real-time farm problems - the Farmwise AI way",
+      "Nutrifresh plans 150-acre expansion across South India",
+      "Anirudh marries Kavya in grand Greece ceremony; shares first wedding pictures",
+      "Priya Bhavani Shankar shares first wedding pictures with husband Rajvel Raj"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 9,
+    "headlines": [
+      "Navi Mumbai recognised as India’s cleanest city in latest Swachh Survekshan",
+      "‘You will know at the right time’: Sunetra Pawar amid buzz on merger of NCP factions",
+      "‘Things will become clear with time’: Sunetra Pawar amid NCP merger speculation",
+      "Maharashtra govt opposes shifting of flights from Mumbai, bats for phased redevelopment of Terminal 1",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "India pacer Arshdeep, Samreen get engaged in New Zealand; pics go viral",
+      "'Need to find a replacement': Irfan flags PBKS' weak link after Hardik-Arshdeep trade",
+      "Amitabh Bachchan’s Juhu bungalow Jalsa among locations named in bomb threat email: Report",
+      "Ranveer Singh’s Pralay shoot sparks BIG controversy at Mumbai’s Azad Maidan; Under-14 and Under-16 cricket matches POSTPONED; MCA FUMES over disruption"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 7,
+    "headlines": [
+      "Former West Bengal Minister Ujjal Biswas Dies At 72",
+      "Thousands struggling without water after a major leak in a pipeline in Kolkata’s Tala area",
+      "Woman found dead at locked flat in Baranagar; police suspect sexual assault",
+      "Ex-Bengal minister Ujjal Biswas dies at Kolkata hospital after prolonged illness",
+      "Moments before train derailment in Assam, video captures loco pilot struggling to control Sairang Express",
+      "Mamata Banerjee's brother showers praise on West Bengal CM Suvendu Adhikari: ‘Want him to be CM again’",
+      "From Dubai LTC to ₹50 lakh children’s education loan, West Bengal govt announces festival bonanza for IAS officers"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 5,
+    "headlines": [
+      "Kerala Mercedes Crash Victim's Family Challenges Teen Driver's Bail",
+      "Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24",
+      "Daughter of Cheranalloor accident victim files review petition before Kerala High Court",
+      "Cusat Syndicate member approaches Kerala High Court against employees’ strike",
+      "Keralam: Award-winning farmer held for smuggling drugs hidden in banana bunches"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 7,
+    "news_count": 5,
     "headlines": [
+      "Haryana Congress to launch campaign to protect people’s voting rights, says Sanjay Dutt",
       "Punjab polls: Congress begins campaign; BJP takes a dig",
       "Gurugram bans coal, wood-fired tandoors at hotels and eateries under revised GRAP norms to curb pollution",
       "Two 12-year-old girls drown in water body at Gurugram golf course",
-      "New estimates show farm fires may be vastly undercounted in Punjab, Haryana",
-      "AR Rahman's Gurugram concert postponed over ‘unforeseen circumstances’, rescheduled for next year",
-      "Gurugram traffic policemen, homeguards to be transferred every 60 days after Diwali 'gift' demand leads to crackdown",
       "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 6,
+    "news_count": 5,
     "headlines": [
+      "First phase of Musi rejuvenation to begin shortly, says Telangana CM Revath",
       "Norwegian journalist Helle Lyng says she has been stopped from coming to Hyderabad for Bharat Summit",
       "HC directs Malkajgiri Police Commissioner to ‘ensure presence’ of Medchal Malkajgiri Collector before bench in contempt case",
-      "First phase of Musi rejuvenation to begin shortly, says Telangana CM Revath",
-      "Woman dies after falling from moving bus in Adilabad district",
-      "KTR accuses Congress, BJP of neglecting Telangana farmers’, seeks pending Rythu Bandhu dues, drought relief",
+      "Telangana to introduce 10+2 system in all state-run schools from 2027-28 to prevent dropouts, says CM Revanth Reddy",
       "Nutrifresh plans 150-acre expansion across South India"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 5,
+    "headlines": [
+      "'Mumbai were keen on Arshdeep': Ness Wadia reveals how Hardik trade materialised",
+      "Punjab polls: Congress begins campaign; BJP takes a dig",
+      "IPL: Hardik Pandya, Arshdeep Singh swap jerseys",
+      "India pacer Arshdeep, Samreen get engaged in New Zealand; pics go viral",
+      "'Need to find a replacement': Irfan flags PBKS' weak link after Hardik-Arshdeep trade"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "JK",
@@ -172,41 +189,12 @@
     "news_count": 5,
     "headlines": [
       "Kulgam terror attack: Chilling CCTV video captures CRPF jawans dodging bullets",
-      "Who is Samreen Kaur? Meet the J&amp;K actor-model engaged to India pacer Arshdeep",
-      "Kulgam terror attack: Terrorists were on motorcycle, opened fire on jawans, one critical",
+      "Army weighs posting Agniveers to RR units in Jammu and Kashmir",
       "Two Special Police Officers go missing in J-K's Kishtwar, search operation underway",
-      "Motorcycle-borne terrorists attack CRPF team in J-K’s Kulgam; 3 jawans injured"
+      "Motorcycle-borne terrorists attack CRPF team in J-K’s Kulgam; 3 jawans injured",
+      "Who is Samreen Kaur? Meet the J&amp;K actor-model engaged to India pacer Arshdeep"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 5,
-    "headlines": [
-      "Possessive partner, adoption twist: What cops found in Kolkata techie murder case",
-      "Woman found dead at locked flat in Baranagar; police suspect sexual assault",
-      "Moments before train derailment in Assam, video captures loco pilot struggling to control Sairang Express",
-      "Mamata Banerjee's brother showers praise on West Bengal CM Suvendu Adhikari: ‘Want him to be CM again’",
-      "From Dubai LTC to ₹50 lakh children’s education loan, West Bengal govt announces festival bonanza for IAS officers"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 4,
-    "headlines": [
-      "Kerala High Court orders government to ready adequate medicines, vehicles at mental health centres by November 24",
-      "Daughter of Cheranalloor accident victim files review petition before Kerala High Court",
-      "Cusat Syndicate member approaches Kerala High Court against employees’ strike",
-      "Keralam: Award-winning farmer held for smuggling drugs hidden in banana bunches"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "UP",
@@ -220,7 +208,7 @@
       "Akhilesh’s Ayodhya visit: BJP to focus on SP’s Ram Temple stance, 1990 firing",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "KA",
@@ -233,20 +221,7 @@
       "Bengaluru taxi unions oppose Vietnamese private electric taxi aggregator’s entry into Karnataka",
       "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 3,
-    "headlines": [
-      "Combining AI with GIS to solve real-time farm problems - the Farmwise AI way",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "AS",
@@ -259,7 +234,46 @@
       "'Train moved 1 km after derailing’: Pantry manager recounts Assam train accident",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 3,
+    "headlines": [
+      "‘SOS’ call from Ladakh leaders &amp; Wangchuk, to President, PM and HM for poll deferment",
+      "Amid call for Ladakh protest, CEO prohibits dharnas in Leh, Kargil over upcoming polls",
+      "Ladakh activists seek to postpone December 4 council polls citing harsh winters"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bribery accused govt official reinstated at same hospital, Supreme Court questions Bihar",
+      "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 3,
+    "headlines": [
+      "Combining AI with GIS to solve real-time farm problems - the Farmwise AI way",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "RJ",
@@ -271,43 +285,7 @@
       "Man, son held for uploading fake bail orders on Rajasthan HC website",
       "14-year-old falls into Bikaner water tank while fetching water, 3 jump in to rescue her, all 4 drown"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "MZ",
-    "Lat": 23.1645,
-    "Long": 92.9376,
-    "State": "Mizoram",
-    "news_count": 2,
-    "headlines": [
-      "Mizoram govt making every effort to protect, uplift farmers: Lalduhoma",
-      "Moments before train derailment in Assam, video captures loco pilot struggling to control Sairang Express"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 2,
-    "headlines": [
-      "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 2,
-    "headlines": [
-      "‘SOS’ call from Ladakh leaders &amp; Wangchuk, to President, PM and HM for poll deferment",
-      "Amid call for Ladakh protest, CEO prohibits dharnas in Leh, Kargil over upcoming polls"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "OD",
@@ -319,7 +297,19 @@
       "BJD questions SIR credibility over alleged dual voter IDs in villages bordering Odisha, Andhra Pradesh",
       "Odisha signs friendship agreement with Japan's Tottori Prefecture to boost trade, tourism"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
+  },
+  {
+    "Code": "MZ",
+    "Lat": 23.1645,
+    "Long": 92.9376,
+    "State": "Mizoram",
+    "news_count": 2,
+    "headlines": [
+      "Mizoram govt making every effort to protect, uplift farmers: Lalduhoma",
+      "Moments before train derailment in Assam, video captures loco pilot struggling to control Sairang Express"
+    ],
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "CH",
@@ -330,7 +320,7 @@
     "headlines": [
       "Punjab polls: Congress begins campaign; BJP takes a dig"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "GA",
@@ -341,18 +331,7 @@
     "headlines": [
       "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
-  },
-  {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
-    "news_count": 1,
-    "headlines": [
-      "CM Hemant Soren orders CBI probe into Jharkhand tribal activist’s death; SHO suspended"
-    ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "MP",
@@ -363,7 +342,7 @@
     "headlines": [
       "Diljit Dosanjh's Indore concert receives fresh bomb threat, Gwalior High Court also targeted"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "MN",
@@ -374,7 +353,7 @@
     "headlines": [
       "Cong MP Angomcha Bimol Akoijam in sex abuse row on Manipur poll panels"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   },
   {
     "Code": "UT",
@@ -385,6 +364,6 @@
     "headlines": [
       "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy"
     ],
-    "last_updated": "2026-11-12 03:53:24 AM"
+    "last_updated": "2026-11-12 09:00:20 AM"
   }
 ]
