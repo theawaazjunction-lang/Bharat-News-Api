@@ -7,9 +7,10 @@
     "news_count": 25,
     "headlines": [
       "Mississippi's Masala moment: A historic Black victory in America’s Deep South",
-      "West Virginia sues Snapchat over chatbot's alleged dangerous advice to teenagers",
       "‘It could well be KL Rahul’: Ex-cricketer on DC captaincy plans after Pant trade",
-      "In Sonia Gandhi's 'Belonging', The Delhi Of 'Chashme Buddoor': How A Lost City Is A Character In Both",
+      "Delhi Traffic Police Announce Restrictions, Diversions For Chhath Puja",
+      "Sukhbir Badal likely to meet Amit Shah on November 13, SAD-BJP alliance may be announced this month",
+      "West Bengal government to appoint coordinators if stay on civic polls not lifted, says CM Adhikari",
       "Central team to visit districts affected by Murasu cyclone",
       "Siddhasiri cooperative society urges people not to panic following reports over its financial health",
       "PM Modi to visit Philippines for Asean-India Summit, East Asia Summit",
@@ -18,7 +19,6 @@
       "National Tribal Literary Festival begins today in Delhi",
       "Delhi govt plans AI overhaul of e-district system",
       "Two Special Police Officers go missing in J-K's Kishtwar, search operation underway",
-      "Noida, Ghaziabad order hybrid classes up to Class 5 amid stricter pollution curbs",
       "AP most suitable region for trade with ASEAN, East Asia & Indo-Pacific countries: Sarbananda Sonowal",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
@@ -32,7 +32,7 @@
       "A German submarine that sank off Denmark in 1917 still holds over 4,400 pounds of TNT; scientists find explosive leaking into North Sea",
       "South Carolina's 229-acre White Tract to be conserved after 20-year fight against housing development"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "AP",
@@ -53,7 +53,7 @@
       "Andhra Pradesh targets 50% women’s workforce participation, says Chandrababu Naidu",
       "Amaal Mallik questions blaming violent films for Andhra Pradesh chainsaw attack; says he enjoyed “Animal, Kabir Singh, Dhurandhar and KGF”"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "MH",
@@ -72,68 +72,106 @@
       "Amitabh Bachchan’s Juhu bungalow Jalsa among locations named in bomb threat email: Report",
       "Ranveer Singh’s Pralay shoot sparks BIG controversy at Mumbai’s Azad Maidan; Under-14 and Under-16 cricket matches POSTPONED; MCA FUMES over disruption"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "KL",
     "Lat": 10.8505,
     "Long": 76.2711,
     "State": "Kerala",
-    "news_count": 6,
+    "news_count": 8,
     "headlines": [
+      "Chief Of Congress-Allied Kerala Group Arrested In Extortion Case",
+      "Three of Malappuram family killed in Fujairah road crash",
+      "Eye donation awareness programme organised at Ernakulam MCH",
       "CPI(M) leader P. Rajeeve flays police action against protesters in Keralam’s Thiruvananthapuram",
       "State to file fresh affidavit in Kerala High Court on bar licences: Excise Minister",
       "Third edition of Asian Stroke Summer School begins in Thiruvananthapuram",
       "Kerala High Court says it may order medical board examination to verify Tomin Thachankary’s illnesses",
-      "Vettucaud Church feast in Keralam to get under way on November 13",
-      "Keralam govt. to transform start-up mission to a ‘scale-up mission’, says Chief Minister V.D. Satheesan"
+      "Vettucaud Church feast in Keralam to get under way on November 13"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 5,
-    "headlines": [
-      "Karnataka can never build a dam at Mekedatu, says Minister",
-      "PLI schemes attract ₹2.40 lakh crore investment, generate ₹22.66 lakh crore production",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra",
-      "Tinnu Anand DISCHARGED from hospital after being in ICU for fractured ribs, punctured lung"
-    ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "TN",
     "Lat": 11.1271,
     "Long": 78.6569,
     "State": "Tamil Nadu",
-    "news_count": 5,
+    "news_count": 7,
     "headlines": [
+      "TNPDCL seeks nod to procure 3,000 MW",
+      "Gang held for possession of 500 kg red sanders near Sholinghur in Ranipet",
       "Five e-scooters catch fire in Ranipet",
       "Integrated draft electoral rolls released in Cuddalore, Villupuram and Kallakurichi",
       "Major gold heist at Tanishq jewellery showroom in Madurai",
       "Brazil’s WEG chooses Dharmapuri for ₹2,000-crore global manufacturing facility",
       "Trichy man goes missing in Malaysia flash flood; family seeks Tamil Nadu govt's intervention"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
+    "news_count": 7,
+    "headlines": [
+      "Bodies of 2 missing SPOs found with bullet wounds in J&amp;K’s Kishtwar forest",
+      "2 missing SPOs found shot dead in Jammu and Kashmir's Kishtwar",
+      "Meagre pay, no retirement benefits, but in the line of fire: SPOs flag struggles after Kishtwar attack",
+      "SPOs and their role in J&K’s security operations in focus after 2 found dead in Kishtwar",
+      "Two Special Police Officers who went missing during patrol in J&K’s Kishtwar found dead",
+      "Army weighs posting Agniveers to RR units in Jammu and Kashmir",
+      "Two Special Police Officers go missing in J-K's Kishtwar, search operation underway"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "TG",
     "Lat": 18.1124,
     "Long": 79.0193,
     "State": "Telangana",
-    "news_count": 5,
+    "news_count": 6,
     "headlines": [
+      "Norwegian journalist claims MHA cancelled her visa for Hyderabad event",
       "Khammam MP proposes two works worth  ₹50 lakh under MPLADS to promote eco-tourism at Srinivasagiri",
       "Hyderabad Police launch AI platform to map accused persons and criminal networks",
       "Telangana to introduce 10+2 system in all state-run schools from 2027-28 to prevent dropouts, says CM Revanth Reddy",
       "ITC strengthens presence in copier paper category, launches Carte Lumina Copier",
       "Sekhar Master escapes unhurt after lorry hits car in Telangana accident"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "LA",
+    "Lat": 34.2996,
+    "Long": 78.2932,
+    "State": "Ladakh",
+    "news_count": 6,
+    "headlines": [
+      "Wangchuk under ‘house arrest’ as Ladakh rallies against hill council polls in winter",
+      "'I am under house arrest': Wangchuk speaks out against restrictions on movement in Ladakh",
+      "Sonam Wangchuk Claims \"House Arrest\" Amid Planned Ladakh Protest",
+      "Restrictions on me arbitrary, vague: Sonam Wangchuk",
+      "Ladakh civil society group begins protest over Home Ministry failure to hold talks",
+      "Ladakh activists seek to postpone December 4 council polls citing harsh winters"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 5,
+    "headlines": [
+      "Karnataka to write to Prime Minister asking for inclusion of enhanced quota in Ninth Schedule",
+      "Karnataka can never build a dam at Mekedatu, says Minister",
+      "Karnataka targets 24 GW power capacity in five years; plans over ₹3 lakh crore investment",
+      "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police",
+      "Karnataka seeks to blacklist L&T over delay in drinking water project"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "HR",
@@ -148,50 +186,48 @@
       "Gurugram bans coal, wood-fired tandoors at hotels and eateries under revised GRAP norms to curb pollution",
       "Ajay Devgn’s Devgn CineX expands footprint with new multiplexes in Gurugram and Rajkot"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 5,
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
+    "news_count": 4,
     "headlines": [
-      "Meagre pay, no retirement benefits, but in the line of fire: SPOs flag struggles after Kishtwar attack",
-      "SPOs and their role in J&K’s security operations in focus after 2 found dead in Kishtwar",
-      "Two Special Police Officers who went missing during patrol in J&K’s Kishtwar found dead",
-      "Army weighs posting Agniveers to RR units in Jammu and Kashmir",
-      "Two Special Police Officers go missing in J-K's Kishtwar, search operation underway"
+      "Government confident of holding polls in violence-hit Manipur on time",
+      "In Manipur, Woman Shot Dead, Two Men Injured In Firing At Taphou Village In Kangpokpi",
+      "Manipur: Woman killed, 2 injured as armed people open fire at farmers in Senapati paddy field",
+      "Woman shot dead, man injured in gunfight between suspected militants in Manipur"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
     "news_count": 4,
     "headlines": [
       "Karnataka can never build a dam at Mekedatu, says Minister",
-      "Karnataka targets 24 GW power capacity in five years; plans over ₹3 lakh crore investment",
-      "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police",
-      "Karnataka seeks to blacklist L&T over delay in drinking water project"
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra",
+      "Tinnu Anand DISCHARGED from hospital after being in ICU for fractured ribs, punctured lung"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
-    "news_count": 4,
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
+    "news_count": 3,
     "headlines": [
-      "Wangchuk under ‘house arrest’ as Ladakh rallies against hill council polls in winter",
-      "'I am under house arrest': Wangchuk speaks out against restrictions on movement in Ladakh",
-      "Ladakh civil society group begins protest over Home Ministry failure to hold talks",
-      "Ladakh activists seek to postpone December 4 council polls citing harsh winters"
+      "West Bengal government to appoint coordinators if stay on civic polls not lifted, says CM Adhikari",
+      "KMC says demolished makeshift shade in front of Abhishek Banerjee's Kolkata house, Mamata's TMC counters",
+      "Ex-Bengal minister Ujjal Biswas dies at Kolkata hospital after prolonged illness"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "UT",
@@ -204,7 +240,33 @@
       "Uttarakhand Police write to CBI for 2003 case files in fresh rape complaint against Congress leader",
       "Bombay High Court grants interim relief to Naagzilla consultant Kuldeep Singh Champawat in Rs. 3.92 cr financial irregularity case; no role attributed to him in payment hierarchy"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Punjab Assembly polls: AAP releases second list of candidates",
+      "AAP announces second list of 31 candidates for Punjab Assembly elections",
+      "HT Morning News Brief November 12: Nvidia CEO's ‘affairs’, Hardik Pandya's Punjab Kings move and more"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 3,
+    "headlines": [
+      "Rajasthan SSR draft counts 1 1 L more voters than SIR list",
+      "Three killed as speeding SUV hits people changing tyre on Delhi-Mumbai Expressway in Alwar",
+      "25-year-old with 15 criminal cases chased in Fortuner, hacked to death in Jaipur residential area"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "BR",
@@ -217,32 +279,7 @@
       "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "Three killed as speeding SUV hits people changing tyre on Delhi-Mumbai Expressway in Alwar",
-      "25-year-old with 15 criminal cases chased in Fortuner, hacked to death in Jaipur residential area",
-      "Man, son held for uploading fake bail orders on Rajasthan HC website"
-    ],
-    "last_updated": "2026-11-13 01:14:15 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
-    "headlines": [
-      "Manipur: Woman killed, 2 injured as armed people open fire at farmers in Senapati paddy field",
-      "Woman shot dead, man injured in gunfight between suspected militants in Manipur"
-    ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "AS",
@@ -254,31 +291,7 @@
       "Assam Draft Electoral Roll Has 2.19 Lakh More Voters Than February List",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
-  },
-  {
-    "Code": "AR",
-    "Lat": 28.218,
-    "Long": 94.7278,
-    "State": "Arunachal Pradesh",
-    "news_count": 2,
-    "headlines": [
-      "3 Minors Among 4 Killed In Massive Fire In Arunachal's Kurung Kumey",
-      "Four, including three children, killed as fire guts 25 houses in Arunachal’s Kurung Kumey"
-    ],
-    "last_updated": "2026-11-13 01:14:15 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "KMC says demolished makeshift shade in front of Abhishek Banerjee's Kolkata house, Mamata's TMC counters",
-      "Ex-Bengal minister Ujjal Biswas dies at Kolkata hospital after prolonged illness"
-    ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "MP",
@@ -290,7 +303,7 @@
       "Jewellery worth  ₹12 crore stolen from Madhya Pradesh showroom, thieves break in through wall: Police",
       "Diljit Dosanjh's Indore concert receives fresh bomb threat, Gwalior High Court also targeted"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "OD",
@@ -302,19 +315,18 @@
       "BJD questions SIR credibility over alleged dual voter IDs in villages bordering Odisha, Andhra Pradesh",
       "Odisha signs friendship agreement with Japan's Tottori Prefecture to boost trade, tourism"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 2,
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
     "headlines": [
-      "AAP announces second list of 31 candidates for Punjab Assembly elections",
-      "HT Morning News Brief November 12: Nvidia CEO's ‘affairs’, Hardik Pandya's Punjab Kings move and more"
+      "4 High Court Chief Justice appointments yet to get govt nod; 2 vacancies loom"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "GA",
@@ -325,7 +337,40 @@
     "headlines": [
       "Bihar man held for raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case: Goa police"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 1,
+    "headlines": [
+      "Chhattisgarh liquor case key accused held in UAE"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "AR",
+    "Lat": 28.218,
+    "Long": 94.7278,
+    "State": "Arunachal Pradesh",
+    "news_count": 1,
+    "headlines": [
+      "Four, including three children, killed as fire guts 25 houses in Arunachal’s Kurung Kumey"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
+  },
+  {
+    "Code": "ML",
+    "Lat": 25.467,
+    "Long": 91.3662,
+    "State": "Meghalaya",
+    "news_count": 1,
+    "headlines": [
+      "4 Food Stalls Destroyed In Fire At Shillong Literary Fest Venue"
+    ],
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "MZ",
@@ -336,18 +381,18 @@
     "headlines": [
       "Mizoram to GPS-track rice trucks, link ePoS with weighing scales to plug leakage in ration shops"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
-    "Code": "ML",
-    "Lat": 25.467,
-    "Long": 91.3662,
-    "State": "Meghalaya",
+    "Code": "LD",
+    "Lat": 10.0,
+    "Long": 73.0,
+    "State": "Lakshadweep",
     "news_count": 1,
     "headlines": [
-      "Petrol Pumps Across Guwahati Observe 24-Hour Shutdown, Meghalaya Sees Rush"
+      "Private passenger ship service between Beypore and Lakshadweep soon"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   },
   {
     "Code": "UP",
@@ -358,6 +403,6 @@
     "headlines": [
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-13 01:14:15 AM"
+    "last_updated": "2026-11-13 06:19:31 AM"
   }
 ]
