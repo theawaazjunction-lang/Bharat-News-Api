@@ -4,11 +4,13 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 19,
+    "news_count": 20,
     "headlines": [
+      "Man Wanted In Delhi Bar Firing Shot In Leg During Encounter",
+      "Construction activities on Kaziranga wildlife corridors flagged",
+      "Kochi Corporation to seek govt. relief for building tax defaulters",
       "Congress approves of SIR in Andamans and South but opposes it elsewhere: BJP",
       "World needs peace, stability, predictability: Modi in Manila",
-      "Skilled-worker shortage pushes up cyclone repair costs in coastal Andhra",
       "CJP's Saurav Das submits address proof to SEM court: 'Condition is Delhi Police won't leak it'",
       "PM Modi calls for initiative on seafarers’ safety at East Asia Summit amid maritime threats",
       "Bird flu detected at two farms in Kerala’s Alappuzha; 26,000 birds to be culled",
@@ -17,7 +19,6 @@
       "Old age benefit, assistance for courses: Shipping authority's measures for seafarers after west Asia crisis",
       "Cyclone Akvan LIVE: 7 Andhra districts on red alert ahead of November 20 landfall; Odisha flags landslide-prone villages",
       "Transfer of oil and gas block in Gujarat to ONGC will send wrong signal, says Anil Agarwal",
-      "South Korean shares close at over 9-month low on Nvidia caution",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
@@ -26,37 +27,17 @@
       "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China",
       "Opening Of Ann Francis Padlock: X-ray scans reveal ANCE code; meaning still unknown"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 11,
-    "headlines": [
-      "Cyclone Akvan: RMC forecasts moderate rainfall for Chennai on Wednesday",
-      "Police recover all the jewellery stolen from Tanishq showroom in Madurai",
-      "Goondas Act invoked on history-sheeter in Cuddalore",
-      "Madurai showroom heist: Tattoo clue led police to YouTuber who stole 11.3 kg jewellery",
-      "‘Have they read SC order': Shivakumar hits out at Tamil Nadu Oppn parties opposing Mekedatu project",
-      "TN library case: Chennai publisher arrested over procuring AI-generated books",
-      "MS Dhoni is new mentor of Chennai Super Kings, retires from playing IPL",
-      "'A leader, a finisher': Cricket fraternity celebrates MS Dhoni's CSK legacy",
-      "'Simplicity': Gaikwad reveals the biggest lesson MS Dhoni taught him at CSK",
-      "MS Dhoni at CSK: 5 titles, 10 finals and a new role ahead of IPL 2027",
-      "'Best decision I ever took': Srinivasan's tribute to Dhoni after IPL retirement"
-    ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 11,
+    "news_count": 12,
     "headlines": [
-      "\"Papa, We Will Die\": Maharashtra Man Throws Sons, 5 And 7, Into Canal",
+      "No SpiceJet Departures Since 7 pm, Hundreds Of Passengers Stranded In Mumbai",
+      "Earthshot Prize: Climate action needs innovation, global cooperation, say leaders on green carpet in Mumbai",
       "Maharashtra MLC Satyajit Tambe hits out at Rohit Pawar over allegations against CM Fadnavis",
       "Maharashtra likely to declare 10 more talukas drought-hit; around 1 crore farmers get  ₹5,000 advance",
       "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
@@ -68,44 +49,68 @@
       "Sonakshi Sinha files complaint over morphed photos, Delhi man released by Mumbai court",
       "SHOCKING: Amitabh Bachchan's Jalsa at centre of family DISPUTE; sister-in-law Ramola challenges gift deed transferring iconic bungalow to Jaya Bachchan"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 9,
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 12,
     "headlines": [
-      "Congress approves of SIR in Andamans and South but opposes it elsewhere: BJP",
-      "Karnataka Chief Minister: State govt. plans to establish new road grid system for Bengaluru",
-      "Karnataka embarks on aggressive AI skilling drive; to train 63,200 students, engineers",
-      "Karnataka has a ‘goonda government’, says Ashok",
-      "Probe ordered into transportation of cattle from temple in Bidar",
-      "DMK slams CM Vijay over Mekedatu stand, says 'solo performance' won't work on key state issue",
-      "Exploring legal options if Centre doesn’t act on excess ethanol report: Karnataka",
-      "Karnataka moves to block expansion of Vietnamese electric cab operator Green SM",
-      "ECI orders SSR to identify eligible voters missing from Karnataka electoral roll, prevent exclusions"
+      "The last whistle for Thala: Dhoni's Chennai story was always bigger than cricket",
+      "Vijay inspects 108 emergency response call centre in Chennai",
+      "Madras HC orders mandatory licensing and tagging of cattle in urban areas across Tamil Nadu to prevent motor accidents",
+      "Cyclone Akvan: RMC forecasts moderate rainfall for Chennai on Wednesday",
+      "Madurai showroom heist: Tattoo clue led police to YouTuber who stole 11.3 kg jewellery",
+      "‘Have they read SC order': Shivakumar hits out at Tamil Nadu Oppn parties opposing Mekedatu project",
+      "TN library case: Chennai publisher arrested over procuring AI-generated books",
+      "MS Dhoni is new mentor of Chennai Super Kings, retires from playing IPL",
+      "'A leader, a finisher': Cricket fraternity celebrates MS Dhoni's CSK legacy",
+      "'Simplicity': Gaikwad reveals the biggest lesson MS Dhoni taught him at CSK",
+      "MS Dhoni at CSK: 5 titles, 10 finals and a new role ahead of IPL 2027",
+      "'Best decision I ever took': Srinivasan's tribute to Dhoni after IPL retirement"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 11,
+    "headlines": [
+      "Kerala High Court allows Cusat employees to seek review of suspension",
+      "Kerala HC allows amended plea by suspended Sanskrit varsity students against inquiry report",
+      "Messi row: Kerala HC directs Reporter TV to appear before Kollam GST intelligence unit",
+      "Kerala High Court dismisses lawyer’s plea for contempt proceedings against judge",
+      "Kerala Pravasi association chief taken to Bengaluru for evidence collection",
+      "Two flights held up at Thiruvananthapuram international airport after crane raised on flight  path",
+      "Congress approves of SIR in Andamans and South but opposes it elsewhere: BJP",
+      "Kerala HC dismisses lawyer’s plea for contempt action against trial judge in actress assault case",
+      "All Sabarimala pilgrims to be offered traditional Kerala ‘sadya’ as annadanam: TDB",
+      "Kerala HC allows pregnancy termination of 15-year-old sexual assault victim",
+      "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition"
+    ],
+    "last_updated": "2026-11-18 06:57:11 AM"
+  },
+  {
+    "Code": "JK",
+    "Lat": 33.7782,
+    "Long": 76.5762,
+    "State": "Jammu and Kashmir",
     "news_count": 8,
     "headlines": [
-      "British Airways told to pay Rs 1.05 lakh for denying boarding to US green card holder",
-      "Telangana Housing Corporation DEE suspended for leaking information about 2BHK surprise inspections",
-      "Land transfer clears way for road widening near Kothagudem Railway Station",
-      "Students of govt. schools, colleges to get tourism exposure under Telangana Darshini",
-      "SIR schedule revised again, final publication in Telangana moved to Dec 22",
-      "Telangana CM seeks Chhattisgarh NOC for Sammakka Sagar project",
-      "SEI opens 1,200-seat GCC in Hyderabad",
-      "'Extremely difficult decision': Head opts out of IPL 2027, bids farewell to SRH"
+      "Fresh encounter breaks out in J&amp;K's Kulgam",
+      "Kulgam attack: Operation continues to track wounded terrorist",
+      "J&amp;K to mandate EWS quota in private school entry class",
+      "Encounter Breaks Out In J&K's Kulgam Between Security Forces, Terrorists",
+      "Won’t allow hiring of outsiders, hire locals: J&K CM Omar Abdullah to companies",
+      "Elusive peace: On Kashmir terror attack",
+      "Ahead of UP assembly poll & PM’s visit to Bihar, state ruling party JD-U makes organizational changes",
+      "Encounter breaks out between terrorists, security forces in J&K's Kulgam"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "GJ",
@@ -118,28 +123,28 @@
       "No mechanism to check if arbitrator is fit enough, says Madras HC judge Anand Venkatesh",
       "Bilkis Bano moves out of Gujarat after bail to 2 convicts, says her uncle",
       "Transfer of oil and gas block in Gujarat to ONGC will send wrong signal, says Anil Agarwal",
-      "Broker’s Call: Usha Martin (Buy)",
+      "Anand Rathi to gift shares worth Rs 30 cr to 5,000 employees and personal staff",
       "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
       "Every decision of government needn’t be a big reform: Anand Mahindra"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
     "news_count": 7,
     "headlines": [
-      "Two flights held up at Thiruvananthapuram international airport after crane raised on flight  path",
       "Congress approves of SIR in Andamans and South but opposes it elsewhere: BJP",
-      "Thiruvananthapuram DCC member arrested in extortion case",
-      "Kerala HC dismisses lawyer’s plea for contempt action against trial judge in actress assault case",
-      "All Sabarimala pilgrims to be offered traditional Kerala ‘sadya’ as annadanam: TDB",
-      "Kerala HC allows pregnancy termination of 15-year-old sexual assault victim",
-      "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition"
+      "Karnataka Chief Minister: State govt. plans to establish new road grid system for Bengaluru",
+      "Karnataka embarks on aggressive AI skilling drive; to train 63,200 students, engineers",
+      "DMK slams CM Vijay over Mekedatu stand, says 'solo performance' won't work on key state issue",
+      "Exploring legal options if Centre doesn’t act on excess ethanol report: Karnataka",
+      "Karnataka moves to block expansion of Vietnamese electric cab operator Green SM",
+      "ECI orders SSR to identify eligible voters missing from Karnataka electoral roll, prevent exclusions"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "AS",
@@ -148,56 +153,42 @@
     "State": "Assam",
     "news_count": 5,
     "headlines": [
-      "Amritpal Singh gets 3-hr custodial parole to attend grandmother’s cremation on Nov 21",
+      "Assam boy, 12, turns Rs 500 into mushroom business, earns Rs 3,000 from 12kg",
       "Assam: 2 tenants held for murdering retired OIL employee, wife, daughter",
       "Assam's Karbi Anglong performers create 'world record' for largest folk dance performance",
       "NIA arrests Myanmar-to-India drug trafficking network ‘mastermind’ from Assam",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 5,
-    "headlines": [
-      "Don't Blame Punjab Farmers For Pollution, Says Union Agriculture Minister",
-      "Video: Speeding Bus Runs Over Group Helping Intoxicated Man On Punjab Road",
-      "'No Inconvenience': Minister Assures Punjab Farmers Over Paddy Procurement",
-      "Captain Amarinder Singh's presence at Sonia Gandhi's book launch sparks curiosity ahead of Punjab polls",
-      "FII inflows spark re-rating, lift Nifty Bank to record high"
-    ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "UP",
     "Lat": 26.8467,
     "Long": 80.9462,
     "State": "Uttar Pradesh",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "UP assembly polls: SP likely to make initial offer of 24 seats to Congress",
       "Ahead of polls, BJP plans extensive public outreach campaign and stronger booth level management in U.P.",
       "Uttar Pradesh draft electoral roll adds 18 lakh voters, total stands at over 13 crore",
       "IPL 2027: Shami, M Siddharth move to RR; Sam Curran joins LSG in trade deal",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
     "news_count": 4,
     "headlines": [
-      "Temple dedicated to PM Modi's mother Heeraben to be built in Andhra's Kurnool",
-      "Cyclone Akvan moves slowly, likely to intensify further by November 18 morning",
-      "Skilled-worker shortage pushes up cyclone repair costs in coastal Andhra",
-      "Cyclone Akvan: Odisha govt steps up precautionary measures in flood-hit Ganjam"
+      "Telangana Housing Corporation DEE suspended for leaking information about 2BHK surprise inspections",
+      "Telangana CM seeks Chhattisgarh NOC for Sammakka Sagar project",
+      "SEI opens 1,200-seat GCC in Hyderabad",
+      "'Extremely difficult decision': Head opts out of IPL 2027, bids farewell to SRH"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "UT",
@@ -211,7 +202,33 @@
       "13 killed, 31 injured in two accidents in Uttarakhand's Tehri and Rudraprayag",
       "6 killed after vehicle falls into deep gorge on Banswada-Mohankhal road in Uttarakhand's Rudraprayag"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 3,
+    "headlines": [
+      "Punjab Government Delaying Stay On Anti-Sacrilege Bill: Akal Takht Panel",
+      "Captain Amarinder Singh's presence at Sonia Gandhi's book launch sparks curiosity ahead of Punjab polls",
+      "FII inflows spark re-rating, lift Nifty Bank to record high"
+    ],
+    "last_updated": "2026-11-18 06:57:11 AM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
+    "news_count": 3,
+    "headlines": [
+      "Assam boy, 12, turns Rs 500 into mushroom business, earns Rs 3,000 from 12kg",
+      "Cyclone Akvan moves slowly, likely to intensify further by November 18 morning",
+      "Cyclone Akvan: Odisha govt steps up precautionary measures in flood-hit Ganjam"
+    ],
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "CT",
@@ -224,31 +241,7 @@
       "Telangana CM Reddy seeks NOC for Sammakka barrage from Chattisgarh",
       "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
-  },
-  {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
-    "news_count": 2,
-    "headlines": [
-      "Mohan Bhagwat On 3-Day Visit To Manipur From Tomorrow",
-      "Manipur: 24 hr shutdown against killing of 4 Naga civilians ends; normal life affected"
-    ],
-    "last_updated": "2026-11-18 12:24:43 AM"
-  },
-  {
-    "Code": "GA",
-    "Lat": 15.2993,
-    "Long": 74.124,
-    "State": "Goa",
-    "news_count": 2,
-    "headlines": [
-      "Nearly 75 lakh names added in draft SSR voters lists in 13 States and UTs",
-      "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition"
-    ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "RJ",
@@ -260,7 +253,7 @@
       "Rajasthan railway blast probe leads police to two accused, three Pak handlers",
       "IPL 2027: Shami, M Siddharth move to RR; Sam Curran joins LSG in trade deal"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "OD",
@@ -272,7 +265,29 @@
       "Cyclone Akvan: Odisha govt steps up precautionary measures in flood-hit Ganjam",
       "Cyclone Akvan LIVE: 7 Andhra districts on red alert ahead of November 20 landfall; Odisha flags landslide-prone villages"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
+  },
+  {
+    "Code": "JH",
+    "Lat": 23.6102,
+    "Long": 85.2799,
+    "State": "Jharkhand",
+    "news_count": 1,
+    "headlines": [
+      "Jharkhand SIR: Final BLO meetings at poll stations on November 18"
+    ],
+    "last_updated": "2026-11-18 06:57:11 AM"
+  },
+  {
+    "Code": "GA",
+    "Lat": 15.2993,
+    "Long": 74.124,
+    "State": "Goa",
+    "news_count": 1,
+    "headlines": [
+      "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition"
+    ],
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "BR",
@@ -283,18 +298,18 @@
     "headlines": [
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
-    "Code": "HP",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Himachal Pradesh",
+    "Code": "MN",
+    "Lat": 24.6637,
+    "Long": 93.9063,
+    "State": "Manipur",
     "news_count": 1,
     "headlines": [
-      "10 years of eNAM & Jio have improved information accessibility, agri trade"
+      "Manipur: 24 hr shutdown against killing of 4 Naga civilians ends; normal life affected"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "NL",
@@ -305,7 +320,7 @@
     "headlines": [
       "NPP seeks Governor's intervention on Wildlife Protection Act's applicability in Nagaland"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "MZ",
@@ -316,7 +331,7 @@
     "headlines": [
       "Mizoram promotes longer tourist stays to boost revenue after 20 lakh visits since 2024"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
     "Code": "ML",
@@ -327,17 +342,17 @@
     "headlines": [
       "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: “For heaven’s sake, DON’T dirty the place!”; reveals that the North-Eastern state will soon have India’s BIGGEST football stadium"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   },
   {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 1,
     "headlines": [
-      "Ahead of UP assembly poll & PM’s visit to Bihar, state ruling party JD-U makes organizational changes"
+      "Ruckus erupts between SFI activists and police over setting up bookstalls near Calcutta University"
     ],
-    "last_updated": "2026-11-18 12:24:43 AM"
+    "last_updated": "2026-11-18 06:57:11 AM"
   }
 ]
