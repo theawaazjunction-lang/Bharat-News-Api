@@ -4,461 +4,291 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 53,
+    "news_count": 35,
     "headlines": [
-      "2 killed as Fortuner rams into autorickshaw near Delhi's Kashmere Gate",
-      "'Hands would be cut off': Pak minister who threatened India over IWT to visit Delhi",
-      "Watch: Man attempts to enter Delhi airport without documents, CISF detains him",
-      "'Desperate To Go Abroad', Man Without Ticket Forcibly Enters Delhi Airport",
-      "Family Declared Indian, 75-Year-Old Assam Man Classified 'Streamline Foreigner'",
-      "India news Live Updates, 19 November 2026: Man from Chennai dies after being assaulted at influencer’s house in East Delhi",
-      "Cyclone Akvan shifts track, puts North Andhra-South Odisha on alert",
-      "East Asia meet: PM Narendra Modi announces safety initiative for seafarers, flags cyber fraud",
-      "India News Highlights, 17 November 2026: GRAP 3 curbs revoked in Delhi as AQI improves",
-      "After 16 years, Kanpur gets its first originating train to Delhi",
-      "On Neha Bora’s Delhi AQI ask, Centre says minister in Turkiye, is monitoring, pollution high priority",
-      "Pakistan minister to attend Delhi SCO meet, Islamabad announces",
-      "PM Modi will attend India-Asean, East Asia summits",
-      "Karnataka: Jayadeva Hospital treats 80-year-old woman for heart valve leakage without open-heart surgery",
-      "Cyclone Akvan now likely to cross coast near Gopalpur in Odisha; north Andhra stays on alert",
-      "As three-year mark nears, Bhajan Lal Sharma seeks to shed ‘Parchi CM’ tag",
-      "U.S. court orders delivery of summonses to Doval, Goel through Delhi courts",
-      "Pakistan Minister to lead delegation to Delhi for SCO Civilisations Dialogue Forum",
+      "Right to breathe: Can you take the government to court over polluted air?",
+      "WTC Points Table: South Africa dethrone New Zealand; where does India stand?",
+      "PM Modi To Inaugurate SCO Civilisational Dialogue Forum In Delhi Tomorrow",
+      "39 Trains Cancelled, 28 Rescheduled In Odisha As Cyclone Akvan Nears East Coast",
+      "Odisha gears up for cyclone Akvan, shifts 3 lakh people to safety",
+      "OPEC share in India’s crude imports drops to 27.4% in Apr-Oct amid West Asia flare-ups",
+      "DRI seizes 71 kg heroin near Chennai, arrests 2 in suspected Sri Lanka smuggling bid",
+      "‘Vice City has its vibe, but Delhi has its Metro’: DMRC hops on GTA 6 frenzy",
+      "Prime suspect running conversion racket through school in Gurugram slum arrested from Delhi",
+      "Jackie Shroff, Esha Gupta, other celebs join Delhi CM in post-Chhath cleanliness drive: ‘Our collective responsibility’",
       "Delhi HC issues notice to ED over MP Engineer Rashid’s challenge to money laundering charges",
-      "Chennai man dies after being allegedly thrashed by influencer's family, neighbours in Delhi",
+      "Stalker tries to barge into influencer’s Delhi home; beaten to death by her family: Police",
       "Delhi drug lab posing as computer shop busted; 148 kg alprazolam intermediate seized, 1 arrested",
       "Keeping foreign nationals in detention centres after granting bail defeats its purpose: Delhi HC",
       "Over 17,000 end of life vehicles seized in Delhi till Nov 2: Traffic police data",
       "CISF foils forceful entry attempt at Delhi airport’s Terminal 3, man held",
-      "Cyclone Akvan LIVE: Cyclone Akvan likely to cross Andhra-Odisha coasts by Friday, with winds expected to reach 110 kmph",
-      "Prince William, Kate Middleton meet PM Modi in Delhi on final day of India visit",
-      "‘Let AQI go down’: SC's candid advice to Delhi father wanting son to visit from Singapore",
-      "Odisha, Andhra set up shelters, prepare for evacuations ahead of Nov 20 Cyclone Akvan landfall",
-      "Formal invitation did not arrive: Stalin on his absence at Sonia Gandhi’s memoir launch",
-      "Amit Shah to inaugurate NIA anti-terror conference on cross-border terrorism in Delhi",
-      "Army captain killed, three personnel injured as vehicle falls into Itam river in Manipur",
-      "SC issues notice to CJP, Congress, AAP, AISA on traders’ plea against Delhi protests",
-      "Global South cannot bear burden of historical emissions, says Bhupender Yadav at COP31",
-      "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
-      "India, US working to build fair, reciprocal, mutually beneficial trade relationship: US envoy",
-      "Cyclone Akvan: Storm moves away from south Andhra Pradesh coast",
-      "Jaishankar meets Japanese leaders ahead of India-Japan 2+2 dialogue",
-      "India’s companies rank 4th globally with $3.76 trillion in intangible assets",
-      "Cyclonic Akvan: Storm nearing north Andhra Prdesh’s coast",
+      "EPFO Board approves systematic withdrawal plan for periodic retirement payouts",
+      "Bata eyes multi-fold growth in footwear exports from India",
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
-      "Cummins under pressure as Bancroft's claims trigger calls for captaincy review",
-      "Litton Das scripts history, Bangladesh keeper sets world record in South Africa Test",
-      "Keerthy Suresh on Radhika Apte’s Muraimaaman remark",
-      "Men's Day special: South Indian films that celebrate motivation",
+      "'Give young players a solid run': Mandhana gets Raj's advice ahead of India's SA tour",
+      "Big blow for South Africa! Temba Bavuma ruled out of Bangladesh Test series decider",
+      "South Africa maintain No.1 Test ranking after nine-wicket win over Bangladesh",
+      "Venugopal Rao: 'Built a cricket ecosystem from scratch, now ready for the next chapter'",
+      "R Madhavan’s son Vedaant Madhavan sets new in 800-yard freestyle relay",
+      "South India OTT releases this week (November 20-22)",
       "Sonu Nigam leases out three Mumbai commercial properties for Rs. 12 lakhs per month after purchasing them for Rs. 17 crores",
       "EXCLUSIVE: Ganesh: Dust To Stardust follows in the footsteps of Ramayana and Hanuman Ansh; passed with a ‘U’ certificate WITHOUT a single cut from CBFC",
       "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai",
       "Sonakshi Sinha files complaint over morphed photos, Delhi man released by Mumbai court",
       "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China",
+      "In 2023, teams began removing invasive spotted bass from South Africa's Breekkrans River",
       "Scientists in South Africa have named a new dinosaur whose young already weighed about 400 kg",
       "Rare dinosaur discovery: Palaeontologists may uncover new dinosaur species; fossil from Utah to be studied in Raleigh's Dino Lab"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 15,
-    "headlines": [
-      "Cyclone Akvan Tracker LIVE Updates: Cyclone Akvan approaches eastern coast, Odisha evacuates 50,000",
-      "Failed attempt, forest ambush and a murder: Odisha trader killed over money dispute, teacher on the run",
-      "Cyclone Akvan shifts track, puts North Andhra-South Odisha on alert",
-      "Bajrang Dal men ‘stormed’ sacred site alleging cow slaughter. Now, Odisha tribals threaten stir",
-      "Odisha announces measures to end teachers’ stir but not everyone is on board",
-      "For a week, he changed cities. Then his phone gave the Odisha murder suspect away",
-      "Cyclone, ‘Akvan’ heads for Odisha, over one lakh evacuated in the State",
-      "Cyclone Akvan to spare most of Andhra; red alert remains for Srikakulam, Vizianagaram, Parvathipuram",
-      "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
-      "Five orangutan babies recover from anaemia two months after rescue in Odisha",
-      "Odisha evacuates 46k people as cyclone Akvan approaches; red alert for 11 districts",
-      "Cyclone Akvan LIVE: Cyclone Akvan likely to cross Andhra-Odisha coasts by Friday, with winds expected to reach 110 kmph",
-      "Odisha, Andhra set up shelters, prepare for evacuations ahead of Nov 20 Cyclone Akvan landfall",
-      "Odisha steps up cyclone preparations as IMD forecasts Akvan landfall on Nov 20",
-      "Odisha evacuates over 80,000 people, deploys 74 rescue teams in view of Cyclone Akvan"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "MH",
-    "Lat": 19.7515,
-    "Long": 75.7139,
-    "State": "Maharashtra",
-    "news_count": 14,
-    "headlines": [
-      "Bal Thackeray photo row: Shiv Sena (UBT) workers protest against Shaina NC in Mumbai",
-      "Meet the 2 Indian finalists for Prince William’s Earthshot Prize in Mumbai",
-      "India News Highlights, 15 November 2026: Prince William, Kate Middleton to visit Mumbai for 2026 Earthshot Prize",
-      "Shiv Sena members tear pages of Sonia Gandhi’s book over Savarkar references, seek ban in Maharashtra",
-      "BMC starts demolition of building linked to Dawood Ibrahim in Mumbai",
-      "BMC begins demolition of dilapidated Mumbai building where Dawood Ibrahim once lived with family",
-      "Eknath Shinde asks Maharashtra health dept to include rare diseases under MJPJAY",
-      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
-      "Mumbai home tour: Swara adapt bungalow for family life",
-      "Sonu Nigam leases out three Mumbai commercial properties for Rs. 12 lakhs per month after purchasing them for Rs. 17 crores",
-      "Avengers: Doomsday sets another RECORD; Navi Mumbai multiplex sells ticket for Rs. 4,300; price of a single ticket crosses Rs. 4,000 mark for the FIRST time ever!",
-      "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: “For heaven’s sake, DON’T dirty the place!”; reveals that the North-Eastern state will soon have India’s BIGGEST football stadium",
-      "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai",
-      "Sonakshi Sinha files complaint over morphed photos, Delhi man released by Mumbai court"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
-    "news_count": 14,
-    "headlines": [
-      "Andhra Pradesh braces for third intense cyclone in a month",
-      "Hundreds stuck on MP highway as 2 groups clash over ‘Bageshwar Baba’ remarks on Lord Krishna",
-      "CID arrests man in ₹7 crore government job fraud case in Guntur",
-      "Cyclone Akvan to spare most of Andhra; red alert remains for Srikakulam, Vizianagaram, Parvathipuram",
-      "Cyclone 'Akvan' LIVE updates: Over one lakh evacuated in Odisha as landfall likely near Gopalpur; red alert for three A.P. districts",
-      "Acharya N.G. Ranga Agricultural University in Andhra Pradesh gets ‘A’ grade from ICAR",
-      "Jewellery traders in Bapatla told to strengthen security at shops",
-      "Karnataka will always be there for its neighbours, Shivakumar tells Naidu after cyclone help",
-      "Cyclone Akvan now likely to cross coast near Gopalpur in Odisha; north Andhra stays on alert",
-      "BJP turns to Mathura temple issue amid cadre unease, allies’ pressure",
-      "Odisha, Andhra set up shelters, prepare for evacuations ahead of Nov 20 Cyclone Akvan landfall",
-      "Odisha evacuates over 80,000 people, deploys 74 rescue teams in view of Cyclone Akvan",
-      "Cyclone Akvan: Storm moves away from south Andhra Pradesh coast",
-      "Who is Krishna Vamsi? About actor Ramya Krishnan’s husband"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 11,
-    "headlines": [
-      "'No New Liquor Shops, Enough Outlets Already': Madurai High Court Directs Tamil Nadu",
-      "India news Live Updates, 19 November 2026: Man from Chennai dies after being assaulted at influencer’s house in East Delhi",
-      "Tamil Nadu library scam: Publisher who ‘supplied’ fake books under fictitious names arrested",
-      "A bus driver recognised his passenger, it led police to the Madurai Tanishq heist suspect",
-      "Truck carrying cardamom catches fire. 10 days later, driver dies after night of police questioning in Madurai",
-      "Chennai Metro’s Thirumangalam project to feature train running through the building",
-      "Madurai Tanishq showroom staff find 20kg gold stolen. Then they notice opening in lift shaft",
-      "Tamil Nadu Police launch e-CSR facility to enable online filing of complaints",
-      "Madurai Bench of Madras High Court directs T.N. government not to open any new Tasmac shops",
-      "Tamil Nadu DGP’s claim on law and order laughable, says Udhayanidhi Stalin",
-      "Chennai man dies after being allegedly thrashed by influencer's family, neighbours in Delhi"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "TG",
-    "Lat": 18.1124,
-    "Long": 79.0193,
-    "State": "Telangana",
-    "news_count": 10,
-    "headlines": [
-      "Hyderabad man accidentally shot dead by brother inside car in New York",
-      "Telangana officer held for ‘amassing assets worth crores’. Tip-off came from her own staff",
-      "‘Opposition’s fight rooted in truth, non-violence’: Rahul Gandhi at Hyderabad Bharat Summit",
-      "India News Highlights, 12 November 2026: Telangana Congress leader Reddy plans film based on Sonia Gandhi’s memoir",
-      "Telangana missing from Sonia Gandhi’s memoir, BRS leader asks why",
-      "Telangana feels the chill with season’s low of 11°C on November 18-19 intervening night",
-      "Telangana accords top priority to SC, ST welfare and development, says CM",
-      "Hyderabad doctor brings down rare disease drug cost from ₹9 crore to ₹2.5 lakh; seven children to get free treatment",
-      "Hyderabad explores 35-km personal rapid transit network",
-      "‘Vote theft row’: Supreme Court to hear plea for action against Italian politician"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "BR",
-    "Lat": 25.0961,
-    "Long": 85.3131,
-    "State": "Bihar",
-    "news_count": 10,
-    "headlines": [
-      "6 killed, 1 injured as Scorpio plunges into canal in Bihar’s Araria",
-      "Health of states: Bihar per capita spend lowest, Sikkim's highest",
-      "The WhatsApp trail that led Bihar Police to Rs 88 crore betting racket",
-      "Family home of least wealthy Bihar BJP minister burgled, valuables worth Rs 90 lakh stolen",
-      "‘Assaulted by doctor’, Bihar man dies of injuries. His fault: Standing up for another patient",
-      "2 days after Patna man was shot dead, his wife arrested. A lie gave her away",
-      "Caught entering woman’s house, Bihar cop shot dead villager. Nine days later, his body is found in field",
-      "Six killed as car falls into canal in Bihar’s Araria",
-      "Army captain killed, three personnel injured as vehicle falls into Itam river in Manipur",
-      "Rare 'intensive' revision in Bihar four months before polls"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 10,
-    "headlines": [
-      "Gold Rate Today, 19 November: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
-      "Gold Rate Today, November 18: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
-      "Gold Rate Today, November 17: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
-      "Gold Rate Today, November 14: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
-      "Railways shifts 4 trains to Shalimar to ease congestion at Howrah station, improve punctuality",
-      "Gold Rate Today, November 13: Check 18, 22 and 24 carat gold prices in Chennai, Mumbai, Delhi, Kolkata and other cities",
-      "Kolkata Medical College tense as junior doctors gherao principal; outsiders attack protesting students",
-      "Leftist groups accuse ABVP of attacking interns at Kolkata medical college",
-      "ABVP, SFI clash over bookstall in Kolkata’s College Street",
-      "IMD alert: Heavy rain, thunderstorms, squalls warned for Kolkata region"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "JK",
-    "Lat": 33.7782,
-    "Long": 76.5762,
-    "State": "Jammu and Kashmir",
-    "news_count": 8,
-    "headlines": [
-      "Video call, and a ‘no’ to surrender: Kashmir’s last listed local terrorist killed in Kulgam gunfight",
-      "Hunt for those behind CRPF attack continues, J&K leaders slam Kulgam ‘curbs’",
-      "Suspected aide of LeT commander Lateef Ahmad Bhat killed in Kulgam shootout",
-      "SPO killed in Jammu had raised concerns over deployment, locals tell police",
-      "Over 500 detained as police hunt Valley’s lone active terrorist after Kulgam attack",
-      "Kishtwar killings raise questions: Why were the cops sent to a base with its own SOG unit?",
-      "‘I have no relief funds…’: Why L-G Manoj Sinha turned to Red Cross for traders hit by Jammu fires",
-      "HT Evening News Brief November 18: Lateef Bhat killed in Kulgam encounter, Xi's ‘rare’ welcome for Trump in Shezhen, and more"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "GJ",
-    "Lat": 22.2587,
-    "Long": 71.1924,
-    "State": "Gujarat",
-    "news_count": 8,
-    "headlines": [
-      "'First responder': IAF concludes multinational disaster response exercise in Gujarat",
-      "‘Scared once again’: Bilkis Bano says will fight order as Gujarat riots convicts freed",
-      "Indian Railways’ trains to run below Ahmedabad bullet train station, 3 new platforms ready",
-      "On Birsa Munda Jayanti, MP CM Mohan Yadav inaugurates Rs 1,400-crore Narmada irrigation project",
-      "IAF showcases air power, multi-agency coordination in major HADR exercise in Gujarat",
-      "Mega International Commercial Bank applies for GIFT City entry; 3rd Taiwanese lender to step in to Gujarat",
-      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
-      "Every decision of government needn’t be a big reform: Anand Mahindra"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
-    "news_count": 7,
-    "headlines": [
-      "AAP losing ground? Former leader Navdeep Singh Sangha joins BJP ahead of Punjab polls",
-      "Punjab bridge collapses on Patiala-Sangrur road, two trucks plunge into canal",
-      "NIA arrests key accused deported from US in Punjab rail line blast case",
-      "MEA cites ‘national policy’ on Pak over Punjab CM’s Lahore invite",
-      "Cong sets up election committee for Punjab",
-      "Gurugram: 2 arrested in PayU's cloud servers breach, siphoning over  ₹25 crore",
-      "Khalistan supporter Surinder Singh deported from US, arrested by NIA over Punjab rail blast in April"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "CT",
-    "Lat": 21.2787,
-    "Long": 81.8661,
-    "State": "Chhattisgarh",
-    "news_count": 6,
-    "headlines": [
-      "Up a hill and into a forest: How to tranquilise a 3,000-kg elephant, the Chhattisgarh way",
-      "Elephant linked to 16 deaths tranquilised, fitted with satellite radio in Chhattisgarh",
-      "South Korea becomes fourth country globally to hit $1 trillion exports on AI chip boom",
-      "India’s companies rank 4th globally with $3.76 trillion in intangible assets",
-      "Chhattisgarh farmers gain from the State’s measures to diversify crops, modernise farming",
-      "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "UP",
-    "Lat": 26.8467,
-    "Long": 80.9462,
-    "State": "Uttar Pradesh",
-    "news_count": 6,
-    "headlines": [
-      "Train to Nepal: Indian Railways approves new weekly service between Ayodhya and Janakpur",
-      "Free entry to Taj Mahal, Agra Fort on November 19 as Heritage Week begins",
-      "Lucknow activist demands equal opportunity in election symbols in U.P. polls",
-      "UP ordinance paves way to defer panchayat polls by 6 mths",
-      "Retired Navy officer loses  ₹29.5 lakh to fraud by grandson in Delhi. He spends it on vacations",
-      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 6,
-    "headlines": [
-      "At centre of graft row, why Rajasthan IAS officer Shikhar Agarwal has moved High Court",
-      "Jaipur cafe owner, who made journey from IT to bakery, dies days after brutal attack",
-      "Romance, money and sabotage: Police uncover ISI plot behind Rajasthan railway track blast",
-      "Behind Jaipur history sheeter’s murder, an enmity seven years in the making",
-      "PM Modi gifts Pichwaai painting, Banarasi Katan silk stole, Kashmiri carpet to world leaders",
-      "Today’s Gold Rate in India November 19: Gold prices down in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 6,
-    "headlines": [
-      "Facing Left attack, Kerala cancels quiz by group with Sangh links. Now, BJP hits back",
-      "India News, 18 November 2026: 62 students hospitalised in Kerala after breathing in toxic gas",
-      "Were two men arrested in Kerala spying for the Bishnoi gang? Police probe possible link",
-      "Kerala NRI party head arrested for forging ED letter to ‘extort’ credit society",
-      "Kerala High Court quashes disproportionate assets case against Minister K.M. Shaji",
-      "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "MP",
-    "Lat": 22.9734,
-    "Long": 78.6569,
-    "State": "Madhya Pradesh",
-    "news_count": 5,
-    "headlines": [
-      "After clip shows MP cops threatening couple, CM suspends additional SP, 5 cops",
-      "11 states, Union Territories are ‘fully literate’; Madhya Pradesh leads in adult learners",
-      "2.5 kg gold, 1.6 kg silver, Rs 26 lakh seized from raids on Madhya Pradesh officer",
-      "6 Madhya Pradesh cops suspended for threatening couple with false drug case",
-      "Madhya Pradesh ends two-child norm for government employees after nearly 25 years"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "AS",
-    "Lat": 31.1048,
-    "Long": 77.1734,
-    "State": "Assam",
-    "news_count": 5,
-    "headlines": [
-      "Family Declared Indian, 75-Year-Old Assam Man Classified 'Streamline Foreigner'",
-      "3 extensions, forest land violations row: Assam moves out retired forest officer",
-      "Assam medical college department withdraws ‘defer marriage’ order for PGTs",
-      "Assam medical college dept withdraws order on marriage for PG trainees after backlash",
-      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
     "Code": "KA",
     "Lat": 15.3173,
     "Long": 75.7139,
     "State": "Karnataka",
-    "news_count": 5,
+    "news_count": 16,
     "headlines": [
-      "PM Modi pays tribute to former PM Indira Gandhi on birth anniversary",
-      "PM Modi flags off Bengaluru-Madgaon Vande Bharat Express, inaugurates 4 redeveloped railway stations in Karnataka",
-      "Karnataka will always be there for its neighbours, Shivakumar tells Naidu after cyclone help",
-      "Mekedatu reservoir: Karnataka tells officials to finalise land in 3 districts by Nov-end",
-      "Karnataka government replaces single-commissioner system governing Bengaluru police"
+      "Karnataka Chief Minister assures ASHA workers of decision on their demands after Winter Session",
+      "Karnataka Cabinet clears projects worth ₹4,000 crore for Bengaluru city, approves ₹10,250 crore for development of nine State Highways",
+      "Karnataka launches State action plan for containment of antimicrobial resistance",
+      "Speakers recall Sathya Sai Baba’s emphasis on vital role of women in society",
+      "New terminal of Belagavi Airport may open by year-end",
+      "Karnataka High Court grants relief to medical seat aspirant, says mere possession of mobile phone cannot be termed ‘unfair means’",
+      "Karnataka HC directs government to conduct State-wide scientific survey to identify non-notified, non-recognised, or classified forests and forest-like areas",
+      "Society should condemn disrespect to Basavanna, says scholar",
+      "Karnataka Cabinet okays confiscation of book that ‘insults’ Basavanna and ‘distorts’ his philosophy",
+      "Power shutdown in parts of Dharwad tomorrow",
+      "Man gets 25 years in jail for sexually assaulting minor girl in Kalaburagi",
+      "Siddaramaiah clears air around seating at Sonia Gandhi's book launch: ‘Arrived late, front row was taken'",
+      "Karnataka Grand Challenge picks seven innovations to tackle farm produce losses",
+      "24 VCs announce ₹1,050 crore investments in deeptech start-ups at Bengaluru Tech Summit",
+      "Karnataka steps up global tech partnerships at Bengaluru Tech Summit 2026",
+      "Karnataka hosts 51% of India’s GCCs and 43% of GCC AI/ML talent: Report"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
-    "Code": "UT",
-    "Lat": 30.0668,
-    "Long": 79.0193,
-    "State": "Uttarakhand",
+    "Code": "MH",
+    "Lat": 19.7515,
+    "Long": 75.7139,
+    "State": "Maharashtra",
+    "news_count": 12,
+    "headlines": [
+      "Right to breathe: Can you take the government to court over polluted air?",
+      "Maharashtra puts non-essential construction on hold in 304 drought-hit talukas, prioritises relief",
+      "Eknath Shinde asks Maharashtra health dept to include rare diseases under MJPJAY",
+      "Lok Sabha election 2024: Maharashtra get interesting after splits in Shiv Sena, NCP",
+      "Aamir Khan's new Rs 4.56 crore-a-year rental: Actor leases three luxury apartments",
+      "Saif Ali Khan gets death threat from accused in Baba Siddiqui's murder case: Report",
+      "Ayushmann Khurrana and Tiger Shroff seek security cover amid threats; Mumbai Police considers X-category protection",
+      "Sonu Nigam leases out three Mumbai commercial properties for Rs. 12 lakhs per month after purchasing them for Rs. 17 crores",
+      "Avengers: Doomsday sets another RECORD; Navi Mumbai multiplex sells ticket for Rs. 4,300; price of a single ticket crosses Rs. 4,000 mark for the FIRST time ever!",
+      "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: “For heaven’s sake, DON’T dirty the place!”; reveals that the North-Eastern state will soon have India’s BIGGEST football stadium",
+      "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai",
+      "Sonakshi Sinha files complaint over morphed photos, Delhi man released by Mumbai court"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
+    "news_count": 9,
+    "headlines": [
+      "39 Trains Cancelled, 28 Rescheduled In Odisha As Cyclone Akvan Nears East Coast",
+      "Supreme Court upholds tribal land rights, quashes mining-linked acquisition in Odisha",
+      "Odisha gears up for cyclone Akvan, shifts 3 lakh people to safety",
+      "Odisha evacuates 1.05 lakh people ahead of Cyclone Akvan, deploys 295 rescue teams",
+      "Cyclone Akvan landfall on November 20; Andhra on alert, Odisha evacuates tons as storm's track changes",
+      "Over 1 lakh evacuated, 9,299 shelters set up as Cyclone ''Akvan'' likely to cross Odisha coasts",
+      "Odisha to auction gold mine block during current financial year: Minister",
+      "Five orangutan babies recover from anaemia two months after rescue in Odisha",
+      "Odisha evacuates 46k people as cyclone Akvan approaches; red alert for 11 districts"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 6,
+    "headlines": [
+      "Record! Chahal becomes first Indian bowler to cross historic milestone",
+      "'We Got GTA Tamil Nadu Before GTA 6': MK Stalin On Rs 700-Crore Drug Bust",
+      "Authorities seize over 71 kg heroin bound for Sri Lanka, 2 arrested in Chennai",
+      "Stalin calls Tamil Nadu ‘Vice City’ under CM Vijay, then comes cops' GTA-themed post",
+      "Tamil Nadu police file complaint against TVK cadres over Sothuparai dam videos",
+      "'Dhoni has a lot more to contribute': Prasad backs mentor role after IPL retirement"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "GJ",
+    "Lat": 22.2587,
+    "Long": 71.1924,
+    "State": "Gujarat",
+    "news_count": 6,
+    "headlines": [
+      "Married Woman Gives Birth To Lover's Child, They Kill Baby Within Hours In Gujarat",
+      "Click To Buy, Pay In Crypto: Ahmedabad Police Probes Dark Web Drug Sales",
+      "Lion Dies After Falling Into Farm Well In Gujarat's Amreli",
+      "IAF showcases air power, multi-agency coordination in major HADR exercise in Gujarat",
+      "Modi charisma key factor in BJP's bid to retain all 26 seats in Gujarat",
+      "Every decision of government needn’t be a big reform: Anand Mahindra"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 5,
     "headlines": [
-      "9 killed, up to 30 injured as bus plunges into gorge in Uttarakhand",
-      "FIR against Congress MLA for vandalism at fair. Uttarakhand CM says party ‘losing balance’",
-      "Uttarakhand CM in attendance, Congress MLA throws microphone, challenges him to contest",
-      "Ex-ABVP candidate among 4 accused of raping minor at Uttarakhand hotel",
-      "Tabu joins Tunnel Men, YRF Entertainment's Netflix series inspired by the spirit of the 2023 Uttarakhand tunnel rescue"
+      "Google presents AI tools for health services to Visakhapatnam Collector",
+      "Odisha gears up for cyclone Akvan, shifts 3 lakh people to safety",
+      "Speakers recall Sathya Sai Baba’s emphasis on vital role of women in society",
+      "Tirupati MPP elections delayed amid NDA, YSRCP clashes",
+      "Man accused in Andhra chainsaw attack discharged from hospital, girl shows signs of recovery"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
     "Code": "HR",
     "Lat": 29.0588,
     "Long": 76.0856,
     "State": "Haryana",
-    "news_count": 4,
+    "news_count": 5,
     "headlines": [
+      "Record! Chahal becomes first Indian bowler to cross historic milestone",
+      "Prime suspect running conversion racket through school in Gurugram slum arrested from Delhi",
       "MP family on pilgrimage to J&K critically injured after car crash on KMP expressway in Haryana's Nuh, 1 critical",
       "Tata Trusts chairman Noel Tata, senior executives to visit Air India’s Gurugram headquarters",
-      "Cong sets up election committee for Punjab",
-      "Gurugram: 2 arrested in PayU's cloud servers breach, siphoning over  ₹25 crore"
+      "Cong sets up election committee for Punjab"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
-    "Code": "MN",
-    "Lat": 24.6637,
-    "Long": 93.9063,
-    "State": "Manipur",
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
     "news_count": 4,
     "headlines": [
-      "Police fire tear gas shells in Imphal amid statewide strike over killing of 4 Naga civilians",
-      "Woman, child among four civilians killed in ambush in Manipur",
-      "Kuki-Zo woman killed, 2 injured in firing at Manipur village amid tensions",
-      "Army captain killed, three personnel injured as vehicle falls into Itam river in Manipur"
+      "Thiruvananthapuram MCH to celebrate its 75th anniversary from November 20",
+      "Kerala CBI court convicts 13 in 2012 MSF activist murder, acquits CPI(M) leaders Jayarajan, Rajesh",
+      "CBI brings back fugitive from UAE in 2008 Kerala murder case after Interpol alert",
+      "CBI secures deportation of fugitive Raghesh Unnikochan from UAE wanted in a Kerala murder case"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
-    "Code": "JH",
-    "Lat": 23.6102,
-    "Long": 85.2799,
-    "State": "Jharkhand",
+    "Code": "UP",
+    "Lat": 26.8467,
+    "Long": 80.9462,
+    "State": "Uttar Pradesh",
     "news_count": 4,
     "headlines": [
-      "3 killed as conveyor belt structure collapses at NTPC project in Jharkhand",
-      "Locked up, passport taken: Back home, Jharkhand woman recounts Oman ordeal",
-      "Jharkhand Congress MLA booked for rape after 14-yr-old girl alleges assault, forced abortion",
-      "Minor accuses Jharkhand Congress MLA of sexual assault, forced abortion; FIR registered under POCSO"
+      "‘Face-to-face contest’: Yogi challenges Akhilesh to contest UP polls from Ayodhya",
+      "SP alliance must be respectful, Azad-Owaisi alliance doesn’t pose a threat: UP Congress in-charge ahead of 2027 polls",
+      "UP ordinance paves way to defer panchayat polls by 6 mths",
+      "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "TG",
+    "Lat": 18.1124,
+    "Long": 79.0193,
+    "State": "Telangana",
+    "news_count": 4,
+    "headlines": [
+      "I am son of the soil, will never do harm to Telangana unlike KCR: Revanth",
+      "Adilabad police foil attempt to steal donkeys, goats; five held",
+      "U.S. firm Protolabs opens GCC in Hyderabad",
+      "Regional Ring Road: Telangana govt to acquire 4,962 acres of land"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 4,
+    "headlines": [
+      "From Punjab To Bengal To Andhra, How Cash Transfer Schemes Strain State Budgets",
+      "High Court Pauses Punjab Civil Services Recruitment Over Corruption Charges",
+      "Bridge over Bhakra Canal collapses in Patiala as two trucks cross, one catches fire",
+      "Cong sets up election committee for Punjab"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "BR",
+    "Lat": 25.0961,
+    "Long": 85.3131,
+    "State": "Bihar",
+    "news_count": 3,
+    "headlines": [
+      "Bihar CM's security 'pushes' Nishant Kumar; police calls it 'human error'",
+      "Nine arrested for abducting, killing woman over witchcraft suspicions in Bihar’s Jamui",
+      "Rare 'intensive' revision in Bihar four months before polls"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "UT",
+    "Lat": 30.0668,
+    "Long": 79.0193,
+    "State": "Uttarakhand",
+    "news_count": 2,
+    "headlines": [
+      "Naini Lake’s duck population falls as rats prey on eggs in Uttarakhand: Official",
+      "Tabu joins Tunnel Men, YRF Entertainment's Netflix series inspired by the spirit of the 2023 Uttarakhand tunnel rescue"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "CT",
+    "Lat": 21.2787,
+    "Long": 81.8661,
+    "State": "Chhattisgarh",
+    "news_count": 2,
+    "headlines": [
+      "Elephant linked to 16 deaths tranquilised, fitted with satellite radio in Chhattisgarh",
+      "Ramayana to release in China, Russia, Japan and South Korea in Q1 2027; film already submitted for censor clearance in China"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
+  },
+  {
+    "Code": "AS",
+    "Lat": 31.1048,
+    "Long": 77.1734,
+    "State": "Assam",
+    "news_count": 2,
+    "headlines": [
+      "Assam medical college dept withdraws order on marriage for PG trainees after backlash",
+      "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
+    ],
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
     "Code": "GA",
     "Lat": 15.2993,
     "Long": 74.124,
     "State": "Goa",
-    "news_count": 3,
-    "headlines": [
-      "Goa tourism minister seeks rethink on turtle nesting sites for 21 more beaches",
-      "IFFI 2026 FULL schedule REVEALED: Panchayat Season 5, Netflix's Pushpak Vimaan to premiere; Dhurandhar team to face audience questions; Hollywood cult classic Back To The Future to be screened on Goa's beaches",
-      "BREAKING: Dhurandhar to OPEN Indian Panorama at 57th IFFI Goa 2026 while Ramayana to open BRICS segment; The Kerala Story 2 enters PRESTIGIOUS International Competition"
-    ],
-    "last_updated": "2026-11-19 01:43:11 PM"
-  },
-  {
-    "Code": "LA",
-    "Lat": 34.2996,
-    "Long": 78.2932,
-    "State": "Ladakh",
     "news_count": 2,
     "headlines": [
-      "After police issue ‘not wanted’ notice, missing Ladakh teen, mother return home",
-      "‘Unjustified’: Ladakh bodies on police action against Wangchuk during election protest"
+      "Goa tourism minister seeks rethink on turtle nesting sites for 21 more beaches",
+      "IFFI 2026 FULL schedule REVEALED: Panchayat Season 5, Netflix's Pushpak Vimaan to premiere; Dhurandhar team to face audience questions; Hollywood cult classic Back To The Future to be screened on Goa's beaches"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
     "Code": "CH",
@@ -469,18 +299,18 @@
     "headlines": [
       "Cong sets up election committee for Punjab"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
-    "Code": "AN",
-    "Lat": 11.7401,
-    "Long": 92.6586,
-    "State": "Andaman and Nicobar Islands",
+    "Code": "MP",
+    "Lat": 22.9734,
+    "Long": 78.6569,
+    "State": "Madhya Pradesh",
     "news_count": 1,
     "headlines": [
-      "Centre notifies new prison law for Andaman and Nicobar Islands, bans caste bias, allows open jails"
+      "6 Madhya Pradesh cops suspended for threatening couple with false drug case"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
     "Code": "ML",
@@ -491,17 +321,17 @@
     "headlines": [
       "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: “For heaven’s sake, DON’T dirty the place!”; reveals that the North-Eastern state will soon have India’s BIGGEST football stadium"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   },
   {
-    "Code": "TR",
-    "Lat": 23.9408,
-    "Long": 91.9882,
-    "State": "Tripura",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 1,
     "headlines": [
-      "Election affidavit case: Tripura court directs police to book Minister Tinku Roy"
+      "Leftist groups accuse ABVP of attacking interns at Kolkata medical college"
     ],
-    "last_updated": "2026-11-19 01:43:11 PM"
+    "last_updated": "2026-11-19 11:21:44 PM"
   }
 ]
