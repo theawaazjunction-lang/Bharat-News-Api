@@ -4,17 +4,16 @@
     "Lat": 28.7041,
     "Long": 77.1025,
     "State": "Delhi",
-    "news_count": 31,
+    "news_count": 32,
     "headlines": [
-      "Nepal PM to reach Delhi on Sunday for first foreign bilateral trip - what's on agenda",
+      "Nepal PM to reach Delhi today for first foreign bilateral trip - what's on agenda",
       "Iran claims it hit F-16 jet over Gulf, forced emergency landing; US denies attack",
-      "Big blow for Bangladesh! Star player ruled out of second Test against SA",
-      "'We all made mistakes': Lehmann reveals 'dark place' after Sandpapergate scandal",
       "Delhi To Karnal In 90 Minutes: How Rs 33,051-Crore Namo Bharat Corridor Will Transform Connectivity",
+      "West Bengal government to appoint coordinators for all 209 wards in Kolkata: Union Minister Sukanta Majumdar",
+      "Woman killed, newlywed couple critical as fire engulfs West Delhi home; neighbours break window to rescue family",
       "MHA sanctions more Central forces for Tripura municipal elections",
       "NEET paper leak case: Delhi court frames charges against 14 accused",
       "14-year-old used AI chatbot to hack Agniveer test website to earn money: Sources",
-      "MBT leader petitions MEA over plight of two expats in West Asia",
       "Delhi Police nabs 14-year-old Haryana boy trying to sell data of Agniveers on dark web for  ₹47,000",
       "Lioness kills man at farm in Gujarat’s Junagadh",
       "Pakistan minister Musadik Malik gets approval for Taj Mahal visit, but Nizamuddin Dargah request rejected: Report",
@@ -32,22 +31,23 @@
       "From Oman to Tanzania: How the Iran war is redrawing India’s trade map",
       "FM Sitharaman flags global crisis spillovers, unfair burden on developing nations",
       "Delhi World Book fair: A fair like no other",
+      "'We all made mistakes': Lehmann reveals 'dark place' after Sandpapergate scandal",
+      "Big blow for Bangladesh! Star player ruled out of second Test against SA",
       "Sameera says she got more respect, money, stardom from the south compared to Bollywood",
       "Yeh Prem Mol Liya gears up for paid previews in North America; begins to show momentum in ticket sales",
       "Sonu Nigam leases out three Mumbai commercial properties for Rs. 12 lakhs per month after purchasing them for Rs. 17 crores",
       "EXCLUSIVE: Ganesh: Dust To Stardust follows in the footsteps of Ramayana and Hanuman Ansh; passed with a ‘U’ certificate WITHOUT a single cut from CBFC",
       "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "MH",
     "Lat": 19.7515,
     "Long": 75.7139,
     "State": "Maharashtra",
-    "news_count": 12,
+    "news_count": 11,
     "headlines": [
-      "On Camera, Boys Assault Couple, Hit Them With Sticks In Mumbai Park",
       "Nigerian man, wife held in Maharashtra for role in Keralam drug money trail",
       "Maharashtra CET pattern for MBA-MMS revised, total marks reduced to 150",
       "Maharashtra FDA suspends seven drug licences, cancels five in Pune division",
@@ -60,7 +60,26 @@
       "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: “For heaven’s sake, DON’T dirty the place!”; reveals that the North-Eastern state will soon have India’s BIGGEST football stadium",
       "Amitabh Bachchan, Abhishek Bachchan receive death threats from gangster Goldy Dhillon; claims 200 associates are active in Mumbai"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
+  },
+  {
+    "Code": "TN",
+    "Lat": 11.1271,
+    "Long": 78.6569,
+    "State": "Tamil Nadu",
+    "news_count": 9,
+    "headlines": [
+      "School Reunion, Relationship, Jealousy: What Led To Tamil Nadu Double Murder",
+      "Municipal staff transfers to move online by Tamil Nadu govt., with vacancies displayed on portal",
+      "AIPC Tamil Nadu to support MSMEs through professional network",
+      "Raja Ravi Varma Gallery of Oleographs and Chromo Lithographs inaugurated in Chennai",
+      "Chennai International Book Fair 2027 to be held from January 16 to 18",
+      "Woman held for murder in Ranipet",
+      "Are public toilet users in Chennai pulling the flush on irritants?",
+      "US naval vessel arrives at Kattupalli shipyard near Chennai for repairs",
+      "Treks with a dash of heritage, culture and history"
+    ],
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "GJ",
@@ -78,24 +97,7 @@
       "Every decision of government needn’t be a big reform: Anand Mahindra",
       "Diljit's Ahmedabad concert faces objection over four songs: 'If he performs these songs...'"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
-  },
-  {
-    "Code": "KL",
-    "Lat": 10.8505,
-    "Long": 76.2711,
-    "State": "Kerala",
-    "news_count": 7,
-    "headlines": [
-      "Boy, 4, Crushed To Death By Machine, Kerala Factory Ordered Shut",
-      "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
-      "Parel Marian Pilgrimage Centre in Keralam’s Kottayam declared basilica amid large gathering",
-      "Kozhikode Corporation health wing finds violations at hotels, eateries",
-      "Keralam faces administrative paralysis under UDF, alleges CPI(M) State secretary M.V. Govindan",
-      "Kollam recommended for Centre’s Global Destination project: Minister P.C. Vishnunadh",
-      "Prince William announces 5-year accident coverage for 10,000 wildlife rangers across 7 Indian states"
-    ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "UP",
@@ -112,7 +114,7 @@
       "D-Company operative wanted in 2 Delhi murders killed in UP Police encounter near Bulandshahr",
       "You can now watch Ayodhya Ram Mandir morning Aarti live daily"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "BR",
@@ -128,38 +130,23 @@
       "Adani Energy Solutions bags 2,500 MW renewable power supply contract from West Bengal discom",
       "Rare 'intensive' revision in Bihar four months before polls"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
-    "Code": "AP",
-    "Lat": 15.9129,
-    "Long": 79.74,
-    "State": "Andhra Pradesh",
+    "Code": "OD",
+    "Lat": 20.9517,
+    "Long": 85.0985,
+    "State": "Odisha",
     "news_count": 6,
     "headlines": [
-      "TDP making derogatory remarks against YSRCP’s Srikakulam mayoral candidate: Dharmana",
-      "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
-      "India’s first AI, Quantum University campus inaugurated in Guntur of Andhra Pradesh",
-      "Congress to organise ‘Samvidhan Raksha March’ across Andhra Pradesh on November 26",
-      "Four killed, newlywed couple injured as car plunges into canal in Andhra Pradesh: Police",
-      "Indian billionaire PV Krishna Reddy raises $720 million in private credit for Megha buyout"
+      "Eastern Ghats on a slippery slope",
+      "Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian",
+      "Odisha woman pawns mangalsutra to fund husband’s killing by lover, 3 arrested",
+      "Odisha steps up flood preparedness as Cyclone Akvan weakens",
+      "Cyclone Akvan: IMD forecasts rain in West Bengal on Sunday",
+      "HT Evening News Brief Nov 20: Cyclone Akvan crosses Odisha coast, Pakistan minister in India for SCO and more"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
-  },
-  {
-    "Code": "KA",
-    "Lat": 15.3173,
-    "Long": 75.7139,
-    "State": "Karnataka",
-    "news_count": 5,
-    "headlines": [
-      "Man harasses woman at Karnataka hospital; flees after she screams, slaps him",
-      "Raichur is a treasure trove of Kannada literature, says Rajappa Dalawai",
-      "Dharwad to host State-level 10K cross-country run on Nov. 29",
-      "'Bike taxis safer for young girls': Supreme Court allows ops to continue in Karnataka",
-      "Karnataka to take final call on bike taxis after Advocate General’s opinion"
-    ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "AS",
@@ -169,41 +156,40 @@
     "news_count": 5,
     "headlines": [
       "\"Traditions Won't Be Compromised\": Amit Shah To Arunachal Dam Protestors",
-      "Assam Cop Issues Traffic Challan To Army Driver, Then Came An Apology",
+      "Pranab Doley | Confronting the State",
       "Assam issues 16,785 challans, seizes 5,335 vehicles in 3-day traffic violation crackdown",
       "Assam is rocking, best is yet to come: Himanta gives Guns N' Roses twist to state's achievements",
       "'Done deal': CM Himanta Biswa Sarma on NDA seat-sharing for Assam polls"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
-    "Code": "OD",
-    "Lat": 20.9517,
-    "Long": 85.0985,
-    "State": "Odisha",
-    "news_count": 5,
-    "headlines": [
-      "Odisha government orders inquiry into foreign visits by former CM Naveen Patnaik, aide Pandian",
-      "Odisha woman pawns mangalsutra to fund husband’s killing by lover, 3 arrested",
-      "Odisha steps up flood preparedness as Cyclone Akvan weakens",
-      "Cyclone Akvan: IMD forecasts rain in West Bengal on Sunday",
-      "HT Evening News Brief Nov 20: Cyclone Akvan crosses Odisha coast, Pakistan minister in India for SCO and more"
-    ],
-    "last_updated": "2026-11-22 12:03:24 AM"
-  },
-  {
-    "Code": "HR",
-    "Lat": 29.0588,
-    "Long": 76.0856,
-    "State": "Haryana",
+    "Code": "AP",
+    "Lat": 15.9129,
+    "Long": 79.74,
+    "State": "Andhra Pradesh",
     "news_count": 4,
     "headlines": [
-      "Delhi To Karnal In 90 Minutes: How Rs 33,051-Crore Namo Bharat Corridor Will Transform Connectivity",
-      "Haryana GST Officer Arrested For Bribery, Assets Worth Rs 1.86 Crore Seized",
-      "14-year-old used AI chatbot to hack Agniveer test website to earn money: Sources",
-      "Delhi Police nabs 14-year-old Haryana boy trying to sell data of Agniveers on dark web for  ₹47,000"
+      "TDP defends venue choice for Vijayawada Mayor swearing-in, slams YSRCP for making it an issue",
+      "TDP making derogatory remarks against YSRCP’s Srikakulam mayoral candidate: Dharmana",
+      "Four killed, newlywed couple injured as car plunges into canal in Andhra Pradesh: Police",
+      "Indian billionaire PV Krishna Reddy raises $720 million in private credit for Megha buyout"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
+  },
+  {
+    "Code": "RJ",
+    "Lat": 27.0238,
+    "Long": 74.2179,
+    "State": "Rajasthan",
+    "news_count": 4,
+    "headlines": [
+      "RLP’s emergence as strong third force in Rajasthan panchayat polls sends new signals",
+      "‘BJP wiped out’: Congress claims sweep in Rajasthan Panchayat Polls, demands Bhajanlal Sharma’s resignation",
+      "Congress sweeps Rajasthan panchayat polls, BJP suffers setbacks",
+      "Prince William announces 5-year accident coverage for 10,000 wildlife rangers across 7 Indian states"
+    ],
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "TG",
@@ -212,12 +198,12 @@
     "State": "Telangana",
     "news_count": 4,
     "headlines": [
+      "Deepathoon row: State govt. consulting experts on filing review petition, says Minister",
       "TGSPDCL sub-engineer caught taking ₹30,000 bribe in Hyderabad",
-      "Hyderabad gears up for Pulse Polio drive on November 22, targets 5.22 lakh children",
       "USFDA issues 7 observations to NATCO Pharma's Hyderabad facility",
       "Australian DigiTech Mission explores tech partnerships in Hyderabad"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "UT",
@@ -231,7 +217,35 @@
       "EXCLUSIVE: Sanjay Kapoor, Prashant Narayanan and Esther Anil to star in crime thriller UNEXPECTED – SAFED SACH, first-look poster unveiled",
       "Tabu joins Tunnel Men, YRF Entertainment's Netflix series inspired by the spirit of the 2023 Uttarakhand tunnel rescue"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
+  },
+  {
+    "Code": "KL",
+    "Lat": 10.8505,
+    "Long": 76.2711,
+    "State": "Kerala",
+    "news_count": 4,
+    "headlines": [
+      "Boy, 4, Crushed To Death By Machine, Kerala Factory Ordered Shut",
+      "Kannada writer Ravi Hanj tracked to Kochi airport, served notice to appear for probe amid Basava Mantapa book controversy",
+      "Parel Marian Pilgrimage Centre in Keralam’s Kottayam declared basilica amid large gathering",
+      "Prince William announces 5-year accident coverage for 10,000 wildlife rangers across 7 Indian states"
+    ],
+    "last_updated": "2026-11-22 05:09:00 AM"
+  },
+  {
+    "Code": "KA",
+    "Lat": 15.3173,
+    "Long": 75.7139,
+    "State": "Karnataka",
+    "news_count": 4,
+    "headlines": [
+      "Raichur is a treasure trove of Kannada literature, says Rajappa Dalawai",
+      "Dharwad to host State-level 10K cross-country run on Nov. 29",
+      "'Bike taxis safer for young girls': Supreme Court allows ops to continue in Karnataka",
+      "Karnataka to take final call on bike taxis after Advocate General’s opinion"
+    ],
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "AR",
@@ -240,37 +254,24 @@
     "State": "Arunachal Pradesh",
     "news_count": 3,
     "headlines": [
-      "Siang mega dam issue will be addressed through dialogue: Amit Shah",
+      "Amit Shah backs Siang dam in Arunachal Pradesh, promises dialogue with protesters",
       "Amit Shah reaches out to Siang dam protesters in Arunachal, says concerns will be resolved through dialogue",
       "Two Arunachal organisations urge Union Home Minister Amit Shah to scrap Siang mega dam project"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
-    "Code": "PB",
-    "Lat": 31.1471,
-    "Long": 75.3412,
-    "State": "Punjab",
+    "Code": "WB",
+    "Lat": 22.9868,
+    "Long": 87.855,
+    "State": "West Bengal",
     "news_count": 3,
     "headlines": [
-      "Jailed Punjab MP Amritpal Singh Attends Grandmother's Cremation In Punjab",
-      "After UP, Religious Leader Dhirendra Shastri Brings Poll Heat To Punjab",
-      "Jailed MP Amritpal Singh's party says his visit boost ahead of Punjab polls, hopes he gets parole for campaigning"
+      "West Bengal government to appoint coordinators for all 209 wards in Kolkata: Union Minister Sukanta Majumdar",
+      "Cyclone Akvan: IMD forecasts rain in West Bengal on Sunday",
+      "Adani Energy Solutions bags 2,500 MW renewable power supply contract from West Bengal discom"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
-  },
-  {
-    "Code": "RJ",
-    "Lat": 27.0238,
-    "Long": 74.2179,
-    "State": "Rajasthan",
-    "news_count": 3,
-    "headlines": [
-      "‘BJP wiped out’: Congress claims sweep in Rajasthan Panchayat Polls, demands Bhajanlal Sharma’s resignation",
-      "Congress sweeps Rajasthan panchayat polls, BJP suffers setbacks",
-      "Prince William announces 5-year accident coverage for 10,000 wildlife rangers across 7 Indian states"
-    ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "GA",
@@ -283,7 +284,20 @@
       "Goa gets its first Blue Flag beaches as Mandrem, Galgibaga join 22 others in India",
       "IFFI 2026 FULL schedule REVEALED: Panchayat Season 5, Netflix's Pushpak Vimaan to premiere; Dhurandhar team to face audience questions; Hollywood cult classic Back To The Future to be screened on Goa's beaches"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
+  },
+  {
+    "Code": "HR",
+    "Lat": 29.0588,
+    "Long": 76.0856,
+    "State": "Haryana",
+    "news_count": 3,
+    "headlines": [
+      "Delhi To Karnal In 90 Minutes: How Rs 33,051-Crore Namo Bharat Corridor Will Transform Connectivity",
+      "14-year-old used AI chatbot to hack Agniveer test website to earn money: Sources",
+      "Delhi Police nabs 14-year-old Haryana boy trying to sell data of Agniveers on dark web for  ₹47,000"
+    ],
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "MN",
@@ -296,7 +310,7 @@
       "Manipur hooch deaths: Rahul Gandhi blames negligence of BJP government",
       "15 people die in three days in Manipur, police suspect spurious alcohol consumption"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "JK",
@@ -309,31 +323,7 @@
       "'No local terrorist in Kashmir anymore': Amit Shah reiterates days after LeT's Lateef Bhat killed",
       "NCB busts Delhi-Kashmir drug network; seizes half-a-million capsules, cough syrup bottles"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
-  },
-  {
-    "Code": "TN",
-    "Lat": 11.1271,
-    "Long": 78.6569,
-    "State": "Tamil Nadu",
-    "news_count": 2,
-    "headlines": [
-      "US naval vessel arrives at Kattupalli shipyard near Chennai for repairs",
-      "Treks with a dash of heritage, culture and history"
-    ],
-    "last_updated": "2026-11-22 12:03:24 AM"
-  },
-  {
-    "Code": "WB",
-    "Lat": 22.9868,
-    "Long": 87.855,
-    "State": "West Bengal",
-    "news_count": 2,
-    "headlines": [
-      "Cyclone Akvan: IMD forecasts rain in West Bengal on Sunday",
-      "Adani Energy Solutions bags 2,500 MW renewable power supply contract from West Bengal discom"
-    ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "LA",
@@ -342,10 +332,22 @@
     "State": "Ladakh",
     "news_count": 2,
     "headlines": [
-      "'India not a rogue state': Wangchuk says 'house arrest' lifted after court hearing",
+      "Ladakh records 70% voting in panchayat polls, 52% in municpal elections",
       "Ladakh records 70% turnout in first panchayat polls since Union Territory formation"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
+  },
+  {
+    "Code": "PB",
+    "Lat": 31.1471,
+    "Long": 75.3412,
+    "State": "Punjab",
+    "news_count": 2,
+    "headlines": [
+      "4 Arrested, Stolen SUV Recovered Days After Gunpoint Robbery In Punjab's Pathankot",
+      "Jailed MP Amritpal Singh's party says his visit boost ahead of Punjab polls, hopes he gets parole for campaigning"
+    ],
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "HP",
@@ -356,7 +358,7 @@
     "headlines": [
       "New Industrial Act approved: Mandatory 80% local employment in HP industries"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "CT",
@@ -367,7 +369,7 @@
     "headlines": [
       "Sonu Nigam turns his Raipur-Mumbai flight into a live concert after passengers sing his hits"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "ML",
@@ -378,7 +380,7 @@
     "headlines": [
       "John Abraham makes a STRONG appeal to tourists visiting Meghalaya: “For heaven’s sake, DON’T dirty the place!”; reveals that the North-Eastern state will soon have India’s BIGGEST football stadium"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   },
   {
     "Code": "TR",
@@ -389,6 +391,6 @@
     "headlines": [
       "MHA sanctions more Central forces for Tripura municipal elections"
     ],
-    "last_updated": "2026-11-22 12:03:24 AM"
+    "last_updated": "2026-11-22 05:09:00 AM"
   }
 ]
